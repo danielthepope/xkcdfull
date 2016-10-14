@@ -3,18 +3,23 @@ const http = require('http');
 const cheerio = require('cheerio');
 
 app.get('/', function (req, res) {
-  xkcdImage('', function (url) {
-    res.send(buildResponse(url));
+  randomImage(function (url) {
+    var number = url.match(/\d+/)[0];
+    xkcdImage(number, function(imageUrl) {
+      res.send(buildResponse(imageUrl));
+    });
   });
 });
 
-app.get('/random', function (req, res) {
-  res.send("I have no idea what I'm doing");
+app.get('/latest', function (req, res) {
+  xkcdImage('', function (imageUrl) {
+    res.send(buildResponse(imageUrl));
+  });
 });
 
 app.get('/:comic(\\d+)', function (req, res) {
-  xkcdImage(req.params.comic + '/', function (url) {
-    res.send(buildResponse(url));
+  xkcdImage(req.params.comic, function (imageUrl) {
+    res.send(buildResponse(imageUrl));
   });
 });
 
@@ -22,11 +27,24 @@ app.listen(3000, function () {
   console.log('Example app listening on port 3000!');
 });
 
+function randomImage(callback) {
+  var options = {
+    hostname: "c.xkcd.com",
+    path: `/random/comic/`,
+    port: 80
+  };
+  http.get(options, function (result) {
+    var location = result.headers.location;
+    console.log(`Location ${location}`);
+    callback(location);
+  })
+}
+
 
 function xkcdImage(comic, callback) {
   var options = {
     hostname: "xkcd.com",
-    path: `/${comic}`,
+    path: `/${comic}/`,
     port: 80
   };
   http.get(options, function (result) {
@@ -38,21 +56,16 @@ function xkcdImage(comic, callback) {
     var tagsCount = {};
     var tagsWithCount = [];
     result.on("end", function (chunk) {
-      let $ = cheerio.load(data)
-      var comicUrl = $('#comic img').first().attr('src')//.html()//.attr('src');
+      let $ = cheerio.load(data);
+      var comicUrl = $('#comic img').first().attr('src');
       console.log(comicUrl);
       callback(comicUrl);
     });
   }).on('error', function (e) {
     console.log({ message: e.message });
-    callback("some error happened :(")
+    callback("some error happened :(");
   });
-  // callback(`I might have got the comic`);
 }
-
-// parser.parse('<p>I am a very small HTML document</p>');
-
-// console.log(document.getElementsByTagName("p")[0].innerHTML);
 
 function buildResponse(url) {
   return `
