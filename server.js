@@ -1,4 +1,5 @@
 const app = require('express')();
+const extend = require('extend');
 const http = require('http');
 const cheerio = require('cheerio');
 const exphbs = require('express-handlebars');
@@ -42,7 +43,7 @@ app.get('/rotate', function (req, res) {
   const cached = cache.get('random');
   if (cached) {
     console.log('returning cached ' + cached.imageUrl);
-    return res.render('index', cached);
+    return res.render('index', extend({rotate:true}, cached));
   }
   randomImage(function (url) {
     const number = url.match(/\d+/)[0];
