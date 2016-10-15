@@ -23,6 +23,17 @@ app.get('/latest', function (req, res) {
   });
 });
 
+app.get('/rotate', function (req, res) {
+  randomImage(function (url) {
+    const number = url.match(/\d+/)[0];
+    xkcdImage(number, function(err, data) {
+      if (err) return res.send("some error happened.");
+      data.rotate = true;
+      res.render('index', data);
+    });
+  });
+});
+
 app.get('/:comic(\\d+)', function (req, res) {
   xkcdImage(req.params.comic, function (err, data) {
     if (err) return res.send("some error happened.");
