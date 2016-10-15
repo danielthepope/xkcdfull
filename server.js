@@ -1,25 +1,32 @@
 const app = require('express')();
 const http = require('http');
 const cheerio = require('cheerio');
+const exphbs = require('express-handlebars');
+
+app.engine('handlebars', exphbs({defaultLayout: 'main'}));
+app.set('view engine', 'handlebars');
 
 app.get('/', function (req, res) {
   randomImage(function (url) {
-    var number = url.match(/\d+/)[0];
-    xkcdImage(number, function(imageUrl) {
-      res.send(buildResponse(imageUrl));
+    const number = url.match(/\d+/)[0];
+    xkcdImage(number, function(err, data) {
+      if (err) return res.send("some error happened.");
+      res.render('index', data);
     });
   });
 });
 
 app.get('/latest', function (req, res) {
-  xkcdImage('', function (imageUrl) {
-    res.send(buildResponse(imageUrl));
+  xkcdImage('', function (err, data) {
+    if (err) return res.send("some error happened.");
+    res.render('index', data);
   });
 });
 
 app.get('/:comic(\\d+)', function (req, res) {
-  xkcdImage(req.params.comic, function (imageUrl) {
-    res.send(buildResponse(imageUrl));
+  xkcdImage(req.params.comic, function (err, data) {
+    if (err) return res.send("some error happened.");
+    res.render('index', data);
   });
 });
 
@@ -28,13 +35,13 @@ app.listen(3000, function () {
 });
 
 function randomImage(callback) {
-  var options = {
+  const options = {
     hostname: "c.xkcd.com",
     path: `/random/comic/`,
     port: 80
   };
   http.get(options, function (result) {
-    var location = result.headers.location;
+    const location = result.headers.location;
     console.log(`Location ${location}`);
     callback(location);
   })
@@ -42,7 +49,7 @@ function randomImage(callback) {
 
 
 function xkcdImage(comic, callback) {
-  var options = {
+  const options = {
     hostname: "xkcd.com",
     path: `/${comic}/`,
     port: 80
@@ -52,14 +59,17 @@ function xkcdImage(comic, callback) {
     result.on("data", function (chunk) {
       data += chunk;
     });
-    var tags = [];
-    var tagsCount = {};
-    var tagsWithCount = [];
     result.on("end", function (chunk) {
       let $ = cheerio.load(data);
-      var comicUrl = $('#comic img').first().attr('src');
-      console.log(comicUrl);
-      callback(comicUrl);
+      var output = {
+        imageUrl: $('#comic img').first().attr('src'),
+        altText: $('#comic img').first().attr('title'),
+        xkcdUrl: `http://xkcd.com/${comic}/`,
+        comicNumber: comic,
+        comicName: $('#ctitle').text()
+      }
+      console.log(output.imageUrl);
+      callback(null, output);
     });
   }).on('error', function (e) {
     console.log({ message: e.message });
@@ -67,28 +77,6 @@ function xkcdImage(comic, callback) {
   });
 }
 
-function buildResponse(url) {
-  return `
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-html, body {
-  margin: 0;
-  height: 100%;
-}
-#comic {
-  background-image: url('${url}');
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: contain;
-  width:100%;
-  min-height:100%;
-}
-</style>
-<body>
-<div id="comic"></div>
-</body>
-</html>
-`
-}
+/* bad ones
+1608
+*/
