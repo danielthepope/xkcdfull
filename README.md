@@ -6,9 +6,11 @@ Where I work, we have some TV screens that show things like the status of builds
 This site enlarges the comics so that they fit to the screen.
 
 ## Paths
-- `/`: Picks a random xkcd comic
-- `/latest`: Displays the most recent comic
-- `/149` (or any other number): Displays the specified comic.
+- [/](http://xkcd.danielthepope.co.uk/): Picks a random xkcd comic
+- [/latest](http://xkcd.danielthepope.co.uk/latest): Displays the most recent comic
+- [/149](http://xkcd.danielthepope.co.uk/149) (or any other number): Displays the specified comic
+- [/rotate](http://xkcd.danielthepope.co.uk/rotate): Automatically refreshes every minute
+- [/imageonly](http://xkcd.danielthepope.co.uk/imageonly): Just the image; no text (and no flexbox)
 
 ## Run your own server
 ```

@@ -56,6 +56,23 @@ app.get('/rotate', function (req, res) {
   });
 });
 
+app.get('/imageonly', function (req, res) {
+  const cached = cache.get('random');
+  if (cached) {
+    console.log('returning cached ' + cached.imageUrl);
+    return res.render('imageonly', cached);
+  }
+  randomImage(function (url) {
+    const number = url.match(/\d+/)[0];
+    xkcdImage(number, function(err, data) {
+      if (err) return res.send("some error happened.");
+      cache.set('random', data, 10);
+      cache.set(number, data, 3600);
+      res.render('imageonly', data);
+    });
+  });
+});
+
 app.get('/:comic(\\d+)', function (req, res) {
   const number = req.params.comic;
   const cached = cache.get(number);
