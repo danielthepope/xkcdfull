@@ -5,6 +5,7 @@ const cheerio = require('cheerio');
 const exphbs = require('express-handlebars');
 const NodeCache = require('node-cache');
 const cache = new NodeCache({stdTTL: 60, checkperiod: 100});
+const port = process.env.PORT || 3000;
 
 app.engine('handlebars', exphbs({defaultLayout: 'main'}));
 app.set('view engine', 'handlebars');
@@ -87,8 +88,8 @@ app.get('/:comic(\\d+)', function (req, res) {
   });
 });
 
-app.listen(3000, function () {
-  console.log('Example app listening on port 3000!');
+app.listen(port, function () {
+  console.log(`Example app listening on port ${port}!`);
 });
 
 function randomImage(callback) {
