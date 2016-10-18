@@ -1,23 +1,23 @@
-const app = require('express')();
-const extend = require('extend');
-const http = require('http');
-const cheerio = require('cheerio');
-const exphbs = require('express-handlebars');
-const NodeCache = require('node-cache');
-const cache = new NodeCache({stdTTL: 60, checkperiod: 100});
-const port = process.env.PORT || 3000;
+var app = require('express')();
+var extend = require('extend');
+var http = require('http');
+var cheerio = require('cheerio');
+var exphbs = require('express-handlebars');
+var NodeCache = require('node-cache');
+var cache = new NodeCache({stdTTL: 60, checkperiod: 100});
+var port = process.env.PORT || 3000;
 
 app.engine('handlebars', exphbs({defaultLayout: 'main'}));
 app.set('view engine', 'handlebars');
 
 app.get('/', function (req, res) {
-  const cached = cache.get('random');
+  var cached = cache.get('random');
   if (cached) {
     console.log('returning cached ' + cached.imageUrl);
     return res.render('index', cached);
   }
   randomImage(function (url) {
-    const number = url.match(/\d+/)[0];
+    var number = url.match(/\d+/)[0];
     xkcdImage(number, function(err, data) {
       if (err) return res.send("some error happened.");
       cache.set('random', data, 10);
@@ -28,7 +28,7 @@ app.get('/', function (req, res) {
 });
 
 app.get('/latest', function (req, res) {
-  const cached = cache.get('latest');
+  var cached = cache.get('latest');
   if (cached) {
     console.log('returning cached ' + cached.imageUrl);
     return res.render('index', cached);
@@ -41,13 +41,13 @@ app.get('/latest', function (req, res) {
 });
 
 app.get('/rotate', function (req, res) {
-  const cached = cache.get('random');
+  var cached = cache.get('random');
   if (cached) {
     console.log('returning cached ' + cached.imageUrl);
     return res.render('index', extend({rotate:true}, cached));
   }
   randomImage(function (url) {
-    const number = url.match(/\d+/)[0];
+    var number = url.match(/\d+/)[0];
     xkcdImage(number, function(err, data) {
       if (err) return res.send("some error happened.");
       cache.set('random', data, 10);
@@ -58,13 +58,13 @@ app.get('/rotate', function (req, res) {
 });
 
 app.get('/imageonly', function (req, res) {
-  const cached = cache.get('random');
+  var cached = cache.get('random');
   if (cached) {
     console.log('returning cached ' + cached.imageUrl);
     return res.render('imageonly', cached);
   }
   randomImage(function (url) {
-    const number = url.match(/\d+/)[0];
+    var number = url.match(/\d+/)[0];
     xkcdImage(number, function(err, data) {
       if (err) return res.send("some error happened.");
       cache.set('random', data, 10);
@@ -75,8 +75,8 @@ app.get('/imageonly', function (req, res) {
 });
 
 app.get('/:comic(\\d+)', function (req, res) {
-  const number = req.params.comic;
-  const cached = cache.get(number);
+  var number = req.params.comic;
+  var cached = cache.get(number);
   if (cached) {
     console.log('returning cached ' + cached.imageUrl);
     return res.render('index', cached);
@@ -89,27 +89,27 @@ app.get('/:comic(\\d+)', function (req, res) {
 });
 
 app.listen(port, function () {
-  console.log(`Example app listening on port ${port}!`);
+  console.log('xkcd-full running on port ' + port);
 });
 
 function randomImage(callback) {
-  const options = {
+  var options = {
     hostname: "c.xkcd.com",
-    path: `/random/comic/`,
+    path: '/random/comic/',
     port: 80
   };
   http.get(options, function (result) {
-    const location = result.headers.location;
-    console.log(`Location ${location}`);
+    var location = result.headers.location;
+    console.log('Location ' + location);
     callback(location);
   })
 }
 
 
 function xkcdImage(comic, callback) {
-  const options = {
+  var options = {
     hostname: "xkcd.com",
-    path: `/${comic}/`,
+    path: '/' + comic + '/',
     port: 80
   };
   http.get(options, function (result) {
@@ -118,11 +118,11 @@ function xkcdImage(comic, callback) {
       data += chunk;
     });
     result.on("end", function (chunk) {
-      let $ = cheerio.load(data);
+      var $ = cheerio.load(data);
       var output = {
         imageUrl: $('#comic img').first().attr('src'),
         altText: $('#comic img').first().attr('title'),
-        xkcdUrl: `http://xkcd.com/${comic}/`,
+        xkcdUrl: 'http://xkcd.com/' + comic + '/',
         comicNumber: comic,
         comicName: $('#ctitle').text()
       }

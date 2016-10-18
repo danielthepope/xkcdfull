@@ -17,4 +17,4 @@ This site enlarges the comics so that they fit to the screen.
 npm install
 npm start
 ```
-Runs on port 3000, because I hard coded it, because this is a dirty hack.
+Runs on the port specified by the PORT environment variable, or if not set, it defaults to 3000.
