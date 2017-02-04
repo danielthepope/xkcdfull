@@ -1,6 +1,6 @@
 var app = require('express')();
 var extend = require('extend');
-var http = require('http');
+var https = require('https');
 var cheerio = require('cheerio');
 var exphbs = require('express-handlebars');
 var NodeCache = require('node-cache');
@@ -70,9 +70,9 @@ function randomImageNumber(callback) {
   var options = {
     hostname: 'c.xkcd.com',
     path: '/random/comic/',
-    port: 80
+    port: 443
   };
-  http.get(options, function (result) {
+  https.get(options, function (result) {
     var location = result.headers.location;
     console.log('Location ' + location);
     callback(location.match(/\d+/)[0]);
@@ -83,9 +83,9 @@ function xkcdImage(comic, callback) {
   var options = {
     hostname: 'xkcd.com',
     path: '/' + comic + '/',
-    port: 80
+    port: 443
   };
-  http.get(options, function (result) {
+  https.get(options, function (result) {
     var data = '';
     result.on('data', function (chunk) {
       data += chunk;
@@ -95,7 +95,7 @@ function xkcdImage(comic, callback) {
       var output = {
         imageUrl: $('#comic img').first().attr('src'),
         altText: $('#comic img').first().attr('title'),
-        xkcdUrl: 'http://xkcd.com/' + comic + '/',
+        xkcdUrl: 'https://xkcd.com/' + comic + '/',
         comicNumber: comic,
         comicName: $('#ctitle').text()
       }
