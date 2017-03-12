@@ -76,6 +76,9 @@ function randomImageNumber(callback) {
     var location = result.headers.location;
     console.log('Location ' + location);
     callback(location.match(/\d+/)[0]);
+  }).on('error', function (e) {
+    console.log({ message: e.message, });
+    callback('221');
   })
 }
 
