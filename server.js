@@ -44,13 +44,13 @@ app.get('/:comic(\\d+)', function (req, res) {
 });
 
 app.listen(port, function () {
-  console.log('xkcd-full running on port ' + port);
+  log('xkcd-full running on port ' + port);
 });
 
 function renderFromCache(key, res, page, options) {
   var cached = cache.get(key);
   if (cached) {
-    console.log('returning cached ' + cached.imageUrl);
+    log('returning cached ' + cached.imageUrl);
     res.render(page, extend(options, cached));
   }
   return !!cached;
@@ -74,10 +74,11 @@ function randomImageNumber(callback) {
   };
   https.get(options, function (result) {
     var location = result.headers.location;
-    console.log('Location ' + location);
-    callback(location.match(/\d+/)[0]);
+    log('Location ' + location);
+    if (!location) callback('221');
+    else callback(location.match(/\d+/)[0]);
   }).on('error', function (e) {
-    console.log({ message: e.message, });
+    log({ message: e.message, });
     callback('221');
   })
 }
@@ -102,13 +103,17 @@ function xkcdImage(comic, callback) {
         comicNumber: comic,
         comicName: $('#ctitle').text()
       }
-      console.log(output.imageUrl);
+      log(output.imageUrl);
       callback(null, output);
     });
   }).on('error', function (e) {
-    console.log({ message: e.message });
+    log({ message: e.message });
     callback('some error happened :(');
   });
+}
+
+function log(message) {
+  console.log(new Date().toISOString() + " " + message);
 }
 
 /* bad ones
