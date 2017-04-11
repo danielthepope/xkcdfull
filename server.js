@@ -18,6 +18,10 @@ app.get('/', function (req, res) {
   }
 });
 
+app.get('/test', function (req, res) {
+  res.render('testlayout');
+});
+
 app.get('/latest', function (req, res) {
   renderFromCache('latest', res, 'index') || renderXkcdImageAndCache(res, '', 'index', 'latest');
 });

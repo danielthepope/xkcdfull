@@ -7,28 +7,11 @@
   <style>
     html,
     body {
+      background-color: white;
       margin: 0;
       height: 100%;
       width: 100%;
-    }
-
-    #container {
-      height: 100%;
-      width: 100%;
-
-    }
-
-    #header {
-      text-align: center;
-    }
-
-    #comic {
-      display: block;
-      background-repeat: no-repeat;
-      background-position: center center;
-      background-size: contain;
-      width: 100%;
-      height: 70%;
+      font-family: sans-serif;
     }
 
     #comic-full {
@@ -39,9 +22,35 @@
       min-height: 100%;
     }
 
-    #footer {
+    #container {
+      height: 100%;
+      width: 100%;
+      display: table;
+    }
+
+    h1,
+    p {
+      margin: 0;
+    }
+
+    #header,
+    #footer,
+    #comic {
+      display: table-row;
       text-align: center;
-      background-color: white;
+      width: 100%;
+    }
+
+    .align-bottom {
+      display: table-cell;
+      vertical-align: bottom;
+    }
+
+    #comic {
+      background-repeat: no-repeat;
+      background-position: center center;
+      background-size: contain;
+      height: 100%;
     }
   </style>
 </head>
