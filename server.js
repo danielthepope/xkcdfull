@@ -1,4 +1,5 @@
-var app = require('express')();
+var express = require('express');
+var app = express();
 var extend = require('extend');
 var https = require('https');
 var cheerio = require('cheerio');
@@ -50,6 +51,7 @@ app.get('/:comic(\\d+)', function (req, res) {
 app.listen(port, function () {
   log('xkcd-full running on port ' + port);
 });
+app.use(express.static('public'));
 
 function renderFromCache(key, res, page, options) {
   var cached = cache.get(key);
