@@ -11,9 +11,13 @@ app.engine('handlebars', exphbs({defaultLayout: 'main'}));
 app.set('view engine', 'handlebars');
 
 app.get('/', function (req, res) {
-  if (!renderFromCache('random', res, 'index')) {
+  var page = 'index';
+  var rotate = false;
+  if(req.query.full !== undefined) page = 'imageonly';
+  if(req.query.rotate !== undefined) rotate = true;
+  if (!renderFromCache('random', res, page, {rotate: rotate})) {
     randomImageNumber(function (number) {
-      renderXkcdImageAndCache(res, number, 'index', 'random');
+      renderXkcdImageAndCache(res, number, page, 'random', {rotate: rotate});
     });
   }
 });
@@ -23,15 +27,9 @@ app.get('/test', function (req, res) {
 });
 
 app.get('/latest', function (req, res) {
-  renderFromCache('latest', res, 'index') || renderXkcdImageAndCache(res, '', 'index', 'latest');
-});
-
-app.get('/rotate', function (req, res) {
-  if (!renderFromCache('random', res, 'index', {rotate:true})) {
-    randomImageNumber(function (number) {
-      renderXkcdImageAndCache(res, number, 'index', 'random', {rotate:true});
-    });
-  }
+  var page = 'index';
+  if(req.query.full !== undefined) page = 'imageonly';
+  renderFromCache('latest', res, page) || renderXkcdImageAndCache(res, '', page, 'latest');
 });
 
 app.get('/imageonly', function (req, res) {
@@ -43,8 +41,10 @@ app.get('/imageonly', function (req, res) {
 });
 
 app.get('/:comic(\\d+)', function (req, res) {
+  var page = 'index';
+  if(req.query.full !== undefined) page = 'imageonly';
   var number = req.params.comic;
-  renderFromCache(number, res, 'index') || renderXkcdImageAndCache(res, number, 'index');
+  renderFromCache(number, res, page) || renderXkcdImageAndCache(res, number, page);
 });
 
 app.listen(port, function () {

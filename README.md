@@ -5,12 +5,13 @@ Where I work, we have some TV screens that show things like the status of builds
 
 This site enlarges the comics so that they fit to the screen.
 
-## Paths
-- [/](http://xkcd.danielthepope.co.uk/): Picks a random xkcd comic
-- [/latest](http://xkcd.danielthepope.co.uk/latest): Displays the most recent comic
-- [/149](http://xkcd.danielthepope.co.uk/149) (or any other number): Displays the specified comic
-- [/rotate](http://xkcd.danielthepope.co.uk/rotate): Automatically refreshes every minute
-- [/imageonly](http://xkcd.danielthepope.co.uk/imageonly): Just the image; no text (and no flexbox)
+## Endpoints
+- [/](http://xkcd.danielthepope.co.uk/): Picks a random xkcd comic. Add `?rotate` to get a new comic every minute.
+- [/latest](http://xkcd.danielthepope.co.uk/latest): Displays the most recent comic.
+- [/149](http://xkcd.danielthepope.co.uk/149) (or any other number): Displays the specified comic.
+- ~~[/imageonly](http://xkcd.danielthepope.co.uk/imageonly): Just the image; no text~~ (this endpoint will be removed soon)
+
+You can add `?full` to all endpoints to display the comics without text.
 
 ## Run your own server
 ```
