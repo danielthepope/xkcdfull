@@ -33,14 +33,6 @@ app.get('/latest', function (req, res) {
   renderFromCache('latest', res, page) || renderXkcdImageAndCache(res, '', page, 'latest');
 });
 
-app.get('/imageonly', function (req, res) {
-  if (!renderFromCache('random', res, 'imageonly')) {
-    randomImageNumber(function (number) {
-      renderXkcdImageAndCache(res, number, 'imageonly', 'random');
-    });
-  }
-});
-
 app.get('/:comic(\\d+)', function (req, res) {
   var page = 'index';
   if(req.query.full !== undefined) page = 'imageonly';
