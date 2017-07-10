@@ -8,6 +8,8 @@ var NodeCache = require('node-cache');
 var cache = new NodeCache({stdTTL: 60, checkperiod: 100});
 var port = process.env.PORT || 3000;
 
+var log = require('./log');
+
 app.engine('handlebars', exphbs({defaultLayout: 'main'}));
 app.set('view engine', 'handlebars');
 
@@ -48,7 +50,7 @@ app.use(express.static('public'));
 function renderFromCache(key, res, page, options) {
   var cached = cache.get(key);
   if (cached) {
-    log('returning cached ' + cached.imageUrl);
+    log('returning cached ' + cached.img);
     res.render(page, extend(options, cached));
   }
   return !!cached;
@@ -95,13 +97,13 @@ function xkcdImage(comic, callback) {
     result.on('end', function (chunk) {
       var $ = cheerio.load(data);
       var output = {
-        imageUrl: $('#comic img').first().attr('src'),
-        altText: $('#comic img').first().attr('title'),
+        img: $('#comic img').first().attr('src'),
+        alt: $('#comic img').first().attr('title'),
         xkcdUrl: 'https://xkcd.com/' + comic + '/',
-        comicNumber: comic,
-        comicName: $('#ctitle').text()
+        num: comic,
+        title: $('#ctitle').text()
       }
-      log(output.imageUrl);
+      log(output.img);
       callback(null, output);
     });
   }).on('error', function (e) {
@@ -109,11 +111,3 @@ function xkcdImage(comic, callback) {
     callback('some error happened :(');
   });
 }
-
-function log(message) {
-  console.log(new Date().toISOString() + " " + message);
-}
-
-/* bad ones
-1608
-*/
