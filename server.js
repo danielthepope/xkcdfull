@@ -39,10 +39,14 @@ app.get('/:comic(\\d+)', function (req, res) {
   renderFromCache(number, res, page) || renderXkcdImageAndCache(res, number, page);
 });
 
-app.listen(port, function () {
-  log(`xkcd-full running on port ${port}`);
-});
 app.use(express.static('public'));
+
+xkcdApi.setup(function(err) {
+  if (err) return log(err);
+  app.listen(port, function () {
+    log(`xkcd-full running on port ${port}`);
+  });
+})
 
 function renderFromCache(key, res, page, options) {
   const cached = cache.get(key);
