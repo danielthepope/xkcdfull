@@ -6,7 +6,7 @@ Where I work, we have some TV screens that show things like the status of builds
 This site enlarges the comics so that they fit to the screen.
 
 ## Endpoints
-- [/](http://xkcd.danielthepope.co.uk/): Picks a random xkcd comic. Add `?rotate` to get a new comic every minute.
+- [/](http://xkcd.danielthepope.co.uk/): Picks a random xkcd comic. Add `?rotate=60` to get a new comic every minute (or however many seconds you want).
 - [/latest](http://xkcd.danielthepope.co.uk/latest): Displays the most recent comic.
 - [/149](http://xkcd.danielthepope.co.uk/149) (or any other number): Displays the specified comic.
 

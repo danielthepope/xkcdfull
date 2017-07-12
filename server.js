@@ -14,7 +14,7 @@ app.get('/', function (req, res) {
   let page = 'index';
   let rotate = false;
   if(req.query.full !== undefined) page = 'imageonly';
-  if(req.query.rotate !== undefined) rotate = true;
+  if(req.query.rotate !== undefined) rotate = parseInt(req.query.rotate) || 60;
   renderComic(res, xkcdApi.randomComicNumber(), page, {rotate: rotate});
 });
 
