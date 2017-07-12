@@ -127,20 +127,12 @@ function randomComicNumber() {
 
 /**
  * Uses the xkcd API to get metadata for a specific comic
- * @param {Number} comicNumber 
- * @param {Function} callback function(error, data), where data is an object.
+ * @param {Number} comicNumber Leave null for latest
  */
-function getComic(comicNumber, callback) {
-  const url = `https://xkcd.com/${comicNumber}/info.0.json`;
-  log(`Calling ${url}`);
-  request(url, function(error, response, body) {
-    if (error) return callback(error);
-    try {
-      return callback(null, JSON.parse(body));
-    } catch (e) {
-      return callback(e);
-    }
-  });
+function getComic(comicNumber) {
+  if (!comicNumber) comicNumber = latest;
+  log(`Returning comic #${comicNumber}`);
+  return comicData[comicNumber];
 }
 
 module.exports = {setup, getComic, randomComicNumber};

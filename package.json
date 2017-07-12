@@ -16,7 +16,6 @@
     "express": "^4.14.0",
     "express-handlebars": "^3.0.0",
     "extend": "^3.0.0",
-    "node-cache": "^4.1.0",
     "node-yaml": "^3.1.0",
     "request": "^2.81.0"
   }
