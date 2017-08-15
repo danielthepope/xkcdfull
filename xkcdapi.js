@@ -45,9 +45,13 @@ function updateInfo(callback) {
   // Get latest comic number
   getLatestComicNumber(function(latestComicNumber) {
     // Get latest comic from info yaml file
+    if (!fs.existsSync(INFO_FILE)) {
+      fs.writeFileSync(INFO_FILE, '', 'utf-8');
+    }
     yaml.read(INFO_FILE, function(yamlErr, data) {
       if (yamlErr) return callback(yamlErr);
-      const latestDownloaded = Object.keys(data).map(num_s => parseInt(num_s)).sort((a,b) => a > b).reverse()[0];
+      if (!data) data = {};
+      const latestDownloaded = Object.keys(data).map(num_s => parseInt(num_s)).sort((a,b) => a > b).reverse()[0] || 0;
       log(`latest is #${latestComicNumber}, latest downloaded is #${latestDownloaded}`);
       if (latestComicNumber > latestDownloaded) {
         // Fetch metadata and transcript for each outstanding comic in turn
