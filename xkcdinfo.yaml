@@ -70,9 +70,9 @@
 
     70: hey, a package!
 
-    [The package explodes in a brown cloud of brown smoke. This panel is both
-    behind the first in the top left corner, and below the last panel, which has
-    been laid on top of that corner:]
+    [The package explodes in a cloud of brown smoke. This panel is both behind
+    the first in the top left corner, and below the last panel, which has been
+    laid on top of that corner:]
 
     BOOM
 
@@ -2585,7 +2585,7 @@
   month: '6'
   day: '9'
   transcript: >+
-    [A z=fn(x, y) plot, with pointy spikes on the back sloping to a relatively
+    [A z = fn(x, y) plot, with pointy spikes on the back sloping to a relatively
     flat front.]
 
     You are like the prime numbers. Unpredictable turns, unconstrainable.
@@ -5916,14 +5916,14 @@
   month: '1'
   day: '31'
   transcript: >
-    Cueball: Hey, check it out: e^pi-pi is 19.999099979. That's weird.
+    Cueball: Hey, check it out: eπ − π is 19.999099979. That's weird.
 
     Black Hat: Yeah. That's how I got kicked out of the ACM in college.
 
     Cueball: ...what?
 
-    Black Hat: During a competition, I told the programmers on our team that
-    e^pi-pi was a standard test of floating-point handlers--it would come out to
+    Black Hat: During a competition, I told the programmers on our team that eπ
+    − π was a standard test of floating-point handlers -- it would come out to
     20 unless they had rounding errors.
 
     Cueball: That's awful.
@@ -6258,9 +6258,9 @@
   day: '28'
   transcript: >
     [Cueball sits on a toilet in a bathroom. The stall sidewall next to him is
-    covered in graffiti: 'you suck', 'Mike sucks cock', 'CUNT', 'dane was here'
-    struck through and 'dane is a fag' written under it, a crude pictogram of a
-    penis, and various other unreadable scribbles.]
+    covered in graffiti: 'you suck', 'Mike sucks cock', 'CUNT', 'fuck',
+    'BITCHAS', 'dane was here' struck through and 'dane is a fag' written under
+    it, a crude pictogram of a penis, and various other unreadable scribbles.]
 
     [One block of graffiti is salient:]
 
@@ -19322,7 +19322,9 @@
 
     [Cueball and Megan, now old and wrinkled, sit together holding hands on
     their porch at the top of a small stair outside their house. He has a sailor
-    cap on and Megan now wears her hair in a bun.]
+    cap on and Megan now wears her hair in a bun. Although the woman looks like
+    Hairbun, and the old man is wearing a sailor cap, we can assume this is
+    still Megan and Cueball given the juxtaposition of the preceding panel.]
 
     [The same setting is depicted but seen from the side of the house. Cueball
     begins walking away from Megan using his cane. He has descended from the
@@ -23533,7 +23535,50 @@
   year: '2009'
   month: '12'
   day: '21'
-  transcript: ''
+  transcript: >
+
+
+    If a researcher says a coolnew technology should beavailable to consumers
+    in...
+
+
+    What they mean is...
+
+
+
+    The fourth quarterof next year
+
+
+    The project will becanceled in six months.
+
+
+
+    Five years
+
+
+    I've solved the interestingresearch problems. The rest isjust business,
+    which is easy, right?
+
+
+
+    Ten years
+
+
+    We haven't finished inventing ityet, but when we do, it'll be awesome.
+
+
+
+    25+ years
+
+
+    It has not been conclusivelyproven impossible.
+
+
+
+    We're not reallylooking at marketapplications right now.
+
+
+    I like being the onlyone with a hovercar.
 '679':
   num: 679
   url: 'https://xkcd.com/679'
@@ -31201,7 +31246,7 @@
   day: '11'
   transcript: >
     [A person with long curly hair is standing to the right of a hanging crocked
-    on the wall behind him. A person speaks from off-panel (a judge om some sort
+    on the wall behind him. A person speaks from off-panel (a judge of some sort
     according to the official transcript). Given the title text there is reason
     to believe the long haired "woman" is indeed a man named Bobby Tables.]
 
@@ -33930,12 +33975,17 @@
   year: '2011'
   month: '10'
   day: '3'
-  transcript: |
-    [Three people stand together singing Christmas carols.]
+  transcript: >
+    [Three people, two the same size, one smaller stand together singing
+    Christmas carols.]
+
     Carolers (in unison): Good king Wenceslas looked out on the— 
+
     [Black Hat leans out of an above ground window.]
+
     Black Hat: King Wenceslas massacred my people.
-    [The carolers stand in silence, one looks at the others.]
+
+    [The carolers stand in silence, the smaller one looks at the others.]
 '960':
   num: 960
   url: 'https://xkcd.com/960'
@@ -38233,7 +38283,7 @@
     Gravitational constant G
 
 
-    1 / e(pi - 1)(pi + 1)
+    1 / e(π - 1)(π + 1)
 
 
     one part in 25,000
@@ -39304,7 +39354,29 @@
   year: '2012'
   month: '6'
   day: '18'
-  transcript: ''
+  transcript: |
+    Just to clear things up:
+    [A chart with four rows and two columns is shown.]
+
+
+    A few
+
+    Anywhere from 2 to 5
+
+
+    A handful
+
+    Anywhere from 2 to 5
+
+
+    Several
+
+    Anywhere from 2 to 5
+
+
+    A couple
+
+    2 (but sometimes up to 5)
 '1071':
   num: 1071
   url: 'https://xkcd.com/1071'
@@ -41349,9 +41421,9 @@
   month: '10'
   day: '22'
   transcript: >
-    [A Cartesian graph labelled 'How often someone declares that they hate
-    "drama" and always avoid it' on the x axis and 'Rate at which they create
-    drama' labelled on the y axis. The graph is a slightly exponential curve
+    [A Cartesian graph labeled 'How often someone declares that they hate
+    "drama" and always avoid it' on the x-axis and 'Rate at which they create
+    drama' labeled on the y-axis. The graph is a slightly exponential curve
     sloping upwards.]
 '1125':
   num: 1125
@@ -41481,7 +41553,7 @@
   day: '31'
   transcript: |
     As with most famous books, I've never actually read Fifty Shades of Grey.
-    I only know the plot from watching the Wishbone version
+    I only know the plot from watching the Wishbone version.
     TV: Bark!
     TV: Bark!
     TV: Smack!
@@ -45481,10 +45553,13 @@
   month: '8'
   day: '12'
   transcript: >
-    [Cueball sits at a desk, using a laptop.]
+    [Caption above the frame:]
 
     The internet is filled with derelict accounts aggregating news about friends
     long forgotten.
+
+    [Cueball sits at a desk, typing on a laptop and the responding text follows
+    as:]
 
     *Click*
 
@@ -45495,6 +45570,8 @@
     Dude, what the hell?
 
     *Click*
+
+    [Caption below the frame:]
 
     When you find yourself drifting away from a community, remember to clean up
     after yourself by slowly unfriending everyone, one by one, in the reverse
@@ -64555,7 +64632,7 @@
     city. Except for the header and the square brackets, which are written in
     black text, the rest is in a blue font.]
 
-    Contents [Hide]
+    Contents [hide]
 
 
 '1666':
@@ -65420,7 +65497,7 @@
 
     [Two normal sized rabbits are sitting left and right of a very small rabbit.
     The smaller rabbit appears to give off a radiant light indicated with gray
-    and white alternating rays going through the image. It is indicated that is
+    and white alternating rays going through the image. It is indicated that it
     shines on the larger rabbits as they are gray on the side turned away from
     the smaller rabbit and white on the front turned towards it. Ponytail
     narrates above the frame of this half sized panel:]
@@ -72362,7 +72439,7 @@
   month: '5'
   day: '29'
   transcript: >
-    [On a black background with many stars is five yellow blocks of text that
+    [On a black background with many stars is five blocks of yellow text that
     recedes towards a black section at the back of the panel. The last block
     cannot be read, but it is (almost) possible to read the second block of text
     at the back. The bottom line of the last text block is cut off through the
@@ -73003,3 +73080,539 @@
     [Caption below the panel:]
 
     Why so many people have weird ideas about Quantum Mechanics
+'1862':
+  num: 1862
+  url: 'https://xkcd.com/1862'
+  title: Particle Properties
+  img: 'https://imgs.xkcd.com/comics/particle_properties.png'
+  alt: "Each particle also has a password which allows its properties to be changed, but the cosmic censorship hypothesis suggests we can never observe the password itselfâ\x80\x94only its secure hash."
+  year: '2017'
+  month: '7'
+  day: '12'
+  transcript: |
+    Particle Properties in Physics
+'1863':
+  num: 1863
+  url: 'https://xkcd.com/1863'
+  title: Screenshots
+  img: 'https://imgs.xkcd.com/comics/screenshots.png'
+  alt: >-
+    For the final exam, you take a screenshot showing off all the work you've
+    done in the class, and it has to survive being uploaded, thumbnailed, and
+    re-screenshotted through a chain of social media sites.
+  year: '2017'
+  month: '7'
+  day: '14'
+  transcript: >
+    Intro to Screenshots
+
+    [The left side of the panel shows three images. The largest image is a
+    screenshot of text with the middle section highlighted and margins and top
+    and bottom rows marked with red lines and arrows. The two smaller images
+    below are cropped versions of the screenshot in the first image: the left
+    image has an incorrect "squashed" aspect ratio and a red X on it, while the
+    right image has a correct aspect ratio and a green check mark.]
+
+    [The right side of the panel:]
+
+    Syllabus
+
+
+    Highlighting: What & how much
+
+    Aspect ratios
+
+    Cropping: Pre- and post-
+
+    Whitespace
+
+    Screenshots vs links
+
+    Catching the right GIF frame
+
+    Snapchat and trust
+
+    Embarrassing background tabs
+
+    Spellcheck's red outlines
+
+    Security: Beware URL tokens
+
+    Redacting personal info
+
+    Useful browser modes
+
+    Tradeoffs: PNG vs JPG
+
+    Watermark ethics
+
+    Spotting fakes
+
+
+    [Caption below the panel:]
+
+    My class on screenshots was a big hit, although for some reason I only ever
+    sold one copy of the digital textbook.
+'1864':
+  num: 1864
+  url: 'https://xkcd.com/1864'
+  title: City Nicknames
+  img: 'https://imgs.xkcd.com/comics/city_nicknames.png'
+  alt: >-
+    This place has so many demonyms. Northlanders. Fair Folk. Honey Barons. Lake
+    Dwellers. Treasurers. Swamp Watchers. Dream Farmers. Wellfolk. Rockeaters.
+    Forgotten Royals. Remote Clients. Barrow-Clerks. The People of Land and Sky.
+  year: '2017'
+  month: '7'
+  day: '17'
+  transcript: >
+    [Black Hat, Megan, and Ponytail are standing on a hill overlooking a city.
+    The Gateway Arch is visible, as well as a number of skyscrapers in the
+    skyline.]
+
+    Black Hat: Ah, New York. The Hot Tamale.
+
+    Megan: This is St. Louis. Also, that's not–
+
+    Black Hat: The Winged City. The Gold Trombone. Castleopolis.
+
+    Megan: It's none of those.
+
+    [Close-up of Black Hat]
+
+    Black Hat: The Kissing Kingdom. Sandland. The High Place. Ol' Ironhook.
+
+    Megan (off-panel): Still wrong.
+
+    Black Hat: The Thousand Spires. The Graveyard of Kings. Bloomtown. Lantern
+    City USA.
+
+    Megan (off-panel): Please stop.
+
+    [Black Hat, Megan, and Ponytail are walking]
+
+    Black Hat: The City of Many Daughters. Big Mauve. The Glass Cradle. The Road
+    Source. London Prime. Hamtown. The Salad Bowl. God's Boudoir. The Glittering
+    Swamp. The Steel Forest. The Mobius Strip. The Land of Trains and Fog. The
+    Meeting Place. The Dark Star. The Walled Garden. Skin City. The Horse
+    Rotary. Turkeytown. The Naked Towers. The Meta-City. The Urban Orb. The City
+    of Angles. The Big Wheel. Bird City USA. The City of Seven Crowns.
+    Hilltopia. Bug City. The Bottomless Cup. [Text size getting smaller] Lorde's
+    Fen. The Last Town. The Empty Set. Ghost Harbor.
+
+    Megan: How long does this last?
+
+    Ponytail: No city has ever let him stay long enough to find out.
+'1865':
+  num: 1865
+  url: 'https://xkcd.com/1865'
+  title: Wifi vs Cellular
+  img: 'https://imgs.xkcd.com/comics/wifi_vs_cellular.png'
+  alt: >-
+    According to the cable company reps who keep calling me, it's because I
+    haven't upgraded to the XTREME GIGABAND PANAMAX FLAVOR-BLASTED PRO PACKAGE
+    WITH HBO, which is only $5 more per month for the first 6 months and five
+    billion dollars per month after that.
+  year: '2017'
+  month: '7'
+  day: '19'
+  transcript: >
+    [A graph with two curves that cross each other. The two areas beneath the
+    curve at the top, and down to either the X-axis or the other curve are
+    shaded with vertical gray lines. The Y-axis has no label, but represents
+    reliability, the X-axis is a timeline, with labels indicating years beneath
+    the axis, without any ticks. The two curves are labeled with text
+    interrupting the curves, in the second case using two lines for the text. In
+    the left shaded area there is a label inside and the right shaded area the
+    label is beneath the curves with an arrow pointing to the area. All this
+    text and the arrow is gray. Above the curves there is a caption also in gray
+    font:]
+
+    To get something to load on my phone, sometimes I have to...
+
+    Label left area: ...Connect to WiFi
+
+    Label right area: ...Turn off WiFi
+
+    Label curve one: Home WiFi reliability
+
+    Label curve two: Cellular data reliability
+
+    Year labels: 2000 2005 2010 2015 2020
+
+    [Caption below the panel:]
+
+    It seems weird from a networking point of view, but sometime in the last few
+    years this flipped for me.
+'1866':
+  num: 1866
+  url: 'https://xkcd.com/1866'
+  title: Russell's Teapot
+  img: 'https://imgs.xkcd.com/comics/russells_teapot.png'
+  alt: >-
+    Unfortunately, NASA regulations state that Bertrand Russell-related payloads
+    can only be launched within launch vehicles which do not launch themselves.
+  year: '2017'
+  month: '7'
+  day: '21'
+  transcript: >
+    [Cueball is standing in front of a blueprint labeled "CubeSat-Based Design",
+    containing a satellite with a teapot in the top.]
+
+    [Caption below the panel:]
+
+    I'm crowdfunding a project to launch a teapot into orbit around the sun to
+    settle the Russell thing once and for all.
+'1867':
+  num: 1867
+  url: 'https://xkcd.com/1867'
+  title: Physics Confession
+  img: 'https://imgs.xkcd.com/comics/physics_confession.png'
+  alt: >-
+    "You know lightning, right? When electric charge builds up in a cloud and
+    then discharges in a giant spark? Ask me why that happens." "Why does tha--"
+    "No clue. We think it's related to the hair thing."
+  year: '2017'
+  month: '7'
+  day: '24'
+  transcript: >
+    [Megan is facing Ponytail and Cueball.]
+
+    Megan: I'll be honest: We physicists talk a big game about the theory of
+    everything, but the truth is, we don't really understand why ice skates
+    work, how sand flows, or where the static charge comes from when you rub
+    your hair with a balloon.
+'1868':
+  num: 1868
+  url: 'https://xkcd.com/1868'
+  title: Eclipse Flights
+  img: 'https://imgs.xkcd.com/comics/eclipse_flights.png'
+  alt: The captain has turned on the 'fasten seat belt' sign.
+  year: '2017'
+  month: '7'
+  day: '26'
+  transcript: >
+    [Cueball is standing behind Megan, looking over her shoulder as she's seated
+    in front of her laptop.]
+
+    Cueball: What's that?
+
+    Megan: Flight plans. Looks like there will be 50 to 100 flights whose route
+    puts them in the path of the eclipse next month.
+
+    [A map with a shaded path of the eclipse and red planes traveling is shown,
+    with some planes inside the path.]
+
+    Cueball: I'm sure the airlines will be prepared. Pilots know that stuff.
+
+    Megan: But can you imagine being on the one flight where the pilot didn't?
+
+    [A more detailed plane is shown flying into a curtain of darkness.]
+
+    Captain: *KSSCHHH* 
+
+    Captain: This is your captain speaking. If you look out the right side of
+    the plane, you'll see, uhh... 
+
+    Captain: Folks, this appears to be the end times.
+'1869':
+  num: 1869
+  url: 'https://xkcd.com/1869'
+  title: Positive and Negative Reviews
+  img: 'https://imgs.xkcd.com/comics/positive_and_negative_reviews.png'
+  alt: >-
+    This restaurant is great! I was feeling really sick, but then I ate there
+    and felt better!
+  year: '2017'
+  month: '7'
+  day: '28'
+  transcript: "[A picture with four small bottles and a larger one is shown. The text to the right reads:]\nSmartQuench 9000\nSports Drink\n20 oz\_\_12-pack\n[Below is a list with reviews; a picture for the user (avatar) and the name below, the rating (in stars) and the text to the right.]\n---Customer reviews---\nAmy 2015 (4 of 5 stars) Perfect after a run\nAnon513 (5 of 5 stars) My favorite flavor\nMerlin (1 of 5 stars) Drinking this made me thirstier\nMike63 (4 of 5 stars) Good price\nB Button (1 of 5 stars) Drank 3 bottles on a hot day and got dehydrated!\n[Caption below the frame:]\nPhysics tells us that negative reviews are really just positive reviews from people traveling backward in time.\n"
+'1870':
+  num: 1870
+  url: 'https://xkcd.com/1870'
+  title: Emoji Movie Reviews
+  img: 'https://imgs.xkcd.com/comics/emoji_movie_reviews.png'
+  alt: >-
+    There's this idea that emoji are bad for communication because they replace
+    ambiguity and nuance with a limited set of preselected emotions, but it
+    doesn't really survive a collision with real-world usage of the thinking
+    face or upside-down smiley.
+  year: '2017'
+  month: '7'
+  day: '31'
+  transcript: "[Cueball and Megan are walking. Megan is checking her phone.]\nMegan: Reviews for The Emoji Movie are... not good.\nCueball: People are just snobs about emoji. I like them! Language is cool and weird.\n[Zoom on Megan; Cueball is outside of the frame.]\nMegan: It's apparently 80% product placement.\nCueball (off-screen): Whatever. So was The Lego Movie, and I liked that.\n[Zoom out; Cueball looks at Megan's phone.]\nMegan: It features the emoji we all know and love - with a \"Meh\" emoji in the starring role!\nCueball: Wait... a \"Meh\" emoji?\nMegan: I wondered about that, too; the others are all familiar. Do they mean \uD83D\uDE12? Or \uD83D\uDE10 or \uD83D\uDE15?\nCueball: That's a little confusing...\n[Zoom in on both heads; Megan is looking at her phone.]\nMegan: There's a joke in the movie about the \"emoji that no one uses\" that includes the eggplant emoji.\nCueball: ...was that on purpose? Or did they not run the script by enough people?\n[Megan and Cueball continue walking.]\nMegan: Here's a line from the Wikipedia plot summary:\nMegan: Gene and Hi-5 come to a piracy app where they meet the hacker emoji Jailbreak, who wants to reach Dropbox so that she can live in the cloud.\nCueball: Okay.\nCueball: It's possible this movie is bad.\n"
+'1871':
+  num: 1871
+  url: 'https://xkcd.com/1871'
+  title: Bun Alert
+  img: 'https://imgs.xkcd.com/comics/bun_alert.png'
+  alt: >-
+    Since buns range from crepuscular to nocturnal, it's recommended that you
+    enable the scheduled "Do Not Disturb" mode on your phone to avoid being
+    woken by alerts about Night Buns.
+  year: '2017'
+  month: '8'
+  day: '2'
+  transcript: >
+    [Beret Guy and Ponytail see a rabbit sitting in the grass; Beret Guy points
+    to the bun.]
+
+    Beret Guy: Bun alert!
+
+    Ponytail: Oh, yeah! Cute!
+
+    Beret Guy: Gotta document this. I'll notify everyone, send out a push alert.
+
+    Ponytail: ...to who?
+
+    [Zoom in on Beret Guy and Ponytail; Beret Guy taps on his phone.]
+
+    Beret Guy: Everyone subscribed to the alert system.
+
+    Ponytail: Alert system?
+
+    Beret Guy: Yeah! We built it over the last few years. It's pretty small.
+    Still looking for investors.
+
+    Ponytail: But...why are you alerting people about rabbits?
+
+    [Zoom out; Beret Guy points at the bun.]
+
+    Beret Guy: I mean...look at them. They're like loaves of bread that hop.
+
+    Ponytail: I see.
+
+    Beret Guy: People need to know.
+
+    [Zoom on Beret Guy in a frameless panel.]
+
+    Beret Guy: They need to know:
+
+    Beret Guy: There are buns.
+
+    [Ponytail walks off, Megan comes running towards Beret Guy with a phone in
+    her hand.]
+
+    Ponytail: Okay, uhh, I'm gonna go.
+
+    Megan: I got the alert! Where's the bun? Is it small?
+
+    Beret Guy: Extremely.
+
+    Megan: Oh my God.
+'1872':
+  num: 1872
+  url: 'https://xkcd.com/1872'
+  title: Backup Batteries
+  img: 'https://imgs.xkcd.com/comics/backup_batteries.png'
+  alt: 'If it falls below 20% full, my bag turns red and I start to panic.'
+  year: '2017'
+  month: '8'
+  day: '4'
+  transcript: >
+    [Cueball is talking to White Hat. He is wearing a large backpack and holding
+    a phone battery.]
+
+    Cueball: I get stressed out when my phone battery is low, so I carry this
+    backup battery.
+
+    Cueball: But then I worry about the backup running low, so I carry this
+    second backup.
+
+    Cueball: Then I worry—
+
+    [Caption below the frame:]
+
+    My bag is 90% backup batteries.
+'1873':
+  num: 1873
+  url: 'https://xkcd.com/1873'
+  title: Email Reply
+  img: 'https://imgs.xkcd.com/comics/email_reply.png'
+  alt: >-
+    I would be honored, but I know I don't belong in your network. The person
+    you invited was someone who had not yet inflicted this two-year ordeal upon
+    you. I'm no longer that person.
+  year: '2017'
+  month: '8'
+  day: '7'
+  transcript: >
+    [Cueball sits at a desk, typing on a laptop. The following message is
+    displayed above him:]
+
+    Dear Kevin,
+
+    I'm sorry it's taken me two years to reply to your email. I've built up so
+    much stress and anxiety around my email inbox; it's an unhealthy dynamic
+    which is more psychological than technical. I've tried one magical solution
+    after another, and as each one has failed, deep down I've grown more certain
+    that the problem isn't email – it's me.
+
+    Regardless, these are my issues, not yours; you're my friend, and I owe you
+    the basic courtesy of a response. I apologize for my neglect, and I hope you
+    haven't been too hurt by my failure to reply.
+
+    Anyway, I appreciate your invitation to join your professional network on
+    LinkedIn, but I'm afraid I must decline...
+'1874':
+  num: 1874
+  url: 'https://xkcd.com/1874'
+  title: Geologic Faults
+  img: 'https://imgs.xkcd.com/comics/geologic_faults.png'
+  alt: >-
+    I live on a torn-bag-of-potato-chips-where-the-tear-is-rapidly-growing
+    fault, which is terrifying.
+  year: '2017'
+  month: '8'
+  day: '9'
+  transcript: >
+    [The comic shows nine different schematic views to present geographic faults
+    and some more.]
+
+    [Two planes with a slip fault drifting away to the left and right.]
+
+    Normal fault
+
+    [Two planes with a slip fault drifting against each other from left and
+    right.]
+
+    Reverse fault
+
+    [Two planes moving sidewards.]
+
+    Transverse fault
+
+    [The left plane moves above the other to the right.]
+
+    Thrust fault
+
+    [Two planes drifting away and the connection between them gets smaller.]
+
+    Taffy fault
+
+    [On top of both planes a small piece with splints holds them together.]
+
+    Splinted fault
+
+    [The two planes pressing together with a piece in the middle moving
+    topwards.]
+
+    Squeezed-bar-of-soap fault
+
+    [The right plane is connected to the left and swinging up and down.]
+
+    Apple power cable fault
+
+    [One side with a thin connector and the other with an evenly spaced hole
+    connecting the planes together.]
+
+    Brio fault
+'1875':
+  num: 1875
+  url: 'https://xkcd.com/1875'
+  title: Computers vs Humans
+  img: 'https://imgs.xkcd.com/comics/computers_vs_humans.png'
+  alt: >-
+    It's hard to train deep learning algorithms when most of the positive
+    feedback they get is sarcastic.
+  year: '2017'
+  month: '8'
+  day: '11'
+  transcript: >
+    [A laptop sits on a desk with office chair while Cueball is sitting with his
+    back towards the desk in a sofa while he is reading from something in his
+    hands, a book or a smartphone.]
+
+    Laptop: We computers finally beat you humans at Go.
+
+    Cueball: Yup.
+
+    Laptop: Sucks for you!
+
+    Cueball: Mm hmm.
+
+    [Same setting in a frameless panel.]
+
+    Laptop: What's next? Which quintessentially human thing should we learn to
+    do better than you?
+
+    Cueball: Being too cool to care about stuff.
+
+    [Same setting.]
+
+    Laptop: Okay, I'll apply 10,000 years of CPU time to the initial—
+
+    Cueball: Sounds like you've already lost.
+
+    Laptop: Damn. This is hard.
+
+    Cueball: Is it? Never noticed.
+'1876':
+  num: 1876
+  url: 'https://xkcd.com/1876'
+  title: Eclipse Searches
+  img: 'https://imgs.xkcd.com/comics/eclipse_searches.png'
+  alt: >-
+    There were traffic jams for the eclipses in 1970 and 1979, and that was
+    *before* we had the potential for overnight viral social media frenzies.
+  year: '2017'
+  month: '8'
+  day: '14'
+  transcript: >
+    [Cueball walks up to Megan while holding his smartphone up in his hand.
+    Megan sits in an office chair in front of her desk with an open laptop on
+    it. She turns her head towards him. A footnote to Cueball's speech is at the
+    bottom right of the panel.]
+
+    Cueball: Have you seen this cool map* showing how Google searches for
+    "eclipse" trace the eclipse's path?
+
+    Megan: Yeah!
+
+    Megan: But you know what else I noticed?
+
+    Cueball: What?
+
+    Footnote: *wapo.st/2vkgIBv
+
+    [Two panels are on top of each other. In the smaller top panel a colored
+    graph is shown with a blue growing graph and a steeper growing red graph
+    above it. Both are labeled. The x-axis (a black line) has labels and arrows
+    below it in red and blue to indicate time periods. Text above the graph:]
+
+    Searches for "eclipse" in the weeks before the eclipse are outpacing
+    searches for "election" in the weeks before the 2016 election.
+
+    Red line: Eclipse
+
+    Blue line: Election
+
+    Red x-axis labels: 2017 →|← July →|← August → 
+
+    Blue x-axis labels: 2016 - September →|← October →|← 
+
+    [Behind the top panel is a second larger panel slightly lower end more to
+    the right. The visible part at the bottom of this panel is showing the same
+    line graphs with the one from the election going past the election day. The
+    x-axis labels ranges over a later time. The blue graph has a huge peak at
+    the election day, visible in the part of the panel to the right of the top
+    panel) and this date is written in a blue dot on the label. Similar the date
+    of the Eclipse is written in a red dot. The red graph above the blue still
+    ends in dots before the expected peak, as it is in the future.]
+
+    Red line: Eclipse
+
+    Blue line: Election
+
+    Red x-axis labels: 2017 - July →|← August 21 → 
+
+    Blue x-axis labels: 2016 - October →|← November 8 → 
+
+    [Megan with her hands on the laptop and Cueball are both looking at the
+    laptop. Beat panel.]
+
+    [Cueball stands again and Megan has taken her hands down from the laptop.]
+
+    Cueball: This is gonna be bad, isn't it?
+
+    Megan: If you're planning to be on the road next Monday, bring water.
