@@ -6,17 +6,27 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/danielthepope/xkcdfull.git"
+  },
+  "bugs": {
+    "url": "https://github.com/danielthepope/xkcdfull/issues"
+  },
+  "author": {
+    "name": "Daniel Pope",
+    "url": "http://www.danielthepope.co.uk"
+  },
   "engines": {
-    "node": ">= 0.10.0"
+    "node": ">= 6.0.0"
   },
   "license": "MIT",
   "dependencies": {
     "cheerio": "^1.0.0-rc.2",
-    "express": "^4.14.0",
+    "express": "^4.15.4",
     "express-handlebars": "^3.0.0",
-    "extend": "^3.0.0",
-    "node-yaml": "^3.1.0",
+    "extend": "^3.0.1",
+    "node-yaml": "^3.1.1",
     "request": "^2.81.0"
   }
 }
