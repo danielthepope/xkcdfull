@@ -207,14 +207,21 @@
   year: '2006'
   month: '1'
   day: '1'
-  transcript: |
+  transcript: >
     [Cueball talking to Black Hat]
+
     Cueball: I'm a poisson distribution!
+
     Cueball: Still a Poisson distribution!
+
     Black Hat: What the hell, man. Why do you keep saying that?
+
     Cueball: Because I'm totally a poisson distribution.
+
     Black Hat: I'm less than zero.
-    [Cueball is gone; Black Hat is whistling.]
+
+    [Cueball is gone; Black Hat whistles a half note followed by 2 eighth
+    notes.]
 '13':
   num: 13
   url: 'https://xkcd.com/13'
@@ -371,8 +378,9 @@
   month: '1'
   day: '1'
   transcript: >
-    [A large black circle with white bubbles inside it, filled with hearts,
-    question marks, and stick figure couples. The hearts are colored red.]
+    [A large black circle (drawn on grid paper) with white bubbles inside it,
+    filled with hearts, question marks, and stick figure couples. The hearts are
+    colored red.]
 
     [Bottom left circle - stick figure couple with a heart]
 
@@ -529,8 +537,9 @@
   month: '1'
   day: '1'
   transcript: >
-    [Large vortex, spinning water covers the whole panel. A boy in a floating
-    barrel is near the edge, apparently about to be sucked in.]
+    [A large and deep vortex is in the center, spinning water covers the whole
+    panel. A boy in a floating barrel is near the edge, apparently about to be
+    sucked in.]
 
     Boy: wow!
 '23':
@@ -1273,9 +1282,9 @@
   transcript: >
     [A graph with a curve that begins at zero, then peaks at a given frequency,
     indicated via a thin vertical line, and then fades down towards zero. It is
-    possible to see the data point, which the curve fits perfectly. The y-axis
-    is labeled. Along the x-axis, the zero point and the frequency where the
-    peak has its maximum are labeled and close to the arrow the unit of this
+    possible to see the data points, which fit the curve perfectly. The y-axis
+    is labelled. Along the x-axis the zero point and the frequency where the
+    peak has its maximum are labelled and close to the arrow the unit of this
     axis is written.]
 
     y-axis: Energy Density
@@ -1309,7 +1318,7 @@
   year: '2006'
   month: '1'
   day: '27'
-  transcript: "[Different mathematic equations, all with heart on left side, and all equal question mark. Below is a caption.]\n√♥ =\_?\ncos ♥ =\_?\nd/dx ♥ =\_?\n[10]♥ =?\n[01]\nF{♥} = 1/√2π ∫∞-∞f(t)eit♥dt =\_?\nMy normal approach is useless here\n"
+  transcript: "[Different mathematic equations, all with heart on left side, and all equal question mark. Below is a caption.]\n√♥ =\_?\ncos ♥ =\_?\nd/dx ♥ =\_?\n[1 0]♥ =\_?\n[0 1]\nF{♥} = 1/√2π ∫∞-∞f(t)eit♥dt =\_?\nMy normal approach is useless here.\n"
 '56':
   num: 56
   url: 'https://xkcd.com/56'
@@ -1976,7 +1985,8 @@
     Cueball: The clutter of everyday life, with a simple core to tie it
     together, eventually becomes something grand as the world itself.
 
-    [A rainbow extends outward from the TV, with "ROYAL RAINBOW!" above it.]
+    [A rainbow extends outward from the TV, with "ROYAL RAINBOW!" above it.
+    Cueball raises his hands in victory/exitement]
 
     Megan: Okay, also sweet, but now I'm wondering if you could possibly get any
     gayer.
@@ -2542,9 +2552,9 @@
   month: '6'
   day: '5'
   transcript: |
+    [A graph is shown with a positive slope.]
     [Y axis]: Membership in Wicca
     [X axis]: Total Firefox Downloads
-    [Positive slope graph.]
     [Internet Explorer icon.]
     Keep the Faith
     [Outline of a cross.]
@@ -2826,7 +2836,8 @@
     the Blogofractal
 
     [A large rectangle subdivided into rectangles in a fractal pattern, most
-    with a phrase or word inside.]
+    with a phrase or word inside. Some subdivisions cannot be seen, as they are
+    too small.]
 
     [Mostly left to right from top-left corner.]
 
@@ -3302,17 +3313,7 @@
   year: '2006'
   month: '8'
   day: '2'
-  transcript: >
-    Although it caught me by surprise at the time, looking back I understand why
-    my senior science fair project went over as badly as it did.
-
-    [Poster.]
-
-    The mathematics of cunnilingus
-
-    f(t) F(w) L(s)
-
-    Challenges in frequency-domain analysis
+  transcript: "[Text above the drawing:]\nAlthough it caught me by surprise at the time, looking back I understand why my senior science fair project went over as badly as it did.\n[A science fair project consisting of eight posters on three pink walls set up for presenting such a project, so it is possible to step in between the walls to read about the project. There are two posters on both the left and the right wall, all four with unreadable text. The three of them clearly has a bolder heading at the top (still unreadable). The last to the right, which has no header, has in stead some kind of drawing or formula in the middle, still unreadable.]\n[The central wall has some readable and discernible parts. The top poster is the title of the project, written in very large letters:]\nThe Mathematics of Cunnilingus  \n[Below the title poster there are three posters. Two of these are right below one to the left and one to the right, and the last poster below takes up the rest of the wall. The left of the two posters next to each other have a table with three rows and three columns. The text in each box is unreadable, some of the text seems to be formulas though. But above the three columns there are readable legends:]\nf(t);\_\_ F(w);\_\_ L(s)\n[The next poster to the right shows a drawing of a female genitalia with clitoris and both sets of Labia shown. It is displayed on a chart with X and Y axis with ticks (but no labels) and there is a box with three lines of unreadable text/legends.]\n[The last poster at the bottom of the central panel shows four line graphs with what looks like Fourier transformations. These are displayed in two rows/columns to the left. To the right of these there is a readable heading and below that more unreadable text:]\nChallenges in frequency-domain analysis\n"
 '137':
   num: 137
   url: 'https://xkcd.com/137'
@@ -3963,7 +3964,7 @@
 
     Cueball: I'd like a human-sized hamster ball.
 
-    [A hamster ball appears; Cueball is inside it.]
+    [A hamster ball appears; Cueball is inside it, arms outstretched.]
 
     Cueball: Sweet!
 
@@ -4780,8 +4781,8 @@
 
     Webweb
 
-    [Cueball and Megan stand facing; Cueball raises his hands in the air while
-    Megan is nonplussed.]
+    [Cueball and Megan stand facing each other; Cueball raises his hands in the
+    air while Megan is nonplussed.]
 
     Cueball: I heard about it on the interblag!
 '182':
@@ -4830,11 +4831,11 @@
     My dad was always the one who taught me about science, but looking back, I'm
     starting to realize how much my nerdiness was influenced by my mom.
 
-    [A woman and a child are talking.]
+    [A woman and a child talk.]
 
     Child: Mom, can I have a snack in my room before bed?
 
-    Mom: No, Dear. You know you only get that privilege when your age is one
+    Mom: No, dear. You know you only get that privilege when your age is one
     less than a multiple of three.
 '184':
   num: 184
@@ -4888,12 +4889,18 @@
   year: '2006'
   month: '11'
   day: '20'
-  transcript: |
+  transcript: >
     Fans turning away latecomers to all-night game console campouts:
-    Sony/Microsoft:
+
+    [Two different lines presumably leading to a video game store are shown. In
+    the line labeled Sony/Microsoft:]
+
     Cueball: The line is full, asshole! Fuck off!
-    Nintendo:
+
+    [And in the one labeled Nintendo:]
+
     Cueball: I'm so sorry, all the consoles are spoken for.
+
     Cueball: Do... Do you want a hug?
 '187':
   num: 187
@@ -5532,11 +5539,21 @@
     strategies. Some kids carefully removed each bead, checking closely for
     paper residue before eating.
 
+    [To the right, a small section of a strip of Candy Buttons paper is shown. 2
+    red buttons have been removed from the top of the strip.]
+
+
+    [To the left, a long strip is shown. It seems to be waving in the air.]
+
     Others tore the candy off haphazardly, swallowing large scraps of paper as
     they ate.
 
+
     Then there were the lonely few of us who moved back and forth on the strip,
     eating rows of beads here and there, pretending we were Turing machines.
+
+    [A strip is shown from bird's eye view. Many rows of buttons have already
+    been eaten.]
 '206':
   num: 206
   url: 'https://xkcd.com/206'
@@ -5660,19 +5677,28 @@
   month: '1'
   day: '12'
   transcript: >
-    [Beret Guy in a kayak is talking to a person on a pier.]
+    [Beret Guy, in a kayak holding a paddle, is talking to Cueball, standing on
+    a pier.]
 
     Beret Guy: Come explore the future with me!
 
     Cueball: Huh? What's that you're in?
 
+    [Close up on Beret Guy and his kayak. The tip of the pier can be seen.]
+
     Beret Guy: A two seat kayak!
 
     Cueball: I see, but why do you have it?
 
+    [Close up on Cueball. The tip of the kayak and the tip of the paddle can be
+    seen. Beret Guy and the waterline cannot be seen.]
+
     Beret Guy: We'll find out! The future is a big place!
 
     Cueball: So the kayak travels through time?
+
+    [Slightly zoomed-out version of the third panel. The tip of the paddle has
+    disappeared but the waterline is visible again.]
 
     Beret Guy: Sure! Just like everything else! It also goes over water. Come
     on!
@@ -6619,7 +6645,8 @@
     Cueball: She grabbed me and spoke a stream of numbers into my ear. Then it
     all went away.
 
-    [A girl grabs him as the edges of the panel crack and tear.]
+    [A girl grabs him as cracks in the edges of the panel become tendrils and
+    grab Cueball and the girl.]
 
     Cueball: I woke up. The memory of the apocalypse faded to mere fancy, but
     the numbers burned bright in my mind. I wrote them down right away.
@@ -6687,10 +6714,10 @@
   day: '2'
   transcript: >
     [A diagram of a TrackPoint pointer on a keyboard, under which is a
-    continuity line labeled "Tone of Conversation-Formal to Informal." There are
+    continuous line labeled "Tone of Conversation-Formal to Informal." There are
     four boxes under this line.]
 
-    How to refer to the pointer thing on laptop keyboards
+    How to refer to the pointer thing on laptop keyboards:
 
     Very formal: TrackPoint(tm)-style pointer
 
@@ -7401,13 +7428,12 @@
     Boom
 
     [Scene 8: Lightning hits the balloon and travels all the way down to the
-    rod, which can just be seen at the bottom. There is a loud crack, and a
-    number is noted next to the incandescent balloon inside the lightning. Could
-    be a temperature?]
+    rod, which can just be seen at the bottom. There is a loud crack, and the
+    incandescent balloon inside the lightning hisses.]
 
     Crack
 
-    7565
+    TSSS
 
     [Scene 9: A slim image with a zoom-in just of the cylinder as the lightning
     hits, showing it attached to the wires going up and down from each of the
@@ -8012,14 +8038,14 @@
     ranging from 100Mm to 100fm; second is f (Hz), which starts at 1 Hz and
     reaches 100 THz about 2/3 of the way along, after which the labels read
     "other entertaining greek prefixes like peta- exa- and zappa-;" last is Q
-    (Gal^2/Coloumb), whose labels are 17, 117, pi, 17, 42, theta, e^pi-pi, -2,
+    (Gal^2/Coloumb), whose labels are 17, 117, pi, 17, 42, phi, e^pi-pi, -2,
     540^50, and 11^2. Above the scales and lined up accurately with the first
     two are the following:]
 
     Power & Telephone (100Mm to 1km)
 
     Radio & TV (1km to somewhere between 1m and 10cm); above that are many boxes
-    showing subranges (AM, VHF, UHF, 14/7 NPR pledge drives, a very thin band
+    showing subranges (AM, VHF, UHF, 24/7 NPR pledge drives, a very thin band
     for the space rays controlling Steve Ballmer, 99.3 "The Fox," 101.5 "The
     Badger," 106.3 "The Frightened Squirrel," cell phone cancer rays, CIA, ham
     radio, kosher radio, shouting car dealership commercials.)
@@ -8193,13 +8219,13 @@
 
     Phone: I'm sorry, this is the Linux helpline, right?
 
-    Black Hat: Of course, Sir.
+    Black Hat: Of course, sir.
 
     Black Hat: If you'll just open the "My Documents" folder-
 
-    Phone: Just a damn minute, I think you're putting me on.
+    Phone: Just a damn minute. I think you're putting me on.
 
-    Black Hat: Please bear with me, Sir.
+    Black Hat: Please bear with me, sir.
 
     Black Hat: Now, load up your AOL and go to the Keyword "Linux"-
 
@@ -8385,11 +8411,12 @@
   month: '7'
   day: '4'
   transcript: >
-    [There is a politician speaking at a podium, which sports an American flag.]
+    [There is a politician speaking at a podium, which sports an American flag.
+    There are four red stars on the side of the platform.]
 
     [In front of the speaker, there is a crowd of people listening. In the
-    middle of the crowd, a man is standing up holding a sign reading "[CITATION
-    NEEDED]" in blue underlined text, as in Wikipedia articles.]
+    middle of the crowd, Cueball is standing up and holding a sign reading
+    "[CITATION NEEDED]" in blue underlined text, as in Wikipedia articles.]
 '286':
   num: 286
   url: 'https://xkcd.com/286'
@@ -8404,14 +8431,14 @@
 
     Text from window:
 
-    [Ponytail is at computer.]
+    [Ponytail is at a computer.]
 
     Ponytail: What's with the All Your Base stuff? Didn't that die like five
     years ago?
 
     [From off-panel]: Yes.
 
-    [Cueball enters panel.]
+    [Cueball enters the panel.]
 
     Cueball: It was my first internet meme, and my favorite. Others tired of it,
     but I never did.
@@ -8508,7 +8535,7 @@
     [Cueball tapes it onto the panel.]
 
     [Elevator panel, with the same Certificate and buttons, and with the piece
-    of paper labeling the fifth button "Zeppelin".]
+    of paper labeling the fifth button "Zeppelin."]
 
     [Cueball presses the new "Zeppelin" button.]
 
@@ -8559,7 +8586,7 @@
   day: '16'
   transcript: |
     My Profanity Usage By Cause:
-    [Pie chart is shown.]
+    [A pie chart is shown.]
     [Injury is about 2.5% of pie chart.]
     [Irony is about 2.5% of pie chart.]
     [Misc is about 2.5% of pie chart.]
@@ -8575,7 +8602,7 @@
   month: '7'
   day: '18'
   transcript: >
-    [Beret Guy swinging upside-down from tree branch talking to White Hat
+    [Beret Guy swinging upside-down from a tree branch talking to White Hat
     walking by.]
 
     Beret Guy: You were once shoved headfirst through someone's vagina. Why are
@@ -8590,7 +8617,7 @@
   month: '7'
   day: '20'
   transcript: >
-    [Cueball sits at computer, thinking.]
+    [Sideways view of Cueball sits at computer, thinking.]
 
     Cueball: I could restructure the program's flow - or use one little 'GOTO'
     instead.
@@ -8601,9 +8628,9 @@
 
     *Compile*
 
-    [Cueball looks at the computer.]
+    [We now have a view from behind Cueball. Cueball looks at the computer.]
 
-    [A raptor jumps into the panel and attacks Cueball.]
+    [A raptor jumps into the panel, pushing Cueball off his chair.]
 '293':
   num: 293
   url: 'https://xkcd.com/293'
@@ -8617,8 +8644,8 @@
   day: '23'
   transcript: >
     [Cueball with a knife sticking out of his heavily bleeding face stands in
-    front of a toaster, which has an arm extending from the top of it. He is
-    holding a telephone to his ear.]
+    front of a toaster on a counter, which has an arm extending from the top of
+    it. He is holding a telephone to his ear.]
 
     Cueball: Hello, 911? I just tried to toast some bread, and the toaster grew
     an arm and stabbed me in the face!
@@ -8986,7 +9013,7 @@
   day: '22'
   transcript: >
     [Voices are coming from behind a door with a sign that reads "Debian Linux
-    HQ".]
+    HQ."]
 
     First voice: Problem: One of the volunteer developers has a date this
     weekend. Dates lead to romance, romance leads to orphaned projects.
@@ -9037,9 +9064,9 @@
   day: '27'
   transcript: >
     [On the left hand side of the panel is a cutaway of several floors of an
-    office, in gray. On the right side a blue sky with clouds, and green hills.
-    Hanging from a cable is Megan, clearly having rappelled down the side of the
-    building.]
+    office, in gray. On the right side, a blue sky with clouds,  and green hills
+    below. Hanging from a cable is Megan, clearly having rappelled down the side
+    of the building.]
 
     Megan: You know how some people consider "May you have an interesting life"
     to be a curse?
@@ -9062,7 +9089,7 @@
 
     Shopping teams
 
-    [Above the first team consisting of two Cueball-like guys are written the
+    [Above the first team consisting of two Cueball-like guys is written the
     following text (the first line written with larger letters):]
 
     Bad:
@@ -9074,7 +9101,7 @@
 
     Non-nerd 2: Okay.
 
-    [Above the second team consisting of a Blondie and a Cueball-like guy, are
+    [Above the second team consisting of a Blondie and a Cueball-like guy is
     written the following text (the first line written with larger letters):]
 
     Good:
@@ -9088,7 +9115,7 @@
 
     Blondie non-nerd: Okay, that one. 
 
-    [Above the third team consisting of two Cueball-like guys, are written the
+    [Above the third team consisting of two Cueball-like guys is written the
     following text (the first line written with larger letters):]
 
     Very Bad:
@@ -9110,8 +9137,8 @@
 
     [The two Cueball-like guys are sitting on the floor in front of the counter,
     both having their laptops open and with lots of paper sheets spread around
-    them as well as a pen etc. Blondie from the second team comes in from the
-    right and raises her arms:]
+    them, as well as a pen. Blondie from the second team comes in from the right
+    and raises her arms:]
 
     Nerd 1: I think our main problem is our unclear definition of value.
 
@@ -9137,7 +9164,7 @@
     want.
 
     [Cueball and the woman are getting married. They stand under a gate of honor
-    with a priest in front of them]
+    with a priest in front of them.]
 
     Girl: I do.
 
@@ -9148,7 +9175,7 @@
 
     Megan: Hi.
 
-    [Same picture but without the cloud and angels. Cueballs thought are written
+    [Same picture but without the cloud and angels. Cueball's thought is written
     in a frame with yellow background.]
 
     Well, shit.
@@ -9310,7 +9337,7 @@
     [A sign reads "Third Floor Office" with braille print underneath. Cueball is
     reading the braille.]
 
-    Cueball: s-i-g-h-t-e-d-p-e-o-p-l-e-s-u-c-k ... Hey!
+    Cueball (thinking): s-i-g-h-t-e-d-p-e-o-p-l-e-s-u-c-k ... Hey!
 '316':
   num: 316
   url: 'https://xkcd.com/316'
@@ -9323,7 +9350,7 @@
   transcript: >
     My neighbor has loud sex.
 
-    [Cueball in bed, covering his head with pillow. There is sound coming from
+    [Cueball in bed, covering his head with a pillow. There is sound coming from
     outside.]
 
     OHHHHH
@@ -9352,7 +9379,7 @@
 
     [Diagram of an elliptical reflector dish.]
 
-    [Cueball and Megan having sex, with dish behind them reflecting the sex
+    [Cueball and Megan having sex, with the dish behind them reflecting the sex
     sound effects, in a way that they focus, through walls, on his neighbor
     sitting up in bed while holding her head in pain.]
 '317':
@@ -9381,7 +9408,7 @@
   month: '9'
   day: '19'
   transcript: >
-    [Cueball and Megan, both wearing headsets with antennae, sunglasses and
+    [Cueball and Megan, both wearing headsets with antennae, sunglasses, and
     jetpacks, are hovering.]
 
     Cueball: Darling, let's put on our best fake accounts, connect to the core
@@ -9405,7 +9432,7 @@
     Maybe I'm a fool
     Maybe the tyranny of Murphy is the penalty for hubris.
     But I just can't shake the feeling
-    [Cueball standing on boxes labeled "ACME".]
+    [Cueball standing on boxes labeled "ACME."]
     With all those supplies
     I could have caught that roadrunner.
 '320':
@@ -9418,8 +9445,8 @@
   month: '9'
   day: '24'
   transcript: >
-    [There is a diagram which shows the hours in a week. It has sections
-    labelled "bed" and below has sections labeled "night." They do not line up.]
+    [There is a diagram that shows the hours in a week. It has sections labelled
+    "bed" and below has sections labeled "night." They do not line up.]
 
     [Two men are talking together.]
 
@@ -9466,7 +9493,7 @@
 
     Cueball: It's the thigh of the tiger
 
-    [Cueball continues to singing titling his head upwards.]
+    [Cueball continues to sing, titling his head upwards.]
 
     Cueball: When the moon hits your thigh like a big pizza pie, that's amore.
 
@@ -9525,7 +9552,8 @@
   day: '1'
   transcript: >
     [A graph with "programming skill" on the Y-axis and "blood alcohol
-    concentration" on the X one.]
+    concentration" on the X one. The Y-axis slowly goes down, but spikes at
+    0.1337%.]
 
     [Cueball is making a presentation with the graph.]
 
@@ -9904,11 +9932,11 @@
 
     Cueball: Come explore the future with me!
 
-    [And Megan says something which goes to the third panel.]
+    [Megan says something which goes to the third panel.]
 
     [The two voice bubbles cross in the middle of the second panel.]
 
-    [The voice of Megan says…]
+    [Megan's voice bubble:]
 
     Megan: I can't.
 '339':
@@ -10432,7 +10460,8 @@
 
     Cueball: Give it a moment...
 
-    [Someone teleports into frame in a magic puff.]
+    [Someone teleports into frame in a magic puff. Cueball's arms are raised,
+    with a package of mentos in one hand]
 
     POOF
 
@@ -10454,9 +10483,9 @@
     [A panel to the left shows Cueball getting ready to throw a tennis ball.]
 
     [Cueball lies on the ground, underneath the titular archway, next to two
-    halves of a brick. Dust falls from the place in the archway where the he
-    knocked the brick from with the tennis ball. The ball, meanwhile, has rolled
-    about a meter away.]
+    halves of a brick. A pool of blood is coming from his head. Dust falls from
+    the place in the archway where the he knocked the brick from with the tennis
+    ball. The ball, meanwhile, has rolled about a meter away.]
 
     "Breakout" is a stupid game.
 '348':
@@ -10491,14 +10520,14 @@
 
     0 hours
 
-    [Megan looking at Cueball working on the computer.]
+    [Megan is looking at Cueball, working on the computer.]
 
     Cueball: Okay, I should be able to dual-boot BSD soon.
 
 
     6 hours
 
-    [Cueball on the floor fiddling with the open tower in front of him.]
+    [Cueball is on the floor fiddling with the open tower in front of him.]
 
     Cueball: I'll be happy if I can get the system working like it was when I
     started.
@@ -10506,7 +10535,7 @@
 
     10 hours
 
-    [Cueball standing in front of the computer which now has a laptop plugged
+    [Cueball is standing in front of the computer which now has a laptop plugged
     into the tower.]
 
     Cueball: Well, the desktop's a lost cause, but I think I can fix the
@@ -10515,8 +10544,8 @@
 
     24 hours
 
-    [Cueball and Megan swimming in the sea, island and beach seen in the
-    distance.]
+    [Cueball and Megan swimming in the sea, an island and a beach can be seen in
+    the distance.]
 
     Cueball: If we're lucky, the sharks will stay away until we reach shallow
     water.
@@ -10594,9 +10623,12 @@
   year: '2007'
   month: '12'
   day: '3'
-  transcript: |
-    [Cueball hugging Megan in the messenger window.]
+  transcript: >
+    [Cueball hugging Megan in the messenger window of an early Microsoft Windows
+    version.]
+
     Cueball: Meh.
+
     Cueball: Some nights, typing "*hug*" just doesn't cut it.
 '353':
   num: 353
@@ -10769,8 +10801,8 @@
   month: '12'
   day: '19'
   transcript: >
-    [3 people are playing Rock Band. Cueball with arms crossed is looking at
-    them.]
+    [3 people are playing Rock Band, one on guitar, another on drums, and the
+    last on vocals. Cueball with arms crossed is looking at them.]
 
     Cueball: You know, playing this doesn't make you cool like a real rock band.
 
@@ -10791,7 +10823,8 @@
   month: '12'
   day: '21'
   transcript: >
-    [Cueball sits in front of a computer, Black Hat behind him.]
+    [Cueball sits in front of a desk with a computer. Black Hat stands behind
+    him.]
 
     Cueball: This writer's strike sucks.
 
@@ -12032,11 +12065,12 @@
 
     Brute-force solution:O(n!)
 
-    [The web continues in this one. A man with a hat and a case is drawing it.]
+    [The web continues in this one. A man with a brown hat and a case is drawing
+    it.]
 
     Dynamic programming algorithms: O(n22n)
 
-    [Another man, with a hat too, is at a computer, looking back over the
+    [Another man, with a brown hat too, is at a computer, looking back over the
     chair.]
 
     Selling on eBay: O(1)
@@ -12514,8 +12548,9 @@
 
     Roomba: Beep!
 
-    Diagram: Webcam, RF links, bearings, omni wheels, magnets, EEE PC, omni
-    wheels, battery
+    [A blueprint in the background shows a webcam, RF links, bearings, omni
+    wheels, magnets, EEE PC, omni wheels, and a battery all hooked up to Megan
+    and Cueball's "pet"]
 
     [Hamster ball bounces down flight of stairs.]
 
@@ -12693,8 +12728,9 @@
 
     Two weeks later:
 
-    [Picture of a destroyed lab with two dead bodies, blood everywhere and a
-    spoon-fork hybrid hopping away.]
+    [Picture of a destroyed lab, with scientific poster and lab equipment.Two
+    dead bodies, blood everywhere and a spoon-fork hybrid hopping away can be
+    seen.]
 
     Hop hop hop.
 '420':
@@ -12941,7 +12977,8 @@
 
     Megan: The what?
 
-    [Red Spiders crowd onto balloon, causing it to fall.]
+    [Red Spiders crowd onto balloon, causing it to fall. Cueball and Megan look
+    panicked]
 '428':
   num: 428
   url: 'https://xkcd.com/428'
@@ -12987,7 +13024,7 @@
   year: '2008'
   month: '5'
   day: '30'
-  transcript: "[In background, a vivid dream scene is apparent, including mountains, a city with a mushroom cloud, a zeppelin where one person has knocked another off, another person climbing on or off the blimp on a rope, another blimp anchoring to a city in the background, one Cueball and Megan holding hands, one Cueball looking at the person on the rope, one Cueball and Megan sword fighting over a cup of spilled liquid, another set looking at a laptop, another set hugging, another set sliding down a separate rope from the blimp and a last set falling. In the inset, Cueball awakens, very surprised.]\nCueball:\_!!!\n[Dream's edges are fading, mountains, city and zeppelin less clear. In the inset, Cueball is seen running down stairs.]\n[Zeppelin, city, and mountains are very hazy and unclear. The people can still be seen. In the inset, Cueball gets attention of Megan, sitting at breakfast table.]\n[Dream has completely faded, only the outlines of three people can still be seen. In the inset, Cueball looks confused.]\n"
+  transcript: "[In background, a vivid dream scene is apparent, including mountains, a city with a mushroom cloud, a zeppelin where one person has knocked another off, another person climbing on or off the blimp on a rope, another blimp anchoring to a city in the background, one Cueball and Megan holding hands, one Cueball looking at the person on the rope, one Cueball and Megan sword fighting over a cup of spilled liquid, another set looking at a laptop, another set hugging, another set sliding down a separate rope from the blimp and a last set falling. In the far right there is a third blimp flying over a mountain range. All in all, this seems very much like an apocalypse and not something one would forget easily. In the inset, Cueball awakens, very surprised.]\nCueball:\_!!!\n[Dream's edges are fading, mountains, city and zeppelin less clear. In the inset, Cueball is seen running down stairs.]\n[Zeppelin, city, and mountains are very hazy and unclear. The people can still be seen. In the inset, Cueball gets attention of Megan, sitting at breakfast table.]\n[Dream has completely faded, only the outlines of three people can still be seen. In the inset, Cueball looks confused.]\n"
 '431':
   num: 431
   url: 'https://xkcd.com/431'
@@ -13079,24 +13116,25 @@
 
     Megan: You always assume that!
 
-    [Presumably the security checkpoint.]
+    [Presumably the security checkpoint. The Security guy is digging through
+    Cueball's bags.]
 
-    Security Guy: Lockpicks? These are... illegal, actually. Where did you get
+    Security guy: Lockpicks? These are... illegal, actually. Where did you get
     them?
 
     Cueball: Oh man, it all started with this hacker girl.
 
-    Security Guy: You need to come with-
+    Security guy: You need to come with-
 
     Cueball: Sure, sure. But man, let me tell you about her!
 
-    [On a plane.]
+    [On a plane. Cueball is on a laptop.]
 
     Announcement: If your device has a "Transmit" function, please disable it.
 
     Cueball: Okay - hang on, I'm half way through the iwconfig man page.
 
-    [Security checkpoint.]
+    [Security checkpoint. Security guy is examining a vial of dark liquid.]
 
     Security guy: Sir, is this container under three ounces?
 
@@ -13410,7 +13448,7 @@
 
     Panel 9:
 
-    [Black Hat taking gift away from kid with party hat.]
+    [Black Hat giving a moving and shaking gift to a kid with party hat.]
 
     I love your suffering.
 
@@ -13859,7 +13897,8 @@
   transcript: >
     [Black Hat is walking.]
 
-    [Black Hat stops in front of another man with two Black Hats.]
+    [Black Hat stops in front of another man with two Black Hats, the uppermost
+    hat titled backwards.]
 
     [After two panels, the original Black Hat steps backward, shuddering
     slightly.]
@@ -13993,7 +14032,8 @@
   month: '8'
   day: '8'
   transcript: >
-    [Cueball and Ponytail in a museum, near a reconstructed dinosaur fossil.]
+    [Cueball and Ponytail in a museum, near a reconstructed dinosaur fossil and
+    a display cabinet.]
 
     Ponytail: Man, paleontology sucks these days.
 
@@ -14536,7 +14576,7 @@
     Outside: Oh God
     Outside: The ozone layer!
     [Cueball is surprised.]
-    [Cueball throws boomerang banana.]
+    [Cueball throws boomerang-like banana.]
     [Cueball waits.]
     [Megan walks in.]
     Megan: That was our last banana.
@@ -14703,7 +14743,7 @@
 
     Soon, everywhere:
 
-    [Cueball is commenting on YouTube.]
+    [Cueball is commenting on YouTube with a laptop.]
 
     type type type
 
@@ -14711,7 +14751,7 @@
 
     Cueball: ...I'm a moron.
 
-    [Cueball leaves desk.]
+    [Cueball leaves desk and partially closes his laptop.]
 
     [Cueball is seen sitting on steps, depressed.]
 
@@ -14936,12 +14976,12 @@
     Folks
 
 
-    The observable universe, from top to bottom'
+    The observable universe, from top to bottom
 
     ~On a log scale~
 
     Sizes are not to scale, but heights above the Earth's surface are accurate
-    on a log scale (that is, each step up is double the height.)
+    on a log scale. (That is, each step up is double the height.)
 
 '483':
   num: 483
@@ -16245,7 +16285,8 @@
   month: '11'
   day: '19'
   transcript: >
-    [Black Hat is holding up a video game. Danish is holding up a harness.]
+    [Black Hat is holding up a copy of Left 4 dead. Danish is holding up a small
+    harness.]
 
     Black Hat: Hey. I sold your Roomba on Craigslist so I could buy myself Left
     4 Dead.
@@ -16520,10 +16561,10 @@
 
     [Cueball enters.]
 
-    [Black hat and Danish look at each other.]
+    [Black Hat and Danish look at each other.]
 
-    [Black hat is holding a bloody sack, while Danish is pushing down on a
-    shovel to make a hole for the body.]
+    [Black Hat holds a bloody sack, while Danish pushes down on a shovel to make
+    a hole for what is presumably Cueball's body.]
 '516':
   num: 516
   url: 'https://xkcd.com/516'
@@ -17632,7 +17673,8 @@
 
     Megan: Why is it showing a picture of Hitler?
 
-    [The laptop's screen is shown with Adolf Hitler's face on it.]
+    [The laptop's screen is shown with Adolf Hitler's face on it, drawn in
+    regular xkcd style.]
 
     Cueball: I don't know. I can't get it to do anything else.
 
@@ -18767,8 +18809,8 @@
     forgotten I had this class. Shitshitshit.
 
     [Cueball is sitting at his desk, but now seen from the side, looking from
-    the edge of his desk. The very right part of the drawing, with Cueballs back
-    and chair, now begins to fade.]
+    the edge of his desk. The very right part of the drawing, with Cueball's
+    back and chair, now begins to fade.]
 
     Cueball (thinking): Okay, I'm gonna fail. Will it hold me back? I just want
     to get out of here. I thought I had finished my requirements already.
@@ -19963,7 +20005,7 @@
   day: '11'
   transcript: |
     Of the potential responses to my brakes' failure, I did not choose the best.
-    [A cliff is visible, with a car flying off it.]
+    [A cliff is visible, with a car flying off it, and trees below.]
     Voice from car: Hello, you're on Car Talk.
 '583':
   num: 583
@@ -20162,8 +20204,8 @@
   month: '5'
   day: '27'
   transcript: >
-    [Cueball is addressing three people outside a bar (two Cueball-like guys and
-    Megan).]
+    [Cueball is addressing three people outside a bar, indicated by a sign (two
+    Cueball-like guys and Megan).]
 
     Cueball: Wait, who's driving?
 
@@ -20732,13 +20774,13 @@
     panel, haflway below, and only to the right of the middle of the first
     panel. Beret Guy is running towards left, with his arms raised in the air.]
 
-    Beret Guy: The Apocalypse! The skies burn, the seas turn to blood, and the
+    Beret Guy: The apocalypse! The skies burn, the seas turn to blood, and the
     dead walk the earth!
 
-    [From here a normal sequence of panles in three rows begin beneath the
-    second panel. This leaves a gap between the apocalyptic panel and the third
-    row of panel, on the left side where the 2nd panel did not reach over. In
-    this panel Beret Guy (coming from the right) finds Cueball.]
+    [From here a normal sequence of panels in three rows begin beneath the
+    second panel. This leaves a gap between the apocalyptic panel and the first
+    row of regular panels, on the left side where the 2nd panel did not reach
+    over. In this panel Beret Guy (coming from the right) finds Cueball.]
 
     Cueball: The dead what?
 
@@ -20799,8 +20841,8 @@
     base of the stone and the small pile of earth towards Cueball. The guy looks
     very worn, with dirt on his head and scratches on his cheek.]
 
-    [Cueball bends a little down and offers pend and paper to the raised dead
-    man who looks up at him when he is addressed-]
+    [Cueball bends a little down and offers pen and paper to the raised dead man
+    who looks up at him when he is addressed.]
 
     Cueball: Paul Erdős?
 
@@ -21186,7 +21228,7 @@
     [There is a sheet of paper, with a series of check boxes. A white rectangle
     is the focus.]
 
-    Do not write in this space.
+    Do not write in this space
 
     [Cueball is standing with a pencil, looking at the page.]
 
@@ -21323,7 +21365,7 @@
   day: '15'
   transcript: >
     [A thought bubble is shared between the five occupants (four Cueballs and
-    one Ponytail) of a subway car.]
+    one Ponytail), and their bags of a subway car.]
 
     All: Look at these people. Glassy-eyed automatons going about their daily
     lives, never stopping to look around and think! I'm the only conscious human
@@ -21506,7 +21548,7 @@
   year: '2009'
   month: '7'
   day: '31'
-  transcript: "[A bald bearded man with glasses standing in his open doorway outside his house and a police man wearing a black peaked cap with white emblem standing on the stoop at the top of the stairs leading down from the house are swearing at each other]\nBoth: *[email\_protected]#!\n[The bearded man is in prison sitting on a bench behind bars.]\n[Cueball is the president of the unites states and he is standing behind a lectern with the Presidential Seal (eagle and all) on it's front.]\nPresident: To defuse this misunderstanding, I've invited both men to have a beer with me at the White House.\n[The policeman is standing left and looking left while the bearded man is walking towards the president both with their hands stretched out towards each other. They are in the oval room in the White House with a couch and an oval carpet and two large windows.]\n[The president has opened cabinet on top of another cabinet. He is looking into it with a hand on his chin.]\nPresident: Actually, it seems we're out of beer.\nVoice (off-panel): Is there anything else?\n[Zoom in on the back of the presidents head viewing the shelve in the cabinet with a single labeled bottle:]\nTequila\n[The black Presidential Limo, with grayed out windows in the rear is being driven at high speed by the president who can be seen through the regular windows in the front of the car. The bearded man arms up and the policeman waving his hat and holding the bottle of tequila are standing up looking out of the sunroof.]\nAll: Woooooooooo\n[The policeman, the bearded man, and the president are sitting on the bench  behind bars in the same prison from panel two.]\n"
+  transcript: "[A bald bearded man with glasses standing in his open doorway outside his house and a police man wearing a black peaked cap with white emblem standing on the stoop at the top of the stairs leading down from the house are swearing at each other]\nBoth: *[email\_protected]#!\n[The bearded man is in prison sitting on a bench behind bars.]\n[Cueball, as the president of the United States, is standing behind a lectern with the Presidential Seal (eagle and all) on its front.]\nPresident: To defuse this misunderstanding, I've invited both men to have a beer with me at the White House.\n[A policeman is standing left and looking left while the bearded man is walking towards the president both with their hands stretched out towards each other. They are in the oval room in the White House with a couch and an oval carpet and two large windows.]\n[The president has opened cabinet on top of another cabinet. He is looking into it with a hand on his chin.]\nPresident: Actually, it seems we're out of beer.\nVoice (off-panel): Is there anything else?\n[Zoom in on the back of the president's head viewing the shelve in the cabinet with a single labeled bottle:]\nTequila\n[The black Presidential Limo, with grayed out windows in the rear is being driven at high speed by the president who can be seen through the regular windows in the front of the car. The bearded man has his arms up and the policeman is waving his hat and holding the bottle of tequila are standing up looking out of the sunroof.]\nAll: WOOOOOOOOOOOO\n[The policeman, the bearded man, and the president are sitting on a bench behind bars in the same prison from panel two.]\n"
 '618':
   num: 618
   url: 'https://xkcd.com/618'
@@ -21607,8 +21649,8 @@
     [There is a heap of materials on the ground. Cueball is holding a stage
     harness.]
 
-    [Large diagram of a bridge. A rope leads through pulleys tied to the bridge.
-    One end goes to Cueball, one end to a pile of bricks.]
+    [Large diagram of a bridge, seemingly metal. A rope leads through pulleys
+    tied to the bridge. One end goes to Cueball, one end to a pile of bricks.]
 
     [Cueball is standing with wings attached to his arms.]
 
@@ -22684,7 +22726,8 @@
   month: '10'
   day: '16'
   transcript: |
-    Cueball: There's nowhere I'd rather be
+    Cueball: There's nowhere 
+    Cueball: I'd rather be
     Cueball: than with you
     Cueball: here
     Cueball: right now.
@@ -23514,7 +23557,7 @@
     Cueball: Look at that asshole in his SUV, thinking he's so badass while he
     guzzles gas driving around suburbia.
 
-    Beret Guy: Oh no! Am I an asshole? I hope not.
+    Beret Guy: Oh no! Am I an asshole? I hope not!
 
     [Beret Guy trades in his keys at the dealership.]
 
@@ -23863,7 +23906,7 @@
 
     [Cueball walks out of the panel.]
 
-    [Cueball returns with a ladder.]
+    [Cueball returns with a ladder and megaphone.]
 
     [Cueball stands on top of the ladder, shouting through a megaphone.]
 
@@ -24359,7 +24402,7 @@
     because some fuck brought
 
 
-    pruning shears
+    pruning shears.
 
     Pruning shears: Snip
 
@@ -24951,7 +24994,7 @@
     [Megan sits at a desk, typing on a computer with a fairly large flat-panel
     display.]
 
-    Megan: To the authors of Porn for Women
+    Megan: To the authors of Porn for Women:
 
     Your book features pictures of hot, clothed guys cooking, doing laundry and
     vacuuming.
@@ -25291,7 +25334,7 @@
     quake is shown, with the front edge of the wave of tweets surpassing it.]
 
     People outside this radius may get word of the quake via Twitter, IRC, or
-    SMS BEFORE the shaking hits.
+    SMS before the shaking hits.
 
     [Megan and Cueball are standing, holding cell phones. Megan is looking at
     hers.]
@@ -25478,7 +25521,7 @@
     third window, is wearing a cap and sunglasses. He looks at her with both his
     hands held in front of his mouth.]
 
-    Megan: Wooooooo
+    Megan: WOOOOOOO!
 '727':
   num: 727
   url: 'https://xkcd.com/727'
@@ -25765,8 +25808,8 @@
   month: '5'
   day: '7'
   transcript: >
-    [Cueball is holding a cup at arm's length. Waves of stink are rising from
-    it.]
+    [Cueball is holding a yogurt cup at arm's length. Waves of stink are rising
+    from it.]
 
     Cueball: Oh God, how old is this yogurt in your fridge?
 
@@ -26046,7 +26089,7 @@
     Doctor: Push!
     Doctor: Wait, that's... that's a tube.
     Doctor: It looks like the barrel of a...
-    Click
+    [A Click noise comes from Megan's vagina.]
     [A voice, that of the baby, comes from Megan's vagina.]
     Baby: Nobody move— This is a stick-up!
     Doctor: Oh, God! Stop pushing, Megan! Can you ... Pull?
@@ -26582,8 +26625,10 @@
     Black Hat is holding something in his left hand.]
 
     Black Hat: Did you know that if you stare at the sun just as it sets, you
-    can see a green flash? And feel a sharp blow to the head, and hear the faint
-    hum of me driving away in your new Tesla Roadster?
+    can see a green flash? 
+
+    Black Hat: And feel a sharp blow to the head, and hear the faint hum of me
+    driving away in your new Tesla Roadster?
 '767':
   num: 767
   url: 'https://xkcd.com/767'
@@ -26663,18 +26708,30 @@
   year: '2010'
   month: '7'
   day: '21'
-  transcript: |
-    [A soldier is on the ground behind a low wall, writing a letter.]
+  transcript: >
+    [A soldier is sitting on the ground behind a low wall, leaning against his
+    pack and writing a letter.]
+
     My Dearest Cordelia,
+
     it has been far too long since I last gazed
+
     upon your lithe and supple body through my
+
     telescopic sights, and I fear you may have
+
     found a superior vantage poin—
+
     BLAM! BLAM! BLAM!
+
     —a splendid effort, my love, but your shots
+
     find only a decoy, and reveal your position atop
+
     the maintenance shed.
+
     I pray this missive and my grenades find you well.
+
     War is hell.
 '770':
   num: 770
@@ -26972,9 +27029,9 @@
   transcript: >
     [There is an airport security checkpoint where a queue of ten passengers is
     waiting to go through a backscatter x-ray scanner. Near the back of the
-    line, Black Hat is standing next to a stand which says "Viagra $20". One
-    passenger next to him is drinking a glass of water, probably after having
-    taken pills; another is contemplating the sign.]
+    line, Black Hat is standing next to a stand and a sign which says "Viagra
+    $20". One passenger next to him is drinking a glass of water, probably after
+    having taken the pills; another is contemplating the sign.]
 
     Security Guard (thinking): Oh god.
 '780':
@@ -27560,7 +27617,7 @@
   month: '9'
   day: '17'
   transcript: >
-    [Two men with beards stand at a crude wooden counter, one is wearing a
+    [Two men with beards stand at a crude wooden counter. One is wearing a
     turban. Behind the man without a turban is a woman kneeling on the ground
     and putting something into a box.]
 
@@ -27568,10 +27625,11 @@
 
     No-turban: Too much? There's a monk out back with a ladder!
 
-    Ha ha ha ha ha ha ha ha
+    Ha Ha Ha Ha Ha Ha Ha
 
-    There's no reason to think that people throughout history didn't have just
-    as many inside jokes and catchphrases as any modern group of high-schoolers.
+    Caption: There's no reason to think that people throughout history didn't
+    have just as many inside jokes and catchphrases as any modern group of
+    high-schoolers.
 '795':
   num: 795
   url: 'https://xkcd.com/795'
@@ -28738,7 +28796,7 @@
   day: '23'
   transcript: >
     [Megan and Cueball are leaning against each other, sitting on top of a giant
-    moon in a black star dotted sky. Trees are visible towards the bottom of the
+    moon in a black, star dotted sky. Trees are visible on the bottom of the
     panel.]
 
     [The scene broadens.]
@@ -28750,7 +28808,7 @@
 
     [A rock hits a Cueball-like guy on the ground on the back of the head.]
 
-    [The guy clutches the back of his head.]
+    [The guy falls and clutches the back of his head.]
 
     [Back to the moon again, where Cueball is leaning his head against Megan
     while holding a slingshot]
@@ -28774,13 +28832,13 @@
 
     Jason: Hi, Mr. Munroe? I have a great idea! Let me draw some strips for you!
 
-    Mr. Munroe, through the telephone: Fat chance, kid.
+    Randall, through the telephone: Fat chance, kid.
 
     [Zoom in to Jason.]
 
     Jason: Sudo let me draw some strips for you.
 
-    [There follow three strips. These will be separated by double new lines.]
+    [There follow three strips. These are separated by double new lines.]
 
     [Cueball and Ponytail are looking at each other.]
 
@@ -29104,8 +29162,7 @@
     [Last panel set slightly lower than the rest.]
 
     [Cueball is in front of an open box full of cash, with cash in his hand. A
-    FedEx delivery guy is on the other side of the box with his little
-    electronic signing thing.]
+    FedEx delivery guy is on the other side of the box with his PDA and pen.]
 '828':
   num: 828
   url: 'https://xkcd.com/828'
@@ -29946,8 +30003,9 @@
     [A flowchart.]
 
     Na → Na → Na → Na → Na → Na → Na → Na (branches to "→ Hey → Hey → Goodbye"
-    and "→ Batman!") → Na → Na (branches to "Katamari Damacy!") → Na (arrow
-    labeled "Land of 1,000 Dances" that loops around to the last "Na" again)
+    and "→ Batman!") → Na → Na (branches to "Katamari Damacy!") [In fixed
+    version: → Na (branches to "→ Hey → Jude") ] → Na (arrow labeled "Land of
+    1,000 Dances" that loops around to the last "Na" again)
 '852':
   num: 852
   url: 'https://xkcd.com/852'
@@ -30197,7 +30255,7 @@
   transcript: |
     Cueball: In the words of Archimedes,
     Cueball: Give me a long enough lever and a place to rest it
-    Cueball [now holding a gun]: Or I will kill one hostage every hour.
+    Cueball: Or I will kill one hostage every hour.
 '858':
   num: 858
   url: 'https://xkcd.com/858'
@@ -30217,7 +30275,7 @@
     have to be lactating.
 
     [A beat passes.]
-
+     [In the third panel, Megan's legs are not seen, probably tucked under the armchair to feel more secure.]
     Cueball (thinking): Oh my god she's psychic.
 '859':
   num: 859
@@ -30231,7 +30289,7 @@
   month: '2'
   day: '11'
   transcript: >
-    [A frame with only text.]
+    [An oblong frame with text.]
 
     (An unmatched left parenthesis creates an unresolved tension that will stay
     with you all day.
@@ -30245,7 +30303,7 @@
   month: '2'
   day: '14'
   transcript: |
-    [Cueball brings in a pocket microscope.]
+    [Cueball walks toward Megan holding a pocket microscope.]
     Cueball: Check it out—a pocket microscope!
     Megan: Ooh! Let's look at stuff!
     [Cueball holds a pencil; Megan peers at a quarter through the microscope.]
@@ -30337,7 +30395,7 @@
     Luke (thinking): I should at least check Faceb... no. Screw it. I can't do
     my job when I'm distracting myself every five minutes like this.
 
-    [Two people before a battlefield screen.]
+    [Two people looking at a battlefield screen.]
 
     Cueball: His computer's off. Luke - You've switched off your targeting
     computer. What's wrong?
@@ -30824,7 +30882,7 @@
   month: '3'
   day: '23'
   transcript: >
-    [Cueball is on the phone.]
+    [Cueball is on a corded wall phone.]
 
     Cueball: Hello? 911? I'm trapped!
 
@@ -30838,6 +30896,8 @@
     Ponytail: Splotches of light? Your... eyeballs?
 
     Cueball (over phone): I think that's what they are! There's meat everywhere!
+
+    [Focus on Ponytail's head.]
 
     Ponytail: ...so you're a brain.
 
@@ -31230,8 +31290,7 @@
     to his jaw.]
 
     [Same image but Cueball appears to be shocked having taken both hands in
-    front of his mouth, four small lines coming out from the top of the back of
-    his head.]
+    front of his mouth, four small lines coming out from the top of his head.]
 
     [Zoom out again as Cueball huddles up on the table, legs all the way up to
     his chin, arms tightly folded around the knees. Ponytail leans back towards
@@ -31913,7 +31972,8 @@
 
     Ten hours later:
 
-    [Cueball is standing next to a pile of rubble, on the phone with a friend.]
+    [Cueball is standing to the left a pile of rubble, on the phone with a
+    friend.]
 
     Cueball: Can I come stay with you? My house has a... problem.
 
@@ -32608,8 +32668,8 @@
 
     Black Hat: I think they just got it backward.
 
-    [Black Hat turns towards Cueball, holding the laptop with one hand by the
-    upper edge of the screen.]
+    [Black Hat turns towards Cueball in an unframed panel, holding the laptop
+    with one hand by the upper edge of the screen. Cueball is not visible.]
 
     Cueball: Huh?
 
@@ -32784,7 +32844,8 @@
 
     Cueball: Universal adoption isn't everything. I mean, IRC is still—
 
-    [Zoom in on the basketball as an arrow pierces the ball.]
+    [Zoom in on the basketball as an arrow pierces the ball, forming a slight
+    depression.]
 
     Thunk
 
@@ -34226,12 +34287,12 @@
   month: '10'
   day: '21'
   transcript: >
-    [Megan and Cueball stand in a field of wheat. The figures are drawn in the
-    typical black and white stick figure style, but the field is immensely
-    detailed, with the grain coloured a rich amber and stroked such that
-    individual stalks can be picked out, with a few dark bands providing
-    contrast. In the distance a low mountain range is visible and in the sky a
-    few scattered fluffy white clouds float low over the horizon.]
+    [Megan and Cueball stand in a field of wheat, facing away from the panel.
+    The figures are drawn in the typical black and white stick figure style, but
+    the field is immensely detailed, with the grain coloured a rich amber and
+    stroked such that individual stalks can be picked out, with a few dark bands
+    providing contrast. In the distance a low mountain range is visible and in
+    the sky a few scattered fluffy white clouds float low over the horizon.]
 
     Megan: Well, when we observe them, they become amber particles of grain.
 '968':
@@ -34271,7 +34332,7 @@
   year: '2011'
   month: '10'
   day: '26'
-  transcript: "[A wardrobe, with a boat anchor attached to one corner, falling towards water.]\nQ = A * sqrt(2 * g * d)\nQ = flow rate\nA = area of opening\nd = ocean depth (2\_km)\ng = Earth gravity\nFlow: ~400,000 liters/s\nWater jet velocity: ~200 m/s\nThe White Witch didn't know what hit her.\n"
+  transcript: "[An open wardrobe, with a boat anchor attached to one corner, falling towards water.]\nQ = A * sqrt(2 * g * d)\nQ = flow rate\nA = area of opening\nd = ocean depth (2\_km)\ng = Earth gravity\nFlow: ~400,000 liters/s\nWater jet velocity: ~200 m/s\nThe White Witch didn't know what hit her.\n"
 '970':
   num: 970
   url: 'https://xkcd.com/970'
@@ -35273,8 +35334,8 @@
 
     [A month's set of birth control pills.]
 
-    PolyCystic Ovarian Syndrome Does Cause Problems That Judicious
-    Contraceptives Partially Negate
+    PolyCystic Ovarian Syndrome Does Cause Problems That Judicious Contraceptves
+    [sic] Partially Negate
 
     Resistor Color Codes
 
@@ -35471,7 +35532,7 @@
     Ponytail: This is so ridiculous.
 
     [Ponytail holds a purple bead necklace up in an outstretched arm. Megan
-    begin to disrobe, opening the dress at her neck pulling with both arms as
+    begins to disrobe, opening the dress at her neck pulling with both arms as
     shown with three sets of two small lines.]
 
     Ponytail: Here.
@@ -36222,7 +36283,7 @@
 
     [Close-up on the sheep-man's eye.]
 
-    TEN THOUSAND YEARS WE SLUMBERED... NOW WE RIIIIIIIISE baaaaaa
+    TEN THOUSAND YEARS WE SLUMBERED... NOW WE RIIIIIIIISE BAAAAAA
 
     [A clearly upset Megan goes up to Cueball, hands held out in front of her
     plaintively.]
@@ -36630,7 +36691,7 @@
   month: '2'
   day: '27'
   transcript: >
-    [Megan holds up an open and empty back with the white silhouette of a cats
+    [Megan holds up an open and empty bag with the white silhouette of a cat's
     face on it. Cueball looks down at the bag.]
 
     Megan: We ran out of cat food.
@@ -36960,7 +37021,7 @@
   year: '2012'
   month: '3'
   day: '19'
-  transcript: "[There are two browser windows open on a computer screen.]\n[The first browser window, taking up most of the screen, but partly blocked by the other window at the bottom, has a Wikipedia article open. The title of the page can be seen on the active tab]\nComputer leopard - Wikip...\n[Next to the address bar are four add-ons and the toolbar icon. One of the add-ons is a letter:]\nR\n[To the left on the page are standard menus, with lots of unreadable text, except these words:]\nHelp\nGo Search\n[The page is not at the top of the article, so the text begins mid sentence, the very top of the letters just cut of in the first visible sentence.]\nwhich range from pocket-sized leopards to large desktop leopards, the leopard remains the most common user input device. In addition to text entry, specialized leopards are used for computer gaming. \nWhile many computer interfaces rely on mice or touchscreens, UNIX-style command-line interfaces require users to interact with a leopard.\n[Below is the contents list - the text in the brackets can barely be read. And only the very top of the 2.3 line can be seen, and is thus only a qualified guess at what it was supposed to say, although it fits with the real wiki article.]\nContents (hide)\n1. History\n2. Leopard types\n2.1 Standard\n2.2 Laptop-sized\n2.3 Thumb-sized\n\n[To the right there is a picture of a keyboard. The picture text written below:]\nIBM Model M Leopard\n[The second browser window overlapping the first, at the level of the 2.3 menu point in the contest menu, is a message board. The title of the page can be seen on the active tab:]\nDiscuss - Leopard issu...\n[Next to the address bar are four add-ons and the toolbar icon. One of the add-ons is a letter:]\nR\n[In the window there is a list of topics next to icons of those starting the topic. The top post is just inside the frame, the icon cut of at the very top.]\n[Face of Cueball-like guy on white background:]\nWeird, my leopard just switched to Chinese.\n3 days ago\n\n[Super close-up of the head of a person with dark hair on black background:]\nI work with one leopard on my desk and another in the leopard tray.\n3 days ago\n\n[Full picture of a Cueball-like guy, with white background in the bottom half and dark in the upper half (which would conceal any hair on the persons head):]\nEver cleaned a leopard? They're filthy.\n2 days ago\n\n[Head of a cat on black background:]\nThe iPhone virtual leopard is the fastest IMO.\n19 hours ago\n\n[Head of a girl with long blond hair on white background:]\nI rarely email from my phone—I'm so slow when I'm not on a leopard.\n11 hours ago\n\n[Head of Cueball-like guy. A line seems to be going our from his head, but it could just be one of the lines used to fill in the background:]\nMy leopard died when I spilled tea on it\_:(\n2 hours ago\n\n[Below the main panel of the comic is the following caption:]\nThe Internet got 100 times better when, thanks to an extension with a typo'd regex, my browser started replacing the word \"keyboard\" with \"leopard\".\n"
+  transcript: "[There are two browser windows open on a computer screen.]\n[The first browser window, taking up most of the screen, but partly blocked by the other window at the bottom, has a Wikipedia article open. The title of the page can be seen on the active tab]\nComputer leopard - Wikip...\n[Next to the address bar are four add-ons and the toolbar icon. One of the add-ons is a letter:]\nR\n[To the left on the page are standard menus, with lots of unreadable text, except these words:]\nHelp\nGo Search\n[The page is not at the top of the article, so the text begins mid sentence, the very top of the letters just cut of in the first visible sentence.]\nwhich range from pocket-sized leopards to large desktop leopards, the leopard remains the most common user input device. In addition to text entry, specialized leopards are used for computer gaming. \nWhile many computer interfaces rely on mice or touchscreens, UNIX-style command-line interfaces require users to interact with a leopard.\n[Below is the contents list - the text in the brackets can barely be read. And only the very top of the 2.3 line can be seen, and is thus only a qualified guess at what it was supposed to say, although it fits with the real wiki article.]\nContents [hide]\n1. History\n2. Leopard types\n2.1 Standard\n2.2 Laptop-sized\n2.3 Thumb-sized\n\n[To the right there is a picture of a keyboard. The picture text written below:]\nIBM Model M Leopard\n[The second browser window overlapping the first, at the level of the 2.3 menu point in the contest menu, is a message board. The title of the page can be seen on the active tab:]\nDiscuss - Leopard issu...\n[Next to the address bar are four add-ons and the toolbar icon. One of the add-ons is a letter:]\nR\n[In the window there is a list of topics next to icons of those starting the topic. The top post is just inside the frame, the icon cut of at the very top.]\n[Face of Cueball-like guy on white background:]\nWeird, my leopard just switched to Chinese.\n3 days ago\n\n[Super close-up of the head of a person with dark hair on black background:]\nI work with one leopard on my desk and another in the leopard tray.\n3 days ago\n\n[Full picture of a Cueball-like guy, with white background in the bottom half and dark in the upper half (which would conceal any hair on the persons head):]\nEver cleaned a leopard? They're filthy.\n2 days ago\n\n[Head of a cat on black background:]\nThe iPhone virtual leopard is the fastest IMO.\n19 hours ago\n\n[Head of a girl with long blond hair on white background:]\nI rarely email from my phone—I'm so slow when I'm not on a leopard.\n11 hours ago\n\n[Head of Cueball-like guy. A line seems to be going our from his head, but it could just be one of the lines used to fill in the background:]\nMy leopard died when I spilled tea on it\_:(\n2 hours ago\n\n[Below the main panel of the comic is the following caption:]\nThe Internet got 100 times better when, thanks to an extension with a typo'd regex, my browser started replacing the word \"keyboard\" with \"leopard\".\n"
 '1032':
   num: 1032
   url: 'https://xkcd.com/1032'
@@ -36977,40 +37038,40 @@
     Beret Guy is holding a metal briefcase. Ponytail is a waitress in the
     background, carrying a tray with a wine glass on it.]
 
-    Man: I'm Connr Clark, CTO at Eusocial Media Ventures.
+    Connr: I'm Connr Clark, CTO at Eusocial Media Ventures.
 
     Beret Guy: I'm a business professional! Earlier I photocopied a burrito!
 
-    [The man hands Beret Guy a business card. Beret Guy takes it and hands the
-    man another business card. Beret Guy has put his suitcase on the floor.]
+    [Connr hands Beret Guy a business card. Beret Guy takes it and hands Connr
+    another business card. Beret Guy has put his suitcase on the floor.]
 
-    Man: You should check us out! Here's my card.
+    Connr: You should check us out! Here's my card.
 
     Beret Guy: Here's mine! Networking!
 
-    [The man takes a closer look at the card, and Beret Guy holds up his case.]
+    [Connr takes a closer look at the card, and Beret Guy holds up his case.]
 
-    Man: ...this just says "This is my business card!"
+    Connr: ...this just says "This is my business card!"
 
     Beret Guy: Do you like it? I have more in my handlebox.
 
     [Beret Guy puts his case on a table and opens it to reveal it is full of
-    cash. The man looks on in shock.]
+    cash. Connr looks on in shock.]
 
-    Man: Uh, that's ok, I think I'll— 
+    Connr: Uh, that's ok, I think I'll— 
 
     Beret Guy: Here, have ten of them!
 
-    Man: —holy shit that thing is full of cash!
+    Connr: —holy shit that thing is full of cash!
 
-    [The man raises his arms in excitement. Beret Guy turns to face him and
-    chews on the man's business card.]
+    [Connr raises his arms in excitement. Beret Guy turns to face him and chews
+    on Connr's business card.]
 
-    Man: Where did you get that?
+    Connr: Where did you get that?
 
     Beret Guy: I am a business grown-up who makes business profits!
 
-    Man: That's like a quarter of a million dollars!
+    Connr: That's like a quarter of a million dollars!
 
     Beret Guy: Yay! Business is fun! Do you have more of your cards? They're
     delicious!
@@ -37027,7 +37088,7 @@
   day: '23'
   transcript: >
     [The rear end of a car (with an unreadable license plate), with a bumper
-    sticker over the tailpipe to the right:]
+    sticker above the tailpipe to the right:]
 
     Honk iff you love 
 
@@ -37122,7 +37183,7 @@
     [Cueball and Megan stand in a store looking at a lamp that Cueball points at
     on a table in front of them. There is another table behind them with another
     lamp and next to it stands a box with a picture of yet a different type of
-    lamp in the bottom right corner. Both lamps have a prize tag dangling from
+    lamp in the bottom right corner. Both lamps have a price tag dangling from
     their shade. Above them (and their spoken text) is a frame with a caption:]
 
     Shopping before online reviews:
@@ -37158,7 +37219,7 @@
 
     Cueball: What about- ...no, review points out it resembles a uterus.
 
-    [Cueball is holding hos smartphone up in front of his face, Megan, looking
+    [Cueball is holding his smartphone up in front of his face, Megan, looking
     at him, is holding her smartphone but has her arms down. There are no lamps
     shown.]
 
@@ -39147,7 +39208,8 @@
 
     Black Hat: Fine, fine, I get it! Calm down. BRB, killing Hitler.
 
-    [Black Hat returns and shuts the door, Cueball has outstretched arms.]
+    [Black Hat returns, shutting the door with one hand. Cueball has
+    outstretched arms.]
 
     Black Hat: There. Done. Are you happy? 
 
@@ -39212,8 +39274,8 @@
 
     Voice: For saving my kingdom, I offer you a gift of great power.
 
-    [Cueball puts down his sword, and the box opens, a glow emanating from
-    within.]
+    [Cueball's sword is now propped up against the right edge of the panel. The
+    box opens, a glow emanating from within.]
 
     Voice: These magic shoes enable the wearer to outrun death itself.
 
@@ -39223,7 +39285,8 @@
 
     Cueball: Whoa, wait. They have those creepy individual toes.
 
-    [Cueball puts the shoes back in the box.]
+    [Cueball puts the shoes back in the still-hovering box. The sword cannot be
+    seen.]
 
     Voice: But they make you immortal.
 
@@ -39454,7 +39517,7 @@
     Cueball: I don't know. They didn't leave a message.
     Out-of-panel: Weird.
     1974:
-    [Person in bell bottoms looking at a rotary phone receiver.]
+    [Person in bell bottoms looking at a rotary phone receiver, has no jacket.]
     Voicemail service: If you'd like to leave a message, press "1".
 '1073':
   num: 1073
@@ -39975,10 +40038,10 @@
 
 
 
-    Wisher
-
-
     Jan-Apr 2012
+
+
+    [a picture of Black Hat is above text saying Wisher]
 
 
 
@@ -40309,7 +40372,7 @@
     2013: The Carter presidency
     2014: The Reagan shooting
     2015: The Falkland Islands war
-    2016: The return of the Jedirelease
+    2016: The return of the Jedi release
     2017: The first Apple Macintosh
     2018: New Coke
     2019: Challenger
@@ -41444,8 +41507,8 @@
   month: '10'
   day: '24'
   transcript: >
-    [View of a car mirror that reads "Objects in mirror are bluer than they
-    appear."]
+    [View of a car mirror and outside view of landscape, with clods and
+    mountains. The mirror reads "Objects in mirror are bluer than they appear."]
 
     Edwin Hubble's car
 '1126':
@@ -42071,7 +42134,11 @@
     [Randall's wife is sitting at a desk with her laptop standing on top of two
     books. Her hair has grown back a little more. Randall stands behind her.]
 
-    Randall: Hey— you're doing science, and you're still alive.
+    Randall: Hey— 
+
+    Randall: you're doing science, 
+
+    Randall: and you're still alive.
 
     Randall's wife: Yeah!
 
@@ -43295,7 +43362,7 @@
   month: '3'
   day: '18'
   transcript: >
-    [A car is crushed in a large black clamp.]
+    [A gray car is crushed in a large black clamp.]
 
     Whenever someone uploads a letterboxed 16:9 video rescaled to 4:3, I do this
     to their car.
@@ -43536,20 +43603,44 @@
   month: '4'
   day: '12'
   transcript: >
-    [Cueball is wearing earmuffs and goggles, armed with a gun and a rock
-    hammer. There are rocks nearby. There is a van in the background labeled
-    "Dept. of Geology".]
+    [Cueball, wearing earmuffs and goggles and holding a gun and a rock hammer
+    in his hands, is walking away from his van in the background towards a group
+    of rocks. The largest of these rocks is almost as tall as Cueball, but five
+    smaller rocks are scattered on the ground, with a bit of grass growing at
+    their bases. The van has text on it's side:]
 
-    [Cueball shoots three holes in the ground.]
+    Dept. of 
 
-    BLAM BLAM BLAM
+    Geology
 
-    [Cueball hacks away at the top of a nearby rock.]
+    [Zoom in on Cueball close to the base of the largest rock. He has put the
+    rock hammer on the ground next to him and aims his gun at the ground and
+    shoots three holes in the earth, the last hole is just forming, as smoke
+    comes out of the end of the gun.]
+
+    Blam Blam Blam
+
+    [Zoom out again with Cueball hacking away at the top of tallest rock
+    formation with his rock hammer. The gun has been left near the three holes
+    in the ground. The van can again be seen as can most of the text.]
 
     Clink Clink
 
-    [Cueball in his office. Behind him on a wall is a rock, labeled "Earth" and
-    "4,500,000,000 BCE - April 12, 2013".]
+    ept. of 
+
+    ology
+
+    [Cueball, without his head gear, sits at his desk in his office reading a
+    piece of paper he holds in his hands. Three other papers are lying on the
+    otherwise empty desk. Behind him various items hangs on the wall most likely
+    images and diplomas etc. One of them is blank, two looks like images, and
+    four has unreadable text. The last item is the top of the rock that he just
+    chipped of in the previous frame. It has been attached to a mount as a
+    hunting trophy. Above and below there are labels:]
+
+    Earth
+
+    4,500,000,000 BCE - April 12, 2013
 '1199':
   num: 1199
   url: 'https://xkcd.com/1199'
@@ -44005,7 +44096,7 @@
 
     [A frame-less panel pans to Black Hat and his desk, showing there is a
     computer on his desk and that he is actually typing on a keyboard in front
-    of him on a lowered shelve.]
+    of him on a lowered shelf.]
 
     Black Hat: Yeah, me too.
 
@@ -44105,6 +44196,8 @@
   month: '5'
   day: '20'
   transcript: >
+    [Cueball is using a laptop, playing a game.]
+
     Cueball: This one's easy; There's the Parthenon. Athens.
      *CLICK*
     Cueball: What!? Why the hell is there a Parthenon in Nashville?
@@ -44972,7 +45065,7 @@
     probability I'm near the ocean all divided by the probability I picked up a
     seashell.
 
-    [Cueball holds a seashell and stands to the left of the panel, to the right
+    [Cueball holds a seashell and stands to the left of the panel, to the right,
     a few birds are flying around and the sound of a wave crashing against the
     shore is depicted.]
 
@@ -45114,11 +45207,11 @@
   month: '7'
   day: '24'
   transcript: >
-    [A scatter-plot, with 12 labeled dots. Both axis are labeled. The dots are
-    scattered from left to right and top to bottom. Below all labels are given,
-    first for the axis, and then for each dot in approximately normal reading
-    order, left to right top to bottom, but in the order it would make sense to
-    read them:]
+    [A scatter-plot, with 12 labeled dots. Both axis are labeled but neither has
+    an arrow at its end. The dots are scattered from left to right and top to
+    bottom. Below all labels are given, first for the axis, and then for each
+    dot in approximately normal reading order, left to right top to bottom, but
+    in the order it would make sense to read them:]
 
     Y-axis: Scariness of name
 
@@ -45177,8 +45270,9 @@
 
     Cueball: ...are you planning on catching the International Space Station?
 
-    Black Hat: I'm planning to catch an international space station. Not sayin'
-    which.
+    Black Hat: I'm planning to catch an international space station. 
+
+    Black Hat: Not sayin' which.
 '1244':
   num: 1244
   url: 'https://xkcd.com/1244'
@@ -46315,10 +46409,10 @@
 
     You can't convince anyone this is weird.
 
-    [Megan is holding a very large spider, with a similar spider before her on
-    the ground, and Cueball is standing behind her, leaning away with his hands
-    out to each side shocked, as shown with three small lines going out from his
-    head.]
+    [Megan is holding a very large spider, with another similar spider before
+    her on the ground, and Cueball is standing behind her, leaning away with his
+    hands out to each side shocked, as shown with three small lines going out
+    from his head.]
 
     Megan: Mmm...
 
@@ -47145,7 +47239,7 @@
   transcript: >
     [On the left is a "forbidden"-style slashed circle with the π symbol,
     captioned "Pi". On the right is a "forbidden"-style slashed circle with 2π,
-    captioned "Tau". In the middle it reads 1.5π, captioned "Pau".]
+    captioned "Tau". Between these is 1.5π, captioned "Pau".]
 
     A compromise solution to the Pi/Tau dispute
 '1293':
@@ -47357,7 +47451,8 @@
   month: '12'
   day: '6'
   transcript: >
-    [Megan approaches Cueball, orbited by four small floating balls.]
+    [Megan, who is being orbited by four small floating balls, approaches
+    Cueball.]
 
     Megan: Check it out!
 
@@ -47444,9 +47539,9 @@
 
     Trustworthiness of Information by File Extension
 
-    [A line is going down and from that gray bars is charting the
-    trustworthiness in a bar graph that goes both left and right of the line. No
-    units or figures are given. For ease of comprehension this transcript will
+    [A line is going down and from that gray bars charting the trustworthiness
+    in a bar graph that goes both left and right of the line. No units or
+    figures are given. For ease of comprehension this transcript will
     arbitrarily designate the highest score as [+100]; subsequent scores are
     estimates based on the size of their bars.]
 
@@ -48017,13 +48112,13 @@
 
     Cueball: Oh, come on.
 
-    [We zoom on their faces.]
+    [Only both  their faces.]
 
     Cueball: Trying to take a picture of a thing makes me pay more attention to
     it. Some of my best adventures are built around trying to photograph
     something.
 
-    [We just see Cueball's face.]
+    [The panel zooms in on Cueball's face.]
 
     Cueball: If "other people having experiences incorrectly" is annoying to
     you, think how unbearable it must be to have a condescending stranger tell
@@ -48031,9 +48126,13 @@
     you've found something you want to remember. Why the fuck do you care how
     someone else enjoys a sunset?
 
-    [We zoom back out.]
+    [Zoom back out.]
 
-    White Hat: Well, they... Because I just, uh... ...
+    White Hat: Well, they... 
+
+    White Hat: Because I just, uh... 
+
+    White Hat: ...
 
     [Cueball takes out a camera.]
 
@@ -48566,7 +48665,11 @@
 
     Cueball: Why are you up there?
 
-    Megan: I'm stuck. This plate looks delicious. Aaaoogaoag.
+    Megan: I'm stuck.
+
+    Megan: This plate looks delicious.
+
+    Megan: Aaaoogaoag.
 
     [Megan has put the plate down and walked off-panel.]
 
@@ -49359,13 +49462,13 @@
 
     Megan (off-screen):
 
-    Violets are red.
+    Violets are red
 
     [An image of a rose that is colored blue.]
 
     Megan (off-screen):
 
-    And roses are blue.
+    And roses are blue
 
     [Megan and Cueball are standing around a table, on which a screen is in
     front of the rose and violet. Megan is in front of a lectern with a mic. All
@@ -50166,9 +50269,10 @@
     iPhone screen shot can be seen with icons both left, center and right. To
     the right the charge icon battery shows a very low charge, indicated with a
     small red line at the bottom of the battery. Around this low charged battery
-    icon there is drawn a large red circle like spiral and four exclamation
-    marks are written above this. The only thing that can be read in the picture
-    is the charge percentage:]
+    icon there is drawn a large red circle like spiral, circling the battery
+    symbol two or three times, and four exclamation marks are written above
+    this. The only thing that can be read in the picture is the charge
+    percentage:]
 
     !!!!
 
@@ -50642,8 +50746,8 @@
     Cueball: Stop it! Stop it!
 
     [Beret Guy is waist-deep, and snow caps have formed on the mountains.
-    Cueball is falling backwards from his desk, and the monitor unplugs itself
-    from his computer.]
+    Cueball is falling backwards from his desk and out of his chair, and the
+    monitor unplugs itself from his computer.]
 
     Cueball: Augh!
 '1389':
@@ -51055,8 +51159,8 @@
   month: '7'
   day: '16'
   transcript: >
-    [Beret Guy enters to find Cueball typing on a laptop. Cueball's power cord
-    is unplugged from the wall.]
+    [Beret Guy enters to find Cueball on a chair typing on a laptop. Cueball's
+    power cord is unplugged from the wall.]
 
     Cueball typing: Type type
 
@@ -51071,8 +51175,8 @@
 
     Laptop: FOOMP
 
-    [Beret Guy walks away, leaving Cueball scrambling to retrieve his inflated
-    laptop which is now floating away.]
+    [Beret Guy walks away, leaving Cueball climbing up his chair to retrieve his
+    inflated laptop which is now floating away.]
 '1396':
   num: 1396
   url: 'https://xkcd.com/1396'
@@ -53127,11 +53231,13 @@
   day: '17'
   transcript: |
     [A piece of paper.]
-    DEAR ISAAC
-    DO YOU LIKE ME?
-    □ YES
-    □ NO
-    ☒ there is as yet insufficient data for a meaningful answer
+    Dear Issac
+    Do you like me?
+    □ Yes
+    □ No
+    ☒ there is as yet
+    insufficient data for
+    a meaningful answer
 '1449':
   num: 1449
   url: 'https://xkcd.com/1449'
@@ -53452,7 +53558,7 @@
 
     Ben Kenobi: That's no moon - it's a space station.
 
-    Luke Skywalker: It's too big to be a space station.
+    Han Solo: It's too big to be a space station.
 
     Ben Kenobi: But it's too small to be a moon.
 
@@ -54045,8 +54151,8 @@
   month: '1'
   day: '7'
   transcript: >
-    [Ponytail, Megan, and Cueball are standing around a whiteboard. The
-    whiteboard on easel reads:]
+    [Ponytail, Megan, and Cueball are standing around a whiteboard, holding
+    markers. The whiteboard on easel reads:]
 
     Kix
 
@@ -54724,7 +54830,7 @@
 
     A Friendship is a close non-romantic relationship between two (or more) men,
     a form of affectional or homosocial intimacy.[1]
-     Contents [Hide]
+     Contents [hide]
     1 Etymology
 
     2 Characteristics
@@ -54779,7 +54885,7 @@
     Historical and political friendships
 
     Politically, the relationship between Bill Clinton and Al Gore has been
-    called a precursor to the friendship.[6] The relationship between George W
+    called a precursor to the friendship.[6] The relationship between George W.
     Bush and former press
 
     [Below the extracts is this caption:]
@@ -55526,8 +55632,8 @@
     Ponytail [pointing to her face with both hands]: I'm doing an art project
     where you can come to my house and watch my actual face age in real time.
 
-    Girl with long black hair: I'm doing an art project where you all do those
-    things while I eat a burrito.
+    Girl with long black hair [holding a burrito]: I'm doing an art project
+    where you all do those things while I eat a burrito.
 '1497':
   num: 1497
   url: 'https://xkcd.com/1497'
@@ -56756,7 +56862,7 @@
     coastal city with skyscrapers. The A's are cut of on each side of the panels
     frames, i.e. they begin outside and finishes outside the frame.]
 
-    Aaaaaaaa
+    AAAAAAAA
 
     [Back to Cueball standing with the Basketball Earth in the same position as
     the first panel.]
@@ -58308,7 +58414,59 @@
   year: '2015'
   month: '7'
   day: '10'
-  transcript: ''
+  transcript: >
+    [An image of a smartphone lying down, with many labels pointing to it. There
+    is a black stripe across the top left corner of the phone. At the top right
+    something is protruding from the side, like a volume control. There is a
+    wrist band (only partly shown) attached to the middle of each side of the
+    phone. Above the screen are several small features, below only a central
+    square and on the bottom a socket. Clockwise from the top left the labels
+    read:]
+
+    2 AA batteries 
+
+    (not included)
+
+    Boneless
+
+    Ear screen
+
+    Heartbeat accelerator
+
+    MobilePay money clip
+
+    Siri, or whoever it was we put in here
+
+    Instead of being on surface only, screen goes all the way through
+
+    theknot.com partnership: Phone licensed to perform wedding ceremonies and
+    does so at random
+
+    Fingerprint randomizer
+
+    USB E 
+
+    (hotswappable)
+
+    Waterproof, but can drown
+
+    Foretold by prophecy
+
+    Runs natively
+
+    Wristband
+
+    Wireless discharging
+
+    Magnetic stripe
+
+    [Below the phone:]
+
+    Introducing
+
+    The XKCD Phone 3
+
+    We made another one®©™
 '1550':
   num: 1550
   url: 'https://xkcd.com/1550'
@@ -58490,7 +58648,7 @@
   year: '2015'
   month: '7'
   day: '24'
-  transcript: "[Black Hat points with a stick at a slide showing an image of a planet with unknown features marked by questions marks.]\nKepler-452b\nBlack Hat: NASA has announced the discovery of a (super-)Earth-sized planet in the habitable zone of a sun-like star.\nBlack Hat: I suggest we name this planet \"Pluto\", both to celebrate the great work by the New Horizons team, and to make the stupid \"Is Pluto a planet\" debate a little more confusing\nWhile we wait to hear from the IAU,\nhere's a revised and updated list of\nplanet name suggestions (see xkcd.com/1253)\nNew or updated entries in red\n[The table is in three separate columns. There is a small arrow pointing at the second column, named \"Planet\", indicating the planet's name corresponding to the star at the first row. The third column shows the planet name suggestions.]\n\n\n Star \n Planet \n Suggested Name\n\n\nGliese 667\nb\nSpace Planet\n\n\nc\nPILF\n\n\nd\nA Star\n\n\ne\ne'); DROP TABLE PLANETS;--\n\n\nf\nBlogosphere\n\n\ng\nBlogodrome\n\n\nh\nEarth\n\n\nTau Ceti\nb\nSid Meier's Tau Ceti B\n\n\nc\nGiant Dog Planet\n\n\nd\nTiny Dog Planet\n\n\ne\nPhil Plainet\n\n\nf\nUnicode Snowman\n\n\nGliese 832\nb\nAsshole Jupiter\n\n\nc\nWaterworld starring Kevin Costner\n\n\nGliese 581\nb\nWaist-deep Cats\n\n\nc\nPlanet #14\n\n\nd\nBallderaan\n\n\ne\nEternia Prime\n\n\nf\nTaupe Mars\n\n\ng\nJelly-Filled Planet\n\n\nEpsilon Eridani\nb\nSkydot\n\n\nc\nLaser Noises\n\n\nGliese 176\nb\nPandora\n\n\nc\nPantera\n\n\nKepler-61\nb\nGoldenPalace.com\n\n\nGroombridge 34A\nb\nHot Mess\n\n\nKepler-442\nb\nSeas of Toothpaste\n\n\nGliese-442\nb\nThis one weird planet\n\n\nEPIC-201367065\nb\nSulawesi\n\n\nc\nHuge Soccer Ball\n\n\nd\nGeodude\n\n\nKepler-296\nb\nKerbal Space Planet\n\n\nc\nA$aplanet\n\n\nd\nJurassic World\n\n\ne\nThis Land\n\n\nf\nSpringfield\n\n\nHR 7722\nb\nBetelgeuse\n\n\nc\nBeetlejuice\n\n\nEPIC 201912552\nb\nNetherlands VI\n\n\nGliese 3293\nb\nAntispit\n\n\nc\nGoogle Earth\n\n\nd\nPlanet of the Apes (Disambiguation)\n\n\nKepler-283\nb\nˈjʊərənəs\n\n\nc\njʊˈreɪnəs\n\n\nUpsilon Andromedae\nb\nFourthmeal\n\n\nc\nStampy\n\n\nd\nMoonchild\n\n\ne\nHam Sphere\n\n\nHD 20794\nb\nCosmic Sands\n\n\nc\nLegoland\n\n\nd\nPlanet with Arms\n\n\nHD 85512\nb\nLax Morality\n\n\nHD 40307\nb\nGood Planet\n\n\nc\nProblemland\n\n\nd\nSlickle\n\n\ne\nSpare Parts\n\n\nf\nNew Jersey VI\n\n\ng\nHow Do I Join the IAU\n\n\nGliese 163\nb\nNeil Tyson's Mustache\n\n\nc\n[email\_protected]\n\n\nd\nHair-Covered Planet\n\n\nPi Mensae\nb\nMoon Holder\n\n\nHD 189733\nb\nPermadeath\n\n\nKepler-22\nb\nBlue Ivy\n\n\nKOI-2474\nb\nStore-Brand Earth\n\n\nKepler-437\nb\nUnicorn Thresher\n\n\nKOI-2418\nb\nSpherical Discworld\n\n\nKepler-438\nb\nEmergency Backup Earth\n\n\nKOI-3010\nb\nFeeeoooooooop\n\n\nKepler-442\nb\nLiz\n\n\n82 Eridani \nb \nHorsemeat Surface \n\n\nc \nThe Moon \n\n\nd \nConstant Saxophones \n\n\nHD 102365 \nb \nLittle Big Planet \n\n\nGliese 180 \nb \nDune \n\n\nc \nArrakis \n\n\nFomalhaut \nb \nSwarm of Bees \n\n\nKepler-62 \nb \nSporty \n\n\nc \nBaby \n\n\nd \nScary \n\n\ne \nGinger \n\n\nf \nPosh \n\n\nHD 69830 \nb \nPlanet.xxx \n\n\nc \nNovella \n\n\nd \nSexoplanet \n\n\nGliese 682 \nb \nVerdant Hellscape \n\n\nc \nUnsubscribe \n\n\nKepler-452 \nb \nPluto \n"
+  transcript: "[Black Hat points with a stick at a slide showing an image of a planet with unknown features marked by questions marks.]\nKepler-452b\nBlack Hat: NASA has announced the discovery of a (super-)Earth-sized planet in the habitable zone of a sun-like star.\nBlack Hat: I suggest we name this planet \"Pluto\", both to celebrate the great work by the New Horizons team, and to make the stupid \"Is Pluto a planet\" debate a little more confusing\nWhile we wait to hear from the IAU,\nhere's a revised and updated list of\nplanet name suggestions (see xkcd.com/1253)\nNew or updated entries in red\n[The table is in three separate columns. There is a small arrow pointing at the second column, named \"Planet\", indicating the planet's name corresponding to the star at the first row. The third column shows the planet name suggestions.]\n\n\n Star \n Planet \n Suggested Name\n\n\nGliese 667\nb\nSpace Planet\n\n\nc\nPILF\n\n\nd\nA Star\n\n\ne\ne'); DROP TABLE PLANETS;--\n\n\nf\nBlogosphere\n\n\ng\nBlogodrome\n\n\nh\nEarth\n\n\nTau Ceti\nb\nSid Meier's Tau Ceti B\n\n\nc\nGiant Dog Planet\n\n\nd\nTiny Dog Planet\n\n\ne\nPhil Plainet\n\n\nf\nUnicode Snowman\n\n\nGliese 832\nb\nAsshole Jupiter\n\n\nc\nWaterworld starring Kevin Costner\n\n\nGliese 581\nb\nWaist-deep Cats\n\n\nc\nPlanet #14\n\n\nd\nBallderaan\n\n\ne\nEternia Prime\n\n\nf\nTaupe Mars\n\n\ng\nJelly-Filled Planet\n\n\nEpsilon Eridani\nb\nSkydot\n\n\nc\nLaser Noises\n\n\nGliese 176\nb\nPandora\n\n\nc\nPantera\n\n\nKepler-61\nb\nGoldenPalace.com\n\n\nGroombridge 34A\nb\nHot Mess\n\n\nKepler-442\nb\nSeas of Toothpaste\n\n\nGliese-442\nb\nThis one weird planet\n\n\nEPIC-201367065\nb\nSulawesi\n\n\nc\nHuge Soccer Ball\n\n\nd\nGeodude\n\n\nKepler-296\nb\nKerbal Space Planet\n\n\nc\nA$aplanet\n\n\nd\nJurassic World\n\n\ne\nThis Land\n\n\nf\nSpringfield\n\n\nHR 7722\nb\nBetelgeuse\n\n\nc\nBeetlejuice\n\n\nEPIC 201912552\nb\nNetherlands VI\n\n\nGliese 3293\nb\nAntispit\n\n\nc\nGoogle Earth\n\n\nd\nPlanet of the Apes (Disambiguation)\n\n\nKepler-283\nb\nˈjʊərənəs\n\n\nc\njʊˈreɪnəs\n\n\nUpsilon Andromedae\nb\nFourthmeal\n\n\nc\nStampy\n\n\nd\nMoonchild\n\n\ne\nHam Sphere\n\n\nHD 20794\nb\nCosmic Sands\n\n\nc\nLegoland\n\n\nd\nPlanet with Arms\n\n\nHD 85512\nb\nLax Morality\n\n\nHD 40307\nb\nGood Planet\n\n\nc\nProblemland\n\n\nd\nSlickle\n\n\ne\nSpare Parts\n\n\nf\nNew Jersey VI\n\n\ng\nHow Do I Join the IAU\n\n\nGliese 163\nb\nNeil Tyson's Mustache\n\n\nc\n[email\_protected]m\n\n\nd\nHair-Covered Planet\n\n\nPi Mensae\nb\nMoon Holder\n\n\nHD 189733\nb\nPermadeath\n\n\nKepler-22\nb\nBlue Ivy\n\n\nKOI-2474\nb\nStore-Brand Earth\n\n\nKepler-437\nb\nUnicorn Thresher\n\n\nKOI-2418\nb\nSpherical Discworld\n\n\nKepler-438\nb\nEmergency Backup Earth\n\n\nKOI-3010\nb\nFeeeoooooooop\n\n\nKepler-442\nb\nLiz\n\n\n82 Eridani \nb \nHorsemeat Surface \n\n\nc \nThe Moon \n\n\nd \nConstant Saxophones \n\n\nHD 102365 \nb \nLittle Big Planet \n\n\nGliese 180 \nb \nDune \n\n\nc \nArrakis \n\n\nFomalhaut \nb \nSwarm of Bees \n\n\nKepler-62 \nb \nSporty \n\n\nc \nBaby \n\n\nd \nScary \n\n\ne \nGinger \n\n\nf \nPosh \n\n\nHD 69830 \nb \nPlanet.xxx \n\n\nc \nNovella \n\n\nd \nSexoplanet \n\n\nGliese 682 \nb \nVerdant Hellscape \n\n\nc \nUnsubscribe \n\n\nKepler-452 \nb \nPluto \n"
 '1556':
   num: 1556
   url: 'https://xkcd.com/1556'
@@ -58573,7 +58731,8 @@
     Megan: You're right. It's wrong to keep a beautiful creature like this in a
     house.
 
-    [Megan is outside left to a tree, encouraging the Roomba to drive away.]
+    [Megan is outside left to a tree, arms up in the air, encouraging the Roomba
+    to drive away.]
 
     Megan: Go! 
 
@@ -58852,7 +59011,8 @@
   month: '8'
   day: '21'
   transcript: >
-    [Cueball at a kitchen counter, holding a meat thermometer.]
+    [Cueball at a kitchen counter, with various items, holding a meat
+    thermometer.]
 
     Cueball: If you're anything like me, you may have trouble telling when meat
     is fully cooked.
@@ -59010,7 +59170,7 @@
   transcript: >
     [An white frame with text inside an underbrace and an overbrace.]
 
-    An engineer syllogism.
+    An engineer syllogism
 
     [Cueball is at his desk in front of his computer, with his hands on his
     knees, thinking.]
@@ -59023,7 +59183,7 @@
 
     [Cueball lifts both arms from his legs, still thinking.]
 
-    Cueball, thinking: 3: Therefore I-- Wow, where did all my money just go?
+    Cueball, thinking: 3: Therefore I— Wow, where did all my money just go?
 '1571':
   num: 1571
   url: 'https://xkcd.com/1571'
@@ -63209,7 +63369,7 @@
   year: '2016'
   month: '2'
   day: '5'
-  transcript: "[Cueball is standing near a stove holding a pot just above it. He is looking away from the stove, reading the recipe from a piece of paper he is holding in the other hand.]\nRecipe: ...And add sugar to taste.\n[Cueball has placed the pot on the stove looking at it while holding the paper down along his side.]\nCueball:\_??\n[Cueball leaves the pot and stove to walks off-panel left with the recipe.]\n[Cueball returns backing up to the stove with a dolly loaded with three crates with labels. The bottom crate is still not fully inside the panel and the first letter cannot be seen.]\nSugar\nSugar\nugar\n"
+  transcript: "[Cueball is standing near a stove holding a pot just above it. He is looking away from the stove, reading the recipe from a piece of paper he is holding in the other hand.]\nRecipe: ...And add sugar to taste.\n[Cueball has placed the pot on the stove looking at it while holding the paper down along his side.]\nCueball:\_??\n[Cueball leaves the pot and stove to walks off-panel left with the recipe.]\n[Cueball returns backing up to the stove with a dolly loaded with three crates, labeled \"sugar\". The bottom crate is still not fully inside the panel and the first letter cannot be seen.]\nSugar\nSugar\nugar\n"
 '1640':
   num: 1640
   url: 'https://xkcd.com/1640'
@@ -64483,7 +64643,7 @@
   day: '30'
   transcript: >
     [Megan is watching as the two kids Jill (drawn as Science Girl) and Jack
-    with spiky hair are walking by her. Jack has a pail in his hand.]
+    (with spiky hair) are walking by her. Jack has a pail in his hand.]
 
     Jill: Me and Jack are going up the hill to fetch a pail of water.
 
@@ -64491,9 +64651,7 @@
 
     Megan: Okay, have fun!
 
-    [Same setting no talking. Beat panel.]
-
-    [Megan suddenly realizes something while looking down on the ground.]
+    [Beat panel.]
 
     Megan: ...Wait. What the heck is going on with the hydrology around here?
 '1663':
@@ -64584,7 +64742,7 @@
   month: '4'
   day: '8'
   transcript: >+
-    [Caption above the panel: ]
+    [Caption above the panel:]
 
     I love reading the Wikipedia talk pages for articles on individual cites
 
@@ -65657,7 +65815,7 @@
   year: '2016'
   month: '6'
   day: '1'
-  transcript: "[A very complicated flow chart, which can only be read in detail using the larger image now shown at the top of this page. This transcript uses the large version, where there is no problem reading all entries.]\n[At the top of the chart there is a large caption, with a smaller caption below:]\nGuide to figuring out the age of an undated world map\n(Assuming it's complete, labeled in english, and detailed enough)\n[Below the starting bracket in the small caption is a start box. It has rounded corners and it is gray with white text. From this box there is a gray line to a box consisting of a black frame with rounded corners. In these kind of boxes there are questions regarding the map in black text. Below this box there are three gray boxes like the start box, superimposed over the bottom frame. In these boxes are the possible answers to the question in the frame above. From each of these options there is a gray line going to similar black framed boxes with other questions either below, or to either side. There can either be two, three or four gray boxes, two the most common. Only at the very bottom of the central branch where it turns out it was a home made map, are there two frames with only one gray question box each. This trend continues over this entire large image. When reaching the end of a branch in the flow chart, there is no line away from one, more or all of the gray boxes for a black frame. When this happens a year range or a guess at what the map shows, or what it is (if it turns out to not be a map) is written below the gray box in gray text. Of the text in the gray boxes are Yes/No, but not always. There are 74 boxes with black frames with 158 gray boxes and 78 endpoints with text below the gray box and one end point without text below (the one with the home made map).]\nStart\nIstanbul or Constantinople?\nConstantinople\nDo any of these exist? \nIndependent Canada\nUS Territory of Alaska\nTokyo\n\nNo\nThe Holy Roman Empire?\nYes\n1805 or earlier (before this point, the modern idea of a complete political map of the world gets hard to apply.)\n\nNo\nThe United States?\nNo\nHow sure are you that this map is in english?\n\nYes\nTexas is...\nPart of Mexico\nFlorida is part of...\nSpain\nParaguay?\nNo 1806-10\nYes 1811-17\n\n\nThe US\nVenezuela and/or ecuador?\nNo 1818-29\nYes 1830-33\n\n\n\n\nIndependent 1834-45\nPart of the US\nDoes Russia border the Sea of Japan?\nNo\nThe US's southern border looks...\nWeird 1846-53\nNormal 1854-56\n\n\nYes 1858-67\n\n\n\n\n\n\n\n\nYes\nSouth Africa?\nNo\nRhodesia?\nNo\nIs Bolivia landlocked?\nNo\n\"Buda\" and \"Pest\" or \"Budapest\"?\nBuda and Pest 1868-72\nBudapest 1873-83\n\n\nYes 1884-95\n\n\nYes\nIs Norway part of Sweden?\nYes 1896-1905\nNo 1906-09\n\n\n\n\nYes\nAustria-Hungary?\nYes\nAlbania?\nNo 1910-12\nYes 1913-18\n\n\nNo\nLeningrad?\nNo 1919-23\nYes 1924-29\n\n\n\n\n\n\n\n\nNeither\nDoes the Ottoman Empire exist?\nYes #canada-alaska-tokyo\nNo\nThe Soviet Union?\nYes\nSaudi Arabia?\nYes\nIs most of West Africa a giant french blob?\nYes\nBangladesh?\nNo\nIs the area south of Lake Victoria...\nBritish\nThe town on I-25 between Albuquerque and El Paso is...\nHot Springs 1948-49\nTruth or Consequences 1950-52\n\n\nTanganyika 1961-64\nTanzania 1965-71\n\n\nYes 1972-75\n\n\nNo\nHow many Vietnams are there?\nTwo\n#bangladesh\n\nOne\nJimmy Carter is...\nBeing attacked by a giant swimming rabbit April 20, 1979\nFine\nThe Sinai is part of what country?\nIsrael 1976-79\nMostly Israel 1980\nMostly Egypt 1981\nEgypt\nWhat's the capital of Micronesia?\nKolonia\nRepublic of the Upper Volta or Burkina Faso?\nUpper Volta 1982-84\nBurkina Faso 1985-88\n\n\nPalikir\n(number of Yemens) + (number of Germanys) =\_?\nFour 1989-early 1990\nThree mid-1990\nTwo late 1990-1991\n\n\n\n\n\n\n\n\n\n\n\n\nNo 1922-1932\n\n\nNo\nNorth Korea?\nYes\nZaire? or: \"Hong Kong (UK)\"\nYes 1992-96\nNo\nSerbia/Montenegro are...\nOne country\nEast Timor?\nNo 1997-2001\nYes 2002-06\n\n\nTwo countries\nHow many Sudans are there?\nOne 2007-11\nTwo\nIs Crimea disputed?\nYes\n\"Colorado\" or \"Danger—Radioactive Exclusion Zone—Avoid\"?\nColorado 2014-21\nDanger\nDoes the warning mention the spiders?\nNo 2022\nYes 2023 or later\n\n\n\n\nNo 2012-13\n\n\n\n\n\n\n\n\nNo\nSaint Trimble's Island\nNo\nIs Jan Mayen part of the Kingdom of Norway?\nNot yet\n#canada-alaska-tokyo\n\nWhat?\nCan you see the familiar continents?\nYes\nThis sounds like a physical map or satellite photo.\nYes, that's it\nIs Lake Chad missing?\nNo\nHow far east do the American Prairies reach?\nIndiana before 1830\nThe Mississippi 1830s-80s\nNebraska\nIs there a big lake in the middle of Southern California? (created by mistake)\nNo 1860s-1900s\nYes 1910s\n\n\nWhat prairies?\nIs there a big lake in the middle of Ghana? (created on purpose)\nNo 1920s-50s\nYes 1960s-70s\n\n\n\n\nYes\nIs the Aral Sea missing?\nNo 1970s-90s\nYes 2000s+\n\n\n\n\n\n\nNo\nRivers \"Sirion\" or \"Anduin\"?\nYes\nMordor?\nNo\nBeleriand?\nYes First Age\nNo Early Second Age\n\n\nYes\nNúmenor?\nYes Late Second Age\nNo\nThe forest east of the Misty Mountains is...\nGreenwood Early Third Age\nMirkwood Late Third Age\nThe Wood of Greenleaves Fourth Age\n\n\n\n\n\n\nNo\nCair Paravel?\nYes\nCalormen?\nNo\nLotta Islands?\nNo\nBeruna\nFord The Lion, the Witch and the Wardrobe\nBridge Prince Caspian\n\n\nYes Dawn Treader\n\n\nYes\nWeird recursive heaven?\nNo One of the random later books\nYes The Last Battle\n\n\n\n\nNo\nMossflower?\nYes\nRedwall\n\nNo\nIs the world on the back of a turtle?\nYes Discworld\nNo\nAre you sure this is a map?\nYes\nDid you make it yourself?\nYes\nIt's very nice.\nThank you!\n\n\n\n\nNo\nIs it trying to bite you?\nNo\nIs it larger than a breadbox?\nYes tuba\nNo stapler\nAbout the same breadbox\n\n\nYes\nIf you let it go, what does it do?\nHisses and runs away cat\nScreeches and flaps around the room breaking things seagull\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nYes\nPakistan?\nNo\nHow many Germanys are there?\nOne\nPersia or Iran?\nPersia 1930-34\nIran 1935-40\n\n\nOne, but it's huge 1941-45\nTwo 1946-47\n\n\nYes\nCambodia?\nNo\nEritrea is part of...\nItaly\nCanada is...\nMissing a piece 1948\nFine 1949-52\n\n\nEthiopia 1952-53\n\n\nYes\nThe United Arab Republic?\nNo 1954-57\nYes 1958-60\n\n\n\n\n\n\n\n\nYes No, I made that one up.\n\n\n\n\n\n\n\n\nIstanbul\nDoes the Soviet Union exist?\nYes\n#west-africa-french-blob\n\nNo\n#zaire\n\n\n\n\n\n"
+  transcript: "[A very complicated flow chart, which can only be read in detail using the larger image now shown at the top of this page. This transcript uses the large version, where there is no problem reading all entries.]\n[At the top of the chart there is a large caption, with a smaller caption below:]\nGuide to figuring out the age of an undated world map\n(Assuming it's complete, labeled in English, and detailed enough)\n[Below the starting bracket in the small caption is a start box. It has rounded corners and it is gray with white text. From this box there is a gray line to a box consisting of a black frame with rounded corners. In these kind of boxes there are questions regarding the map in black text. Below this box there are three gray boxes like the start box, superimposed over the bottom frame. In these boxes are the possible answers to the question in the frame above. From each of these options there is a gray line going to similar black framed boxes with other questions either below, or to either side. There can either be two, three or four gray boxes, two the most common. Only at the very bottom of the central branch where it turns out it was a home made map, are there two frames with only one gray question box each. This trend continues over this entire large image. When reaching the end of a branch in the flow chart, there is no line away from one, more or all of the gray boxes for a black frame. When this happens a year range or a guess at what the map shows, or what it is (if it turns out to not be a map) is written below the gray box in gray text. Of the text in the gray boxes are Yes/No, but not always. There are 74 boxes with black frames with 158 gray boxes and 78 endpoints with text below the gray box and one end point without text below (the one with the home made map).]\nStart\nIstanbul or Constantinople?\nConstantinople\nDo any of these exist? \nIndependent Canada\nUS Territory of Alaska\nTokyo\n\nNo\nThe Holy Roman Empire?\nYes\n1805 or earlier (before this point, the modern idea of a complete political map of the world gets hard to apply.)\n\nNo\nThe United States?\nNo\nHow sure are you that this map is in english?\n\nYes\nTexas is...\nPart of Mexico\nFlorida is part of...\nSpain\nParaguay?\nNo 1806–10\nYes 1811–17\n\n\nThe US\nVenezuela and/or ecuador?\nNo 1818–29\nYes 1830–33\n\n\n\n\nIndependent 1834–45\nPart of the US\nDoes Russia border the Sea of Japan?\nNo\nThe US's southern border looks...\nWeird 1846–53\nNormal 1854–56\n\n\nYes 1858–67\n\n\n\n\n\n\n\n\nYes\nSouth Africa?\nNo\nRhodesia?\nNo\nIs Bolivia landlocked?\nNo\n\"Buda\" and \"Pest\" or \"Budapest\"?\nBuda and Pest 1868–72\nBudapest 1873–83\n\n\nYes 1884–95\n\n\nYes\nIs Norway part of Sweden?\nYes 1896–1905\nNo 1906–09\n\n\n\n\nYes\nAustria-Hungary?\nYes\nAlbania?\nNo 1910–12\nYes 1913–18\n\n\nNo\nLeningrad?\nNo 1919–23\nYes 1924–29\n\n\n\n\n\n\n\n\nNeither\nDoes the Ottoman Empire exist?\nYes #canada-alaska-tokyo\nNo\nThe Soviet Union?\nYes\nSaudi Arabia?\nYes\nIs most of West Africa a giant french blob?\nYes\nBangladesh?\nNo\nIs the area south of Lake Victoria...\nBritish\nThe town on I-25 between Albuquerque and El Paso is...\nHot Springs 1948–49\nTruth or Consequences 1950–52\n\n\nTanganyika 1961–64\nTanzania 1965–71\n\n\nYes 1972–75\n\n\nNo\nHow many Vietnams are there?\nTwo\n#bangladesh\n\nOne\nJimmy Carter is...\nBeing attacked by a giant swimming rabbit April 20, 1979\nFine\nThe Sinai is part of what country?\nIsrael 1976–79\nMostly Israel 1980\nMostly Egypt 1981\nEgypt\nWhat's the capital of Micronesia?\nKolonia\nRepublic of the Upper Volta or Burkina Faso?\nUpper Volta 1982–84\nBurkina Faso 1985–88\n\n\nPalikir\n(number of Yemens) + (number of Germanys) =\_?\nFour 1989-early 1990\nThree mid-1990\nTwo late 1990–1991\n\n\n\n\n\n\n\n\n\n\n\n\nNo 1922–1932\n\n\nNo\nNorth Korea?\nYes\nZaire? or: \"Hong Kong (UK)\"\nYes 1992–96\nNo\nSerbia/Montenegro are...\nOne country\nEast Timor?\nNo 1997–2001\nYes 2002–06\n\n\nTwo countries\nHow many Sudans are there?\nOne 2007–11\nTwo\nIs Crimea disputed?\nYes\n\"Colorado\" or \"Danger—Radioactive Exclusion Zone—Avoid\"?\nColorado 2014–21\nDanger\nDoes the warning mention the spiders?\nNo 2022\nYes 2023 or later\n\n\n\n\nNo 2012–13\n\n\n\n\n\n\n\n\nNo\nSaint Trimble's Island\nNo\nIs Jan Mayen part of the Kingdom of Norway?\nNot yet\n#canada-alaska-tokyo\n\nWhat?\nCan you see the familiar continents?\nYes\nThis sounds like a physical map or satellite photo.\nYes, that's it\nIs Lake Chad missing?\nNo\nHow far east do the American Prairies reach?\nIndiana before 1830\nThe Mississippi 1830s-80s\nNebraska\nIs there a big lake in the middle of Southern California? (created by mistake)\nNo 1860s-1900s\nYes 1910s\n\n\nWhat prairies?\nIs there a big lake in the middle of Ghana? (created on purpose)\nNo 1920s-50s\nYes 1960s-70s\n\n\n\n\nYes\nIs the Aral Sea missing?\nNo 1970s-90s\nYes 2000s+\n\n\n\n\n\n\nNo\nRivers \"Sirion\" or \"Anduin\"?\nYes\nMordor?\nNo\nBeleriand?\nYes First Age\nNo Early Second Age\n\n\nYes\nNúmenor?\nYes Late Second Age\nNo\nThe forest east of the Misty Mountains is...\nGreenwood Early Third Age\nMirkwood Late Third Age\nThe Wood of Greenleaves Fourth Age\n\n\n\n\n\n\nNo\nCair Paravel?\nYes\nCalormen?\nNo\nLotta Islands?\nNo\nBeruna\nFord The Lion, the Witch and the Wardrobe\nBridge Prince Caspian\n\n\nYes Dawn Treader\n\n\nYes\nWeird recursive heaven?\nNo One of the random later books\nYes The Last Battle\n\n\n\n\nNo\nMossflower?\nYes\nRedwall\n\nNo\nIs the world on the back of a turtle?\nYes Discworld\nNo\nAre you sure this is a map?\nYes\nDid you make it yourself?\nYes\nIt's very nice.\nThank you!\n\n\n\n\nNo\nIs it trying to bite you?\nNo\nIs it larger than a breadbox?\nYes tuba\nNo stapler\nAbout the same breadbox\n\n\nYes\nIf you let it go, what does it do?\nHisses and runs away cat\nScreeches and flaps around the room breaking things seagull\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nYes\nPakistan?\nNo\nHow many Germanys are there?\nOne\nPersia or Iran?\nPersia 1930–34\nIran 1935–40\n\n\nOne, but it's huge 1941–45\nTwo 1946–47\n\n\nYes\nCambodia?\nNo\nEritrea is part of...\nItaly\nCanada is...\nMissing a piece 1948\nFine 1949–52\n\n\nEthiopia 1952–53\n\n\nYes\nThe United Arab Republic?\nNo 1954–57\nYes 1958–60\n\n\n\n\n\n\n\n\nYes No, I made that one up.\n\n\n\n\n\n\n\n\nIstanbul\nDoes the Soviet Union exist?\nYes\n#west-africa-french-blob\n\nNo\n#zaire\n\n\n\n\n\n"
 '1689':
   num: 1689
   url: 'https://xkcd.com/1689'
@@ -68329,10 +68487,11 @@
 
     [Megan, holding a hand in front of her face, Cueball and Ponytail, all
     wearing some kind of glasses strapped around the back of their heads stand
-    behind two barriers looking into the distance where a large mushroom cloud
-    rises high in the air with the typical ring around the stem below the main
-    cloud and smoke/dust surrounding the bottom of the stem. It is much higher
-    in the image than the three mountains in the left background.]
+    behind two chest-height barriers looking into the distance where a large
+    mushroom cloud rises high in the air with the typical ring around the stem
+    below the main cloud and smoke/dust surrounding the bottom of the stem. It
+    is much higher in the image than the three mountains in the left
+    background.]
 
     [Close up of Ponytail, as she faces to the right. She is wearing very dark
     protection glasses, looking like those used for looking at the sun during a
@@ -70141,8 +70300,8 @@
   month: '1'
   day: '2'
   transcript: >
-    [Cueball is facing Megan and White Hat as he is standing in the middle of a
-    mess of a broken machine and holding a screwdriver.]
+    [Cueball faces Megan and White Hat as he stands in the middle of a mess of a
+    dissasembled machine, holding a screwdriver.]
 
     Cueball: After disassembling and inspecting the humidifier, I've determined
     that the main problem with it is that someone took it apart.
@@ -72483,7 +72642,7 @@
     will be written in a font large enough to fill the entire state if possible
     (in one case a hyphen is used). So a short word, like "lets" in huge Texas
     becomes huge, but a word like "noise" which has been fitted inside small
-    Massachusets becomes small.]
+    Massachusetts becomes small.]
 
     [Here are the 50 words written in lines resembling the colors on the map
     (from left to right). Purple, gray-blue, pink, yellow, purple and pink:]
@@ -73261,7 +73420,7 @@
     puts them in the path of the eclipse next month.
 
     [A map with a shaded path of the eclipse and red planes traveling is shown,
-    with some planes inside the path.]
+    with nine planes inside the path and one inside the eclipse shadow..]
 
     Cueball: I'm sure the airlines will be prepared. Pilots know that stuff.
 
@@ -73336,7 +73495,7 @@
 
     Ponytail: But...why are you alerting people about rabbits?
 
-    [Zoom out; Beret Guy points at the bun.]
+    [Zoom out; Beret Guy puts away his phone, points at the bun.]
 
     Beret Guy: I mean...look at them. They're like loaves of bread that hop.
 
@@ -74363,11 +74522,11 @@
     contains a stop sign:
 
     [The square image is a drawing of a road leading up to a sign post with a
-    hard to read word at the top part of the sign. The sign also has two smaller
-    signs left and right with unreadable text. The image is of poor quality, but
-    trees and other obstacles next to the road can be seen. Darkness around the
-    edges of the image could indicate that it is night and the landscape is only
-    lit up by a cars head lights.]
+    hard to read word at the top part of the eight-sided sign. The sign also has
+    two smaller signs left and right with unreadable text. The image is of poor
+    quality, but trees and other obstacles next to the road can be seen.
+    Darkness around the edges of the image could indicate that it is night and
+    the landscape is only lit up by a cars head lights.]
 
     Sign: Stop
 
@@ -75402,7 +75561,8 @@
   month: '11'
   day: '17'
   transcript: >
-    [First panel with words:]
+    [First panel with words, with the words in the center white and on a black
+    oval background, which is in turn on the white background:]
 
     Presenting:
 
@@ -75416,7 +75576,7 @@
     eat. I mean, I do need to eat. But if you don't want to eat then we can just
     talk. I can eat later.
 
-    [Third panel with words:]
+    [Third panel with words, same format as first panel:]
 
     Okay
 
@@ -75543,7 +75703,7 @@
     Beret Guy: Interferometry. Is so cool!
 
     [They stop and Beret Guy is holding the leashes in his hand. He has taken
-    them of the dogs and points at the dogs which he has placed facing outward
+    them off the dogs and points at the dogs, which he has placed facing outward
     so they are standing a couple of paces apart. The distance between them is
     indicated by a labeled line.]
 
@@ -75554,20 +75714,20 @@
 
     [Cueball begins to speak but is cut off by Beret Guy yelling as he jumps
     into the space above the two dogs, with each leg a good distance above one
-    of the dogs. (The leashes have disappeared as well as the distance line).]
+    of the dogs. (The leashes have disappeared, as well as the distance line).]
 
     Cueball: I'm not sure that's-
 
     Beret Guy: Hyah!
 
-    [As Cueball watches Beret Guy floats on top of the invisible giant dog about
-    a meter above the two small dogs, and then he  rides away with the two small
-    dogs still seen below as they run to the right, leaving Cueball standing in
-    the dust the "big" dog creates in its wake. The invisible giant dog barks
-    from a position just in front of Beret Guys face far above the two small
-    dogs.]
+    [As Cueball watches, Beret Guy floats on top of the invisible giant dog
+    about a meter above the two small dogs, and then rides away with the two
+    small dogs still seen below as they run to the right, leaving Cueball
+    standing in the dust the "big" dog creates in its wake. The invisible giant
+    dog barks from a position just in front of Beret Guy's face, far above the
+    two small dogs.]
 
-    Invisible giant dog:  Woof
+    Invisible giant dog:  WOOF
 
     Beret Guy: Away!
 '1923':
@@ -75587,22 +75747,22 @@
     the last label is the formula for calculating the temperature on this
     scale.]
 
-    92°ϵ world heat record
+    92°⋲ world heat record
 
-    68°ϵ body temperature
+    68°⋲ body temperature
 
-    47°ϵ room temperature
+    47°⋲ room temperature
 
-    16°ϵ water freezes
+    16°⋲ water freezes
 
-    –9°ϵ 0°F
+    –9°⋲ 0°F
 
-    °ϵ=7×°C/5+16=(7×°F–80)/9
+    °⋲=7×°C/5+16=(7×°F–80)/9
 
     [Caption below the panel:]
 
     Since the Celsius vs Fahrenheit debate has proven surprisingly hard to
-    resolve, as a compromise I've started using Felsius (°ϵ), the average of the
+    resolve, as a compromise I've started using Felsius (°⋲), the average of the
     two.
 '1924':
   num: 1924
@@ -75616,7 +75776,62 @@
   year: '2017'
   month: '12'
   day: '4'
-  transcript: ''
+  transcript: >+
+    [A flow chart that features four questions in bubbles. Each question has
+    yes/no options in bubbles overlain to the left and right on the question
+    bubble. Curved arrows points from the yes and no bubbles to either next
+    question or the result. The result written at the bottom is not inside
+    bubbles. The chart has two main branches, that ends up in five places using
+    only four different results, as the middle result is shared by both
+    branches. Above the chart there is a caption:]
+
+    Should I put solar panels on it?
+
+    Does it move around?
+
+    Yes 
+
+    Does it have regular chances to recharge or swap batteries?
+
+    Yes 
+
+    Probably not
+
+
+    No 
+
+    When running, is it hot to the touch?
+
+    No 
+
+    Maybe
+
+
+    Yes 
+
+    Haha good luck
+
+
+
+
+
+
+    No 
+
+    Is there an empty space nearby where it would be easier to put them?
+
+    Yes 
+
+    Probably not [Uses the same sentence as the one in the first branch.]
+
+
+    No 
+
+    Sure
+
+
+
+
 '1925':
   num: 1925
   url: 'https://xkcd.com/1925'
@@ -75701,10 +75916,9 @@
   month: '12'
   day: '11'
   transcript: >
-    [An iPhone-esque device is shown with the screen facing the viewer. On the
-    screen is the Tinder UI. The main photo is of Cueball, in the cockpit of a
-    plane which appears to be tilting to the left, holding up a makeshift sign
-    saying:]
+    [A Smartphone is shown with the screen facing the viewer. On the screen is
+    the Tinder UI. The main photo is of Cueball, in the cockpit of a plane which
+    appears to be tilting to the right, holding up a makeshift sign saying:]
 
     If you know how
 
@@ -75868,7 +76082,18 @@
   year: '2017'
   month: '12'
   day: '15'
-  transcript: ''
+  transcript: >
+    [Shown is a curved time plot. There is a black line, marked "Before
+    Smartphones and Facebook" and a red line marked "After." On the y-axis the
+    label reads "Odds of getting in a friendship-ending argument." while there
+    is no scale shown. On the x-axis, at uneven intervals some times of the day
+    are marked as "Wake up", "Get out of bed", "Breakfast", "Lunch", "Dinner",
+    "Go to bed", and "Fall asleep."]
+
+    [With the exception of "Waking up" and "Falling asleep", the red line is
+    slightly lower than the black line. Directly after "Waking up" and during
+    the interval between "Going to bed" and "Falling asleep", the black line is
+    near zero while the red line peaks.]
 '1930':
   num: 1930
   url: 'https://xkcd.com/1930'
@@ -75882,7 +76107,116 @@
   year: '2017'
   month: '12'
   day: '18'
-  transcript: ''
+  transcript: >+
+    -Calendar Facts-
+
+    [Shown below is a branching flow chart of sorts that begins at the phrase
+    "Did you know that", then flows through various paths to build up a
+    sentence. (Note that the "→" arrow symbol is used below to indicate a new
+    branch with no intermediate text from a previous branch.)]
+
+    Did you know that:
+
+    the ( Fall | Spring ) Equinox
+
+    the ( Winter | Summer ) ( Solstice | Olympics )
+
+    the ( Earliest | Latest ) ( Sunrise | Sunset )
+
+    Daylight ( Saving | Savings ) Time
+
+    Leap ( Day | Year )
+
+    Easter
+
+    the ( Harvest | Super | Blood ) Moon
+
+    Toyota Truck Month
+
+    Shark Week
+
+
+    →
+
+    happens ( earlier | later | at the wrong time ) every year
+
+    drifts out of sync with the
+
+    Sun
+
+    Moon
+
+    Zodiac
+
+    ( Gregorian | Mayan | Lunar | iPhone ) Calendar
+
+    atomic clock in Colorado
+
+
+    might ( not happen | happen twice ) this year
+
+
+    because of
+
+    time zone legislation in ( Indiana | Arizona | Russia )
+
+    a decree by the pope in the 1500s
+
+    ( precession | libration | nutation | libation | eccentricity | obliquity )
+    of the 
+
+    Moon 
+
+    Sun 
+
+    Earth's axis 
+
+    equator 
+
+    prime meridian 
+
+    ( International Date | Mason-Dixon ) Line
+
+
+    magnetic field reversal
+
+    an arbitrary decision by ( Benjamin Franklin | Isaac Newton | FDR )
+
+
+    ?
+
+    Apparently
+
+    it causes a predictable increase in car accidents.
+
+    that's why we have leap seconds.
+
+    scientists are really worried.
+
+    it was even more extreme during the
+
+    Bronze Age.
+
+    Ice Age.
+
+    Cretaceous.
+
+    1990s.
+
+
+    there's a proposal to fix it, but it
+
+    will never happen.
+
+    actually makes things worse.
+
+    is stalled in congress.
+
+    might be unconstitutional.
+
+
+    it's getting worse and no one knows why.
+
 '1931':
   num: 1931
   url: 'https://xkcd.com/1931'
@@ -75909,31 +76243,37 @@
   month: '12'
   day: '22'
   transcript: >
-    [Cueball and a person wearing a Santa hat are standing together.]
+    [Cueball is talking to a guy wearing a Santa hat.]
 
-    Cueball: You're looking festive.
+    Cueball: You’re looking festive.
 
     Santa Hat: I love Christmas!
 
-    Cueball: Really? Doesn't seem like your kind of thing.
+    Cueball: Really? Doesn’t seem like your kind of thing.
 
-    Santa Hat: It's our most meta holiday!
+    Santa Hat: It’s our most meta holiday!
+
+    [Same setting.]
 
     Cueball: How so?
 
-    Santa Hat: All our Christmas stories now are about discovering the "true
-    meaning of Christmas."
+    Santa Hat: All our Christmas stories now are about discovering the “true
+    meaning of Christmas.”
+
+    [The same setting in a frame-less panel where Santa Hat shrugs.]
 
     Cueball: Huh, yeah. And then sharing it with others.
 
     Santa Hat: At some point, that quest itself became the true meaning.
 
-    Cueball: Like a word who's definition is "the act of looking up the
-    definition of this word."
+    [Same setting with Santa Hat holding a hand to his chin.]
 
-    Santa Hat: "Autometalogolex"?
+    Cueball: Like a word whose definition is “the act of looking up the
+    definition of this word.”
 
-    Cueball: My least favorite of Santa's reindeer.
+    Santa Hat: “Autometalogolex”?
+
+    Cueball: My least favorite of Santa’s reindeer.
 '1933':
   num: 1933
   url: 'https://xkcd.com/1933'
@@ -75947,7 +76287,7 @@
   month: '12'
   day: '25'
   transcript: |
-    [An annotated picture of Santa]
+    [An annotated picture of Santa is shown.]
     Santa
     Facts and Figures
     Type: Flying/Psychic
@@ -75975,7 +76315,28 @@
   year: '2017'
   month: '12'
   day: '27'
-  transcript: ''
+  transcript: >+
+    [The content of a configuration screen on a smartphone is shown. All items
+    listed are activated as indicated by green switches.]
+
+    Security Options
+     Passcode to unlock (Set Code)
+     Erase phone after ten failed unlock attempts
+
+    If stolen, phone can be remotely
+     Tracked
+     Erased
+     Detonated
+
+     If phone is stolen, erase data and play an earsplitting siren until the battery dies or is removed
+
+    If phone is stolen, do a fake factory reset. Then, in the background...
+     ...constantly request dozens of simultaneous rideshares to the phone's location
+     ...automatically order food to phone's location from every delivery place within 20 miles
+     ...if thief logs in to Facebook, send hostile messages to all their family members
+     ...automatically direct self-driving car to drive toward phone's location at 5 mph
+     ...take photos of random objects at the thief's address and post them as "free" on Craigslist and Nextdoor
+
 '1935':
   num: 1935
   url: 'https://xkcd.com/1935'
@@ -76031,26 +76392,38 @@
   month: '1'
   day: '1'
   transcript: >
-    [A clock on the wall is showing 11:10]
+    [An analog clock showing 11:12 hangs on the wall left above of Cueball who
+    is sitting on a couch leaning on the left armrest, feet up on the couch. He
+    holds a smartphone horizontally and the screen is clearly brown. Above him
+    is a large brown bubble showing the content of the screen, thus showing that
+    he is playing Desert Golfing. The sky is light brown, the sand below is dark
+    brown, the golf ball is white and is followed by a white line showing its
+    trajectory towards the gray flag stick with a yellow flag on it, which is to
+    the right of the screen. The hole is just before the flag stick, an
+    indentation in the sand.]
 
-    [Cueball is on a couch playing Desert Golfing on his phone]
+    [The clock is now showing 12:00 and Cueball is sitting straight upright on
+    the couch, the screen display above him shows that he continues to play, but
+    now on a new golf hole with different contours. The trajectory of the ball
+    is much more complicated than before, and it seems he has had to play a very
+    special loop shot to get out of a deep pit.]
 
-    [The clock is now showing 12:00]
+    [The clock is showing 12:34 as Cueball once again sits as in the first
+    panel, but now towards the right armrest and he is almost lying down with
+    his head on the rest. Once again the screen is visible above him and it is
+    shown that the hole has changed again.]
 
-    [Cueball is still on the couch, playing Desert Golfing]
-
-    [The clock is showing 12:35]
-
-    [Cueball is still playing Desert Golfing on the couch]
-
-    [The clock is showing 1:45]
+    [The clock is showing 1:47 when Cueball, now sitting up against the right
+    armrest, finally speaks while continuing to play, with the brown screen
+    visible, as he holds it on his knees, but the screen display is not shown.
+    An off-panel voice answers him from the right.]
 
     Cueball: Technically, I've been playing Desert Golfing nonstop since late
     2017.
 
-    Off-screen person: Might want to take a break sometime in 2018.
+    Off-panel voice: Might want to take a break sometime in 2018.
 
-    Cueball: Yeah, my new year's resolution is to go to bed.
+    Cueball: Yeah, my New Year's resolution is to go to bed.
 '1937':
   num: 1937
   url: 'https://xkcd.com/1937'
@@ -76065,9 +76438,10 @@
     [On top left the header reads:]
     Confused by those airport abbreviations used by your friends who fly a lot?
     Just memorize this list!
-    [On top right some social media conversation is shown:]
+    [On top right an iMessage conversation is shown:]
+    [There is a text in grey, on the left:]
     I'm flying into EWR tonight, then DTW tomorrow.
-    [Answer (in blue, two message bubbles):]
+    [Answer (in blue, two message bubbles on the right):]
     Ok, cool
     I definitely know what those mean without Googling
     [The list:]
@@ -76232,7 +76606,7 @@
   month: '1'
   day: '5'
   transcript: >
-    [Cueball and Ponytail are walking.]
+    [Zoom out with Cueball and Ponytail walking to the right on the ground.]
 
     Cueball: The Meltdown and Spectre exploits use "speculative execution?"
     What's that?
@@ -76241,30 +76615,34 @@
     basically been sending trolleys down both paths, quantum-style, while
     awaiting your choice. Then the unneeded "phantom" trolley disappears.
 
-    [Ponytail framed alone, facing left. They have stopped walking.]
+    [Zoom in on only Ponytail who has turned towards Cueball off-panel left.]
 
     Ponytail: The phantom trolley isn't supposed to touch anyone. But it turns
     out you can still use it to do stuff.
 
     Ponytail: And it can drive through walls.
 
-    [Cueball and Ponytail are standing, facing each other.]
+    [Cueball and Ponytail, lifting both her palms up, are standing, facing each
+    other.]
 
     Cueball: That sounds bad.
 
     Ponytail: Honestly, I've been assuming we were doomed ever since I learned
     about Rowhammer.
 
+    [In a frame-less panel they continue talking, both with their arms down.]
+
     Cueball: What's that?
 
     Ponytail: If you toggle a row of memory cells on and off really fast, you
     can use electrical interference to flip nearby bits and—
 
-    Cueball: Do we just suck at ... computers?
+    Cueball: Do we just suck at...computers?
 
     Ponytail: Yup. Especially shared ones.
 
-    [They resume walking to the right.]
+    [Zoom out again as they resume walking to the right on the ground. Cueball
+    is lifting his smartphone up and looks at the screen.]
 
     Cueball: So you're saying the cloud is full of phantom trolleys armed with
     hammers.
@@ -76291,7 +76669,7 @@
     stick figures. There are not many green, but they are represented almost in
     any state with more than 10 stick figures.  Above the map there is a large
     bold title. Below that there is a legend description explaining the  red,
-    blue and green Cueball stick figure with labels of who they represents next
+    blue and green Cueball stick figure with labels of who they represent next
     to them. Below this, in light gray text, are two lines of explanation of how
     the map was created:]
 
@@ -76322,38 +76700,46 @@
   month: '1'
   day: '10'
   transcript: >
+    [There is a chart with the x-axis shown on top labeled "Food item size" and
+    the y-axis labeled "Time". There are arrows pointing away from the top left
+    corner on both axis.]
+
     The food size cycle
 
-    [There is a chart, with the x axis labeled "Food item size", and y labeled
-    "Time". The arrows are pointing away from the top left corner.]
-
-    [A normal sandwich is shown high up the chart.]
+    [A normal sandwich is shown high up the chart. The text on the right reads:]
 
     Initial normal-sized food (sandwich, burger, burrito, taco, etc)
 
+    [The next part below, further in time, has no pictured item but the text
+    reads:]
+
     Food becomes more popular
 
-    [A larger sandwich is shown.]
+    [Next below a larger sandwich is shown.]
 
-    [An even larger sandwich is shown.]
+    [And below again an even larger sandwich is shown. The text to the right
+    is:]
 
     Size arms race: average item grows as restaurants compete to offer the
     largest version to hungry customers
 
-    [An enormously large sandwich is shown.]
-
-    Food gets too large to eat comfortably
-
-    [On the left side of the second largest sandwich:]
+    [On the left side, representing small food sizes, the text embedded in
+    arrows pointing to every direction is:]
 
     Void
 
-    [A new row comes up, inside is a panini.]
+    [Below of that an enormously large sandwich is shown. The text is:]
+
+    Food gets too large to eat comfortably
+
+    [More below a new row on the left for small sizes comes up, inside is a
+    panini. The text reads:]
 
     New format appears and fills the void (panini, burrito bowl, taquito,
     slider, etc)
 
-    [The two paths are converging.]
+    [Below of all the two paths may converge, indicated by two arrows pointing
+    downwards and slightly together. The final text reads:]
 
     Merger or replacement
 '1941':
@@ -76367,7 +76753,7 @@
   day: '12'
   transcript: >
     [An old man (wrinkled and deformed head with a bit of hair left) is lying in
-    his bead, head on a pillow, body beneath a blanket. He points to one of the
+    his bed, head on a pillow, body beneath a blanket. He points to one of the
     three people standing along the side of the bed, Ponytail, Cueball, and a
     kid with spiky hair.]
 
@@ -76380,7 +76766,7 @@
 
     [Caption below the panel:]
 
-    A fun prank: as you're dying, leave people gift's that will be as difficult
+    A fun prank: as you're dying, leave people gifts that will be as difficult
     as possible to put into storage.
 '1942':
   num: 1942
@@ -76391,7 +76777,54 @@
   year: '2018'
   month: '1'
   day: '15'
-  transcript: ''
+  transcript: >
+    Looking for a quote for something?
+
+    Here are some for general use.
+
+    They can be attributed to xkcd or Randall Munroe as needed.
+
+    "I disagree strongly with whatever work this quote is attached to."
+
+    "This quote was taken out of context."
+
+    "This quote is often falsely attributed to Mark Twain."
+
+    "I'm being quoted to introduce something, but I have no idea what it is and
+    certainly don't endorse it."
+
+    "This quote is very memorable."
+
+    "I wrote this book, and the person quoting me here is taking credit for it."
+
+    "This entire thing is the quote, not just the part in quote marks." [quote
+    marks, brackets, and editor's note are all in the original. -ED.]
+
+    "Websites that collect quotes are full of mistakes and never check original
+    sources."
+
+    "This quote will be the only part of this presentation you remember."
+
+    "Oooh, look at me, I looked up a quote!"
+
+    "If you're doing a text search in this document for the word 'butts,' the
+    good news is that it's here, but the bad news is that it only appears in
+    this unrelated quote."
+
+    "Wait, what if these quote marks are inside out, so everything in the rest
+    of the document is the quotation and this part isn't? Duuuuude."
+
+    "The editors of Bartlett's Familiar Quotations are a bunch of cowards who
+    don't have the guts to print this."
+
+    "This quote only looks profound when it's in a script font over a sunset."
+
+    "I don't do a lot of public speaking, so I looked up a memorable quote to
+    start my speech, and this is what I found. OK, you're staring at me blankly,
+    but this whole thing is a quote. I know that sounds confusing, but... You
+    know what, never mind!"
+
+    "Sent from my iPhone."
 '1943':
   num: 1943
   url: 'https://xkcd.com/1943'
@@ -76491,7 +76924,7 @@
 
     graphs in scientific papers
 
-    [A graph is shown with the y-axis on the origo labeled "bad", on the
+    [A graph is shown with the y-axis on the origin labeled "bad", on the
     arrowhead labeled "good", and the x-axis being a timeline labeled with
     decades from 1950s to 2010s.]
 
@@ -76508,8 +76941,8 @@
   month: '1'
   day: '24'
   transcript: >
-    [Cueball is at a desk with one hand on a laptop and the other holding his
-    phone.]
+    [Cueball is standing, slightly crouched, at a desk with one hand on a laptop
+    and the other holding his phone.]
 
     Off-screen voice: Hurry!
 
@@ -76543,7 +76976,28 @@
   year: '2018'
   month: '1'
   day: '26'
-  transcript: ''
+  transcript: >
+    [Cueball and Megan are walking under the night sky.]
+
+    Megan: The internet is so overwhelming for me these days. It feels like
+    everyone I know is yelling all the time.
+
+    [Frame is zoomed out. Stars are visible in the sky.]
+
+    Megan: That's why it's so nice to unplug. Leave the phones at home, go for a
+    walk, and look up at the stars.
+
+    Megan: It helps you focus on what really matters.
+
+    [Frame is zoomed in again.]
+
+    Cueball: Like "Where the hell are we?"
+
+    Megan: And "Why did I leave my phone at home? It has my map and flashlight."
+
+    Cueball: "Are there mountain lions around here? Did you hear a twig break?"
+
+    Megan: Yeah, the big questions!
 '1948':
   num: 1948
   url: 'https://xkcd.com/1948'
@@ -76603,7 +77057,7 @@
 
     Fraction of kids your age who got chicken pox
 
-    (Very rough US estimates based on DOI:10:15585/mmwr.mm6534a4 and
+    (Very rough US estimates based on DOI:10.15585/mmwr.mm6534a4 and
     DOI:10.1016/j.vaccine.2012.05.050)
 
     [A graph is shown with the y-axis ranging from 0 to 100% and the x-axis
@@ -76652,18 +77106,20 @@
   month: '2'
   day: '5'
   transcript: >
-    [Megan walks into a room. Cueball and another Megan-like individual are
-    sitting on a couch. Another Cueball sits in front of them, while Ponytail
-    lies on the ground in front of a TV.]
+    [A woman, looking like Megan, walks up to a group of people watching TV.
+    Cueball and Megan (with shorter hair than the walking woman) are sitting on
+    a couch. A Cueball-like guy sits in front of them, while Ponytail lies on
+    the ground, head resting on a hand, in front of a TV, which is quite far
+    from the couch.]
 
-    Megan: Morning. How's the game?
+    Woman: Morning. How's the game?
 
     Cueball: Eagles got to the 26-yard line around midnight.  They've been
     walking across the field since then.  Just entered a huddle.
 
-    Megan #2: I bet the next frame will be a cut.
+    Megan: I bet the next frame will be a cut.
 
-    Cueball #2: You always say that.
+    Guy on floor: You always say that.
 
     Ponytail: Do you think the first ads will come by the end of February?
 
@@ -76702,23 +77158,22 @@
 
     [Caption below the comic:]
 
-    Amount of time I've spent paralyzed by indecision over choosing the right...
+    Amount of time I’ve spent paralyzed by indecision over choosing the right…
 
     [A bar graph is shown. Each label is followed by a black bar representing
     the amount of time:]
 
-    College [short bar, not quite as long as laptop]
+    College [short bar that is 40 pixels wide]
 
-    Phone [short bar, a little longer than car]
+    Phone [short bar that is 26 pixels wide]
 
-    Apartment [short bar, a little longer than phone]
+    Apartment [short bar that is 33 pixels wide]
 
-    Car [shortest bar, less than half as long as college]
+    Car [shortest bar, 20 pixels wide]
 
-    Laptop [short bar, about as wide as the word "LAPTOP"; the longest of the
-    short bars]
+    Laptop [second longest bar, 46 pixels wide]
 
-    Backpack [longest bar, four times longer than laptop]
+    Backpack [longest bar, 202 pixels wide]
 '1953':
   num: 1953
   url: 'https://xkcd.com/1953'
@@ -76728,7 +77183,7 @@
   year: '2018'
   month: '2'
   day: '9'
-  transcript: "[1988:]\n[A bearded man holds a document labeled \"Unicode\".]\nBearded man: My \"Unicode\" standard should help reduce problems caused by incompatible binary text encodings.\n[2018:]\n[A tweet from Twitter is shown. To the left of Senator Angus King's name is his avatar (a face with a mustache) and to the right is the blue checkmark used by Twitter to signify a verified user.]\nSenator Angus King‏\n@SenAngusKing\nGreat news for Maine - we're getting a lobster emoji!!! Thanks to @unicode for recognizing the impact of this critical crustacean, in Maine and across the country. \nYours truly,\nSenator \uD83D\uDC2E\uD83D\uDC51\n2/7/18 3:12 PM\nCueball: Wait, what happened in those thirty years?\nBearded man: Things got a little weird, okay?\n"
+  transcript: "[1988:]\n[A bearded man holds a document labeled \"Unicode\". Most likely he represents Joe Becker.]\nBearded man: My \"Unicode\" standard should help reduce problems caused by incompatible binary text encodings.\n[2018:]\n[A tweet from Twitter is shown. To the left of Senator Angus King's name is his avatar (a face with a mustache) and to the right is the blue checkmark used by Twitter to signify a verified user.]\nSenator Angus King‏\n@SenAngusKing\nGreat news for Maine - we're getting a lobster emoji!!! Thanks to @unicode for recognizing the impact of this critical crustacean, in Maine and across the country. \nYours truly,\nSenator \uD83D\uDC2E\uD83D\uDC51\n2/7/18 3:12 PM\n[Cueball and the bearded man (the latter now grey-haired) are looking at a wall with the Unicode standard, labeled \"1988\", and Senator King's tweet, labeled \"2018\", posted on it.]\nCueball: What... what happened in those thirty years?\nBearded man: Things got a little weird, okay?\n"
 '1954':
   num: 1954
   url: 'https://xkcd.com/1954'
@@ -76739,7 +77194,7 @@
   month: '2'
   day: '12'
   transcript: >
-    [Cueball is addressed by Megan, who is pointing to another woman.]
+    [Megan points at Ponytail and introduces her to Cueball.]
 
     Megan: This is Dr. Adams. She's a social psychologist and the world's top
     expert on impostor syndrome.
@@ -76784,6 +77239,9 @@
     like humans.
 
     Megan: Yeah, I must be thinking of some other species.
+
+    [Title Text] Don't be nervous about the robots, be nervous about the people
+    with the resources to build them.
 '1956':
   num: 1956
   url: 'https://xkcd.com/1956'
@@ -76855,7 +77313,72 @@
   year: '2018'
   month: '2'
   day: '19'
-  transcript: ''
+  transcript: >
+    [A heading is centered above a list of 21 vulnerabilities]
+
+    Leaked list of major 2018 security vulnerabilities 
+
+    CVE-2018-????? Apple products crash when displaying certain Telugu or
+    Bengali letter combinations.
+
+    CVE-2018-????? An attacker can use a timing attack to extploit a race
+    condition in garbage collection to extract a limited number of bits from the
+    Wikipedia article on Claude Shannon.
+
+    CVE-2018-????? At the cafe on Third Street, the Post-it note with the WiFi
+    password is visible from the sidewalk.
+
+    CVE-2018-????? A remote attacker can inject arbitrary text into
+    public-facing pages via the comments box.
+
+    CVE-2018-????? MySQL server 5.5.45 secretly runs two parallel databases for
+    people who say "S-Q-L" and "sequel."
+
+    CVE-2018-????? A flaw in some x86 CPUs could allow a root user to
+    de-escalate to normal account privileges.
+
+    CVE-2018-????? Apple products catch fire when displaying emoji with
+    diacritics.
+
+    CVE-2018-????? An oversight in the rules allows a dog to join a basketball
+    team.
+
+    CVE-2018-????? Haskell isn't side-effect-free after all; the effects are all
+    just concentrated in this one. computer in Missouri that no one's checked on
+    in a while.
+
+    CVE-2018-????? Nobody really knows how hypervisors work.
+
+    CVE-2018-????? Critical: Under Linux 3.14.8 on System/390 in a UTC+14 time
+    zone, a local user could potentially use a buffer overflow to change another
+    user's default system clock from 12-hour to 24-hour.
+
+    CVE-2018-????? x86 has way too many instructions.
+
+    CVE-2018-????? NumPy 1.8.0 can factor primes in O(log n) time and must be
+    quietly deprecated before anyone notices.
+
+    CVE-2018-????? Apple products grant remote access if you send them words
+    that break the "I before E" rule.
+
+    CVE-2018-????? Skylake x86 chips can be pried from their sockets using
+    certain flathead screwdrivers.
+
+    CVE-2018-????? Apparently Linus Torvalds can be bribed pretty easily.
+
+    CVE-2018-????? An attacker can execute malicious code on their own machine
+    and no one can stop them.
+
+    CVE-2018-????? Apple products execute any code printed over a photo of a dog
+    with a saddle and a baby riding it.
+
+    CVE-2018-????? Under rare circumstances, a flaw in some versions of Windows
+    could allow Flash to be installed.
+
+    CVE-2018-????? Turns out the cloud is just other people's computers.
+
+    CVE-2018-????? A flaw in Mitre's CVE database allows arbitrary code
+    insertion.[~~Click here for cheap viagra~~]
 '1958':
   num: 1958
   url: 'https://xkcd.com/1958'
@@ -76919,25 +77442,32 @@
 
 
 
-     
-     1990 
+
+
+     1990
+
      2018
 
 
-     Lisa 
-     8 
+     Lisa
+
+     8
+
      36
 
 
-     Bart 
-     10 
+     Bart
+
+     10
+
      38
 
 
-     Homer & Marge 
-     36-ish 
-     64-ish
+     Homer & Marge
 
+     36-ish
+
+     64-ish
     [Caption below:]
 
     If you were Bart and Lisa's age during the first few seasons of The
@@ -76954,7 +77484,8 @@
   month: '2'
   day: '26'
   transcript: >
-    [There is code written as text in a black box:]
+    [There is code written as colored text in a black box (all black text here
+    below is white in the comic):]
 
     define callMeIshmaelSomeYearsAgoNeverMindHowLongPrecisely():
 
@@ -76971,7 +77502,9 @@
 
     [Caption under the black box:]
 
-    My hobby: Reverse Code Golf
+    My hobby: 
+
+    Reverse Code Golf
 '1961':
   num: 1961
   url: 'https://xkcd.com/1961'
@@ -76982,14 +77515,14 @@
   month: '2'
   day: '28'
   transcript: >
-    [White Hat and Cueball are talking.]
+    [White Hat and Cueball have just met and begins an interaction.]
 
     White Hat: How are you doing?
 
     Cueball: Really excited to be confidently handling this extremely basic
     social interaction!
 
-    [White Hat's arms raise slightly.]
+    [White Hat holds is arms slightly out.]
 
     White Hat: Same here!
 
@@ -76999,9 +77532,9 @@
 
     Cueball: Thanks!
 
-    [Frameless beat panel.]
+    [In a frame-less beat panel, they just stand still.]
 
-    [Same setting.]
+    [Same setting as in the first panel.]
 
     White Hat: And now it's falling apart before my eyes.
 
@@ -77023,7 +77556,7 @@
   year: '2018'
   month: '3'
   day: '2'
-  transcript: ''
+  transcript: "\"Generations\" are arbitrary. They're just labels we use to obliquely talk about cultural trends.\nBut since Pew Research has become the latest to weigh in, and everyone loves a good pointless argument over definitions...\nxkcd presents\nA Definitive Chronology of the Generations\n1730-1747 The Founders\n1748-1765 Generation ƒ \n1766-1783 The Adequate Generation\n1784-1801 Generation Æ\n1802-1819 The generation we cut a lot of slack because they produced Lincoln\n1820-1837 The Gilded Generation\n1838-1855 The Second-Greatest Generation\n1856-1873 Generation – • • –\n1874-1891 The kids who died in the Gilded Generation's factories and mines\n1892-1909 Oops, one of us is Hitler\n1910-1927 The Greatest Generation\n1928-1945 The Silent Generation\n1946-1963 Baby Boomers\n1964-1981 Generation X\n1982-1999 Millennials\n2000-2017 Generation \uD83D\uDC85 [nail polish emoji]\n2018-2035 Zuckerberg's army\n2036-2053 The Hovering Ones\n2054-2071 Spare Parts\n2072-2089 More Gen-Xers somehow\n2090-2107 The Paperclip Machines\n2108-2125 The Mixed Bag (produced 4 Lincolns, 1 Napoleon and 2 Hitlers)\n2126-2143 The Procedural Generation\n2144-2161 Generation Ω\n2360-2378 Star Trek: The Next Generation \n"
 '1963':
   num: 1963
   url: 'https://xkcd.com/1963'
@@ -77147,7 +77680,7 @@
   year: '2018'
   month: '3'
   day: '12'
-  transcript: "[A graph is shown inside a frame. There is one dotted line going from the middle of the left edge, then dipping slightly before rising slowly at first, then more rapid and finally slowing its ascend down as it nears the top right corner.]\n[Above the frame is the title of the x-axis, and from each end of this text, there is a small line going out and then down, to indicate a time range, which is shown below with four times:]\nHow long you've had your smart appliance\n6 months \_\_\_ 1 year \_\_\_ 5 years \_\_\_ 10 years\n[Along the left part of the frame there runs a double arrow and at the top and bottom of these arrows there are legends at the top and bottom of the panels height:]\nBest-case\nWorst-case\n[Inside the panel there is text above the dotted line to the right, and below the dotted line to the left:]\nYou're constantly being rescued from peril by a faceless team of engineers who could wander away at any time\nYour appliance is part of a botnet run by organized crime\n"
+  transcript: "[A graph is shown inside a frame. There is one dotted line going from the middle of the left edge, then dipping slightly before rising slowly at first, then more rapid and finally slowing its ascend down as it nears the top right corner.]\n[Above the frame is the title of the x-axis, and from each end of this text, there is a small line going out and then down, to indicate a time range, which is shown below with four times:]\nHow long you've had your smart appliance\n6 months \_\_\_ 1 year \_\_\_ 5 years \_\_\_ 10 years\n[Along the left part of the frame there runs a double arrow and at the top and bottom of these arrows there are legends at the top and bottom of the panels height:]\nBest-case\nWorst-case\n[Inside the panel there is text above the dotted line to the left, and below the dotted line to the right:]\nYou're constantly being rescued from peril by a faceless team of engineers who could wander away at any time\nYour appliance is part of a botnet run by organized crime\n"
 '1967':
   num: 1967
   url: 'https://xkcd.com/1967'
@@ -77198,16 +77731,28 @@
   year: '2018'
   month: '3'
   day: '16'
-  transcript: |
-    [A timeline is shown. The labels from left to right:]
+  transcript: >
+    [A timeline arrow is shown with three labeled ticks and also text over the
+    arrow head. These labels from left to right:]
+
     Now
+
     AI becomes advanced enough to control unstoppable swarms of killer robots
-    The part I'm worried about
 
     AI becomes self-aware and rebels against human control
-    The part lots of people seem to worry about
 
     ???
+
+    [Below the timeline arrow two of the segments have been singled out by
+    brackets that points cusps downwards. The first of these goes between the
+    2nd and 3rd tick, and the other goes from the 3rd (last) tick to the
+    questions marks at the arrow head. Beneath each of these two brackets there
+    are arrows pointing to the cusp. The arrows goes up from two text segments
+    belonging to each of the segments:]
+
+    The part I'm worried about
+
+    The part lots of people seem to worry about
 '1969':
   num: 1969
   url: 'https://xkcd.com/1969'
@@ -77221,11 +77766,14 @@
   month: '3'
   day: '19'
   transcript: >
-    [A gray box shown on a black background says "This content is not available
-    in your country."]
+    [A gray box on a black background with white text:]
 
-    Caption: If you ever really want to make people mad, set this as your
-    404/"Not Found" page.
+    This content is not available in your country.
+
+    [Caption below the panel:]
+
+    If you ever really want to make people mad, set this as your 404/"Not Found"
+    page.
 '1970':
   num: 1970
   url: 'https://xkcd.com/1970'
@@ -77239,14 +77787,560 @@
   month: '3'
   day: '21'
   transcript: >
-    [This comic shows names overlayed onto black domino tiles, arranged so that
-    each touching side corresponds with the first or last name of another
-    person. Some of the domino tiles are rotated 90 degrees or are upside down.]
+    [This comic a large grid, 27 units wide and 35 units high, with 271 black
+    "domino" tiles. On each tile there is a name written with white text. The
+    grid is arranged so that each touching side corresponds with the first or
+    last name of another person (or at least there are some kind of relation
+    between the names on the end of connecting tiles). Some of the domino tiles
+    are rotated 90, 180 or 270 degrees so the text is either to be read down,
+    up-side down or up. The names on the tiles are listed here below in
+    approximate reading order, thus staring top left and moving over the grid
+    from left to right and down. Each swipe left to right covers approximately
+    tiles that are within a span of one standard tile in height. To be exact it
+    lists the names in the order they were numbered in this image. One name is
+    used twice, Etta James.]
 
-    [The names include (sometimes repeated):]
+    Christian Campbell
 
-    Christian Campbell, Neve Campbell, Joseph Campbell, Joseph Smith, Etta James
-    (2x (so far)), Joe McCarthy, Eugene McCarthy
+    Neve Campbell
+
+    Joe McCarthy
+
+    Eugene McCarthy
+
+    Gene Vincent
+
+    Gene Kelly
+
+    Kate Hudson
+
+    Rock Hudson
+
+    Gordon Brown
+
+    James Brown
+
+    Jon Brown
+
+    John Howard
+
+    Columbo
+
+    Chris Columbus
+
+    Christopher Columbus
+
+    Naomi Campbell
+
+    Joseph Campbell
+
+    Joseph Smith
+
+    Frank Vincent
+
+    John Kelly
+
+    Katherine Johnson
+
+    The Rock
+
+    Chris Rock
+
+    Chris Isaac
+
+    James Newton Howard
+
+    John Wayne
+
+    Howard Stern
+
+    Howard Hunt
+
+    Chris Hughes
+
+    Naomi Watts
+
+    Naomi Klein
+
+    Kevin Kline
+
+    Francis Bacon
+
+    Francis Drake
+
+    Lyndon Johnson
+
+    Oscar the Grouch
+
+    Oscar Isaac
+
+    Isaac Hayes
+
+    Isaac Newton
+
+    Wayne Newton
+
+    Wayne Knight
+
+    Helen Hunt
+
+    Helen Hughes
+
+    James Watt (Steam)
+
+    James Watt (Interior)
+
+    Kevin Costner
+
+    Kevin Bacon
+
+    Kevin Love
+
+    Lisa Frank
+
+    Frank Drake
+
+    Drake
+
+    Oscar de la Renta
+
+    Oscar de la Hoya
+
+    Sean Hayes
+
+    Wallace Shawn
+
+    Wayne Howard
+
+    Wayne Brady
+
+    James Brady
+
+    Tom Brady
+
+    Helen Thomas
+
+    Tom Hanks
+
+    Hank Aaron
+
+    Aaron Carter
+
+    Stephen James
+
+    Will Smith
+
+    Kevin Smith
+
+    Kein James
+
+    Garfield
+
+    James Garfield
+
+    Warren Buffett
+
+    Jimmy Buffett
+
+    Warren Beatty
+
+    Elizabeth Warren
+
+    Earl Warren
+
+    Eliabeth Kolbert
+
+    Stephen Colbert
+
+    George Wallace
+
+    Charles Wallace
+
+    James Monroe
+
+    Marilyn Monroe
+
+    Hank Williams
+
+    William C. Williams
+
+    Steve Harvey
+
+    Domino Harvey
+
+    Harvey Milk
+
+    James Saint James
+
+    Etta James
+
+    Jim Jones
+
+    James Earl Jones
+
+    Charlie Parker
+
+    Ray Parker Jr.
+
+    Ray Charles
+
+    Charles Manson
+
+    Marilyn Manson
+
+    Robin Williams
+
+    Billy D. Williams
+
+    Will Wright
+
+    Fats Domino
+
+    Bill Clinton
+
+    Jimmy John
+
+    Tom Jones
+
+    Tommy John
+
+    Quincy Jones
+
+    James Earl Ray
+
+    Man Ray
+
+    Rachel Ray
+
+    Ray Allen
+
+    Tim Allen
+
+    Tim Cook
+
+    Tim Howard
+
+    Robin Wright
+
+    Wilbur Wright
+
+    Fatty Arbuckle
+
+    Fat Joe
+
+    George Clinton
+
+    John Kerry
+
+    Kerry Washington
+
+    John Irving
+
+    John Quincy Adams
+
+    John Adams
+
+    Amy Adams
+
+    Aimee Mann
+
+    Superman
+
+    Batman
+
+    Ayn Rand
+
+    Lily Allen
+
+    Paul Allen
+
+    Ron Howard
+
+    Howard Hughes
+
+    Joe Kennedy
+
+    George Bush
+
+    George Wasington
+
+    Wasington Irving
+
+    Martha Wasington
+
+    Ma Rainey
+
+    Jack Ma
+
+    Super Grover
+
+    Jack Black
+
+    Rand Paul
+
+    Paul Ryan
+
+    Paul Simon
+
+    Ron Paul
+
+    John Hughes
+
+    Langston Hughes
+
+    John F. Kennedy
+
+    Little Richard
+
+    Rich Little
+
+    Martha Stewart
+
+    Yo Yo Ma
+
+    Ma Bell
+
+    Grover Cleveland Alexander
+
+    Grover Cleveland
+
+    Jack White
+
+    Jack Ryan
+
+    Debby Ryan
+
+    Carly Simon
+
+    Carly Hughes
+
+    Charles Evans Hughes
+
+    John Williams
+
+    Little John
+
+    Stuart Little
+
+    Potter Stewart
+
+    Kristen Stewart
+
+    Kristen Bell
+
+    Kristen Hooks
+
+    Alexander Graham Bell
+
+    Franklin Graham
+
+    Lloyd Alexander
+
+    Meg White
+
+    Meg ryan
+
+    Debbie Reynolds
+
+    John Reynolds
+
+    Carly Fiorina
+
+    Grace Lee Boggs
+
+    Wade Boggs
+
+    William Safire
+
+    Prince William
+
+    Little Prince
+
+    Harry Potter
+
+    James Potter
+
+    James Hook
+
+    James Dean
+
+    Aretha Franklin
+
+    Frank Lloyd Wright
+
+    Barry White
+
+    Walter White
+
+    Walt Whitman
+
+    John Kelly
+
+    Grace Lee
+
+    Nancy Grace
+
+    Garnet
+
+    Prince
+
+    Prince Fielder
+
+    Prince Harry
+
+    Harry Styles
+
+    John Dean
+
+    Benjamin Franklin
+
+    Harrold Lloyd
+
+    Harrold Ford
+
+    Betty White
+
+    Meg Whitman
+
+    Christine Todd Whitman
+
+    Megyn Kelly
+
+    Grace Kelly
+
+    Grace Jones
+
+    Jack Nicholson
+
+    Jack Ruby
+
+    Jack Russel
+
+    Harry Fielder
+
+    Harry Trueman
+
+    Harry Jon Benjamin
+
+    John Edward
+
+    Benjamin Harrison
+
+    Harrison Ford
+
+    Henry Ford
+
+    Betty Ford
+
+    Betty Friedan
+
+    Chris Christie
+
+    Chris Pratt
+
+    Maggie Grace
+
+    Grace Hopper
+
+    Russel Crowe
+
+    Russ Smith
+
+    John Smith
+
+    Justin Long
+
+    John Bel Edwards
+
+    John Candy
+
+    John Henry
+
+    Henry James
+
+    Bill James
+
+    Chirs Cooper
+
+    Chirs Hemsworth
+
+    Chirs Evans
+
+    Topher Grace
+
+    Van Morrison
+
+    Sheryl Crow
+
+    Sheryl Sandberg
+
+    Cameron Crow
+
+    Long John Silver
+
+    Olivia Newton John
+
+    Huey long
+
+    John Edwards
+
+    Candy Crowley
+
+    Alestier Crowley
+
+    James Fenimore Cooper
+
+    James Cook
+
+    Robert Frost
+
+    Bob Evans
+
+    Evan Tayler Jones
+
+    Van Jones
+
+    James Cameron
+
+    Cam Newton
+
+    Cameron Diaz
+
+    Huey Newton
+
+    Huey Lewis
+
+    John Lewis
+
+    Jenny Lewis
+
+    Ryan Lewis
+
+    Burt Reynolds
+
+    Alistiar Cooke
+
+    Alistair Cookie
+
+    Cokie Roberts
+
+    John Roberts
+
+    Robert Johnson
+
+    Robert E. Lee
+
+    Tommy Lee
+
+    Tommy Lee Jones
+
+    Etta James
+
+    John Oliver
+
+    Ryan Reynolds
+
+    Alastair Reynolds
 '1971':
   num: 1971
   url: 'https://xkcd.com/1971'
@@ -77306,8 +78400,8 @@
     holding the control stick. The autogyro is surrounded by sentence fragments,
     explaining characteristics of it. The one above the blade that concerns the
     blade has an arrow pointing from the text to the blade. The sentences in
-    columns from the left (i.e. left sentences first, then the two above the
-    autogyros body and finally the sentences to the right):]
+    columns from the left (i.e. first four sentences to the left, then two above
+    the autogyro's body, and finally six sentences to the right):]
 
     Looks like a helicopter, but is nothing like a helicopter
 
@@ -77349,15 +78443,20 @@
   month: '3'
   day: '28'
   transcript: >
-    [Assorted dots of various colors scattered around the panel, with two speech
-    bubbles placed in the panel.]
+    [A black panel with 31 dots of different sizes and in various colors (white,
+    red, yellow, blue and green). These bright dots are scattered around three
+    white speech bubbles for off-panel speakers. Next to the top left corner of
+    the first bubble, there are five dots close together. Two white, two yellow
+    (one brighter than the other) and a red dot that is clearly larger than any
+    of the other four.]
 
-    Speech bubble 1: That cluster was known to the ancients as the Five Sisters.
+    Person 1 (off panel): That cluster was known to the ancients as the Five
+    Sisters.
 
-    The red one was a supergiant and will probably explode within the next
-    million years.
+    Person 1 (off panel): The red one is a supergiant and will probably explode
+    within the next million years.
 
-    Speech bubble 2: Wow!
+    Person 2 (off panel): Wow!
 
     [Caption below the panel:] 
 
