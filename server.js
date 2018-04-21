@@ -35,7 +35,7 @@ app.get('/:comic(\\d+)', function (req, res) {
   renderComic(res, number, page);
 });
 
-app.use(express.static('public'));
+app.use(express.static('public', {maxAge: 86400000}));
 
 xkcdApi.setup(function(err) {
   if (err) return log(err);
@@ -47,6 +47,7 @@ xkcdApi.setup(function(err) {
 function renderComic(res, number, page, options) {
   const metadata = xkcdApi.getComic(number);
   if (metadata) {
+    res.set('Cache-Control', 'public, max-age=3');
     res.render(page, extend(options, metadata));
   } else {
     log(`No data available for that comic`);
