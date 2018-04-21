@@ -18,3 +18,7 @@ npm install
 npm start
 ```
 Runs on the port specified by the PORT environment variable, or if not set, it defaults to 3000.
+
+If you want to make sure the comics provided don't contain any naughty words, you can specify the `BLOCKED_WORDS` environment variable, giving your words as a comma-separated list.
+
+e.g. `BLOCKED_WORDS=linux,sudo npm start` will make sure that any randomly selected comics don't contain 'linux' or 'sudo' in their titles, transcripts and mouseover text.

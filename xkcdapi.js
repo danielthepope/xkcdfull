@@ -5,7 +5,8 @@ const yaml = require('node-yaml');
 const log = require('./log');
 
 const INFO_FILE = 'xkcdinfo.yaml';
-const NAUGHTY_WORDS = ['fuck', 'shit', 'cunt'];
+const BLOCKED_WORDS_CSV = process.env.BLOCKED_WORDS || '';
+const BLOCKED_WORDS = BLOCKED_WORDS_CSV.split(',').map(word => word.trim());
 // These are comics which do not have a decent static image
 const INTERACTIVE = [1110,1190,1193,1446,1525,1608,1663];
 const DO_NOT_EXIST = [404];
@@ -26,9 +27,9 @@ function setup(callback) {
       const nsfwComics = Object.keys(data).filter(key => {
         const comic = data[key];
         let bad = false;
-        NAUGHTY_WORDS.forEach(word => {
-          if (comic.transcript.toLowerCase().indexOf(word) != -1) bad = true;
-          if (comic.alt.toLowerCase().indexOf(word) != -1) bad = true;
+        BLOCKED_WORDS.forEach(word => {
+          if (comic.transcript.toLowerCase().indexOf(word.toLowerCase()) != -1) bad = true;
+          if (comic.alt.toLowerCase().indexOf(word.toLowerCase()) != -1) bad = true;
         });
         return bad;
       });
