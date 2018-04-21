@@ -85,7 +85,7 @@ function fetchComics(nextToDownload, maxComicNumber, callback) {
           url: `https://xkcd.com/${nextToDownload}`,
           title: apiData.title,
           img: apiData.img,
-          alt: apiData.alt,
+          alt: $('.image').attr('title') || '',
           year: apiData.year,
           month: apiData.month,
           day: apiData.day
