@@ -35,6 +35,13 @@ app.get('/:comic(\\d+)', function (req, res) {
   renderComic(res, number, page);
 });
 
+app.get('/search/:query', function (req, res) {
+  const query = req.params.query;
+  const page = 'search';
+  const results = xkcdApi.findComics(query);
+  res.render(page, {results, query});
+});
+
 app.use(express.static('public', {maxAge: 86400000}));
 
 xkcdApi.setup(function(err) {

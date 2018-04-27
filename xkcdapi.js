@@ -140,5 +140,11 @@ function getComic(comicNumber) {
   return comicData[comicNumber];
 }
 
-module.exports = {setup, getComic, randomComicNumber};
+function findComics(query) {
+  return Object.keys(comicData)
+    .filter(key => comicData[key].title.toLowerCase().includes(query.toLowerCase()) || comicData[key].transcript.toLowerCase().includes(query.toLowerCase()) || comicData[key].alt.toLowerCase().includes(query.toLowerCase()))
+    .map(key => comicData[key]);
+}
+
+module.exports = {setup, getComic, randomComicNumber, findComics};
 
