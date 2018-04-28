@@ -36,7 +36,7 @@ app.get('/:comic(\\d+)', function (req, res) {
 });
 
 app.get('/search/:query', function (req, res) {
-  const query = req.params.query;
+  const query = req.params.query.replace('+', ' ');
   const page = 'search';
   const results = xkcdApi.findComics(query);
   res.render(page, {results, query});
