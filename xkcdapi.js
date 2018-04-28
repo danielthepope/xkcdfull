@@ -24,21 +24,23 @@ function setup(callback) {
       const latestComicNumber = Object.keys(data).map(num_s => parseInt(num_s)).sort((a,b) => a > b).reverse()[0];
       latest = latestComicNumber;
       comicData = data;
-      const nsfwComics = Object.keys(data).filter(key => {
-        const comic = data[key];
-        let bad = false;
-        BLOCKED_WORDS.forEach(word => {
-          if (comic.transcript.toLowerCase().indexOf(word.toLowerCase()) != -1) bad = true;
-          if (comic.alt.toLowerCase().indexOf(word.toLowerCase()) != -1) bad = true;
-        });
-        return bad;
-      });
+      const nsfwComics = Object.keys(data)
+        .filter(key => {
+          const comic = data[key];
+          let bad = false;
+          BLOCKED_WORDS.forEach(word => {
+            if (comic.transcript.toLowerCase().indexOf(word.toLowerCase()) != -1) bad = true;
+            if (comic.alt.toLowerCase().indexOf(word.toLowerCase()) != -1) bad = true;
+          });
+          return bad;
+        })
+        .map(key => parseInt(key));
       log(`${nsfwComics.length} comics have naughty words`);
       ignoreList = INTERACTIVE.concat(DO_NOT_EXIST).concat(nsfwComics);
       log('setup() complete');
       callback();
-    })
-  })
+    });
+  });
 }
 
 function updateInfo(callback) {
@@ -126,8 +128,11 @@ setInterval(setup, 86400000); // Update once a day
  */
 function randomComicNumber() {
   const num = Math.ceil(Math.random() * latest);
-  if (ignoreList.indexOf(num) == -1) return num;
-  else return randomComicNumber();
+  if (ignoreList.includes(num)) {
+    return randomComicNumber();
+  } else {
+    return num;
+  }
 }
 
 /**
@@ -147,4 +152,3 @@ function findComics(query) {
 }
 
 module.exports = {setup, getComic, randomComicNumber, findComics};
-
