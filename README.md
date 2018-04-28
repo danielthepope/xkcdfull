@@ -12,6 +12,9 @@ This site enlarges the comics so that they fit to the screen.
 
 You can add `?full` to all endpoints to display the comics without text.
 
+## Is it suitable for work?
+Probably? So long as you're not easily offended. Comics picked by [https://xkcd.dpope.uk/](https://xkcd.dpope.uk/) won't have bad words, but that doesn't mean they'll be free of unsuitable themes.
+
 ## Run your own server
 ```
 npm install

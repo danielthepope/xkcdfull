@@ -1,6 +1,12 @@
 <div id="container">
-  <div id="header"><h1 class="pad-text">Results for "{{query}}"</h1></div>
-  {{#each results}}
-    <p><a href="/{{num}}">{{num}}: {{title}}</a></p>
-  {{/each}}
+  <div id="header">
+    <h1 class="pad-text">Results for "{{query}}"</h1>
+  </div>
+  <div id="comic">
+    {{#each results}}
+      <p><a href="/{{num}}">{{num}}: {{title}}</a></p>
+    {{else}}
+      <p>No results</p>
+    {{/each}}
+  </div>
 </div>

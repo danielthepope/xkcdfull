@@ -32,8 +32,18 @@
       display: table;
     }
 
-    h1,
-    p {
+    #about {
+      position: absolute;
+      top: 5px;
+      right: 5px;
+      border: 0;
+      width: 36px;
+      height: 36px;
+      opacity: 0.2;
+    }
+
+    #header h1,
+    #footer p {
       margin: 0;
     }
 
@@ -66,7 +76,8 @@
 {{/if}}
 </head>
 
-<body style="text-align:center">
+<body>
+  <a href="https://github.com/danielthepope/xkcdfull#xkcdfull"><img id="about" src="/help.png" alt="About"></a>
 
   {{{body}}}
 
