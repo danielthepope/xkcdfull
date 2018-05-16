@@ -78715,3 +78715,436 @@
     [Caption below the panel:]
 
     I'm starting to worry about my strategy for dealing with clutter.
+'1984':
+  num: 1984
+  url: 'https://xkcd.com/1984'
+  title: Misinterpretation
+  img: 'https://imgs.xkcd.com/comics/misinterpretation.png'
+  alt: >-
+    "But there are seven billion people in the world! I can't possibly stop to
+    consider how ALL of them might interpret something!" "Ah, yes, there's no
+    middle ground between 'taking personal responsibility for the thoughts and
+    feelings of every single person on Earth' and 'covering your eyes and ears
+    and yelling logically correct statements into the void.' That's a very
+    insightful point and not at all inane."
+  year: '2018'
+  month: '4'
+  day: '23'
+  transcript: >
+    [Cueball is sitting in an office chair at a desk in front of a laptop with
+    his hands raised above the keyboard. An off-panel person replies to his
+    remarks.]
+
+    Cueball: Ugh, people are mad at me again because they don't read carefully.
+
+    Cueball: I'm being perfectly clear. It's not my fault if everyone
+    misinterprets what I say.
+
+    Off-panel person: Wow, sounds like you're great at communicating, an
+    activity that famously involves just one person.
+'1985':
+  num: 1985
+  url: 'https://xkcd.com/1985'
+  title: Meteorologist
+  img: 'https://imgs.xkcd.com/comics/meteorologist.png'
+  alt: >-
+    Hi, I'm your new meteorologist and a former software developer. Hey, when we
+    say 12pm, does that mean the hour from 12pm to 1pm, or the hour centered on
+    12pm? Or is it a snapshot at 12:00 exactly? Because our 24-hour forecast has
+    midnight at both ends, and I'm worried we have an off-by-one error.
+  year: '2018'
+  month: '4'
+  day: '25'
+  transcript: "[Cueball is presenting a weather forecast while seated with his folded hands resting on a table. A graphic to the left of Cueball shows the weather for five consecutive hours from 12pm to 4pm, each with a rainy cloud icon and the same percentage of 20% written below the icon. The TV channel's logo is shown on the bottom left, with the 4 in a white font inside a black circle.]\nCueball: Our forecast says there's a 20% chance of rain for each of the next five hours.\nCueball: How likely is it to rain this afternoon? It's a simple question, but I don't know the answer. Is each hour independent? Correlated? Or is rain guaranteed and we're just unsure of the timing?\n12pm\_ 1pm\_ 2pm\_ 3pm\_ 4pm \n\_\_20%\_ 20%\_ 20%\_ 20%\_ 20%\_ \nNews\n\_\_4\nWeather\n[Cueball still sits at the table, but the weather graphic is gone and he looks to the right.]\nCueball: It says \"scattered showers.\" Is this the chance of rain somewhere in your area? How big is your area? What if you have two locations you're worried about?\nCueball: I've asked management, but they've stopped answering my emails, so—Hang on, the security guy is coming over.\n[A black screen is shown with white text and two short white lines between each of the three segments of text. The TV logo is shown below the last text, with the white 4 inside a gray circle with a white border.]\nTechnical Difficulties\n—\nWe apologize for hiring a meteorologist with a pure math background.\n—\nWe'll be back on the air shortly.\n\nNews\n\_\_4\n[Blondie now sits at the desk, in the same position as Cueball, but without the graphic. She looks to the right towards a person who speaks to her from outside the panel. This voice is indicated with two square speech bubbles, connected with a double line and with a small arrow pointing to the right off-panel from the top bubble.]\nBlondie: Sorry about that. Hi, I'm your new meteorologist.\nPerson off-panel: And you're not a mathematician, right?\nBlondie: No. I do have a linguistics degree.\nPerson off-panel: That's fine.\n[Blondie continues in the same position but now looks into the camera at the viewers. The off-panel person only speaks one word, which again is inside a square speech bubble with a small arrow pointing to the right off-panel.]\nBlondie: It might rain this afternoon.\nBlondie: But what is \"it\" here? Is it a true dummy pronoun, as in the phrase \"It's too bad?\" Or is the weather an entity?\nBlondie: Also, what if I say, \"It's hot out, and getting bigger?\"\nPerson off-panel: Security!\n"
+'1986':
+  num: 1986
+  url: 'https://xkcd.com/1986'
+  title: River Border
+  img: 'https://imgs.xkcd.com/comics/river_border.png'
+  alt: >-
+    I'm not a lawyer, but I believe zones like this are technically considered
+    the high seas, so if you cut a pizza into a spiral there you could be
+    charged with pieracy under marinaritime law.
+  year: '2018'
+  month: '4'
+  day: '27'
+  transcript: >
+    [Ponytail and Megan are standing next to a river.]
+
+    Ponytail: This is a cool spot.
+
+    Ponytail: The Missouri-Nebraska state line follows this river. If the
+    river's path changes gradually, the border moves with it.
+
+    [A map is shown with a river from the left to the bottom. A dotted arc is
+    connected on both ends to the river, extending to north-east. An arrow with
+    the text "Old riverbed" points to the arc and it's labeled Nebraska on
+    south-west and Missouri on the other side. The text above the map reads:]
+
+    Ponytail: But when it abruptly changes course, the border stays behind.
+
+    Ponytail: This is a spot where that happened. We're on the Missouri side,
+    but we're in Nebraska.
+
+    [Frameless panel back to Ponytail and Megan.]
+
+    Megan: Wow.
+
+    Megan: So...
+
+    Megan: We can commit all the crimes we want here and the cops can't do a
+    thing!
+
+    [Megan points up her finger.]
+
+    Ponytail: What? No. Why would you even think that?
+
+    Megan: I'm going to cut a pizza into a spiral!
+
+    Ponytail: That's not even illegal!
+
+    Megan: Crimes!
+'1987':
+  num: 1987
+  url: 'https://xkcd.com/1987'
+  title: Python Environment
+  img: 'https://imgs.xkcd.com/comics/python_environment.png'
+  alt: >-
+    The Python environmental protection agency wants to seal it in a cement
+    chamber, with pictoral messages to future civilizations warning them about
+    the danger of using sudo to install random Python packages.
+  year: '2018'
+  month: '4'
+  day: '30'
+  transcript: >
+    [A single frame depicting a flowchart is shown. Many chaotic arrows are
+    arranged between the items which are:]
+
+    $PYTHONPATH
+
+    EASY_INSTALL
+
+    ANACONDA PYTHON
+
+    HOMEBREW PYTHON (3.6)
+
+    ANOTHER PIP??
+
+    HOMEBREW PYTHON (2.7)
+
+    PYTHON.ORG BINARY (2.6)
+
+    PIP
+
+    EASY_INSTALL
+
+    $PATH
+
+    (MISC FOLDERS OWNED BY ROOT)
+
+    ????
+
+    [The endpoints are:]
+
+    /usr/local/Cellar 
+
+    /usr/local/opt
+
+    /(A BUNCH OF PATHS WITH "FRAMEWORKS" IN THEM SOMEWHERE)/
+
+    ~/python/ 
+
+    ~/newenv/
+
+    /usr/local/lib/python3.6
+
+    /usr/local/lib/python2.7
+
+    [Caption below the panel:]
+
+    My Python environment has become so degraded that my laptop has been
+    declared a superfund site.
+'1988':
+  num: 1988
+  url: 'https://xkcd.com/1988'
+  title: Containers
+  img: 'https://imgs.xkcd.com/comics/containers.png'
+  alt: All services are microservices if you ignore most of their features.
+  year: '2018'
+  month: '5'
+  day: '2'
+  transcript: >
+    [White Hat is sitting at a laptop. Cueball is standing behind him.]
+
+    White Hat: Man, Docker is being used for everything.
+
+    White Hat: I don't know how I feel about it.
+
+    Cueball: Story time!
+
+    [Cueball is standing by himself.]
+
+    Cueball: Once, long ago, I wanted to use an old tablet as a wall display.
+
+    [A picture of Cueball's imagined tablet with two applications open side by
+    side. The app on the left is "LiveCam".]
+
+    Cueball: I had an app and a calendar webpage that I wanted to show side by
+    side, but the OS didn't have split-screen support.
+
+    Cueball: So I decided to build my own app.
+
+    [White Hat and Cueball as before, but White Hat has turned to face Cueball.]
+
+    Cueball: I downloaded the SDK and the IDE, registered as a developer, and
+    started reading the language's docs.
+
+    [A picture of two smartphones glued together side by side, held on a backing
+    board. The same two applications shown earlier are open on different
+    phones.]
+
+    Cueball: ...Then I realized it would be way easier to get two smaller phones
+    on eBay and glue them together.
+
+    Cueball: On that day, I achieved software enlightenment.
+
+    [White Hat and Cueball still facing each other, with White Hat's arm resting
+    on the back of the chair.]
+
+    White Hat: But you never learned to write software.
+
+    Cueball: No, I just learned how to glue together stuff that I don't
+    understand.
+
+    White Hat: I...OK, fair.
+'1989':
+  num: 1989
+  url: 'https://xkcd.com/1989'
+  title: IMHO
+  img: 'https://imgs.xkcd.com/comics/imho.png'
+  alt: '"Ugh, TMI." "Yeah, that''s some tantalizing meat info."'
+  year: '2018'
+  month: '5'
+  day: '4'
+  transcript: >
+    [Cueball, Megan, and Ponytail stand together, talking.]
+
+    Cueball: I thought the "H" in "IMHO" was "humble," but Buzzfeed ran a poll
+    and "honest" won.
+
+    Megan: That can't be true. Their readers are messing with us.
+
+    [Cueball and Megan look at Ponytail.]
+
+    Ponytail: Are you sure? I always used it to mean "honest."
+
+    Megan: ...What?!
+
+    [Close up of Cueball holding a phone. A box with usage of "IMHO" and "TBH"
+    from Google Trends shows "TBH" suddenly rising in 2011, with a second spike
+    in 2014.]
+
+    Cueball: It was definitely "humble" in the 1990s.
+
+    Cueball: Maybe people who picked it up after the rise of "TBH" in 2011
+    interpreted it as "honest" and used it that way.
+
+    [Cueball, Megan, and Ponytail as before.]
+
+    Megan: I can't get over this. What other wrong opinions do you have?
+
+    Megan: The "G" in "G-I-F"?
+
+    Ponytail: Silent.
+
+    [Close up of Ponytail, with Megan talking from offscreen.]
+
+    Megan: The "S" in "SMDH"?
+
+    Ponytail: "Swallowing."
+
+    Megan: The "G" in "OMG"?
+
+    Ponytail: "Giantess" or "genitals."
+
+    [Cueball, Megan, and Ponytail as before.]
+
+    Megan: The Dress?
+
+    Ponytail: Black and white.
+
+    Megan: Is the database language "sequel" or "ess cue ell"?
+
+    Ponytail: I've always said "squill."
+
+    Cueball: Okay, the big one: how many spaces after a period?
+
+    Ponytail: None; I use tabs.
+
+    Cueball: OMG.
+
+    Megan: Yeah, mine too.
+'1990':
+  num: 1990
+  url: 'https://xkcd.com/1990'
+  title: Driving Cars
+  img: 'https://imgs.xkcd.com/comics/driving_cars.png'
+  alt: >-
+    It's probably just me. If driving were as dangerous as it seems, hundreds of
+    people would be dying every day!
+  year: '2018'
+  month: '5'
+  day: '7'
+  transcript: >
+    [Cueball stands in front of a car holding his hands together in front of
+    him.]
+
+    Cueball: Time to accelerate this giant machine up to terrifying speeds and
+    steer it using my hands, which I am allowed to do because I took a 20-minute
+    test in high school!
+
+    [Caption below the panel:]
+
+    Driving freaks me out.
+'1991':
+  num: 1991
+  url: 'https://xkcd.com/1991'
+  title: Research Areas by Size and Countedness
+  img: 'https://imgs.xkcd.com/comics/research_areas_by_size_and_countedness.png'
+  alt: >-
+    Mathematicians give a third answer on the vertical axis, "That question is
+    poorly defined, but we have a sub-field devoted to every plausible version
+    of it."
+  year: '2018'
+  month: '5'
+  day: '9'
+  transcript: "[An X-Y scatter plot of research areas, written in gray font, where both axes have arrows in both ends. At the end of each arrow is a label. Above the left part of the X-axis there is a line which goes to a text about the meaning of the X-axis. Similarly there is a line to from the top of the Y-axis to a questions “asked” to those that study the given subject, their answers being somewhere between the two labels on the Y axis.]  \n[The X-axis from left to right, text first and then labels:]\nSize of the thing you study\nSmall\nBig\n[The Y-axis from top to bottom, question first and then labels:]\n\"That thing you study - how many of them are there?\"\n\"We have a pretty good estimate.\"\n\"We have no idea\"\n[The research areas names are listed here below by sorting them into the four quadrants from top left to bottom right. In each quadrant the areas are listed after most left first, and then top to bottom for those at the same x position.]\n[Upper left quadrant (Small & count known):]\nElementary particle physics \nDentistry \nShakespeare studies\nOrnithology\nAncient Literature\n[Upper right quadrant (Big & count known):]\nPresidential History \t\nMarine Mammology \t\nRailway Engineering \t\nGeology \t\nCosmology*\n(*Depends who you ask)\n[Lower left quadrant (Small & count unknown):]\nPharmacology\nMicrobiology\nEntymology\nMycology\n[Upper right quadrant (Big & count unknown):]\nBotany \t\nPaleontology \t\nExobiology \t\nBlack Hole Astronomy \t\nTheology\n"
+'1992':
+  num: 1992
+  url: 'https://xkcd.com/1992'
+  title: SafetySat
+  img: 'https://imgs.xkcd.com/comics/safetysat.png'
+  alt: >-
+    During launch, in the event of an unexpected sensor reading, SafetySat will
+    extend prongs in all directions to secure itself and any other cubesats
+    safely in the launch vehicle until the source of the problem can be
+    determined.
+  year: '2018'
+  month: '5'
+  day: '11'
+  transcript: >
+    [A prototype for a small cube-shaped "CubeSat" satellite, with labels on
+    various components.]
+
+    [Labeled on top:]
+
+    Rare-Earth Magnets
+
+    Bic Mini Lighter
+
+    Software-Defined Radio (code editable via a public wiki)
+
+    [Labeled on right:]
+
+    Laser Pointers (fixed)
+
+    Laser Pointer (Hubble-seeking)
+
+    Ozone-Depleting CFC Spritzer
+
+    [Labeled on bottom:]
+
+    Celebratory Firework
+
+    Volatile Epoxy Seal
+
+    Filler (Guncotton)
+
+    [Labeled on left:]
+
+    Americium Corners
+
+    Spark Plug
+
+    Solar Panel (found)
+
+    Batteries (eBay)
+
+    Wet Sand Dispenser
+
+    [Labeled from within drawing in white text on top of a black rectangle:] 
+
+    Crude Oil
+
+    [Caption below the panel:]
+
+    My CubeSat proposal was the first to be rejected for violating every design
+    and safety requirement simultaneously.
+'1993':
+  num: 1993
+  url: 'https://xkcd.com/1993'
+  title: Fatal Crash Rate
+  img: 'https://imgs.xkcd.com/comics/fatal_crash_rate.png'
+  alt: >-
+    Fixating on this seems unhealty. But in general, the more likely I think a
+    crash is, the less likely one becomes, which is a strange kind of reverse
+    placebo effect.
+  year: '2018'
+  month: '5'
+  day: '14'
+  transcript: >
+    [Graphs are shown inside of a panel.]
+
+    [Graph 1:] 
+
+    My fatal car crash probability based on my age
+
+    [Label at 2018:]
+
+    Now
+
+    [Graph 2:] 
+
+    Overall US fatal crash rate per mile traveled
+
+    [Label:]
+
+    General safety improvements
+
+    [Graph 3:] 
+
+    My miles traveled by car per year
+
+    [Label after 2018:]
+
+    Depends on job, where I live, etc.
+
+    [Graph 4, below the previous graphs:] 
+
+    My estimated lifetime probability of being in a fatal car crash
+
+    [Label pointing at late-2020s:]
+
+    Point at which self-driving cars become safe and widely adopted, making
+    crashes rare (assuming that happens)
+
+    [Label pointing at a gray segment after late-2020s:]
+
+    Fatal crashes avoided
+
+    [Caption below the panel:]
+
+    It feels weird to look at car crash statistics and wonder whether we'll all
+    be able to stop driving before I'm involved in a fatal crash.
+'1994':
+  num: 1994
+  url: 'https://xkcd.com/1994'
+  title: Repairs
+  img: 'https://imgs.xkcd.com/comics/repairs.png'
+  alt: >-
+    I was just disassembling it over the course of five hours so it would fit in
+    the trash more efficiently.
+  year: '2018'
+  month: '5'
+  day: '16'
+  transcript: "[Caption above the diagram:]\nHow well something works\nAfter I decide to fix it\n[The comic shows a graph with a solid curve that decreases in 8 different sized steps from the top left to the bottom right. The X-axis shows time passes and gives the time from zero to five hours with 6 ticks with labels beneath. The Y-axis shows how well something works with 8 ticks, but only four of them labeled.]\nWorks great\nHas minor problems\nDoesn't work\nWill never work again\n0 hours\_\_ 1 hour\_\_ 2 hours\_\_ 3 hours\_\_ 4 hours\_\_ 5 hours\n[The solid line has six labels with eight arrow pointing to different sections, two times the same label has two arrows pointing to different sections the first two places where the lines takes a step down, and the second to two plateaus on either side of a step. In total the arrows point four times on both steps and plateaus. Both the first and final plateau has a dot has added to the line, and the arrows point to those. Above the solid line there are three dotted lines going up from three plateaus just before the solid line takes a step down, the last two of these lines split up in two, with one going higher. At the end of each of these five dotted lines there is a sentence spoken. The solid line begins at the 2nd tick on the Y-Axis and finishes at the last. The three dotted lines going up ends up at the 1. tick on the Y-axis, for the last two there are also a line ending at the 2nd tick and 3rd tick respectively. Only the first label being above the first tick on the X-axis but the last three labels are all above the last tick on the X-Axis. Here is a list of all the labels in chronological order according to the position on the X-axis. For those that has the same time stamp the top one will be mentioned first. Those at the end of a line are indented:]\nI start trying to fix it\n\"It just needed cleaning!\"\n\nTake it apart\n\"Fixed it!\"\n\"Well, at least it's not more broken than when I started.\"\n\nTake it apart more\nWatch YouTube instructional videos\nTake a deep breath and cut wires\n\"That was heroic and I deserve a Nobel prize.\"\n\"Well, it sort of works now.\"\n\n(Turn to other possessions) \n\"...And let that be a lesson to you.\"\n\n"
