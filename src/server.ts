@@ -1,20 +1,18 @@
-const express = require('express');
-const app = express();
-const extend = require('extend');
-const exphbs = require('express-handlebars');
-const port = process.env.PORT || 3000;
+import * as express from 'express';
+import * as extend from 'extend';
+import * as exphbs from 'express-handlebars';
+import { log } from './log';
+import * as xkcdApi from './xkcdapi';
 
-const log = require('./log.js');
-const xkcdApi = require('./xkcdapi.js');
+const app = express();
+const port = process.env.PORT || 3000;
 
 app.engine('handlebars', exphbs({defaultLayout: 'main'}));
 app.set('view engine', 'handlebars');
 
 app.get('/', function (req, res) {
-  let page = 'index';
-  let rotate = false;
-  if(req.query.full !== undefined) page = 'imageonly';
-  if(req.query.rotate !== undefined) rotate = parseInt(req.query.rotate) || 60;
+  const rotate = req.query.rotate !== undefined ? parseInt(req.query.rotate) || 60 : null;
+  const page = req.query.full !== undefined ? 'imageonly' : 'index';
   renderComic(res, xkcdApi.randomComicNumber(), page, {rotate: rotate});
 });
 
@@ -51,7 +49,7 @@ xkcdApi.setup(function(err) {
   });
 });
 
-function renderComic(res, number, page, options) {
+function renderComic(res: express.Response, number: number, page: string, options={}) {
   const metadata = xkcdApi.getComic(number);
   if (metadata) {
     res.set('Cache-Control', 'public, max-age=3');

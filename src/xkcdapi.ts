@@ -1,27 +1,45 @@
-const cheerio = require('cheerio');
-const fs = require('fs');
-const request = require('request');
-const yaml = require('node-yaml');
-const log = require('./log');
+///<reference path="../types/types.d.ts" />
+import * as cheerio from 'cheerio';
+import * as fs from 'fs';
+import * as path from 'path';
+import * as request from 'request';
+import * as yaml from 'node-yaml';
+import { log } from './log';
 
-const INFO_FILE = 'xkcdinfo.yaml';
+const INFO_FILE = path.join(process.cwd(), 'xkcdinfo.yaml');
 const BLOCKED_WORDS_CSV = process.env.BLOCKED_WORDS || null;
 const BLOCKED_WORDS = BLOCKED_WORDS_CSV ? BLOCKED_WORDS_CSV.split(',').map(word => word.trim()) : [];
 // These are comics which do not have a decent static image
 const INTERACTIVE = [1110,1190,1193,1446,1525,1608,1663];
 const DO_NOT_EXIST = [404];
 
+interface Comic {
+  num: number;
+  url: string;
+  title: string;
+  img: string;
+  alt: string;
+  year: string;
+  month: string;
+  day: string;
+  transcript: string;
+}
+
 // These are updated after setup() is called
-let ignoreList = [];
+let ignoreList:number[] = [];
 let latest = 0;
-let comicData = {};
+let comicData:{[key:string]:Comic} = {};
+
+function sortNumber(a:number, b:number) {
+  return a - b;
+}
 
 function setup(callback) {
   if (!callback) callback = function(err) {};
   updateInfo(function() {
-    yaml.read(INFO_FILE, function(err, data) {
+    yaml.read(INFO_FILE, function(err:object, data:{[key:string]:Comic}) {
       if (err) return callback(err);
-      const latestComicNumber = Object.keys(data).map(num_s => parseInt(num_s)).sort((a,b) => a > b).reverse()[0];
+      const latestComicNumber = Object.keys(data).map(num_s => parseInt(num_s)).sort(sortNumber).reverse()[0];
       latest = latestComicNumber;
       comicData = data;
       const nsfwComics = Object.keys(data)
@@ -54,7 +72,7 @@ function updateInfo(callback) {
     yaml.read(INFO_FILE, function(yamlErr, data) {
       if (yamlErr) return callback(yamlErr);
       if (!data) data = {};
-      const latestDownloaded = Object.keys(data).map(num_s => parseInt(num_s)).sort((a,b) => a > b).reverse()[0] || 0;
+      const latestDownloaded = Object.keys(data).map(num_s => parseInt(num_s)).sort(sortNumber).reverse()[0] || 0;
       log(`latest is #${latestComicNumber}, latest downloaded is #${latestDownloaded}`);
       if (latestComicNumber > latestDownloaded) {
         // Fetch metadata and transcript for each outstanding comic in turn
@@ -82,7 +100,7 @@ function fetchComics(nextToDownload, maxComicNumber, callback) {
       } else {
         const $ = cheerio.load(explainBody);
         const apiData = JSON.parse(apiBody);
-        const data = {
+        const data:Comic = {
           num: nextToDownload,
           url: `https://xkcd.com/${nextToDownload}`,
           title: apiData.title,
@@ -90,13 +108,13 @@ function fetchComics(nextToDownload, maxComicNumber, callback) {
           alt: $('.image').attr('title') || '',
           year: apiData.year,
           month: apiData.month,
-          day: apiData.day
+          day: apiData.day,
+          transcript: ''
         };
         try {
           data.transcript = $('#Transcript').parent().nextUntil(':header').filter('dl').text();
         } catch (e) {
           log(`Transcript for ${nextToDownload} failed: ${e}`);
-          data.transcript = '';
         }
         const dataToWrite = {}
         dataToWrite[nextToDownload] = data;
@@ -126,7 +144,7 @@ setInterval(setup, 86400000); // Update once a day
 /**
  * Returns a comic number that is compatible with this site (i.e. non-interactive and safe for work)
  */
-function randomComicNumber() {
+function randomComicNumber(): number {
   const num = Math.ceil(Math.random() * latest);
   if (ignoreList.includes(num)) {
     return randomComicNumber();
@@ -137,18 +155,18 @@ function randomComicNumber() {
 
 /**
  * Uses the xkcd API to get metadata for a specific comic
- * @param {Number} comicNumber Leave null for latest
+ * @param {number} comicNumber Leave null for latest
  */
-function getComic(comicNumber) {
+function getComic(comicNumber?: number) {
   if (!comicNumber) comicNumber = latest;
   log(`Returning comic #${comicNumber}`);
   return comicData[comicNumber];
 }
 
-function findComics(query) {
+function findComics(query: string) {
   return Object.keys(comicData)
     .filter(key => comicData[key].title.toLowerCase().includes(query.toLowerCase()) || comicData[key].transcript.toLowerCase().includes(query.toLowerCase()) || comicData[key].alt.toLowerCase().includes(query.toLowerCase()))
     .map(key => comicData[key]);
 }
 
-module.exports = {setup, getComic, randomComicNumber, findComics};
+export {setup, getComic, randomComicNumber, findComics};

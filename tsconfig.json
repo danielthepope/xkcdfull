@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist",
+    "allowJs": true,
+    "target": "es2015",
+    "typeRoots": [
+      "./node_modules/@types/",
+      "./types/"
+    ],
+    "lib": [
+      "dom",
+      "es2017"
+    ],
+    "module": "commonjs",
+    "sourceMap": true
+  },
+  "include": [
+    "./src/**/*"
+  ]
+}
