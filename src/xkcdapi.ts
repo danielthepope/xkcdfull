@@ -10,10 +10,10 @@ const INFO_FILE = path.join(process.cwd(), 'xkcdinfo.yaml');
 const BLOCKED_WORDS_CSV = process.env.BLOCKED_WORDS || null;
 const BLOCKED_WORDS = BLOCKED_WORDS_CSV ? BLOCKED_WORDS_CSV.split(',').map(word => word.trim()) : [];
 // These are comics which do not have a decent static image
-const INTERACTIVE = [1110,1190,1193,1446,1525,1608,1663];
+const INTERACTIVE = [1110, 1190, 1193, 1446, 1525, 1608, 1663];
 const DO_NOT_EXIST = [404];
 
-interface Comic {
+type Comic = {
   num: number;
   url: string;
   title: string;
@@ -26,18 +26,18 @@ interface Comic {
 }
 
 // These are updated after setup() is called
-let ignoreList:number[] = [];
+let ignoreList: number[] = [];
 let latest = 0;
-let comicData:{[key:string]:Comic} = {};
+let comicData: { [key: string]: Comic } = {};
 
-function sortNumber(a:number, b:number) {
+function sortNumber(a: number, b: number) {
   return a - b;
 }
 
-function setup(callback) {
-  if (!callback) callback = function(err) {};
-  updateInfo(function() {
-    yaml.read(INFO_FILE, function(err:object, data:{[key:string]:Comic}) {
+function setup(callback: (err: Error) => void) {
+  updateInfo(function (err) {
+    if (err) return callback(err);
+    yaml.read(INFO_FILE, function (err: Error, data: { [key: string]: Comic }) {
       if (err) return callback(err);
       const latestComicNumber = Object.keys(data).map(num_s => parseInt(num_s)).sort(sortNumber).reverse()[0];
       latest = latestComicNumber;
@@ -56,51 +56,50 @@ function setup(callback) {
       log(`${nsfwComics.length} comics have naughty words`);
       ignoreList = INTERACTIVE.concat(DO_NOT_EXIST).concat(nsfwComics);
       log('setup() complete');
-      callback();
+      callback(null);
     });
   });
 }
 
-function updateInfo(callback) {
-  if (!callback) callback = function(err) {};
+function updateInfo(callback: (err: Error) => void) {
   // Get latest comic number
-  getLatestComicNumber(function(latestComicNumber) {
+  getLatestComicNumber(function (latestComicNumber) {
     // Get latest comic from info yaml file
     if (!fs.existsSync(INFO_FILE)) {
       fs.writeFileSync(INFO_FILE, '', 'utf-8');
     }
-    yaml.read(INFO_FILE, function(yamlErr, data) {
+    yaml.read(INFO_FILE, function (yamlErr: Error, data: { [key: string]: Comic }) {
       if (yamlErr) return callback(yamlErr);
       if (!data) data = {};
       const latestDownloaded = Object.keys(data).map(num_s => parseInt(num_s)).sort(sortNumber).reverse()[0] || 0;
       log(`latest is #${latestComicNumber}, latest downloaded is #${latestDownloaded}`);
       if (latestComicNumber > latestDownloaded) {
         // Fetch metadata and transcript for each outstanding comic in turn
-        fetchComics(latestDownloaded + 1, latestComicNumber, function() {
-          callback();
+        fetchComics(latestDownloaded + 1, latestComicNumber, function () {
+          callback(null);
         })
       } else {
-        callback();
+        callback(null);
       }
     })
   })
 }
 
-function fetchComics(nextToDownload, maxComicNumber, callback) {
+function fetchComics(nextToDownload: number, maxComicNumber: number, callback: () => void) {
   if (nextToDownload > maxComicNumber) {
     log('completed!');
     return callback();
   }
 
   log(`Getting #${nextToDownload}`);
-  request(`https://www.explainxkcd.com/wiki/index.php/${nextToDownload}`, function(explainError, explainResponse, explainBody) {
-    request(`https://xkcd.com/${nextToDownload}/info.0.json`, function(apiError, apiResponse, apiBody) {
+  request(`https://www.explainxkcd.com/wiki/index.php/${nextToDownload}`, function (explainError, explainResponse, explainBody) {
+    request(`https://xkcd.com/${nextToDownload}/info.0.json`, function (apiError, apiResponse, apiBody) {
       if (explainError || apiError || explainResponse.statusCode != 200 || apiResponse.statusCode != 200) {
         log(`Error getting data for #${nextToDownload}; continuing with next one.\nexplainError:${explainError}\napiError:${apiError}\nexplainResponse:${explainResponse.statusCode}\napiResponse:${apiResponse.statusCode}`);
       } else {
         const $ = cheerio.load(explainBody);
         const apiData = JSON.parse(apiBody);
-        const data:Comic = {
+        const data: Comic = {
           num: nextToDownload,
           url: `https://xkcd.com/${nextToDownload}`,
           title: apiData.title,
@@ -116,7 +115,7 @@ function fetchComics(nextToDownload, maxComicNumber, callback) {
         } catch (e) {
           log(`Transcript for ${nextToDownload} failed: ${e}`);
         }
-        const dataToWrite = {}
+        const dataToWrite: { [key: string]: Comic } = {};
         dataToWrite[nextToDownload] = data;
         const yamlData = yaml.dump(dataToWrite);
         fs.appendFileSync(INFO_FILE, yamlData);
@@ -126,11 +125,11 @@ function fetchComics(nextToDownload, maxComicNumber, callback) {
   });
 }
 
-function getLatestComicNumber(callback) {
+function getLatestComicNumber(callback: (number: number) => void) {
   log('fetching latest');
-  request('https://xkcd.com/info.0.json', function(error, response, body) {
+  request('https://xkcd.com/info.0.json', function (error, response, body) {
     try {
-      const max = JSON.parse(body).num;
+      const max: number = JSON.parse(body).num;
       latest = max;
       if (callback) callback(max);
     } catch (e) {
@@ -169,4 +168,4 @@ function findComics(query: string) {
     .map(key => comicData[key]);
 }
 
-export {setup, getComic, randomComicNumber, findComics};
+export { setup, getComic, randomComicNumber, findComics };

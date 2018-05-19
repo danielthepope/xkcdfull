@@ -1,5 +1,5 @@
-function log(message: string, exception: any='') {
-  console.log(`${new Date().toISOString()} ${message}`, exception);
+function log(message: string, error?: Error) {
+  console.log(`${new Date().toISOString()} ${message}`, error ? error : '');
 }
 
 export { log };
