@@ -80242,3 +80242,299 @@
 
     My hobby: Messing with word game enthusiasts by using words that make them
     sure there's a puzzle to solve
+'2033':
+  num: 2033
+  url: 'https://xkcd.com/2033'
+  title: Repair or Replace
+  img: 'https://imgs.xkcd.com/comics/repair_or_replace.png'
+  alt: >-
+    Just make sure all your friends and family are out of the car, or that
+    you've made backup friends and family at home.
+  year: '2018'
+  month: '8'
+  day: '15'
+  transcript: >-
+    [Cueball is sitting in a car parked to the left of Hairy, who thus stands in
+    front of it while pointing behind him towards a big black hole.]
+
+    Cueball: My engine's making a weird noise. Can you take a look?
+
+    Hairy: Sure, just pop the hood.
+
+    Cueball: Oh, the hood latch is also broken.
+
+    Hairy: OK, just pull up to that big pit and push the car in. We'll go get a
+    new one.[Caption below the frame:]
+
+    I'm sure the economics make sense, but it still freaks me out how quick
+    companies are to replace computing devices instead of trying to fix them.
+'2034':
+  num: 2034
+  url: 'https://xkcd.com/2034'
+  title: Equations
+  img: 'https://imgs.xkcd.com/comics/equations.png'
+  alt: >-
+    All electromagnetic equations: The same as all fluid dynamics equations, but
+    with the 8 and 23 replaced with the permittivity and permeability of free
+    space, respectively.
+  year: '2018'
+  month: '8'
+  day: '17'
+  transcript: >-
+    [Nine equations are listed, three in the top row and two in each of the next
+    three rows. Below each equation there are labels:]E = K0t + 1/2 ρvt2
+
+    All kinematics equationsKn = ∑i=0∞∑π=0∞(n-π)(i-eπ-∞)
+
+    All number theory equations∂/∂t ∇ ⋅ ρ = 8/23 (∯ ρ ds dt ⋅ ρ ∂/∂∇)
+
+    All fluid dynamics equations|ψx,y〉 = A(ψ) A(|x〉⊗ |y〉)
+
+    All quantum mechanics equationsCH4 + OH + HEAT → H2O + CH2 + H2EAT
+
+    All chemistry equationsSU(2)U(1) × SU(U(2))
+
+    All quantum gravity equationsSg = (-1)/(2ε̄) i ð (̂ ξ0 +̊ pε ρvabc η0 )̂
+    f̵a0 λ(ʒ̆) ψ(0a)
+
+    All gauge theory equations[There is a brace linking the three cases
+    together.]
+
+    H(t) + Ω + G⋅Λ ... 
+
+    ... > 0 (Hubble model)
+
+    ... = 0 (Flat sphere model)
+
+    ... < 0 (Bright dark matter model)
+
+    All cosmology equationsĤ - u̧0 = 0
+
+    All truly deep physics equations
+'2035':
+  num: 2035
+  url: 'https://xkcd.com/2035'
+  title: Dark Matter Candidates
+  img: 'https://imgs.xkcd.com/comics/dark_matter_candidates.png'
+  alt: >-
+    My theory is that dark matter is actually just a thin patina of grime
+    covering the whole universe, and we don't notice it because we haven't
+    thoroughly cleaned the place in eons.
+  year: '2018'
+  month: '8'
+  day: '20'
+  transcript: >-
+    Dark matter candidates:
+
+    [A line graph is shown and labeled at left quarter in eV and further to the
+    right in g together with some prefixes.]
+
+    [The labels read:]
+
+    µeV, meV, eV, keV, MeV, GeV, TeV, 10-18kg, ng, µg, mg, g, kg, TON, 106kg,
+    1012kg, 1018kg, 1024kg, 1030kg[All items are shown in bars ranging between
+    two approximately values:]
+
+    < 1 µeV - 10 meV: Axion1 eV - 10 keV: Sterile neutrino0.5 MeV (exactly):
+    Electrons painted with space camouflage10 GeV - 10 TeV: Neutralino100 TeV -
+    10-17 kg: Q-ball1 ng - 100 ng: Pollen0.1 mg - 1 mg: No-See-Ums10-1 g
+    (exactly): Bees10 g - 100 g: 8-balls100 kg - TON: Space cowsTON - 109 kg:
+    Obelisks, monoliths, pyramids109 kg - 1033 kg: Black holes ruled out by:
+
+    109 kg - 1013 kg: Gamma rays
+
+    1013 kg - 1017 kg: GRB lensing
+
+    1015 kg - 1022 kg: Neutron star data
+
+    1021 kg - 1030 kg: Micro lensing
+
+    1024 kg - 1030 kg: Solar system stability
+
+    1030 kg - 1033 kg: Buzzkill astronomers1033 kg - >1036 kg: Maybe those orbit
+    lines on space diagrams are real and very heavy
+'2036':
+  num: 2036
+  url: 'https://xkcd.com/2036'
+  title: Edgelord
+  img: 'https://imgs.xkcd.com/comics/edgelord.png'
+  alt: >-
+    If you study graphs in which edges can link more than two nodes, you're more
+    properly called a hyperedgelord.
+  year: '2018'
+  month: '8'
+  day: '22'
+  transcript: >-
+    [Cueball is talking to White Hat, who is balling his fist and has small
+    lines above his head to indicate annoyance.]
+
+    Cueball: So, I hear you're a real edgelord.
+
+    White Hat: No![Caption below the frame:]
+
+    How to annoy a graph theory Ph.D.
+'2037':
+  num: 2037
+  url: 'https://xkcd.com/2037'
+  title: Supreme Court Bracket
+  img: 'https://imgs.xkcd.com/comics/supreme_court_bracket.png'
+  alt: >-
+    My bracket was busted in the first round; I had Massachusetts v. Connecticut
+    in the final, probably in a case over who gets to annex Rhode Island.
+  year: '2018'
+  month: '8'
+  day: '24'
+  transcript: >-
+    [A tournament bracket tree is shown with 16 participants each on the left
+    and right side. From both sides toward the middle the brackets reduce to
+    eight, then four, two, and one line where the latter join to a rectangle in
+    the middle.][Left side:]
+
+    Marbury - Madison
+
+    McCulloch - Maryland
+
+    Gibbons - Ogden
+
+    Near - Minnesota
+
+    NLRB - Jones & Laughlin
+
+    Brown - Board of Education
+
+    Gideon - Wainwright
+
+    Griswold - Connecticut[Right side:]
+
+    Miranda - Arizona
+
+    Loving - Virginia
+
+    Roe - Wade
+
+    United States - Nixon
+
+    Bush - Gore
+
+    Lawrence - Texas
+
+    Massachusetts - EPA
+
+    Obergefell - Hodges[Caption below the frame:]
+
+    Now that we've finished the round of 32, the Supreme Court will be moving on
+    to the Sweet 16.
+'2038':
+  num: 2038
+  url: 'https://xkcd.com/2038'
+  title: Hazard Symbol
+  img: 'https://imgs.xkcd.com/comics/hazard_symbol.png'
+  alt: "The warning diamond on the Materials Safety Data Sheet for this stuff just has the \"\uD83D\uDE30\" emoji in all four fields."
+  year: '2018'
+  month: '8'
+  day: '27'
+  transcript: >-
+    [The comic shows symbols, drawn in black on top of a yellow background.]
+
+    [One large symbol embeds four others and it's composed of the outline of
+    three overlapping and outwards narrowing rings arranged by 120 degrees.]
+
+    [The symbol at the center shows at the same orientation three blades with a
+    small stepped circle in the middle.]
+
+    [Inside the ring on top is a symbol of a backwards falling human with a
+    small line depicting the ground.]
+
+    [The ring on the right below the center contains a circle with radiant
+    alternating smaller and longer lines around. One more longer line points
+    toward the center of the image.]
+
+    [Embedded into the left lower ring is a bolt with an arrow pointing left
+    downwards.][Caption below:]
+
+    It's important to know the international warning symbol for radioactive
+    high-voltage laser-emitting biohazards that coat the floor and make it
+    slippery.
+'2039':
+  num: 2039
+  url: 'https://xkcd.com/2039'
+  title: Begging the Question
+  img: 'https://imgs.xkcd.com/comics/begging_the_question.png'
+  alt: At least we can all agree on the enormity of this usage.
+  year: '2018'
+  month: '8'
+  day: '29'
+  transcript: >-
+    [Ponytail and White Hat standing next to each other talking. White Hat has
+    raised his hand while Cueball stands behind him.]
+
+    Ponytail: That food made me nauseous.
+
+    White Hat: No, the food was nauseous. It made you feel nauseated.
+
+    Cueball: Come on, you're just begging the question.[Caption below the
+    frame:]
+
+    I annoy people on all sides by using "beg the question" to mean "fight a
+    losing battle against changing usage".
+'2040':
+  num: 2040
+  url: 'https://xkcd.com/2040'
+  title: Sibling-in-Law
+  img: 'https://imgs.xkcd.com/comics/sibling_in_law.png'
+  alt: >-
+    FYI, it turns out "...because I haven't figured out whether he would be my
+    brother-in-law or not" does NOT qualify as a "reason why these two should
+    not be wed."
+  year: '2018'
+  month: '8'
+  day: '31'
+  transcript: >-
+    [A single layer of a family tree with 15 people depicted as sticky figures
+    side by side is shown. They are connected alternated either by a bracket on
+    top or a short line between them. The four outermost figures on each side
+    are faded out in gray.]
+
+    [In the middle is Cueball and from below an arrow points at him:]
+
+    Me
+
+    [To the left Ponytail is connected by a bracket and the arrow below says:]
+
+    Sibling
+
+    [To the right of Cueball Megan is shown connected by a small line, an arrow
+    below her reads:]
+
+    Spouse
+
+    [Further to the left and the right the next figures have an arrow below with
+    the nested text:]
+
+    Siblings-in-law
+
+    [The next connected figures on both sides are drawn with two other wider
+    arrows embedding this statement:]
+
+    Also siblings-in-law, I think?
+
+    [All remaining figures left and right have similar arrows below and the text
+    is:]
+
+    Possible additional siblings-in-law???[Caption below the frame:]
+
+    People complain that “<X>th cousin <Y> times removed” is hard to understand,
+    but to me the most confusing one is sibling-in-law, because it chains across
+    both sibling and marriage links and I don't really know where it stops.
+'2041':
+  num: 2041
+  url: 'https://xkcd.com/2041'
+  title: Frontiers
+  img: 'https://imgs.xkcd.com/comics/frontiers.png'
+  alt: >-
+    Star Trek V is a small part of the space frontier, but it's been a while
+    since that movie came out so I assume we've finished exploring it by now.
+  year: '2018'
+  month: '9'
+  day: '3'
+  transcript: ''
