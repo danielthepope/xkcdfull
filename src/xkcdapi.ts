@@ -6,7 +6,7 @@ import * as request from 'request';
 import * as yaml from 'node-yaml';
 import { log } from './log';
 
-const INFO_FILE = path.join(process.cwd(), 'xkcdinfo.yaml');
+const INFO_FILE = path.join(__dirname, '../xkcdinfo.yaml');
 const BLOCKED_WORDS_CSV = process.env.BLOCKED_WORDS || null;
 const BLOCKED_WORDS = BLOCKED_WORDS_CSV ? BLOCKED_WORDS_CSV.split(',').map(word => word.trim()) : [];
 // These are comics which do not have a decent static image
