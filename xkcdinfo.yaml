@@ -80538,3 +80538,2578 @@
   month: '9'
   day: '3'
   transcript: ''
+'2042':
+  num: 2042
+  url: 'https://xkcd.com/2042'
+  title: Rolle's Theorem
+  img: 'https://imgs.xkcd.com/comics/rolles_theorem.png'
+  alt: >-
+    I mean, if it's that easy to get a theorem named for you ... "a straight
+    line that passes through the center of a coplanar circle always divides the
+    circle into two equal halves." Can I have that one? Wait, can I auction off
+    the naming rights? It can be the Red Bull Theorem or the Quicken Loans
+    Theorem, depending who wants it more.
+  year: '2018'
+  month: '9'
+  day: '5'
+  transcript: >-
+    [A single framed picture shows a colored x-y-graph with a text above:]
+
+    Rolle's Theorem
+
+    From Wikipedia, the free encyclopediaRolle's theorem states that any real,
+    differentiable function that has the same value at two different points must
+    have at least one "stationary point" between them where the slope is
+    zero.[The graph shows a sine like curve in blue intersecting the x-axis at
+    points "a" and "b" marked in red while in the middle a point "c" has a
+    vertical dashed green line to the apex and on top also in green f'(c)=0 is
+    drawn with a horizontal tangent line.][Caption below the frame:]
+
+    Every now and then, I feel like the math equivalent of the clueless art
+    museum visitor squinting at a painting and saying "c'mon, my kid could make
+    that." 
+'2043':
+  num: 2043
+  url: 'https://xkcd.com/2043'
+  title: Boathouses and Houseboats
+  img: 'https://imgs.xkcd.com/comics/boathouses_and_houseboats.png'
+  alt: >-
+    The <x> that is held by <y> is also a <y><x>, so if you go to a food truck,
+    the stuff you buy is truck food. A phone that's in your car is a carphone,
+    and a car equipped with a phone is a phonecar. When you play a mobile racing
+    game, you're in your phonecar using your carphone to drive a different
+    phonecar. I'm still not sure about bananaphones.
+  year: '2018'
+  month: '9'
+  day: '7'
+  transcript: >-
+    [A chart with three rows and three columns is shown, both with the same
+    heading "car", "house", and "boat". On the top left a text with the word
+    "this" two times embedded in a bubble and an arrow respectively pointing to
+    the row and column heading reads:]
+
+    A this that holds this[Most entries have the common word in black, but
+    crossed out in red with another word below also in red. Two entries remain
+    in green.]
+
+    A Car that holds a Car: Tow truck Carcar
+
+    A House that holds a Car: Garage Carhouse
+
+    A Boat that holds a Car: Car ferry Carboat
+
+    A Car that holds a House: Mobile home Housecar
+
+    A House that holds a House: Apartment Househouse
+
+    A Boat that holds a House: Houseboat (green text)
+
+    A Car that holds a Boat: Boat trailer Boatcar
+
+    A House that holds a Boat: Boathouse (green text)
+
+    A Boat that holds a Boat: Lifeboat Boatboat[Caption below the frame:]
+
+    I really like the words for "boathouse" and "houseboat" and think we should
+    apply that scheme more consistently.
+'2044':
+  num: 2044
+  url: 'https://xkcd.com/2044'
+  title: Sandboxing Cycle
+  img: 'https://imgs.xkcd.com/comics/sandboxing_cycle.png'
+  alt: >-
+    All I want is a secure system where it's easy to do anything I want. Is that
+    so much to ask?
+  year: '2018'
+  month: '9'
+  day: '10'
+  transcript: >-
+    [The comic consists of four panels arranged in a circle around the center.
+    Black arrows connecting them clockwise in an infinite loop. All panels show
+    the same 14 tiny circles and three different rings embedding some of the
+    circles while other circles are outside. A few circles and rings are
+    connected by lines but there is no connection between them all.][The panel
+    at top left shows this configuration but with a few circles in red.]
+
+    "I wish these parts could communicate more easily."[Clockwise the next panel
+    on the right shows new lines in green connecting nearly all remaining also
+    now green circles and the lower most circle has a dashed green line to the
+    outside.]
+
+    "Ohh, this new technology makes it easy to create arbitrary connections,
+    integrating everything!"[At the third panel to the bottom right all green
+    parts are now in black and even more connections are established. Parts of
+    these and some others are now highlighted in red.]
+
+    "Uh-oh, there are so many connections it's creating bugs and security
+    holes!"[At the fourth panel to the bottom left all red parts are now in
+    black, showing a complex structure. Four green rings separate the structure
+    with only green connections between them and to the outside.]
+
+    "Ohh, this new technology makes it easy to enclose arbitrary things in
+    secure sandboxes!"[The arrow above the fourth panel connects it to the first
+    and the circle continues from the beginning.]
+'2045':
+  num: 2045
+  url: 'https://xkcd.com/2045'
+  title: Social Media Announcement
+  img: 'https://imgs.xkcd.com/comics/social_media_announcement.png'
+  alt: >-
+    Why I'm Moving Most of My Social Activity to Slack, Then Creating a Second
+    Slack to Avoid the People in the First One, Then Giving Up on Social
+    Interaction Completely, Then Going Back to Texting
+  year: '2018'
+  month: '9'
+  day: '12'
+  transcript: >-
+    [Cueball sitting in front of a laptop typing.]
+
+    Why I'm Quitting Facebook, Joining LinkedIn, Deleting My LinkedIn, Rejoining
+    Facebook, Quitting Twitter, Getting Locked Out of Facebook, Moving to
+    Mastodon, and Lobbying Microsoft to Take Over Mastodon and Merge It With
+    LinkedIn: A Manifesto.
+'2046':
+  num: 2046
+  url: 'https://xkcd.com/2046'
+  title: Trum-
+  img: 'https://imgs.xkcd.com/comics/trum.png'
+  alt: >-
+    Excited to vote for future presidents Bill Eisenhamper, Amy Forb, Ethan
+    Obample, and Abigail Washingtoast.
+  year: '2018'
+  month: '9'
+  day: '14'
+  transcript: >-
+    [Cueball and Megan walking together while talking.]
+
+    Megan: It's pretty weird that we've had two totally unrelated presidents
+    whose last names start with "T-R-U-M-".
+
+    Cueball: Oh, sure, that's definitely the weirdest thing about the presidency
+    right now.
+
+    Megan: It's less weird than every other fact. But still weird.
+
+    Cueball: True.
+'2047':
+  num: 2047
+  url: 'https://xkcd.com/2047'
+  title: Beverages
+  img: 'https://imgs.xkcd.com/comics/beverages.png'
+  alt: >-
+    If I wait a while, it's not so bad, because then it's just shaped like me,
+    plus some pipes and tanks and probably eventually all of Earth's oceans.
+  year: '2018'
+  month: '9'
+  day: '17'
+  transcript: >-
+    [Inside a single frame, liquid pouring out of a glass through mouth, the
+    esophagus, and to the stomach is shown. However the surrounding bodies like
+    the organs or the glass are not pictured, are only defined by the shape of
+    the liquid, and must be imagined. Further two small parts within or near the
+    invisible stomach with no visible connection to the rest are also wetted.]
+
+    [Caption below the frame:]
+
+    It freaks me out to imagine what a beverage is shaped like when I’m in the
+    middle of drinking it.
+'2048':
+  num: 2048
+  url: 'https://xkcd.com/2048'
+  title: Curve-Fitting
+  img: 'https://imgs.xkcd.com/comics/curve_fitting.png'
+  alt: >-
+    Cauchy-Lorentz: "Something alarmingly mathematical is happening, and you
+    should probably pause to Google my name and check what field I originally
+    worked in."
+  year: '2018'
+  month: '9'
+  day: '19'
+  transcript: >-
+    Curve-Fitting Methods
+
+    and the messages they send[In a single frame twelve scatter plots with
+    unlabeled x- and y-axes are shown. Each plot consists of the same data-set
+    of approximately thirty points located all over the plot but slightly more
+    distributed around the diagonal. Every plot shows in red a different fitting
+    method which is labeled on top in gray.][The first plot shows a line
+    starting at the left bottom above the x-axis rising towards the points to
+    the right.]
+
+    Linear
+
+    "Hey, I did a regression."[The second plot shows a curve falling slightly
+    down and then rising up to the right.]
+
+    Quadratic
+
+    "I wanted a curved line, so I made one with math."[At the third plot the
+    curve starts near the left bottom and increases more and more less to the
+    right.]
+
+    Logarithmic
+
+    "Look, it's tapering off!"[The fourth plot shows a curve starting near the
+    left bottom and increases more and more steeper towards the right.]
+
+    Exponential
+
+    "Look, it's growing uncontrollably!"[The fifth plot uses a fitting to match
+    many points. It starts at the left bottom, increases, then decreases, then
+    rapidly increasing again, and finally reaching a plateau.]
+
+    LOESS
+
+    "I'm sophisticated, not like those bumbling polynomial people."[The sixth
+    plot simply shows a line above but parallel to the x-axis.]
+
+    Linear, no slope
+
+    "I'm making a scatter plot but I don't want to."[At plot #7 starts at a
+    plateau above the x-axis, then increases, and finally reaches a higher
+    plateau.]
+
+    Logistic
+
+    "I need to connect these two lines, but my first idea didn't have enough
+    Math."[Plot #8 shows two red lines embedding most points and the area
+    between is painted as a red shadow.]
+
+    Confidence interval
+
+    "Listen, science is hard. But I'm a serious person doing my best."[Plot #9
+    shows two not connected lines, one at the lower left half, and one higher at
+    the right. Both have smaller curved lines in light red above and below.]
+
+    Piecewise
+
+    "I have a theory, and this is the only data I could find."[The plot at the
+    left bottom shows a line connecting all points from left to right, resulting
+    in a curve going many times up and down.]
+
+    Connecting lines
+
+    "I clicked 'Smooth Lines' in Excel."[The next to last plot shows a echelon
+    form, connecting a few real and some imaginary points.]
+
+    Ad-Hoc filter
+
+    "I had an idea for how to clean up the data. What do you think?"[The last
+    plot shows a wave with increasing peak values. Finally the plot of the wave
+    is continued beyond the x- and y-axis borders.]
+
+    House of Cards
+
+    "As you can see, this model smoothly fits the- wait no no don't extend it
+    AAAAAA!!"
+'2049':
+  num: 2049
+  url: 'https://xkcd.com/2049'
+  title: Unfulfilling Toys
+  img: 'https://imgs.xkcd.com/comics/unfulfilling_toys.png'
+  alt: >-
+    We were going to do a falling-apart Rubik's cube that was just 27
+    independent blocks stuck together with magnets, but then we realized it was
+    actually really cool and even kind of worked, so we cut that one.
+  year: '2018'
+  month: '9'
+  day: '21'
+  transcript: >-
+    [The comic presents toys in six different frames.][Cueball slaps his wrist
+    with a strap-like item in his hand.]
+
+    Smack
+
+    Rigid slap bracelet[Cueball jumps on top of a pouch full of air connected
+    via a hose to an air propelled rocket. The pouch does not budge and the
+    rocket remains connected to its base.]
+
+    Sealed stomp rocket[Ponytail holds a water gun and makes use of its
+    hand-operated pump system.]
+
+    Pump pump pump
+
+    Pump
+
+    Click
+
+    Pump-only SuperSoaker[Megan pulls an item apart between her hands. The
+    middle section breaks into many pieces on the ground and liquid is falling
+    from the end parts.]
+
+    Pop
+
+    Glass glow stick[Cueball holds a figurine sitting on top of a hand-held
+    device and pulls a string connected to it.]
+
+    Spin
+
+    Wingless sky dancer[Megan holds a yo-yo until the yo-yo falls from the
+    string and starts rolling on the ground.]
+
+    Roll
+
+    No-strings-attached yo-yo[Caption below the frames:]
+
+    My least successful product line was probably "deeply unfulfilling versions
+    of classic toys."
+'2050':
+  num: 2050
+  url: 'https://xkcd.com/2050'
+  title: 6/6 Time
+  img: 'https://imgs.xkcd.com/comics/6_6_time.png'
+  alt: >-
+    You know how Einstein figured out that the speed of light was constant, and
+    everything else had to change for consistency? My theory is like his, except
+    not smart or good.
+  year: '2018'
+  month: '9'
+  day: '24'
+  transcript: >-
+    [Cueball and White Hat are walking.]
+
+    Cueball: Under my time system, the sun rises at 6 am and it sets at 6 pm, as
+    it should.
+
+    Cueball: The length of the second is different each day and night, and the
+    current time shifts with your latitude and longitude.
+
+    Cueball: Today is one of the two days each year when my clocks run at the
+    same speed as everyone else's.[Caption below the frame:]
+
+    Time standards are so unfixably messy and complicated that at this point my
+    impulse is just to try to make them worse.
+'2051':
+  num: 2051
+  url: 'https://xkcd.com/2051'
+  title: Bad Opinions
+  img: 'https://imgs.xkcd.com/comics/bad_opinions.png'
+  alt: >-
+    I thought of another bad opinion! I couldn't find anyone who expressed it
+    specifically, but still, the fact that I can so easily imagine it is
+    infuriating! I'm gonna tell everyone about it!
+  year: '2018'
+  month: '9'
+  day: '26'
+  transcript: >-
+    [Cueball sits at a laptop.]
+
+    Offscreen voice: What are you doing?
+
+    Cueball: I just thought of a bad opinion someone could have, and now I'm
+    searching to see if anyone does so I can be mad at them.
+
+    Offscreen voice: Sounds like you have a healthy relationship with the
+    internet.
+
+    Cueball: Hey, at least I'm not this guy I just found!
+'2052':
+  num: 2052
+  url: 'https://xkcd.com/2052'
+  title: Stanislav Petrov Day
+  img: 'https://imgs.xkcd.com/comics/stanislav_petrov_day.png'
+  alt: >-
+    I was going to get you an alarm clock that occasionally goes off randomly in
+    the middle of the night, but you can ignore it and go back to sleep and it's
+    fine.
+  year: '2018'
+  month: '9'
+  day: '28'
+  transcript: |-
+    [Megan is looking at her phone while Cueball stands in front of her.]
+    Megan: Hey, Wednesday was Stanislav Petrov Day. We missed it.
+    Cueball: Oh, shoot!
+    Cueball: I got a calendar alert for it, but I assumed it was a false alarm.
+'2053':
+  num: 2053
+  url: 'https://xkcd.com/2053'
+  title: Incoming Calls
+  img: 'https://imgs.xkcd.com/comics/incoming_calls.png'
+  alt: >-
+    I wonder if that friendly lady ever fixed the problem she was having with
+    her headset.
+  year: '2018'
+  month: '10'
+  day: '1'
+  transcript: >-
+    [A line graph shows the portions of phone calls by type over time beginning
+    slightly before 1990 until today.]
+
+    Incoming personal calls over time
+
+    or: why I finally stopped picking up for unknown numbers[The x-axis is
+    labeled with years beginning at 1990 in five year segments up to NOW (2018).
+    The y-axis shows a relative distribution of callers.]
+
+    [The calls are (from top to down):]
+
+    Appointment reminders, misc. (small growing all over time)
+
+    Family (larger in the beginning, constant with some fluctuations since 2000)
+
+    Friends (growing from 1995 to 2005, then decreasing but intersected with
+    "that one friend who hates texting", after that decreasing)
+
+    Legal telemarketers (peak in the beginning, decreasing over time)
+
+    Auto insurance scammers (a big peak between 2005 and 2012)
+
+    Other scammers (beginning in 2010, replacing the auto insurance, increasing
+    until today)
+
+    Political (starting in 2002 and increasing since then)
+
+    Wrong numbers (constant up to 2000 and then decreasing to nearly today)
+'2054':
+  num: 2054
+  url: 'https://xkcd.com/2054'
+  title: Data Pipeline
+  img: 'https://imgs.xkcd.com/comics/data_pipeline.png'
+  alt: >-
+    "Is the pipeline literally running from your laptop?" "Don't be silly, my
+    laptop disconnects far too often to host a service we rely on. It's running
+    on my phone."
+  year: '2018'
+  month: '10'
+  day: '3'
+  transcript: >-
+    [Cueball is standing with an open laptop, showing it to Ponytail and White
+    Hat.]
+
+    Cueball: Check it out - I made a full automated data pipeline that collects
+    and processes all the information we need.[Ponytail is looking down at
+    Cueball's laptop.]
+
+    Ponytail: Is it a giant house of cards built from random scripts that will
+    all completely collapse the moment any input does anything weird?[Borderless
+    beat panel][Cueball looks at his laptop.]
+
+    Cueball: It... might not be.
+
+    Ponytail: I guess that's someth-
+
+    Cueball: Whoops, just collapsed. Hang on, I can patch it.
+'2055':
+  num: 2055
+  url: 'https://xkcd.com/2055'
+  title: Bluetooth
+  img: 'https://imgs.xkcd.com/comics/bluetooth.png'
+  alt: >-
+    Bluetooth is actually named for the tenth-century Viking king Harald
+    "Bluetooth" Gormsson, but the protocol developed by Harald was a wireless
+    charging standard unrelated to the modern Bluetooth except by name.
+  year: '2018'
+  month: '10'
+  day: '5'
+  transcript: >-
+    [Cueball and White Hat are talking, Cueball is holding a cell phone and
+    wireless headphones.]
+
+    Cueball: I haven’t used a wireless/bluetooth thingy in like ten years. Is
+    audio stuff still a nightmare?
+
+    White Hat: Nah, it’s great now.[Zoom in on White Hat, Cueball is
+    off-screen.]
+
+    White Hat: You tap devices together twice to link them and they flash in
+    sync. (It pairs using accelerometer timing and sound.) Tap them three times
+    to disconnect.
+
+    White Hat: You can pair multiple inputs and outputs and it handles it
+    smoothly.
+
+    Cueball (off screen): Nice!
+
+    White Hat: It just works. Sound comes from where you expect.
+
+    Cueball (off screen): Wonderful.[Zoom out to White Hat and Cueball facing
+    each other.]
+
+    White Hat: Haha, just kidding, it’s a nightmare.
+
+    Cueball: Noooooo!
+
+    White Hat: When I connect to my car, music starts blasting from my
+    headphones while the car repeatedly plays a “New connection!” chime.
+
+    Cueball: This is not what Josiah Bluetooth intended!
+'2056':
+  num: 2056
+  url: 'https://xkcd.com/2056'
+  title: Horror Movies
+  img: 'https://imgs.xkcd.com/comics/horror_movies.png'
+  alt: >-
+    "Isn't the original Jurassic Park your favorite movie of all time?" "Yes,
+    but that's because I like dinosaurs and I WANT there to be an island full of
+    them. If John Hammond's lab had been breeding serial killers in creepy
+    masks, I wouldn't have watched!" "Wait, are you sure? That could actually be
+    good." "Ok, I WOULD watch the scenes where Jeff Goldblum tries to convince a
+    bunch of executives that the park is a bad idea."
+  year: '2018'
+  month: '10'
+  day: '8'
+  transcript: >-
+    [White Hat and Cueball are standing together and talking. White Hat points
+    at Cueball who has raised his arms.]
+
+    White Hat: Wanna see a horror movie?
+
+    Cueball: Sure! I love watching terrible things happen to people and feeling
+    afraid![Caption below the frame:]
+
+    I know everyone's into what they're into, but I have never understood horror
+    movies.
+'2057':
+  num: 2057
+  url: 'https://xkcd.com/2057'
+  title: Internal Monologues
+  img: 'https://imgs.xkcd.com/comics/internal_monologues.png'
+  alt: >-
+    Haha, just kidding, everyone's already been hacked. I wonder if today's the
+    day we find out about it.
+  year: '2018'
+  month: '10'
+  day: '10'
+  transcript: >-
+    [Beneath a two line caption are five characters shown, with their thoughts
+    inside thought bubbles. Below them are labels giving their respective fields
+    of science.]
+
+    Internal Monologues
+
+    from various fieldsBotany
+
+    Megan: I can't get over the fact that trees are made of air.Physics
+
+    Cueball [looking at a phone in his hand]: It's so weird that I can feel the
+    Earth and my phone being pulled together.Computer security
+
+    Blondie: I wonder if today will be the day everyone gets hacked and it all
+    finally collapses.Graphic design
+
+    Hairy: I wonder how that store ended up with the Law & Order font for their
+    sign.Medicine
+
+    Ponytail: We're all acting normal even though we're full of blood and bones
+    and poop.
+'2058':
+  num: 2058
+  url: 'https://xkcd.com/2058'
+  title: Rock Wall
+  img: 'https://imgs.xkcd.com/comics/rock_wall.png'
+  alt: >-
+    I don't trust mantle/core geologists because I suspect that, if they ever
+    get a chance to peel away the Earth's crust, they'll do it in a heartbeat.
+  year: '2018'
+  month: '10'
+  day: '12'
+  transcript: >-
+    [Ponytail is gesturing towards Megan with her hand, while talking to her.]
+
+    Ponytail: I live next to a wall of rock 20 miles thick.  There's no way
+    around or over it. I'm trapped on this side forever.
+
+    Ponytail: I study the stuff on the other side.[Caption below the frame:]
+
+    Mantle geology seems like the most frustrating field.
+'2059':
+  num: 2059
+  url: 'https://xkcd.com/2059'
+  title: Modified Bayes' Theorem
+  img: 'https://imgs.xkcd.com/comics/modified_bayes_theorem.png'
+  alt: >-
+    Don't forget to add another term for "probability that the Modified Bayes'
+    Theorem is correct."
+  year: '2018'
+  month: '10'
+  day: '15'
+  transcript: >-
+    [The comic shows a formula with a header in gray on top:]
+
+    Modified Bayes' theorem:[The formula:]
+
+    P(H|X) = P(H) × (1 + P(C) × ( P(X|H)/P(X) - 1 ))[Variables and functions are
+    described also in gray:]
+
+    H: Hypothesis
+
+    X: Observation
+
+    P(H): Prior probability that H is true
+
+    P(X): Prior probability of observing X
+
+    P(C): Probability that you're using Bayesian statistics correctly
+'2060':
+  num: 2060
+  url: 'https://xkcd.com/2060'
+  title: Hygrometer
+  img: 'https://imgs.xkcd.com/comics/hygrometer.png'
+  alt: >-
+    I'm working on assembling a combination declinometer, sclerometer,
+    viscometer, aleurometer, stalagmometer, and hypsometer. I'm making good
+    progress according to my ometerometer, a device which shows the rate at
+    which I'm acquiring measurement devices.
+  year: '2018'
+  month: '10'
+  day: '17'
+  transcript: >-
+    [Megan and Cueball are walking and talking. Cueball is holding his phone
+    with one hand, looking at it.]
+
+    Megan: ...A hygrometer is a device for measuring—
+
+    Cueball: I want one! Ooh, found one for $7.99 with free shipping! I'm buying
+    it.
+
+    Megan: —Humidity.
+
+    Cueball: Oh, cool![Caption below the frame:]
+
+    For some reason, I feel a powerful compulsion to own any device whose name
+    ends in "-ometer."
+'2061':
+  num: 2061
+  url: 'https://xkcd.com/2061'
+  title: Tectonics Game
+  img: 'https://imgs.xkcd.com/comics/tectonics_game.png'
+  alt: >-
+    They're limiting the playtesters to type A3 V stars, so the games will all
+    end before the Sun consumes the Earth.
+  year: '2018'
+  month: '10'
+  day: '19'
+  transcript: >-
+    [Cueball is standing behind Ponytail, who is sitting on the floor playing a
+    video game on a TV which displays a diagram of tectonic plates.]
+
+    Cueball: What game is that?
+
+    Ponytail: Tectonics!
+
+    Ponytail: You steer chunks of crust around, rifting, subducting, and
+    building and eroding mountains.[A view of the game screen is shown. It
+    includes a large cross-section of the Earth with smaller charts around it.]
+
+    Ponytail (narrating): You try to keep your climate stable and your biosphere
+    rich. 
+
+    Ponytail (narrating): Avoid making large igneous provinces! They're the
+    worst.[Cueball holds his hand out in a frameless panel.]
+
+    Cueball: Cool!
+
+    Cueball: Can I try?
+
+    Ponytail (off-panel): Sure![Cueball plays the game while Ponytail watches.]
+
+    Cueball: ...How do I unpause?
+
+    Ponytail: It's not paused.
+
+    Cueball: ...
+
+    Ponytail: Continents can only move a few inches per year.[Cueball has
+    stopped playing and holds the controller in one hand. Ponytail points at the
+    screen that shows an achievement page with no completed achievements, but a
+    progress bar halfway done for an achievement with the number 1 and a
+    mountain.]
+
+    Cueball: It's real-time?
+
+    Ponytail: Just 400 millennia to go until your first mountain achievement!
+'2062':
+  num: 2062
+  url: 'https://xkcd.com/2062'
+  title: Barnard's Star
+  img: 'https://imgs.xkcd.com/comics/barnards_star.png'
+  alt: >-
+    "Ok, team. We have a little under 10,000 years before closest approach to
+    figure out how to destroy Barnard's Star." "Why, does it pose a threat to
+    the Solar System?" "No. It's just an asshole."
+  year: '2018'
+  month: '10'
+  day: '22'
+  transcript: >-
+    [A black sky is shown with a yellow spot near the bottom, left of the
+    center. Three smaller red spots at the diagonal from top left to bottom
+    right indicate a moving star over time. Above these red spots lines are
+    connected to a text that starts and ends with many As, first growing, and at
+    the end getting smaller:]
+
+    ...AAAAHHi Sun! I was here billions of years before you formed and will
+    shine for trillions of years after you dieEEEEEAAA...[Caption below the
+    frame:]
+
+    Sometimes, I wonder what Barnard's Star is saying to the Sun as it performs
+    its 20,000-year-long high-speed flyby.
+'2063':
+  num: 2063
+  url: 'https://xkcd.com/2063'
+  title: Carnot Cycle
+  img: 'https://imgs.xkcd.com/comics/carnot_cycle.png'
+  alt: >-
+    The Carnot cycle is more properly known by its full title, the
+    "Carnot-Tolkien-Wagner Ring Cycle."
+  year: '2018'
+  month: '10'
+  day: '24'
+  transcript: >-
+    [A cartesian plot in the first quadrant with axes labeled "P" on the
+    vertical axis and "V" on the horizontal axis, with a rhombus-shaped set of
+    four points with arrows between them.]
+
+    [Caption above the graph:]
+
+    The four stages of the
+
+    Carnot Cycle[The first line starts at the top-left point and goes right and
+    slightly downwards to the next point. The label is:]
+
+    1. Isometric Expansion
+
+    When heated, the gas becomes larger due to increasing volume[The next line
+    starts at the last point and goes downwards and a little to the right.]
+
+    2. Isotonic Expansion
+
+    The gas expands further due to dark energy while percent milkfat remains
+    constant[The next line starts at this last point and goes to the left and
+    slightly upwards.]
+
+    3. Isopropyl Compression
+
+    While inflation is held constant, the gas contracts due to tightening
+    interest rates[The last line goes upwards and slightly to the left,
+    returning to the first point.]
+
+    4. Decline and Fall
+
+    The gas diminishes and goes into the west while remaining Galadriel,
+    completing the cycle
+'2064':
+  num: 2064
+  url: 'https://xkcd.com/2064'
+  title: I'm a Car
+  img: 'https://imgs.xkcd.com/comics/im_a_car.png'
+  alt: >-
+    I'm the proud parent of an honor student, and the person driving me is
+    proud, too!
+  year: '2018'
+  month: '10'
+  day: '26'
+  transcript: >-
+    [The bottom right rear end of a car is shown with a bumper sticker next to
+    the unreadable license plate.]
+
+    I'm a car
+
+    and I vote
+'2065':
+  num: 2065
+  url: 'https://xkcd.com/2065'
+  title: Who Sends the First Text?
+  img: 'https://imgs.xkcd.com/comics/who_sends_the_first_text.png'
+  alt: >-
+    I sort of wish my texting app showed the percentage next to each person, but
+    also sort of don't want to know.
+  year: '2018'
+  month: '10'
+  day: '29'
+  transcript: >-
+    Who sends the first text more often?
+
+    [A line graph with a segmented bar underneath shows a 50/50 marker in the
+    middle while the left end is labeled "I text first 100% of the time" whereas
+    the right end is labeled "They text first 100% of the time".][The bar below
+    is divided into five sections:][A small part at the left, and a next,
+    slightly larger part. The text below points to the second part:]
+
+    People who I think of as friends but secretly worry that they're just
+    politely putting up with me[Below this a text is shown for the first part:]
+
+    ...definitely just politely putting up with me[In the middle is a big part:]
+
+    Friends[To the right the parts are symmetric, the first is larger:]
+
+    That really nice friend who keeps inviting me to things even though I flake
+    constantly[The last small bar at the right:]
+
+    Automated alerts and political campaigns
+'2066':
+  num: 2066
+  url: 'https://xkcd.com/2066'
+  title: Ballot Selfies
+  img: 'https://imgs.xkcd.com/comics/ballot_selfies.png'
+  alt: >-
+    There were actually some good reasons for those laws, but IMO they now do
+    more harm than good. Which raises a question: If there's a ballot measure to
+    strike them down, how can I resist the urge to take a picture of my "yes"
+    vote?
+  year: '2018'
+  month: '10'
+  day: '31'
+  transcript: >-
+    [Megan, Ponytail, Cueball, White Hat, and Hairbun are standing in a line
+    with Hairbun in front. All are facing forward to the right except Cueball,
+    who is looking to his left at Ponytail. Megan holds a phone in her hand
+    while Ponytail carries an easel under her left arm and a paintbrush in her
+    right hand.]
+
+    Ponytail: Ballot selfies are illegal in this state, so to immortalize my
+    vote I'm doing an oil painting in the voting booth.
+'2067':
+  num: 2067
+  url: 'https://xkcd.com/2067'
+  title: Challengers
+  img: 'https://imgs.xkcd.com/comics/challengers.png'
+  alt: >-
+    Use your mouse or fingers to pan + zoom. To edit the map, submit your ballot
+    on November 6th.
+  year: '2018'
+  month: '11'
+  day: '2'
+  transcript: >-
+    [A loading screen appears shortly before the large picture has rendered. We
+    can see an American flag in an oval badge with the text:]
+
+    I voted
+
+    [And beneath a text saying:]
+
+    Loading...2018 Midterm
+
+    Challengers
+
+    The bigger the candidate's name, the higher the office and the better their
+    chances of success.[In a frame a zoomable map shows all US-States (Alaska
+    and Hawaii are shown in the left lower corner.) The candidates are shown
+    colored mainly in red and blue at different sizes. Each state has many
+    landmarks shown in gray. There are also many comics embedded into the
+    picture.]By Randall Monroe, Kelsey Harris, and Max GoodmanLandmarks from
+    Wikipedia. Success odds estimated from district voting history, special
+    election
+
+    results, and seat ratings. Thank you to Dailykos Elections for their
+    spreadsheets, shapefiles, election
+
+    ratings, and advice, and to @davidshor, @charlotteeffect, and @thedlcc for
+    additional candidate data.
+'2068':
+  num: 2068
+  url: 'https://xkcd.com/2068'
+  title: Election Night
+  img: 'https://imgs.xkcd.com/comics/election_night.png'
+  alt: >-
+    "Even the blind—those who are anxious to hear, but are not able to see—will
+    be taken care of. Immense megaphones have been constructed and will be in
+    use at The Tribune office and in the Coliseum. The one at the Coliseum will
+    be operated by a gentleman who draws $60 a week from Barnum & Bailey's
+    circus for the use of his voice."
+  year: '2018'
+  month: '11'
+  day: '5'
+  transcript: >-
+    [Megan and Cueball face each other while talking on the left of the panel]
+
+    Megan: Ugh, I'm just going to hide out for election night. We'll know the
+    results the next day anyway. The drama is so unnecessary.
+
+    Cueball: Yeah. The internet and the 24-hour news have turned elections into
+    a continuous, inescapable media onslaught.
+
+    [A man in a top hat appears on the right side of the panel with a
+    "Poof"][Panel with just the man in a top hat, holding a newspaper]
+
+    Man in a top hat: Hi! I'm a time traveler from 1896. Let me tell you about
+    our election night coverage.
+
+    Man in a top hat: *Ahem*
+
+    Man in a top hat: From the Chicago Tribune[Zoom in on head of the man in a
+    top hat]
+
+    Man in a top hat: "Once every hour from the roof of the Great Northern Hotel
+    a series of bombs, which will ascend for several thousand feet, will be
+    fired. Two colors will be used, blue and red."
+
+    Man in a top hat: "Blue to indicate McKinley's election, red to indicate
+    Bryan's election."
+
+    Man in a top hat: "The bombardment of the skies will commence at 7 o'clock
+    and will be repeated hourly."
+
+    [Grey citation]: Chicago Tribune, Oct 30th & Nov 1st, 1896[Megan and Cueball
+    on the left looking at the man in the top hat on the right]
+
+    Megan: Yeah, well, we have a needle, though.
+
+    Man in a top hat: A needle.
+
+    Megan: It jiggles!
+
+    Man in a top hat: Sounds awful.
+
+    Cueball: Listen, you had to be there.
+'2069':
+  num: 2069
+  url: 'https://xkcd.com/2069'
+  title: Wishlist
+  img: 'https://imgs.xkcd.com/comics/wishlist.png'
+  alt: >-
+    Disappointed that they caved to fan pressure and went with Ruth Bader
+    Ginsburg over Elena Kagan.
+  year: '2018'
+  month: '11'
+  day: '7'
+  transcript: |-
+    [In a frame a bullet-list is shown:]
+    Mario/Luigi hybrid
+    The SkiFree monster
+    Siri
+    Ellie from Up
+    Zordon
+    Clippy
+    The Sarlaac
+    The InstallShield Wizard
+    Mr. Clean
+    Comet Cursor
+    Beto O'Rourke
+    The Monopoly boot
+    Lot's wife
+    D.B. Cooper
+    The Blair Witch
+    Mavis Beacon[Caption below the frame:]
+    Super Smash Brothers never did end up adding anyone from my wishlist.
+'2070':
+  num: 2070
+  url: 'https://xkcd.com/2070'
+  title: Trig Identities
+  img: 'https://imgs.xkcd.com/comics/trig_identities.png'
+  alt: ARCTANGENT THETA = ENCHANT AT TARGET
+  year: '2018'
+  month: '11'
+  day: '9'
+  transcript: >-
+    [Inside a single frame comic a right-angled triangle is shown. The shorter
+    sides are labeled "a" and "b" and the hypotenuse has a "c". All angles are
+    marked: the right angle by a square and the two others by arcs. One arc
+    (enclosed by "a" and "c") is labeled by the Greek symbol theta
+    (θ).][Supposed trigonometric functions of the marked angle θ are shown:]sin
+    θ = b/c
+
+    cos θ = a/c
+
+    tan θ = b/acot θ = a/b
+
+    sec θ = c/a
+
+    csc θ = c/bcin θ = b/s
+
+    cas θ = o/c
+
+    tab θ = b²/n​abot θ = a/c → boat θ = a²/c → stoat θ = a²/c · s​t/btan θ ( =
+    b/a = b/a · c/c = b/c · c/a = sin θ sec θ ) = insect θ²(tan θ)² = b²/a² ( →
+    t²n²a⁴ = b²/θ² → a​t²b​a(n​a)² = b³/θ²
+
+    from physics: distance = 1/2 a​t² → ) distance2banana = b³/θ²[Caption below
+    the frame:]
+
+    Key trigonometric identities
+'2071':
+  num: 2071
+  url: 'https://xkcd.com/2071'
+  title: Indirect Detection
+  img: 'https://imgs.xkcd.com/comics/indirect_detection.png'
+  alt: >-
+    I'm like a prisoner in Plato's Cave, seeing only the shade you throw on the
+    wall.
+  year: '2018'
+  month: '11'
+  day: '12'
+  transcript: >-
+    [A single social media post is shown. On the top left is a portrait of a
+    spiky-haired face, the text right aside is not readable. The post is:] 
+
+    Everyone on here needs to stop laughing about how "adopting pets from a
+    shelter is for losers" and "those animals should all be hunted for sport
+    instead." It's reprehensible on so many levels! First of all...[Caption
+    below the frame:]
+
+    Sometimes, one of my friends posts an angry response to some terrible
+    opinion I've never heard before, and it's a weird indirect way to learn how
+    awful their other friends must be.
+'2072':
+  num: 2072
+  url: 'https://xkcd.com/2072'
+  title: Evaluating Tech Things
+  img: 'https://imgs.xkcd.com/comics/evaluating_tech_things.png'
+  alt: Also known as the Black Mirror-Mythbusters scale.
+  year: '2018'
+  month: '11'
+  day: '14'
+  transcript: >-
+    [Megan and Cueball talking.]
+
+    Megan: Sooner or later, someone is going to fly a drone into a tornado and
+    post the footage to YouTube.[Zoom in on Cueball imagining a semicircular
+    dial with a moving pointer currently fixed vertically in the mid value. The
+    left-most value indicating his opinion to be "This raises big questions
+    about technology and society" and the right-most being "Haha, cool!"][Panel
+    with just Cueball and the imaginary dial above his head, the pointer having
+    shifted a small amout to the right.][Same panel with Cueball, his right hand
+    pensively on his chin, the pointer having shifted an equally small amount to
+    the left of the mid value.][Panel with Cuball, Megan and the imaginary dial
+    above, the pointer now all the way to the right.]
+
+    Cueball: Haha, cool!
+'2073':
+  num: 2073
+  url: 'https://xkcd.com/2073'
+  title: Kilogram
+  img: 'https://imgs.xkcd.com/comics/kilogram.png'
+  alt: >-
+    I'm glad to hear they're finally redefining the meter to be exactly three
+    feet.
+  year: '2018'
+  month: '11'
+  day: '16'
+  transcript: >-
+    [Black Hat talking to Ponytail, Cueball, and Megan while all stand in a row.
+    Megan's hands are raised emphatically.]
+
+    Black Hat: To end many years of confusion, the International Committee for
+    Weights and Measures has just voted to redefine the kilogram.
+
+    Black Hat: As of next May, it will equal exactly one pound.
+
+    Ponytail: Oh, cool.
+
+    Cueball: That does make things simpler.
+
+    Megan: No!!
+'2074':
+  num: 2074
+  url: 'https://xkcd.com/2074'
+  title: Airplanes and Spaceships
+  img: 'https://imgs.xkcd.com/comics/airplanes_and_spaceships.png'
+  alt: >-
+    Despite having now taken three months longer than the airplane people, we're
+    making disappointingly little progress toward the obvious next stage of
+    vehicle: The Unobtanium-hulled tunneling ship from the 2003 film 'The Core.'
+  year: '2018'
+  month: '11'
+  day: '19'
+  transcript: >-
+    [A timeline is shown with three dots on it. Each dot has a label beneath the
+    dot, and the two intervals between the dots are also labeled, with lines
+    indicating which dots are belonging to that label.]Dot 1
+     
+    December 17, 1903 
+
+    First human airplane flightDot 2
+     
+    April 12, 1961
+
+    First human spaceflightDot 3
+     
+    TodayInterval 1-2
+     57 years 4 months
+    Interval 2-3
+     57 years 7 months[Caption beneath the frame:]
+    Spaceships are now older than airplanes were when we flew our first
+    spaceships.
+'2075':
+  num: 2075
+  url: 'https://xkcd.com/2075'
+  title: Update Your Address
+  img: 'https://imgs.xkcd.com/comics/update_your_address.png'
+  alt: >-
+    This is my four-digit PIN. It was passed down to me by my father, and
+    someday I will pass it on to you. Unless we figure out how to update it, but
+    that sounds complicated.
+  year: '2018'
+  month: '11'
+  day: '21'
+  transcript: >-
+    [Cueball is standing and talking on a phone.]
+
+    Voice: Do you still live at 342 River St?
+
+    Cueball: No, I moved last year.[Cueball is standing behind a counter with
+    Hairy, whose hands are on a keyboard.]
+
+    Hairy: Is 21 Ash Tree Lane still a good address?
+
+    Cueball: What? That's my childhood home. How is that even in your
+    system?[Cueball is talking on a phone again in a borderless panel.]
+
+    Voice: The address we have is 205 Second St #2.
+
+    Cueball: I... think that's where my parents lived before I was
+    born!?[Cueball stands behind another counter with Ponytail and a tablet.]
+
+    Ponytail: Are you still living in... "The Austro-Hungarian Empire?"
+
+    Cueball: You know what, sure.
+
+    Ponytail: Austria-Hungary dissolved in 1918.
+
+    Cueball: Well, I come from a long line of people who hate updating stuff.
+'2076':
+  num: 2076
+  url: 'https://xkcd.com/2076'
+  title: Horror Movies 2
+  img: 'https://imgs.xkcd.com/comics/horror_movies_2.png'
+  alt: >-
+    When I was a kid, someone told me the end of The Giver was ambiguous, which
+    surprised me. I had just assumed Jonah died--because the book had a medal on
+    the cover, and I knew grown-ups liked stories where sad stuff happens at the
+    end for no reason.
+  year: '2018'
+  month: '11'
+  day: '23'
+  transcript: >-
+    [White Hat and Cueball are walking, with Cueball holding his arms out in
+    front of him.]
+
+    White Hat: So you don't like any horror movies?
+
+    Cueball: Spooky stuff is neat but I hate jump scares and watching people get
+    murdered.
+
+    Cueball: Why would you want to see that?[Zoom in on the two.]
+
+    White Hat: It's like roller coasters. People like experiencing powerful
+    feelings in a safe, controlled setting.
+
+    Cueball: But why not good feelings?[In a frame-less panel Cueball stops and
+    turns towards White Hat.]
+
+    White Hat: We've always been into tragic stories. Romeo and Juliet,
+    Titanic...
+
+    Cueball: See, that's another thing I don't get![Zoom out again as White Hat
+    walks past Cueball who now hold his arms out to the side as he looks after
+    White Hat.]
+
+    Cueball: I loved Titanic because Rose and Jack found each other and seemed
+    so happy! I just hated the ending.
+
+    White Hat: I'll be sure to give James Cameron and Shakespeare your feedback.
+'2077':
+  num: 2077
+  url: 'https://xkcd.com/2077'
+  title: Heist
+  img: 'https://imgs.xkcd.com/comics/heist.png'
+  alt: >-
+    But he has a hat AND a toolbox! Where could someone planning a heist get
+    THOSE?
+  year: '2018'
+  month: '11'
+  day: '26'
+  transcript: >-
+    [A man in a cap with a toolbox approaches Cueball, who is shown to be
+    thinking with a cloud like bubble above his head with his thoughts.]
+
+    Man: Do you have the key to the server room? I'm from the building and I'm
+    here to check the fire alarm.
+
+    Cueball  [thinking]: Oh no oh no[Caption below the panel:]
+
+    Thanks to movies, whenever anyone asks me to open any door, I immediately
+    assume I'm a minor character in a heist.
+'2078':
+  num: 2078
+  url: 'https://xkcd.com/2078'
+  title: Popper
+  img: 'https://imgs.xkcd.com/comics/popper.png'
+  alt: >-
+    At least, I don't think there's evidence. My claim that there's no evidence
+    hasn't been falsified. At least, not that I know of.
+  year: '2018'
+  month: '11'
+  day: '28'
+  transcript: >-
+    [Miss Lenhart is teaching a class of three students; Hairy, Ponytail, and
+    Science Girl, sitting behind their desks.]
+
+    Miss Lenhart: There's no evidence that Karl Popper wasn't born on July 28th,
+    1902.
+
+    Miss Lenhart: No one has proven that he didn't grow up in Vienna...
+'2079':
+  num: 2079
+  url: 'https://xkcd.com/2079'
+  title: Alpha Centauri
+  img: 'https://imgs.xkcd.com/comics/alpha_centauri.png'
+  alt: >-
+    And let's be honest, it's more like two and a half stars. Proxima is barely
+    a star and barely bound to the system.
+  year: '2018'
+  month: '11'
+  day: '30'
+  transcript: >-
+    [Ponytail stands on a podium giving a presentation in front of a slide with
+    an image of a Voyager-like spacecraft.]
+
+    Ponytail: Our probe can reach Alpha Centauri in under 35 years.
+
+    Offscreen voice: We should go somewhere else.  Alpha Centauri sucks.
+
+    Ponytail: Huh? It's the closest, most convenient system!
+
+    Offscreen: Yeah, but I checked online and it only has three stars.
+'2080':
+  num: 2080
+  url: 'https://xkcd.com/2080'
+  title: Cohort and Age Effects
+  img: 'https://imgs.xkcd.com/comics/cohort_and_age_effects.png'
+  alt: >-
+    Younger people get very few joint replacements, yet they're also getting
+    more than older people did at the same age. This means you can choose
+    between 'Why are millennials getting so (many/few) joint replacements?'
+    depending on which trend fits your current argument better.
+  year: '2018'
+  month: '12'
+  day: '3'
+  transcript: >-
+    [Cueball as a news anchor is sitting at a desk with hands folded in front of
+    him on the table.]
+
+    Cueball: Tonight: Are Millennials killing the joint replacement industry?[To
+    the left of Cueball is a presentation which includes a two by two table with
+    a header above the table. Each of the two rows and columns are labeled, with
+    rows entitled 'Baby Boomers' and  'Millennials', and columns entitled 'Knee'
+    and 'Hip']Operation rate per 100,000
+
+
+    Baby Boomers:
+
+    Knee: 720
+
+    Hip: 390
+
+    Millennials:
+
+    Knee: 1
+
+    Hip: 3[Caption below the panel:]
+
+    Stats Pet Peeve: People mixing up cohort effects and age effects.
+'2081':
+  num: 2081
+  url: 'https://xkcd.com/2081'
+  title: Middle Latitudes
+  img: 'https://imgs.xkcd.com/comics/middle_latitudes.png'
+  alt: >-
+    Snowy blizzards are fun, but so are warm sunny beaches, so we split the
+    difference by having lots of icy wet slush!
+  year: '2018'
+  month: '12'
+  day: '5'
+  transcript: >-
+    [Cueball and Megan standing and talking, Megan with her arms raised.]
+
+    Cueball: It would be nice if the sun could rise and set at normal times. But
+    it would also be cool to experience 24-hour darkness for weeks on end.
+
+    Megan: Well, what if we split the difference, so all winter everything was
+    normal but slightly more dim and bleak?
+
+    Cueball: Perfect!
+
+    [Caption below the frame:]
+
+    Middle latitudes are the worst.
+'2082':
+  num: 2082
+  url: 'https://xkcd.com/2082'
+  title: Mercator Projection
+  img: 'https://imgs.xkcd.com/comics/mercator_projection.png'
+  alt: >-
+    The other great lakes are just water on the far side of Canada Island. If
+    you drive north from the Pacific northwest you actually cross directly into
+    Alaska, although a few officials--confused by the Mercator distortion--have
+    put up border signs.
+  year: '2018'
+  month: '12'
+  day: '7'
+  transcript: >-
+    [Cueball is holding a hand up as he talks to White Hat.]
+
+    Cueball: Did you know Canada is actually a smallish island in Lake Ontario?
+
+    White Hat: What?
+
+    Cueball: Yeah, it only appears to have a land border with the U.S. due to
+    the Mercator Projection.
+
+    White Hat: Wow! I had no idea.[Caption below the frame:]
+
+    At this point people feel so misled by the Mercator Projection that you can
+    use it to convince them of basically any map fact.
+'2083':
+  num: 2083
+  url: 'https://xkcd.com/2083'
+  title: Laptop Issues
+  img: 'https://imgs.xkcd.com/comics/laptop_issues.png'
+  alt: >-
+    Hang on, we got a call from the feds. They say we can do whatever with him,
+    but the EPA doesn't want that laptop in the ocean. They're sending a team.
+  year: '2018'
+  month: '12'
+  day: '10'
+  transcript: >-
+    [Cueball, carrying a laptop, is walking past a sign with a right-pointing
+    arrow reading "Tech Support".]
+
+    Off panel voice #1: Oh no.
+
+    Off panel voice #2: What?
+
+    Off panel voice #1: This guy.  He has the worst tech problems.[Cueball
+    standing at a tech support desk with an open laptop facing Hairy and
+    Ponytail on the other side of the desk.]
+
+    Cueball: My laptop's battery won't hold a charge.
+
+    Hairy: We can replace it.
+
+    Cueball: Tried that.  Now the new ones won't either.[Close-up of Cueball
+    gesturing with left hand]
+
+    Cueball: Also, random files get corrupted on the first day of every month. 
+    Factory reset didn't help.
+
+    Off panel voice: You weren't kidding.[Close-up of Cueball with right hand on
+    chin, gesturing with left hand]
+
+    Cueball: When it's plugged in, I get static shocks from my plumbing.
+
+    Off panel voice: What the...
+
+    Cueball: And it reboots if someone uses an arc welder nearby.[Same tableau
+    as second panel except that the laptop is slightly closed now.]
+
+    Cueball: Transitions® lenses go dark when exposed to the screen, and when I
+    open too many tabs, it fogs nearby photographic film.
+
+    Hairy: We don't usually do this, but I've gotten permission from my manager
+    to have you and the laptop hurled into the ocean.
+
+    Cueball: That's probably for the best.
+'2084':
+  num: 2084
+  url: 'https://xkcd.com/2084'
+  title: FDR
+  img: 'https://imgs.xkcd.com/comics/fdr.png'
+  alt: >-
+    June 21st, 365, the date of the big Mediterranean earthquake and tsunami,
+    lived in infamy for a few centuries before fading. Maybe the trick is a
+    catchy rhyme; the '5th of November' thing is still going strong over 400
+    years later.
+  year: '2018'
+  month: '12'
+  day: '12'
+  transcript: >-
+    [Close-up of a form. Each field has a label (the first is assumed) and a
+    handwritten entry. The name and country are each half visible. The numeral
+    "4" has been only partially written before being scratched out.]
+
+    [NAME]
+
+    Randall Munroe
+
+    DATE
+
+    Dec 7, 194 12, 2018
+
+    COUNTRY
+
+    United States[Caption below the frame:]
+
+    FDR was so good at speeches that I spend a whole month each year writing the
+    date wrong.
+'2085':
+  num: 2085
+  url: 'https://xkcd.com/2085'
+  title: arXiv
+  img: 'https://imgs.xkcd.com/comics/arxiv.png'
+  alt: >-
+    Both arXiv and archive.org are invaluable projects which, if they didn't
+    exist, we would dismiss as obviously ridiculous and unworkable.
+  year: '2018'
+  month: '12'
+  day: '14'
+  transcript: >-
+    [Megan and Ponytail are standing together. Megan is talking to Ponytail.]
+
+    Megan: Wait, all the papers in your field are posted as free PDFs on arXiv?
+    That must be killing big science journals, since they charge such huge
+    subscription/publication fees.[Ponytail responds with her arms wide, palms
+    up.]
+
+    Ponytail: Nah, we’ve been doing it since the 90s and nobody seems to
+    care.[Megan contemplates, speechless.][Megan slightly raises her arms and
+    Ponytail puts up a hand to shush her.]
+
+    Megan: That makes no sense at all!!
+
+    Ponytail: Shhh, you’ll jinx it!
+'2086':
+  num: 2086
+  url: 'https://xkcd.com/2086'
+  title: History Department
+  img: 'https://imgs.xkcd.com/comics/history_department.png'
+  alt: >-
+    When we take into account the recent discovery of previously-unstudied
+    history in the 1750s, this year may have been an outright loss.
+  year: '2018'
+  month: '12'
+  day: '17'
+  transcript: >-
+    [Ponytail is standing behind a lectern holding a hand up indicating the
+    presentation screen next to her with a list of time periods. The screen has
+    a string ending in ring, attached to it, to pull it down.]
+
+    Ponytail: 2018 was a productive year for the history department - we were
+    able to fully analyze over four months of history.
+
+    Ponytail: Unfortunately, over that same period, an entire year of new
+    history was produced.
+
+    Ponytail: I'm afraid we're falling behind.[Presentation:]
+
+    Studied
+
+    November 1833
+
+    April 19-22, 1979
+
+    May 21-25, 585 BCE
+
+    June-August 1848
+
+    May 16, 2001
+'2087':
+  num: 2087
+  url: 'https://xkcd.com/2087'
+  title: Rocket Launch
+  img: 'https://imgs.xkcd.com/comics/rocket_launch.png'
+  alt: >-
+    NASA tries to coordinate launch timing with the Care Bears' cloud castle,
+    but unfortunately sometimes collisions with stray Care Bears are
+    unavoidable, so they just try to make the fairings sturdy and hope for a
+    glancing impact.
+  year: '2018'
+  month: '12'
+  day: '19'
+  transcript: >-
+    [A rocket with two boosters is shown at the bottom left hand corner of the
+    image taking off from a launch pad on the ground, surrounded by clouds of
+    smoke.]
+
+    Liftoff[The rocket ascends vertically]
+
+    Max-Q: Peak aerodynamic stress[Separation of the two external booster
+    rockets is shown, with the main rocket continuing to ascend vertically with
+    a slight rightward tilt and the two boosters curving off to the right.]
+
+    Booster separation[The main rocket stage starts to curve over to the right.]
+
+    Max-CB: Highest chance of collision with care bears[Separation of the second
+    rocket stage. Main rocket heads right, whilst second booster stage curves
+    downward to meet trajectory of first booster stages.]
+
+    Main stage separation[Main rocket continues towards the right.]
+
+    GPS silenced so it will stop saying "make a U-turn"[First and second stage
+    booster rocket trajectories meet and become a single trajectory heading
+    upwards and right.]
+
+    Reunification[Trajectory of main rocket wobbles slightly.]
+
+    Pilot panics, copilot takes command after struggle[Booster stage rockets
+    continue to head upwards and right towards the main rocket trajectory.]
+
+    Pursuit phase[Main rocket and booster stage trajectories meet and cross
+    three times.]
+
+    Inter-stage dogfight[The trajectory for one of the stages ends in an
+    explosion.][The remaining trajectory, indicated with dashed-lines and
+    question marks, continues towards the right and off the edge of the page.]
+     Winner proceeds to space
+'2088':
+  num: 2088
+  url: 'https://xkcd.com/2088'
+  title: Schwarzschild's Cat
+  img: 'https://imgs.xkcd.com/comics/schwarzschilds_cat.png'
+  alt: >-
+    Cats can be smaller than the critical limit, but they're unobservable. If
+    one shrinks enough that it crosses the limit, it just appears to get cuter
+    and cuter as it slowly fades from view.
+  year: '2018'
+  month: '12'
+  day: '21'
+  transcript: >-
+    [A graph is shown. The x-axis is labeled "Cat size" and the y-axis, "Cat
+    cuteness". Parallel to and a short distance from the y axis is a dashed line
+    the same length as the y-axis line, representing a vertical asymptote; the
+    space between the y axis and the dashed line is labelled "Critical Limit".
+    Graphed is a function coming down from infinity, starting close to the
+    dashed line; it then levels off and does not reach zero on-screen. At the
+    top end of the graph is the text "Schwarzschild's Cat" and an arrow pointing
+    upwards outside of the graph.]
+'2089':
+  num: 2089
+  url: 'https://xkcd.com/2089'
+  title: Christmas Eve Eve
+  img: 'https://imgs.xkcd.com/comics/christmas_eve_eve.png'
+  alt: >-
+    It turns out that saying "Oh, so THAT'S why they call it Boxing Day" is a
+    good way to get punched a second time.
+  year: '2018'
+  month: '12'
+  day: '24'
+  transcript: >-
+    [Cueball with his arms out is talking with White Hat and Megan. In Cueballs
+    long last remark the letters get smaller from line to line.]Cueball: Today
+    is Christmas Eve. Yesterday was Christmas Eve Eve.
+
+    Megan: Uh huh...
+
+    Cueball: Of course, tomorrow is Christmas. And then, my favorite...
+
+    Megan: Oh no.
+
+    Cueball: ...Christmas Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve
+    Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve
+    Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve  Eve
+    Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve
+    Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve
+    Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve  Eve Eve Eve Eve Eve Eve Eve Eve
+    Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve
+    Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve
+    Eve Eve Eve Eve  Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve
+    Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve
+    Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve  Eve Eve Eve
+    Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve
+    Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve
+    Eve Eve Eve Eve Eve Eve Eve Eve Eve  Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve
+    Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve
+    Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve
+    Eve Eve  Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve
+    Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve
+    Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve Eve  Eve Eve Eve Eve Eve
+    Eve Eve Eve Eve Eve Eve Eve Eve Eve!  
+
+    Megan: I'm returning the presents I got you.
+'2090':
+  num: 2090
+  url: 'https://xkcd.com/2090'
+  title: Feathered Dinosaur Venn Diagram
+  img: 'https://imgs.xkcd.com/comics/feathered_dinosaur_venn_diagram.png'
+  alt: >-
+    My pet theory is that in real life, the kid at the beginning of Jurassic
+    Park who made fun of the 'six-foot turkey' never got a talking-to from Dr.
+    Grant, and grew up to produce several of the movie's sequels.
+  year: '2018'
+  month: '12'
+  day: '26'
+  transcript: >-
+    [The comic shows a rectangular panel containing two circles, side by side
+    and not intersecting. A caption is underneath each circle.]
+
+    [Left circle caption:] 
+
+    People Who Don't Think Feathered Dinosaurs Sound Scary
+
+    [Right circle caption:] 
+
+    People Who Have Tried To Fight An Ostrich 
+'2091':
+  num: 2091
+  url: 'https://xkcd.com/2091'
+  title: 'Million, Billion, Trillion'
+  img: 'https://imgs.xkcd.com/comics/million_billion_trillion.png'
+  alt: >-
+    You can tell most people don’t really assign an absolute meaning to these
+    numbers because in some places and time periods, “billion” has meant 1,000x
+    what it's meant in others, and a lot of us never even noticed.
+  year: '2018'
+  month: '12'
+  day: '28'
+  transcript: >-
+    [A graph with Y-axis labeled “Perceived size of number” and X-axis labeled
+    “Actual size of number (log scale)”.]
+
+    [The line graph shows points that are labeled with the following numbers
+    from “1 million” to “100 trillion”:][Points on graph:]
+
+    [Note: Coordinates are relative because the graph's y-axis has no shown
+    scale.]
+
+
+    1 million
+
+
+    [(1, 1)]
+
+
+
+    10 million
+
+
+    [(1, 2)]
+
+
+
+    100 million
+
+
+    [(1, 3)]
+
+
+
+    1 billion
+
+
+    [(1, 1.5)]
+
+
+
+    10 billion
+
+
+    [(1, 3)]
+
+
+
+    100 billion
+
+
+    [(1, 4)]
+
+
+
+    1 trillion
+
+
+    [(1, 3)]
+
+
+
+    10 trillion
+
+
+    [(1, 4)]
+
+
+
+    100 trillion
+
+
+    [(1, 5)]
+
+    [The perceived size increases between most numbers, but decreases between
+    100 million and 1 billion, and between 100 billion and 1 trillion. The
+    decreases are shown as dashed lines labeled “?”, in contrast to the solid
+    unlabeled lines between the increases. The increases and decreases in
+    perceived size become smaller as the numbers grow in actual size.]
+
+    [Caption below the panel:]
+
+    Talking about large numbers is hard
+'2092':
+  num: 2092
+  url: 'https://xkcd.com/2092'
+  title: Consensus New Year
+  img: 'https://imgs.xkcd.com/comics/consensus_new_year.png'
+  alt: >-
+    The biggest jump is at 11:00am EST (4:00pm UTC) when midnight reaches the
+    UTC+8 time zone. That time zone, which includes China, is home to a quarter
+    of the world's population. India and Sri Lanka (UTC+5:30) put us over the
+    50% mark soon after.
+  year: '2018'
+  month: '12'
+  day: '31'
+  transcript: >-
+    [A graph labeled “Percentage of the world's population living in 2019” with
+    Y-axis markers at 0%, 50%, and 100%, and X-axis markers at 10:00 AM EST Dec
+    31st, 1:30 PM EST, 7:00 PM EST, Midnight EST, 3:00 AM EST Jan 1st, and 7:00
+    AM EST.]
+
+    [The line graph shows the percentage increasing from 0 to 100% in several
+    steps, with 50% reached at 1:30 PM EST.][Caption below the panel:]
+
+    Consensus New Year: as of 1:30PM Eastern Time (6:30PM UTC) a majority of the
+    world's population will be living in 2019.
+'2093':
+  num: 2093
+  url: 'https://xkcd.com/2093'
+  title: Reminders
+  img: 'https://imgs.xkcd.com/comics/reminders.png'
+  alt: >-
+    The good news is that if the number of work and friend relationships you
+    have exceeds your willingness to do the bare minimum to keep up with
+    everyone's life events and stuff, one way or another that problem eventually
+    solves itself.
+  year: '2019'
+  month: '1'
+  day: '2'
+  transcript: >-
+    [Cueball at his desk using a laptop.]
+
+    Laptop: You got this email six days ago. Do you want to follow up?
+
+    Cueball: Oh, right, I should do that.
+
+    [Cueball types on laptop.] *type type*
+
+    Laptop: Did you forget the attachment?
+
+    Cueball: Oops, yes.
+
+    Laptop: Today is the recipient's birthday. Did you want to mention that?
+
+    Cueball: Wait, it is?[Caption below the panel:]
+
+    These reminders make me uncomfortable, not because computers are getting too
+    smart, but because it reminds me how often I fall short of even baseline
+    levels of conscientiousness.
+'2094':
+  num: 2094
+  url: 'https://xkcd.com/2094'
+  title: Short Selling
+  img: 'https://imgs.xkcd.com/comics/short_selling.png'
+  alt: >-
+    "I'm selling all my analogies at auction tomorrow, and that witch over there
+    will give you 20 beans if you promise on pain of death to win them for her."
+    "What if SEVERAL people promised witches they'd win, creating some kind of a
+    ... squeeze? Gosh, you could make a lot of–" "Don't be silly! That probably
+    never happens."
+  year: '2019'
+  month: '1'
+  day: '4'
+  transcript: >-
+    [Cueball and Ponytail are walking together, talking.]
+
+    Cueball: I don't understand shorting stocks.
+
+    Ponytail: It's like when you promise your firstborn to a witch for five
+    magic beans.[Ponytail close up]
+
+    Cueball (off-panel): Is that a common–
+
+    Ponytail: She's a sucker, right? You know your awful kid will be worth one
+    or two beans at best.[Ponytail and Cueball stopped, facing each other]
+
+    Ponytail: But then it turns out you love your kid, a love worth 200 beans!
+    You can't afford that loss!
+
+    Ponytail: There's only one way out: 
+
+    Ponytail: You gotta fight the witch.[Ponytail and Cueball stopped, facing
+    each other]
+
+    Ponytail: So you send your kid up the beanstalk to battle the giant, who
+    represents interest rates.
+
+    Cueball: This analogy is getting less helpful by the minute.
+
+    Ponytail: If only you'd somehow shorted my wisdom before you asked.
+'2095':
+  num: 2095
+  url: 'https://xkcd.com/2095'
+  title: Marsiforming
+  img: 'https://imgs.xkcd.com/comics/marsiforming.png'
+  alt: >-
+    It has so many advantages--it preserves Martian life, requires fewer
+    interplanetary launches, and makes it much easier to field-test Mars rovers.
+  year: '2019'
+  month: '1'
+  day: '7'
+  transcript: >-
+    [Cueball is on a stage giving a presentation, with a diagram behind him. The
+    diagram shows Earth and Mars side-by-side, along with some writing below the
+    two.]
+
+    Cueball: Earth and Mars may look different now, but with some orbiting
+    mirrors and atmospheric adjustments, we could change that.[Caption below the
+    panel:]
+
+    I'm having trouble selling people on my proposal to terraform Earth to
+    resemble Mars.
+'2096':
+  num: 2096
+  url: 'https://xkcd.com/2096'
+  title: Mattresses
+  img: 'https://imgs.xkcd.com/comics/mattresses.png'
+  alt: >-
+    After reading that "The War To Sell You A Mattress Is An Internet Nightmare"
+    article, I've decided it's safer and less complicated to just sleep on the
+    floor. DISCLOSURE: THE AUTHOR OF THIS MOUSEOVER TEXT RECEIVED FINANCIAL
+    COMPENSATION FROM THE FLOOR INDUSTRY FOR THIS MESSAGE.
+  year: '2019'
+  month: '1'
+  day: '9'
+  transcript: >-
+    [Cueball and Ponytail are talking to each other]
+
+    Cueball: ...It's firmer than my old mattress, which I thought I wouldn't
+    like, but it's actually really nice.
+
+    Ponytail: Cool, maybe I should get one.
+
+    Cueball: Now let's take some listener questions!
+
+    Ponytail: What?[Caption below the panel:]
+
+    I can't talk about mattresses, underwear, or the Post Office anymore without
+    feeling the urge to segue back into a podcast.
+'2097':
+  num: 2097
+  url: 'https://xkcd.com/2097'
+  title: Thor Tools
+  img: 'https://imgs.xkcd.com/comics/thor_tools.png'
+  alt: >-
+    CORRECTION: After careful evaluation, we have determined that the axis label
+    on this chart was printed backward.
+  year: '2019'
+  month: '1'
+  day: '11'
+  transcript: >-
+    [A wide image is shown in a single frame.]
+
+    Hand tools Thor could have ended up with
+
+    [Below is a small centered horizontal line with arrows at both ends, labeled
+    "Best" to the left and "Worst" on the right.][The rest of the image shows an
+    other horizontal line in the middle, also with arrows at both ends, covering
+    the full width. Items are marked by a dot with a text above or below, and
+    sometimes a figure wearing a winged helmet, above the line, uses a tool
+    mentioned below:]
+
+    Hammer
+
+    Axe
+
+    Claw hammer
+
+    Circular saw
+
+    [Above, the winged helmet guy uses a circular saw:]
+
+    Bzzzz zzzz
+
+    Shovel
+
+    Jackhammer
+
+    Socket wrench
+
+    [Above, the winged helmet guy spins the socket of a socket wrench with a
+    tiny sound.]
+
+    Bolt cutters
+
+    Hacksaw
+
+    Nail gun
+
+    Staple gun
+
+    [Above, the winged helmet guy fires staples into the ground in front of
+    him:]
+
+    Kachunk kachunk
+
+    Coping saw
+
+    Screwdriver (flat)
+
+    Ball-peen hammer
+
+    Screwdriver (Phillips)
+
+    Awl
+
+    Digital Caliper
+
+    Dremel
+
+    [Above, the winged helmet guy shows a running Dremel to the left:]
+
+    Bzzzzz
+
+    Plane
+'2098':
+  num: 2098
+  url: 'https://xkcd.com/2098'
+  title: Magnetic Pole
+  img: 'https://imgs.xkcd.com/comics/magnetic_pole.png'
+  alt: >-
+    People keep trying to come up with reasons that we should worry about the
+    magnetic field collapsing or reversing, but honestly I think it's fine.
+    Whatever minor problems it causes will be made up for by the mid-latitude
+    auroras.
+  year: '2019'
+  month: '1'
+  day: '14'
+  transcript: >-
+    [White Hat and Cueball are talking to each other. White Hat has a cellphone
+    in his hand, while Cueball is raising his hands in the air in mock
+    exasperation.]
+
+    White Hat: I just read that the Earth's North magnetic pole is drifting
+    rapidly.
+
+    Cueball: Oh no! I must update our declination tables post haste, lest our
+    merchant schooners run aground on the shoals![Caption below the panel:]
+
+    I like when the Earth's magnetic field does weird stuff, because it's a
+    huge, cool, urgent-seeming science thing, but there's nothing I personally
+    need to do about it.
+'2099':
+  num: 2099
+  url: 'https://xkcd.com/2099'
+  title: Missal of Silos
+  img: 'https://imgs.xkcd.com/comics/missal_of_silos.png'
+  alt: >-
+    Welcome to Wyoming, motto "We'd like to clarify that Cheyenne Mountain is in
+    Colorado."
+  year: '2019'
+  month: '1'
+  day: '16'
+  transcript: >-
+    [A passage from the Wikipedia page for Missal of Silos is shown, with
+    underlined heading and with links in the text in blue font. The last line is
+    partly cut off by the comics panel, but can be read.]
+
+    Missal of Silos
+
+
+    From Wikipedia, the free encyclopedia
+
+    The Missal of Silos is the oldest known paper document created in the
+    Christian West; it is 11th century in date.[1]
+
+    The missal is held in the library of the Monastery of Santo Domingo de Silos
+    near Burgos, Spain. It is one of a number of liturgical
+    manuscripts...[Caption below the panel:]
+
+    Spain would like to remind everyone not to use fuzzy string matching in
+    their nuclear strike target lists.
+'2100':
+  num: 2100
+  url: 'https://xkcd.com/2100'
+  title: Models of the Atom
+  img: 'https://imgs.xkcd.com/comics/models_of_the_atom.png'
+  alt: >-
+    J.J. Thompson won a Nobel Prize for his work in electricity in gases, but
+    was unfairly passed over for his "An atom is plum pudding, and plum pudding
+    is MADE of atoms! Duuuuude." theory.
+  year: '2019'
+  month: '1'
+  day: '18'
+  transcript: >-
+    [One large panel with a caption centered on top and ten small drawings in
+    two rows. Each drawing has a description below it.]Models of the Atom
+
+    over time[A somewhat imperfectly drawn circle.]
+
+    1810Small hard ball model[A rounded-corners trapezoid inside which there are
+    four small plus signs and four small circles with minus signs inside them.]
+
+    1904Plum pudding model[A bigger circle, with four birds on the surface and
+    music notes above.]
+
+    1907Tiny bird model[A small circle with dots circling around it, drawn with
+    paths.]
+
+    1911Rutherford model[A circle with a plus sign with three circles around it,
+    each with a dot.]
+
+    1913Bohr model[A nunchuck swinging, with the left stick filled with circles
+    with plus signs and the right stick filled with circles with minus signs.]
+
+    1928Nunchuck model[A nucleus with three circles around it, each with a dot.]
+
+    1932Chadwick model[A pie chart, where a part of it has a circle, a part of
+    it has a circle with a minus sign and a part of it has a circle with a plus
+    sign.]
+
+    2008538 model[A small circle with clover-like orbitals around it and
+    surrounded by two outer partly dashed circles.]
+
+    TodayQuantum model[A circle surrounded with numbers.]
+
+    Numbers: 18, 0.1, π, 173, √2, 4i
+
+    Future"Small hard ball surrounded by math" model
+'2101':
+  num: 2101
+  url: 'https://xkcd.com/2101'
+  title: Technical Analysis
+  img: 'https://imgs.xkcd.com/comics/technical_analysis.png'
+  alt: >-
+    "I [suspect] that we are throwing more and more of our resources, including
+    the cream of our youth, into financial activities remote from the production
+    of goods and services, into activities that generate high private rewards
+    disproportionate to their social productivity. I suspect that the immense
+    power of the computer is being harnessed to this 'paper economy', not to do
+    the same transactions more economically but to balloon the quantity and
+    variety of financial exchanges." --James Tobin, July 1984
+  year: '2019'
+  month: '1'
+  day: '21'
+  transcript: >-
+    [A series of red and green box-and-whisker plots form a line that starts in
+    the bottom left corner of the image and wiggles up to the top right corner,
+    with a series of peaks and troughs that resemble a typical stock market
+    diagram. The diagram is annotated with lines, arrows and text.][Title in top
+    left corner]
+
+    The basics of technical analysis[A roughly horizontal section with mostly
+    green boxes:]
+
+    Allegro[A horizontal bracket encompasses the next three sections]
+
+    Prologue[Slope becomes slightly negative. Mostly red boxes, bordered with a
+    black line above and below:]
+
+    Decline[A roughly horizontal section with mostly green boxes, bordered with
+    a black line above and below:]
+
+    Doldrums[Line curves upwards with mostly green boxes, with a dashed black
+    line below:]
+
+    Spline[Three green boxes at minor peaks in the line are circled and
+    indicated with arrows:]
+
+    [Hmm!][A section with slight positive slope and a mixture of red and green
+    boxes, with a solid black line below:]
+
+    Lumbar support[Slope increases. All green boxes, with a black line through
+    the centre:]
+
+    Renewal[A sharp upwards incline, with two large green boxes:]
+
+    Hark! The cliffs![Two black dots and a dashed black line connect two major
+    peaks:]
+
+    These two points define a line! Promising signal[Inside trough between two
+    major peaks is a roughly drawn black triangle:]
+
+    Bathtub[Slope becomes negative, mostly red boxes with a black line through
+    the centre:]
+
+    Declination[At the lowest point of the trough:]
+
+    Inflection[Slope becomes positive, mostly green boxes with a black line
+    through the centre:]
+
+    Uptalk[Slight negative slope, with large error bars. Mixture of red and
+    green boxes. One red box is marked with an arrow:]
+
+    Yikes![Negative slope, all red boxes. Gap between two central boxes is
+    circled:]
+
+    Wrong![Line rises then falls. Mixture of red and green boxes with
+    non-parallel dashed black lines above and below:]
+
+    If I add some lines here I can convince myself I'm doing something more than
+    just seeing patterns in a graph of a random walk.[Positive slope, all green
+    boxes with a black line through the centre:]
+
+    Slope![One error bar on a green box is circled:]
+
+    Could be an omen?[Arrow indicating peak:]
+
+    Red + Green = Christmas![Positive slope, all green boxes with a wiggly black
+    arrow through the centre. A separate arrow points off the edge of the page:]
+
+    Likely to continue forever
+'2102':
+  num: 2102
+  url: 'https://xkcd.com/2102'
+  title: Internet Archive
+  img: 'https://imgs.xkcd.com/comics/internet_archive.png'
+  alt: >-
+    The fact that things like the npm left-pad incident are so rare is oddly
+    reassuring.
+  year: '2019'
+  month: '1'
+  day: '23'
+  transcript: >-
+    [Ponytail and Cueball are walking to the right.]
+
+    Ponytail: The Internet Archive is so weird. If it didn't exist, it would
+    sound totally implausible.
+
+    Cueball: Seriously.[Ponytail and Cueball continue walking to the right.]
+
+    Cueball: Do you ever worry about how reliant we are on systems that someone
+    happens to maintain for some reason but which could disappear at any
+    time?[Ponytail and Cueball are seen in silhouette from a distance.]
+
+    Ponytail: Yeah - the same thing freaks me out about having a body.
+
+    Cueball: I know, right?? I don't even know what half these parts do!
+
+    Ponytail: And yet if they stop, we die!
+
+    Cueball: Probably best not to think about it.
+'2103':
+  num: 2103
+  url: 'https://xkcd.com/2103'
+  title: Midcontinent Rift System
+  img: 'https://imgs.xkcd.com/comics/midcontinent_rift_system.png'
+  alt: The best wedge issue is an actual wedge.
+  year: '2019'
+  month: '1'
+  day: '25'
+  transcript: >-
+    [A map of North America shows the Midcontinent Rift System as a red line
+    curving through the Great Lakes and down through the midwestern United
+    States.]
+
+    1.1 billion years ago, the North American continent began to split in
+    half.[Black Hat stands at a lectern with a "Vote 2020" sign on it. He
+    gestures to an image of the globe with a giant crowbar inserted in the rift
+    with an arrow indicating applying pressure to widen the rift.]
+
+    Black Hat: We don’t know why it stopped.  If elected, I vow to finish the
+    job.  Thank youl.[Ponytail, Black Hat, Megan, and Cueball walk to the right
+    away from a set of stairs. Cueball is looking at a phone and Ponytail is
+    looking at a device or paper with writing on it.]
+
+    Ponytail: Great job up there.
+
+    Black Hat: Thanks!  How are my polling numbers?
+
+    Ponytail: Well, I’m seeing some weakness in the Midwest.
+
+    Black Hat: So am I.  So am I.
+'2104':
+  num: 2104
+  url: 'https://xkcd.com/2104'
+  title: Biff Tannen
+  img: 'https://imgs.xkcd.com/comics/biff_tannen.png'
+  alt: >-
+    I can't help myself; now I want to read a bunch of thinkpieces from
+    newspapers in Biff's 1985 arguing over whether the growth of the region into
+    a corporate dystopia was inevitable.
+  year: '2019'
+  month: '1'
+  day: '28'
+  transcript: >-
+    [Cueball talks while walking up behind White Hat, who is reading in an
+    armchair.]
+
+    Cueball: You know, in the universe where Biff Tannen took Marty McFly’s
+    sports almanac back in time, the people wouldn’t have any counterfactuals to
+    work with. 
+
+    Cueball: Their world would be the world.[In a frame-less panel White Hat
+    turns his head to look at Cueball as he keeps talking.]
+
+    Cueball: They would have spent decades debating which structural problems
+    enabled the rise of BiffCo, the decline of the city, and general social
+    decay. 
+
+    Cueball: Everyone would find reasons it confirmed their pet theory.[White
+    Hat turns his head back to his book.]
+
+    Cueball: I'm going to write a book set in that universe. I'll call it Hill
+    Valley Elegy.
+
+    White Hat: ... I hate you.
+'2105':
+  num: 2105
+  url: 'https://xkcd.com/2105'
+  title: Modern OSI Model
+  img: 'https://imgs.xkcd.com/comics/modern_osi_model.png'
+  alt: >-
+    In retrospect, I shouldn't have used each layer of the OSI model as one of
+    my horcruxes.
+  year: '2019'
+  month: '1'
+  day: '30'
+  transcript: >-
+    Modern OSI Model[A light gray shape that surrounds seven stacked dark gray
+    rectangles, all with labels.]Application (Facebook) [supported by the light
+    gray shape on both sides]Presentation  [pulling out would collapse the
+    tower]Session  [pulling out would collapse the tower]Transport [supported on
+    both sides]Network  [pulling out would collapse the tower]Google & Amazon
+    [label of the light gray shape]Data link [supported on both sides]Physical
+    [supported on both sides]
+'2106':
+  num: 2106
+  url: 'https://xkcd.com/2106'
+  title: Sharing Options
+  img: 'https://imgs.xkcd.com/comics/sharing_options.png'
+  alt: >-
+    How about posts that are public, but every time a company accesses a bunch
+    of them, the API makes their CEO’s account click 'like’ on one of them at
+    random so you get a notification.
+  year: '2019'
+  month: '2'
+  day: '1'
+  transcript: >-
+    [Cueball floating in midair is communicating with a small floating screen
+    that resembles a smartphone. Other people and clouds visible floating by in
+    background.]
+
+    Screen: Welcome to social media! When you put stuff here, you have two
+    options: (1) You can make it available to a small set of 300 or so approved
+    friends. 
+
+    Screen: Or (2) you can share permanent copies of it all with billions of
+    people, including internet scammers, random predatory companies, and hostile
+    governments.Cueball: Why would anyone pick option two?
+
+    Screen: Two is the default.
+
+    Cueball: Yikes.Cueball: So those are the only two options? There’s nothing
+    in in between?
+
+    Screen: I don’t understand. Like what?Cueball: I mean…there are numbers
+    between 300 and a billion.
+
+    Screen: Huh? Name one.
+
+    Screen: Pretty sure I would have heard of those.
+'2107':
+  num: 2107
+  url: 'https://xkcd.com/2107'
+  title: Launch Risk
+  img: 'https://imgs.xkcd.com/comics/launch_risk.png'
+  alt: >-
+    Don't worry--you're less likely to die from a space launch than from a shark
+    attack. The survival rate is pretty high for both!
+  year: '2019'
+  month: '2'
+  day: '4'
+  transcript: >-
+    [A rocket is about to launch.]
+
+    Astronaut 1: How you feeling?
+
+    Astronaut 2: Honestly, pretty nervous.
+
+    Astronaut 1: I know it seems dangerous, but just remember: you're more
+    likely to be struck by lightning than to be selected to become an astronaut.
+
+    Astronaut 2: Oh that's a good-
+
+    Astronaut 2: ...Wait.
+
+    Countdown: T-Minus 20...19...
+'2108':
+  num: 2108
+  url: 'https://xkcd.com/2108'
+  title: Carbonated Beverage Language Map
+  img: 'https://imgs.xkcd.com/comics/carbonated_beverage_language_map.png'
+  alt: >-
+    There's one person in Missouri who says "carbo bev" who the entire rest of
+    the country HATES.
+  year: '2019'
+  month: '2'
+  day: '6'
+  transcript: >-
+    [A map of the United States divided into purple, red, green, blue, and
+    yellow colored regions.][A purple area in North West Washington.]
+
+    Fanta[A blue area spanning the Western border of Washington and Oregon.]
+
+    Söde[A yellow area spanning the remainder of Washington, North Western
+    Oregon, Northern Idaho and the North Western corner of Montana.]
+
+    Ichor[A green area spanning the North Eastern corner of Oregon, central
+    Idaho and the majority of Montana.]
+
+    Spicewater[A blue area spanning Eastern Montana, the North Eastern corner of
+    Wyoming and the majority of North and South Dakota.]
+
+    Refill[A red area spanning Eastern North and South Dakota, the majority of
+    Minnesota, Northern Wisconsin and Michigan North of the lakes.]
+
+    Mead[A green area spanning the border between Minnesota and Wisconsin.]
+
+    Canadian Ale[A yellow area spanning the South Eastern corner of Minnesota,
+    the North Eastern corner of Iowa and the majority of Wisconsin.]
+
+    Aether[A green area in North East Wisconsin.]
+
+    Mouthwater[A purple area covering most of Michigan south of the lakes.]
+
+    Kid's coffee[A red area covering Northeast & central New York.]
+
+    Hydro[A green area covering Vermont and spanning the border with New York.]
+
+    [No word for them][A yellow area covering Maine and the majority of New
+    Hampshire.]
+
+    Sugar milk[A red area spanning Eastern Massachusetts and the border with New
+    Hampshire.]
+
+    Harvard tea[A blue area covering Rhode Island and spanning Eastern
+    Connecticut, central Massachusetts and the South West corner of New
+    Hampshire.]
+
+    Bubbler[A yellow area spanning the South Eastern corner of New York, the
+    South Western corner of Massachusetts, Western Connecticut and Northern New
+    Jersey.]
+
+    Mouth Buzz[A red area spanning North Eastern California, Southern Oregon,
+    the South Western corner of Idaho and the majority of Nevada.]
+
+    You-know-what[A blue area spanning South Western Idaho, Eastern Nevada, the
+    majority of Utah and the border of Utah and Arizona.]
+
+    Softie[A green area spanning Northern Utah and the majority of Colorado.]
+
+    Punch[A yellow area covering the majority of Wyoming.]
+
+    Fizz ooze[A purple area spanning the South Eastern corner of Wyoming, the
+    North Eastern corner of Colorado, the North Western corner of Kansas,
+    Southern South Dakota, the majority of Nebraska and Iowa, and Northern
+    Missouri.]
+
+    Tickle juice[A blue area spanning Eastern Iowa, Southern Wisconsin, the
+    majority of Illinois and Indiana, the Southern border of Michigan, the
+    Western border of Ohio and North Western Kentucky.]
+
+    Capri[A green area spanning South Eastern Michigan, the majority of Ohio and
+    Pennsylvania, South Western New York, Northern West Virginia and Western
+    Maryland.]
+
+    Medicine[A purple area spanning Eastern Pennsylvania and Southern New
+    Jersey.]
+
+    Brad's Elixir[A red area spanning the South Eastern corner of Pennsylvania,
+    Eastern Maryland, Delaware and Northern Virginia.]
+
+    Hot Water[A yellow area spanning Eastern Kentucky, the Southern border of
+    Ohio, Southern West Virginia, the majority of Virginia and Northern North
+    Carolina.]
+
+    Broth[A blue area in Western California, North of San Francisco.]
+
+    True water[A yellow area in Western California, South of San Francisco.]
+
+    Crypto[A green area in South Western California, North of Los Angeles.]
+
+    Yum[A blue area in South Western California, close to Los Angeles.]
+
+    Sparkle fluid[A purple area in South Western California, close to San
+    Diego.]
+
+    King cola[A yellow area spanning South Eastern California, Southern Nevada
+    and the North Western corner of Arizona.]
+
+    Tab[A green area spanning the South Eastern corner of California and the
+    majority of Arizona.]
+
+    Ohio tea[A red area spanning Eastern Arizona, the majority of New Mexico,
+    Southern Colorado and the border between New Mexico and Texas.]
+
+    Fun wine[A blue area spanning Northern Texas, South Western Kansas and the
+    majority of Oklahoma.]
+
+    Sugar oil[A red area spanning Central and Eastern Kansas, Southern Nebraska,
+    Central Missouri and South Western Illinois.]
+
+    Bubble Honey[A yellow area spanning Southern New Mexico and Western Texas.]
+
+    Diet[A blue area in Southern Texas.]
+
+    Code red[A green area spanning the majority of Texas and the Southern border
+    of Oklahoma.]
+
+    The wet drink[A purple area spanning Eastern Texas, the South Eastern corner
+    of Oklahoma, the majority of Arkansas, Southern Missouri and Western
+    Louisiana.]
+
+    Carbonated beverage[A yellow area spanning Eastern Louisiana, Eastern
+    Arkansas, Southern Missouri, the South Western corner of Tennessee, the
+    majority of Mississippi and the South Western corner of Alabama.]
+
+    Skim shake[A green area spanning the majority of Tennessee, Southern
+    Kentucky, Northern Alabama, Northern Georgia and Western North Carolina.]
+
+    Regular[A purple area covering the majority of North Carolina.]
+
+    Fluid[A red area spanning Eastern Mississippi, Central Alabama, Northern
+    Georgia and the South Western border of South Carolina.]
+
+    Tang[A yellow area covering the majority of South Carolina.]
+
+    Coke zero[A blue area in Central Georgia.]
+
+    Fool's Champagne[A purple ares spanning Southern Alabama, Southern Georgia
+    and Northern Florida.]
+
+    Formula[A yellow area in Eastern Florida, near Orlando.]
+
+    Carbo[A blue area in Western Florida, near Tampa.]
+
+    Quicksilver[A red area in Southern Florida, South of Tampa and Orlando.]
+
+    Glug[A green area in Southern Florida, near Miami.]
+
+    Water plus[A yellow area corresponding to Hawaii except for the island of
+    O'ahu.]
+
+    Pepsi[A red area corresponding to the Hawaiian island of O'ahu.]
+
+    Crystal Pepsi[A blue area covering the majority of Alaska.]
+
+    Boat drink[A red area in Southern Alaska, near Anchorage.]
+
+    Melt 
+'2109':
+  num: 2109
+  url: 'https://xkcd.com/2109'
+  title: Invisible Formatting
+  img: 'https://imgs.xkcd.com/comics/invisible_formatting.png'
+  alt: >-
+    To avoid errors like this, we render all text and pipe it through OCR before
+    processing, fixing a handful of irregular bugs by burying them beneath a
+    smooth, uniform layer of bugs.
+  year: '2019'
+  month: '2'
+  day: '8'
+  transcript: >-
+    [A text editor, with some options. They are superscript in one section,
+    bold, italic and underscore in another section and alignments in the third
+    section. The word "not ", including the following space, is highlighted in
+    blue. There is a cursor below it.]
+
+    Text: ...ere, but would not have to mo...
+
+    Action: Select[The cursor is on the "bold" option and the selected word is
+    bolded.]
+
+    Text: ...ere, but would not have to mo...
+
+    Action: Click[The cursor is next to the "to". No text is highlighted.]
+
+    Text: ...ere, but would not have to mo...
+
+    Thought bubble: ...Nah, the bold is too much.[The word "not" is now
+    highlighted in blue again, but the following space is not.]
+
+    Text: ...ere, but would not have to mo...
+
+    Action: Select[The cursor is on the "bold" option and the selected word is
+    not bolded.]
+
+    Text: ...ere, but would not have to mo...
+
+    Action: Click[The cursor and the blue highlighting are gone. The space after
+    "not" has a dashed box around it, and an arrow points to it.]
+
+    Text: ...ere, but would not have to mo...
+
+    Arrow: Hidden bold space[Caption below the panels:]
+
+    When editing text, in the back of my mind I always worry that I'm adding
+    invisible formatting that will somehow cause a problem in the distant
+    future.
+'2110':
+  num: 2110
+  url: 'https://xkcd.com/2110'
+  title: Error Bars
+  img: 'https://imgs.xkcd.com/comics/error_bars.png'
+  alt: >-
+    ...an effect size of 1.68 (95% CI: 1.56 (95% CI: 1.52 (95% CI: 1.504 (95%
+    CI: 1.494 (95% CI: 1.488 (95% CI: 1.485 (95% CI: 1.482 (95% CI: 1.481 (95%
+    CI: 1.4799 (95% CI: 1.4791 (95% CI: 1.4784...
+  year: '2019'
+  month: '2'
+  day: '11'
+  transcript: >-
+    [A line graph with eight marks on the Y-axis and five marks on the X-axis. 
+    The graph has four points represented by dots and connected by three lines
+    between them.  Each dot has error bars coming out of the top and bottom of
+    it.  The horizontal line delineating the end of each error bar has another
+    set of smaller error bars attached to it.  These second error bars in turn
+    have a still smaller third set of error bars attached to the end of them. 
+    There is a final fourth set of very small error bars attached to the third
+    set, for a total of 56 error bars][Caption below the panels:]
+
+    I don't know how to propagate error correctly, so I just put error bars on
+    all my error bars.
+'2111':
+  num: 2111
+  url: 'https://xkcd.com/2111'
+  title: Opportunity Rover
+  img: 'https://imgs.xkcd.com/comics/opportunity_rover.png'
+  alt: Thanks for bringing us along.
+  year: '2019'
+  month: '2'
+  day: '13'
+  transcript: >-
+    [White Hat is watching while Science Girl and Cueball in the background hold
+    their smartphones up to use them as cameras. A narrator (Randall) comments
+    with text above them:]
+
+    Narrator: Some people complain that we see the world through our cameras.
+
+    White Hat: Kids these days...[Cueball points to the left with his hand while
+    shouting and holding his other hand up near his mouth. Again there is
+    narrating text, both above and below this time.]
+
+    Narrator: But for me, the really exciting part of finding something new
+
+    Cueball: Wow, you gotta come see this!
+
+    Narrator: has always been showing it to others.[A black panel shows a space
+    probe approaching a planet. White narrating text is above and below.]
+
+    Exploring an entire new world
+
+    would already be the adventure of a lifetime.
+
+    Imagine having the chance to share every new sight[A queue of seven people
+    is seen following a rover driving in front of them on a rock filled
+    landscape. Its track is shown behind it. The people do not leave foot prints
+    though. The rover speaks. At the top of the panel there is a last narrating
+    text inside a small box across the top of the panel. The seven people are
+    Cueball, Science Girl, Hairy (looking back), another Cueball holding his
+    hand to his chin, Ponytail and finally Megan, who points forward.]
+
+    Narrator: with seven billion friends.
+
+    Rover: ...and here's a trench I dug with my wheel, and here's where a dust
+    devil went right past me, and over there is the biggest cliff I've ever
+    seen, and this is...
+'2112':
+  num: 2112
+  url: 'https://xkcd.com/2112'
+  title: Night Shift
+  img: 'https://imgs.xkcd.com/comics/night_shift.png'
+  alt: >-
+    Help, I set my white balance wrong and suddenly everyone is screaming at
+    each other about whether they've been to Colorado.
+  year: '2019'
+  month: '2'
+  day: '15'
+  transcript: >-
+    [Comments with peoples' profile pictures in front of them are shown in white
+    comment boxes on a gray background.]
+     Cueball: The Atlantic Ocean is big
+     Ponytail: The Pacific is even bigger
+     Cueball With Full Body Profile Picture (WFBPP): They're both very big Megan: A lot of people have TVs
+     Hairbun: Some people don't
+     Megan: Yeah, that's true Cueball: 24 isn't a prime number
+     Cueball WFBPP: Neither is 25 Hairbun: Have you ever been to Colorado?
+     Megan: No
+     Cueball WFBPP: No
+     Cueball: Yeah
+     Ponytail: No[Caption below the panel:]
+    My phone has a night shift mode to help me sleep, but instead of reducing
+    the intensity of blue light, it reduces the intensity of opinions.
