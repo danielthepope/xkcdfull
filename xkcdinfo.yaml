@@ -83113,3 +83113,3964 @@
      Ponytail: No[Caption below the panel:]
     My phone has a night shift mode to help me sleep, but instead of reducing
     the intensity of blue light, it reduces the intensity of opinions.
+'2113':
+  num: 2113
+  url: 'https://xkcd.com/2113'
+  title: Physics Suppression
+  img: 'https://imgs.xkcd.com/comics/physics_suppression.png'
+  alt: >-
+    If physics had a mafia, I'm pretty sure the BICEP2 mess would have ended in
+    bloodshed.
+  year: '2019'
+  month: '2'
+  day: '18'
+  transcript: ''
+'2114':
+  num: 2114
+  url: 'https://xkcd.com/2114'
+  title: Launch Conditions
+  img: 'https://imgs.xkcd.com/comics/launch_conditions.png'
+  alt: >-
+    Though I do think the tiny vent on one of the boosters labeled "O-RING" is
+    in poor taste.
+  year: '2019'
+  month: '2'
+  day: '20'
+  transcript: ''
+'2115':
+  num: 2115
+  url: 'https://xkcd.com/2115'
+  title: Plutonium
+  img: 'https://imgs.xkcd.com/comics/plutonium.png'
+  alt: >-
+    It's like someone briefly joined the team running the universe, introduced
+    their idea for a cool mechanic, then left, and now everyone is stuck
+    pretending that this wildly unbalanced dynamic makes sense.
+  year: '2019'
+  month: '2'
+  day: '22'
+  transcript: |-
+    [Megan, Hairy, Cueball, and Ponytail are talking.]
+    Megan: How will we keep the spacecraft supplied with heat and electricity?
+    Cueball: We could use a power orb. They give off thousands of watts 24/7.
+    Megan: Huh? How do you recharge it?
+    Cueball: You don't. It's just made of a metal that emits energy. 
+    Megan: OK, come on.
+    Hairy: Can we please be serious here?[Caption below the panel:]
+    For something that's real, plutonium is so unrealistic.
+'2116':
+  num: 2116
+  url: 'https://xkcd.com/2116'
+  title: .NORM Normal File Format
+  img: 'https://imgs.xkcd.com/comics/norm_normal_file_format.png'
+  alt: >-
+    At some point, compression becomes an  aesthetic design choice. Luckily, SVG
+    is a really flexible format, so there's no reason it can't support vector
+    JPEG artifacts.
+  year: '2019'
+  month: '2'
+  day: '25'
+  transcript: >-
+    [Cueball is at a computer. Someone is talking to him from off-panel.]
+
+    Voice: I sent you the data.
+
+    Cueball: Thanks!
+
+    Cueball: …this is a Word document containing an embedded photo you took of
+    your screen with the spreadsheet open.
+
+    Voice: Yeah? Does your computer not support .NORM files? Maybe you need to
+    update.[Caption below the panel:]
+
+    Since everyone sends stuff this way anyway, we should just formalize it as a
+    standard.
+'2117':
+  num: 2117
+  url: 'https://xkcd.com/2117'
+  title: Differentiation and Integration
+  img: 'https://imgs.xkcd.com/comics/differentiation_and_integration.png'
+  alt: >-
+    "Symbolic integration" is when you theatrically go through the motions of
+    finding integrals, but the actual result you get doesn't matter because it's
+    purely symbolic.
+  year: '2019'
+  month: '2'
+  day: '27'
+  transcript: >-
+    [Two flow charts are shown.][The first flow chart has four steps in simple
+    order, one with multiple recommendations.]
+
+    DIFFERENTIATION
+
+    Start
+
+    Try applying
+
+    Chain Rule
+
+    Power Rule
+
+    Quotient Rule
+
+    Product Rule
+
+    Etc.
+
+    Done?
+
+    Yes
+
+    No
+
+    Done!INTEGRATION
+
+    Start
+
+    Try applying
+
+    Integration by Parts
+
+    Substitution
+
+    Done?
+
+    Haha, Nope![Chaos, Roughly from left to right, top to bottom, direction
+    arrows not included.]
+
+    Cauchy's Formula
+
+    ????
+
+    ???!?
+
+    ???
+
+    ???
+
+    ?
+
+    Partial Fractions
+
+    ??
+
+    ?
+
+    Install Mathematica
+
+    ?
+
+    Riemann Integration
+
+    Stokes' Theorem
+
+    ???
+
+    ?
+
+    Risch Algorithm
+
+    ???
+
+    [Sad face.]
+
+    ?????
+
+    ???
+
+    What the heck is a Bessel Function??
+
+    Phone calls to mathematicians
+
+    Oh No
+
+    Burn the Evidence
+'2118':
+  num: 2118
+  url: 'https://xkcd.com/2118'
+  title: Normal Distribution
+  img: 'https://imgs.xkcd.com/comics/normal_distribution.png'
+  alt: 'It''s the NORMAL distribution, not the TANGENT distribution.'
+  year: '2019'
+  month: '3'
+  day: '1'
+  transcript: ''
+'2119':
+  num: 2119
+  url: 'https://xkcd.com/2119'
+  title: Video Orientation
+  img: 'https://imgs.xkcd.com/comics/video_orientation.png'
+  alt: >-
+    CIRCULAR VIDEO - PROS: Solves aspect ratio problem. CONS: Never trust anyone
+    who talks to you from inside a circle.
+  year: '2019'
+  month: '3'
+  day: '4'
+  transcript: |-
+    [The image shows three columns by three rows with the following headers:]
+    Video Orientation
+    Pros
+    Cons[First row:]
+    [A wide picture with a text above:]
+    Horizontal
+    [Pros are:]
+    Looks normal to old people
+    Format used by a century of cinema
+    [Cons are:]
+    Humans are taller than are wide
+    I'm not turning my phone sideways[Second row:]
+    [A high picture with a text above:]
+    Vertical
+    [Pros are:]
+    How most normal people shoot and watch video now so we may as well accept it
+    [Cons are:]
+    Human world is mostly a horizontal plane[Third row:]
+    [A picture rotated by 45 degrees with a text above:]
+    Diagonal
+    [Pros are:]
+    Bold and dynamic
+    Equally annoying to all viewers
+    Good compromise
+    [Cons are:]
+    None
+'2120':
+  num: 2120
+  url: 'https://xkcd.com/2120'
+  title: Brain Hemispheres
+  img: 'https://imgs.xkcd.com/comics/brain_hemispheres.png'
+  alt: >-
+    Neurologically speaking, the LEFT hand is actually the one at the end of the
+    RIGHT arm.
+  year: '2019'
+  month: '3'
+  day: '6'
+  transcript: >-
+    [A stick figure with the left half of the brain colored orange and the right
+    half colored blue. A blue box is overlaid over the left half of the body,
+    and an orange box is overlaid over the top half. An arrow
+    labeled:'DISPUTED/DUAL CONTROL' points towards the overlapping area.]
+
+    Neuroscience Fact
+
+    The LEFT half of the brain actually controls the RIGHT half of the body...
+    [Arrow pointing to blue rectangle]
+
+    ...while the RIGHT half of the brain actually controls the TOP half of the
+    body. [Arrow pointing to orange rectangle]
+
+    This leg is fully autonomous. [Arrow pointing to stick figure's left leg]
+'2121':
+  num: 2121
+  url: 'https://xkcd.com/2121'
+  title: Light Pollution
+  img: 'https://imgs.xkcd.com/comics/light_pollution.png'
+  alt: >-
+    It's so sad how almost no one alive today can remember seeing the galactic
+    rainbow, the insanity nebula, or the skull and glowing eyes of the Destroyer
+    of Sagittarius.
+  year: '2019'
+  month: '3'
+  day: '8'
+  transcript: >-
+    [Four views of the night sky are shown among each other. The text on top
+    reads:]
+
+    Light Pollution and the Disappearing Night Sky[The first view shows only a
+    few bright stars visible on a fairly light gray-brownish background. The
+    inline text on the left top is:]
+
+    High Light Pollution
+
+    (Cities)[On the second view more stars are appearing and some faint blurry
+    white clouds on a dark-gray background are visible.]
+
+    Moderate Light Pollution
+
+    (Suburbs)[A lot of stars, even partly colored, and a clear image of many
+    clouds on a dark background are shown.]
+
+    Low Light Pollution
+
+    (Very remote areas)[The last image shows the same region as above but with
+    even more exposed stars and clouds, the colors are also more explicit. A
+    faint lattice of triangles overlaying the image to its full extent and three
+    ghastly silhouettes of sailships are shown embedded in clouds. The text on
+    the top left reads:]
+
+    No Light Pollution
+
+    (How the sky should look)
+
+    [Four arrows are pointing to some triangles:]
+
+    Lattice of the crystal spheres
+
+    [Three arrows are indicating the sailships:]
+
+    Ships of the Sky King
+'2122':
+  num: 2122
+  url: 'https://xkcd.com/2122'
+  title: Size Venn Diagram
+  img: 'https://imgs.xkcd.com/comics/size_venn_diagram.png'
+  alt: >-
+    Terms I'm going to start using: The Large Dipper, great potatoes, the Big
+    Hadron Collider, and Large Orphan Annie.
+  year: '2019'
+  month: '3'
+  day: '11'
+  transcript: "Big: Bang Theory, Enchilada, Board, Sur\nLittle: Orphan Annie, House on the Prairie, Richard\nLarge: format, Millimeter Telescope, Hadron Collider\nSmall: claims court, potatoes\nGreat: Barrier Reef, Wall of China, Depression, Terror, auntBig/Great: Bend, Bear Lake\nBig/Small: time, screen\nBig/Little: Dipper, Planet, lies, sister\nLittle/Great: Blue Heron\nLittle/Large: Professor, Forest Bat\nBig/Large: Toothed Aspen\nLarge/Small: intestine, Magellanic Cloud\nLittle/Small: wonder, soldiers\nSmall/Great: pox, cardiac vein\nLarge/Great: Billed Seed FinchBig/Large/Great: hearted\nBig/Small/Great: end\nBig/Little/Small: foot\nBig/Little/Great: league\nLittle/Large/Great: (none)\nBig/Little/Large: foundation\nBig/Large/Small: Eyed Conger, Blue\nLittle/Large/Small: emerald\nLittle/Small/Great: circle, room\nLarge/Small/Great: flying foxBig/Large/Small/Great: game, white\nBig/Little/Small/Great\_: world, one\nBig/Little/Large/Great\_: (none)\nBig/Little/Large/Small\_: frog\nLittle/Large/Small/Great\_: (none)Big/Little/Large/Small/Great: Island"
+'2123':
+  num: 2123
+  url: 'https://xkcd.com/2123'
+  title: Meta Collecting
+  img: 'https://imgs.xkcd.com/comics/meta_collecting.png'
+  alt: I'm trying to get the page locked because some jerk keeps adding "Yachts".
+  year: '2019'
+  month: '3'
+  day: '13'
+  transcript: >-
+    [The comic depicts Cueball reading from a list to White Hat, standing next
+    to a case filled with collectables including an urn, a model ship, a compact
+    disc, a vinyl record, a doll, a martini glass, and a teapot.]
+
+    Today we're looking for a lunchbox, a snow globe, a Maytag dryer, a Harley
+    Davidson, and a stamp.[Caption below the frame:]
+
+    My hobby: Collecting one item from every category listed on Wikipedia's
+    "List of collectables."
+'2124':
+  num: 2124
+  url: 'https://xkcd.com/2124'
+  title: Space Mission Hearing
+  img: 'https://imgs.xkcd.com/comics/space_mission_hearing.png'
+  alt: >-
+    Our grant application contains one of those little greeting card speakers
+    that plays spaceship noises when you open it.
+  year: '2019'
+  month: '3'
+  day: '15'
+  transcript: >-
+    [Megan and Ponytail are standing and talking.]
+
+    Ponytail: All ready for the hearing? Let's go over things one more time.
+
+    Ponytail: *ahem*
+
+    Ponytail: What is the main reason to fund this mission?[Close-up of Megan.]
+
+    Megan: It will significantly advance out long-term goal of better
+    understanding the formation and evolution of the Solar System, while
+    fulfulling our mandate to develop a new generation of interplanetary
+    spacecraft.
+
+    Ponytail (off-panel): Great.[Megan and Ponytail are standing and talking.
+    Megan's arms are raised.]
+
+    Megan: And because it's space!
+
+    Megan: Spaaaaaace.
+
+    Megan: Pew pew pew!
+
+    Megan: Space!
+
+    Ponytail: Dial it back.
+'2125':
+  num: 2125
+  url: 'https://xkcd.com/2125'
+  title: Luna 2
+  img: 'https://imgs.xkcd.com/comics/luna_2.png'
+  alt: >-
+    The flags were probably vaporized on impact, because we launched it before
+    we had finished figuring out how to land. That makes sense from an
+    engineering standpoint, but also feels like a metaphor.
+  year: '2019'
+  month: '3'
+  day: '18'
+  transcript: >-
+    [Cueball is standing behind while Megan sits at a laptop.]
+
+    Megan: Huh. Luna 2, the first artificial object to touch another world,
+    carried a sphere made of steel Soviet flag emblems.[A patterned sphere is
+    shown blowing up to pieces.]
+
+    It was designed to blow apart on impact, scattering tiny metal flags and
+    ribbons across the surface of the moon.[Close-up of Cueball and Megan's
+    faces.]
+
+    Cueball: So the first physical contact humans had with a heavenly body...
+
+    Megan: ...was throwing a shrapnel grenade full of flags at it.
+
+    Cueball: Well, it's on-brand for us, at least.
+'2126':
+  num: 2126
+  url: 'https://xkcd.com/2126'
+  title: Google Trends Maps
+  img: 'https://imgs.xkcd.com/comics/google_trends_maps.png'
+  alt: >-
+    It's early 2020. The entire country is gripped with Marco Rubio fever except
+    for Alaska, which is freaking out. You're frantically studying up on
+    etiquette and/or sexting.
+  year: '2019'
+  month: '3'
+  day: '20'
+  transcript: ''
+'2127':
+  num: 2127
+  url: 'https://xkcd.com/2127'
+  title: Panama Canal
+  img: 'https://imgs.xkcd.com/comics/panama_canal.png'
+  alt: >-
+    Once they selected the other proposal, we could have kept shopping ours
+    around, but we would had to modify it include an aqueduct over their canal,
+    which would be totally unreasonable.
+  year: '2019'
+  month: '3'
+  day: '22'
+  transcript: >-
+    [Cueball is standing in front of a poster with two maps showing the
+    Americas. He is pointing to the right one with a stick he is holding in his
+    hand. Specifically to the red line going through the Americas from the
+    Arctic sea above Canada near Alaska, down through North America, through the
+    middle of Central America down through the middle of South America to end up
+    in the Antarctic sea below the tip of South America. On the map to the left
+    there is a similar red line indicating the Panama Canal crossing the
+    thinnest part of Central America from the Pacific Oceanto the Atlantic
+    Ocean. Both lines end in small dots on either "side" of the continent. The
+    two maps have labels above them:]
+
+    Atlantic-Pacific option
+
+    Arctic-Antarctic option[Caption below the panel:]
+
+    I still don't understand why the Panama Canal planners rejected my proposal.
+'2128':
+  num: 2128
+  url: 'https://xkcd.com/2128'
+  title: New Robot
+  img: 'https://imgs.xkcd.com/comics/new_robot.png'
+  alt: >-
+    "Some worry that we'll soon have a surplus of search and rescue robots,
+    compared to the number of actual people in situations requiring search and
+    rescue. That's where our other robot project comes in..."
+  year: '2019'
+  month: '3'
+  day: '25'
+  transcript: >-
+    [Ponytail is standing on a raised platform with a robot behind her, talking
+    to someone off-screen. The spherical floating robot is equipped with an
+    antenna that "zaps" a lightning bolt at the floor below it and a grappling
+    gun.]
+
+    Ponytail: Our robot floats using a helium sphere, which is highly charged
+    and can induce lightning strikes.
+
+    Ponytail: It moves using a grappling gun like the hook shot from Zelda.
+
+    Off-screen voice: What is the robot for?
+
+    Ponytail: Uh
+
+    Ponytail: It could help with search and rescue after disasters.[Caption
+    below the panel:]
+
+    "It could help with search and rescue" is engineer-speak for "we just
+    realized we need a justification for our cool robot."
+'2129':
+  num: 2129
+  url: 'https://xkcd.com/2129'
+  title: 1921 Fact Checker
+  img: 'https://imgs.xkcd.com/comics/1921_fact_checker.png'
+  alt: 'POLITIFACT SAYS: MOSTLY WHATEVER'
+  year: '2019'
+  month: '3'
+  day: '27'
+  transcript: >-
+    [In a panel with light-gray background is a block of text:]
+
+    An investigator claims to have discovered in some dusty archives that back
+    in the days when the pilgrims landed each person coming to America from
+    England was required to bring with them eight bushels of corn meal, two
+    bushels of oatmeal, two gallons of vinegar and a gallon each of oil and
+    brandy.In view of the fact that nothing of importance hinges on the truth or
+    falsity of this statement, not much time need be consumed to ascertain
+    whether this is truth or fiction.
+
+    —Kansas City Sun
+
+    Friday, May 6th, 1921[Caption below the panel]
+
+    I have a grudging respect for this 1921 newspaper fact-checker.
+'2130':
+  num: 2130
+  url: 'https://xkcd.com/2130'
+  title: Industry Nicknames
+  img: 'https://imgs.xkcd.com/comics/industry_nicknames.png'
+  alt: >-
+    As far as "being in the pocket of Big Egg" goes, I think the real threat is
+    Chansey.
+  year: '2019'
+  month: '3'
+  day: '29'
+  transcript: |-
+    Nicknames for Industries and Organizations
+    Ranked by how silly it sounds when
+    you say someone is "In the pocket of..."[Arrow pointing to the right:]
+    Sillier[Items on a line from left to right:]
+    Cigarette companies: "Big Tobacco"
+    Drug companies: "Big Pharma"
+    The farming industry: "Big Ag"
+    Automakers: "Big Car"
+    The International Equestrian Federation: "Big Horse"
+    The Board of Podiatric Medicine: "Big Foot"
+    The mining industry: "Big Hole"
+    The American Egg Board: "Big Egg"
+'2131':
+  num: 2131
+  url: 'https://xkcd.com/2131'
+  title: Emojidome
+  img: 'https://imgs.xkcd.com/comics/emojidome.png'
+  alt: "\uD83E\uDD3C\uD83E\uDD3C\uD83E\uDD3C\uD83E\uDD3C\uD83E\uDD3C\uD83E\uDD3C\uD83E\uDD3C\uD83E\uDD3C"
+  year: '2019'
+  month: '4'
+  day: '1'
+  transcript: "[A tournament bracket tree is shown with eight participants each on the left and right side, for a total of sixteen, all of which are the \uD83D\uDE30 emoji (a face with eyebrows, one teardrop and a blue forehead). From both sides towards the middle the brackets reduce to eight, then four, two, and one line where the latter join to a rectangle in the middle.]Visit xkcd.com to participateIf you are on xkcd.com, then you're seeing this\nbecause of something something JavaScript.Listen, websites are hard \uD83D\uDE30"
+'2132':
+  num: 2132
+  url: 'https://xkcd.com/2132'
+  title: Percentage Styles
+  img: 'https://imgs.xkcd.com/comics/percentage_styles.png'
+  alt: >-
+    In a tribute to classical Latin, I started pronouncing it 'per-kent.'
+    Eventually my friends had to resort to spritzing me with a water bottle like
+    a cat to train me out of it.
+  year: '2019'
+  month: '4'
+  day: '3'
+  transcript: |-
+    Percentage styles in order of acceptability
+    [A long vertical line is shown with five dots on it.]
+    [Label at the top:]
+    Best
+    [Dot labels from top to bottom:]
+    65%
+    [short distance]
+    65 percent
+    [a much longer distance]
+    65 per cent
+    [a distance roughly twice the previous]
+    Sixty-five%
+    [an exceedingly long distance]
+    65 per¢
+'2133':
+  num: 2133
+  url: 'https://xkcd.com/2133'
+  title: EHT Black Hole Picture
+  img: 'https://imgs.xkcd.com/comics/eht_black_hole_picture.png'
+  alt: >-
+    [five years later] Ok, it seems we were accidentally zoomed in slightly too
+    far. But imagine there's a cool-looking twisted accretion disc just outside
+    this black square!
+  year: '2019'
+  month: '4'
+  day: '5'
+  transcript: >-
+    [Cueball is standing behind a lectern, with "Press Conference" and the EHT
+    logo displayed on a projector screen behind him.]
+
+    Cueball: We linked up our observatories, got everything aligned, and there
+    it was:
+
+    Cueball: The first image of a black hole!Out of panel: Can you share the
+    picture?
+
+    Cueball: Well, here's the thing...Cueball: Turns out our telescope feed is
+    like Pinterest, where you can't right-click to save an image.
+
+    Cueball: So we tried to take a screenshot, but the key combination kept
+    turning off the display instead.[The projector screen has changed to show a
+    blurry picture of a white computer screen against a black background. The
+    EHT logo remains.]
+
+    Cueball: I grabbed my phone and tried to take a picture of the screen, but I
+    was too slow. The observation had ended.
+
+    Cueball: We're planning to try again next year, and we'll definitely record
+    the screen this time.
+'2134':
+  num: 2134
+  url: 'https://xkcd.com/2134'
+  title: Too Much Talking
+  img: 'https://imgs.xkcd.com/comics/too_much_talking.png'
+  alt: >-
+    Next time I go, I'm going to prepare a whole bunch of opinions that I'm sure
+    are good, and make everyone sit quietly while I run through them.
+  year: '2019'
+  month: '4'
+  day: '8'
+  transcript: >-
+    [Cueball is walking into the panel from the right]
+
+    Off-screen: How was the party?
+
+    Cueball: Taaalkiiiiiiing
+
+    Cueball: Blablablabla
+
+    Cueball: I talked so much. Too much? Probably.
+
+    Cueball: My face is tired.[Cueball moving to retreat under a bed]
+
+    Cueball: So many conversations. 
+
+    Cueball: I'm worried that all my opinions are bad. Why did I talk so much?
+
+    Cueball: Time to hide under my bed and never speak to another human
+    again.[The bed is shown, presumably with Cueball under it.]Five minutes
+    later...
+
+    [Cueball crawling out from under the bed]
+
+    Cueball: I have some new opinions.
+
+    Off-screen: That didn't take long.
+'2135':
+  num: 2135
+  url: 'https://xkcd.com/2135'
+  title: M87 Black Hole Size Comparison
+  img: 'https://imgs.xkcd.com/comics/m87_black_hole_size_comparison.png'
+  alt: >-
+    I think Voyager 1 would be just past the event horizon, but slightly less
+    than halfway to the bright ring.
+  year: '2019'
+  month: '4'
+  day: '10'
+  transcript: >-
+    Size comparison:
+
+    The M87 Black Hole
+
+    and
+
+    Our Solar SystemEHT Black Hole Image
+
+    Source: NSF[An image of the M87 black hole captured by the event horizon
+    telescope on the day that this comic was published is shown. A white ring
+    about 1/4 of the diameter of the central black portion of the image is
+    labelled with an arrow as 'Pluto'. A small white circle at the centre of the
+    image is labelled with an arrow as 'Sun'. A small white dot on the right
+    hand edge of the central black portion of the image is labelled with an
+    arrow as 'Voyager 1'.]
+'2136':
+  num: 2136
+  url: 'https://xkcd.com/2136'
+  title: Election Commentary
+  img: 'https://imgs.xkcd.com/comics/election_commentary.png'
+  alt: >-
+    This really validates Jones's strategy of getting several thousand more
+    votes than Smith. In retrospect, that was a smart move; those votes were
+    crucial.
+  year: '2019'
+  month: '4'
+  day: '12'
+  transcript: "[Cueball is presenting a graphic on his left that shows two names followed by five digits]\nCueball: Smith is leading in 3 of the 5 digits, and is tied in another. But Jones has a solid lead the thousands place, if Smith can't catch up there, it's over.Smith\_ 5 5 3 8 4\ntie ✗ ✓ ✓ ✓\ntie ✓ ✗ ✗ ✗\nJones\_ 5 9 1 0 2[Caption below the panel:]\nA lot of election commentary just consists of unnecessarily convoluted ways to add up who has more votes."
+'2137':
+  num: 2137
+  url: 'https://xkcd.com/2137'
+  title: Text Entry
+  img: 'https://imgs.xkcd.com/comics/text_entry.png'
+  alt: >-
+    I like to think that somewhere out there, there's someone whose personal
+    quest is lobbying TV providers to add an option to switch their on-screen
+    keyboards to Dvorak.
+  year: '2019'
+  month: '4'
+  day: '15'
+  transcript: >-
+    [Ponytail and Cueball are sitting on a couch, with Megan standing behind
+    them.  Cueball is pointing a remote at a television. The word space is
+    written inside a frame.]
+
+    Television: O...U...R...SPACE...P...L...
+
+    Remote: Click Click Click[Caption below the panel:]
+
+    The weirdest thing about 2019 is obviously that Donald Trump is president,
+    but I think the second weirdest is that you sometimes still have to type
+    stuff in by picking letters on a screen one at a time with a cursor like
+    you're entering a high score in a 1980s arcade game.
+'2138':
+  num: 2138
+  url: 'https://xkcd.com/2138'
+  title: Wanna See the Code?
+  img: 'https://imgs.xkcd.com/comics/wanna_see_the_code.png'
+  alt: >-
+    And because if you just leave it there, it's going to start contaminating
+    things downstream even if no one touches it directly.
+  year: '2019'
+  month: '4'
+  day: '17'
+  transcript: >-
+    [Cueball is walking to talk to Megan]
+
+    Cueball: I wrote a script to automate that thing.
+
+    Megan: Oh cool! ... Wait, you wrote it? Oh no.[Cueball and Megan are
+    standing next to each other]
+
+    Cueball: Wanna see the code?
+
+    Megan: I would, if you hadn't said in that voice of "wanna see a dead
+    body?"[Cueball and Megan are standing next to each other]
+
+    Cueball: My code is sort of similar to a dead body, in that you can either
+    come look at it now, or wait a few weeks until it becomes a problem.
+
+    Megan: And because you're lucky that the people around you understand that
+    they create more problems than they solve.
+'2139':
+  num: 2139
+  url: 'https://xkcd.com/2139'
+  title: Email Settings
+  img: 'https://imgs.xkcd.com/comics/email_settings.png'
+  alt: >-
+    What are all these less-than signs? What's an HREF? Look, we know you live
+    in a fancy futuristic tech world, but not all of us have upgraded to the
+    latest from Sun Microsystems.
+  year: '2019'
+  month: '4'
+  day: '19'
+  transcript: >-
+    EMAIL SETTINGS
+
+    [A list of controls with radio buttons and checkboxes]
+
+    Default reply behavior
+
+    ( ) Reply
+
+    ( ) Reply All
+
+    (*) Forward to address bookVacation autoresponder
+
+    (*) While on vacation
+
+    ( ) Always[x]Reply to all newsletters with "Thank you for the
+    newsletter!"Attachment limit
+
+    ( ) 300 KB
+
+    (*) 1.4 MB
+
+    ( ) 5 MB (Beta)Default email format
+
+    (*) Plain text
+
+    ( ) HTML
+
+    ( ) CSS[x]Reply to HTML emails with "Whoa, buddy, what's all this
+    code?"Character set
+
+    ( ) ASCII (Unicode 0-127 only)
+
+    (*) Non-ASCII (Unicode 128+ only)Smart autocomplete
+
+    ( ) Do not suggest replies
+
+    ( ) Suggest replies
+
+    (*) Automatically respond to all emails with suggested replyImportant emails
+
+    (*) Show
+
+    ( ) HideShow unread email count...
+
+    (*) Now
+
+    ( ) On my projected day of deathSignature
+
+    (*) "That's my email. Hope you liked it!"
+
+    ( ) None
+'2140':
+  num: 2140
+  url: 'https://xkcd.com/2140'
+  title: Reinvent the Wheel
+  img: 'https://imgs.xkcd.com/comics/reinvent_the_wheel.png'
+  alt: >-
+    Right now it's a bicycle wheel, so we've had to move to lighter vehicles,
+    but the reduced overhead is worth it. There was one week when a wheel of
+    cheese got dangerously close to the first page, though.
+  year: '2019'
+  month: '4'
+  day: '22'
+  transcript: >-
+    [Beret Guy is talking to Ponytail.]
+
+    Beret Guy: We don't want to reinvent the wheel, so every day we Google image
+    search "wheel", and whatever object comes up, that's what we attach to our
+    vehicles.
+
+    Beret Guy: Sure, external dependencies carry risks, but so far they've all
+    been pretty good wheels.
+'2141':
+  num: 2141
+  url: 'https://xkcd.com/2141'
+  title: UI vs UX
+  img: 'https://imgs.xkcd.com/comics/ui_vs_ux.png'
+  alt: >-
+    U[unprintable glyph]: The elements a higher power uses to bend that moral
+    arc. U[even more unprintable glyph]: The higher power's overall experience
+    bending that moral arc.
+  year: '2019'
+  month: '4'
+  day: '24'
+  transcript: "[Two underlined headings are above two columns of text with seven lines. The left \"symbol\" is explained by the text to the right.]\nDesigner \_\_\_ What they are responsible for\nUI \_\_\_\_\_\_\_\_\_\_\_\_\_    Elements of the interface that the user encounters\nUX \_\_\_\_\_\_\_\_\_\_\_\_    The user's experience of using the interface to achieve goals\nUZ \_\_\_\_\_\_\_\_\_\_\_\_    The psychological roots of the user's motivation for seeking out the interaction\nU∝ \_\_\_\_\_\_\_\_\_\_\_    The user's self-actualization\nUΩ \_\_\_\_\_\_\_\_\_\_\_\_    The arc of the user's life\nU∞ \_\_\_\_\_\_\_\_\_\_\_\_    Life's experience of time\nU⚫ \_\_\_\_\_\_\_\_\_\_\_    The arc of the moral universe"
+'2142':
+  num: 2142
+  url: 'https://xkcd.com/2142'
+  title: Dangerous Fields
+  img: 'https://imgs.xkcd.com/comics/dangerous_fields.png'
+  alt: >-
+    Eventually, every epidemiologist becomes another statistic, a dedication to
+    record-keeping which their colleagues sincerely appreciate.
+  year: '2019'
+  month: '4'
+  day: '26'
+  transcript: >-
+    [A line chart is shown going from left to right with two arrows on either
+    side. On the line are ten dots spread out unevenly from close to each end.
+    The first four dots are clustered together on the left side. Then follows 5
+    more dots unevenly spaced, all to the left of center. On the far right of
+    the line, near the end, there is one dot. Beneath each dot there goes a line
+    down to a label written beneath each line. Above the chart there is a big
+    title and below that an explanation. Below that again, there is a small
+    arrow pointing to the right with a label above it.]
+
+    Probability that you'll be killed by the thing you study
+
+    By field[Arrow label:]
+
+    More likely[Labels for the ten dots from left to right:]
+
+    Mathematics
+
+    Astronomy
+
+    Economics
+
+    Law
+
+    Criminology
+
+    Meteorology
+
+    Chemistry
+
+    Marine Biology
+
+    Volcanology
+
+    Gerontology
+'2143':
+  num: 2143
+  url: 'https://xkcd.com/2143'
+  title: Disk Usage
+  img: 'https://imgs.xkcd.com/comics/disk_usage.png'
+  alt: >-
+    Menu -> Manage -> [Optimize space usage, Encrypt disk usage report, Convert
+    photos to text-only, Delete temporary files, Delete permanent files, Delete
+    all files currently in use, Optimize menu options, Download cloud, Optimize
+    cloud , Upload unused space to cloud]
+  year: '2019'
+  month: '4'
+  day: '29'
+  transcript: >-
+    [This comic shows a pie chart with 10 slices, each with a label and a line
+    pointing to these ten different sized slices. There is a caption above the
+    chart:]
+
+    Disk Space Usage Report[The labels on each slice is given in clockwise order
+    starting from the top middle. The percentages are estimated from the image
+    and are noted in the square brackets before the transcript:][8%]: Why are
+    there two full backups of my phone from 2015 deep in a settings folder?
+
+    [23%]: "Other"
+
+    [9%]: "Cache"
+
+    [2%]: Unused
+
+    [21%]: "System"
+
+    [9%]: A single five-year-old PowerPoint presentation
+
+    [6%]: Everything you've streamed since 2017
+
+    [3%]: Documents
+
+    [1%] Good Photos
+
+    [18%] Photos
+'2144':
+  num: 2144
+  url: 'https://xkcd.com/2144'
+  title: Adjusting a Chair
+  img: 'https://imgs.xkcd.com/comics/adjusting_a_chair.png'
+  alt: >-
+    When I was looking at the box, I should have thought more about what "360
+    degrees of freedom" meant.
+  year: '2019'
+  month: '5'
+  day: '1'
+  transcript: >-
+    [Cueball is shown adjusting a chair.]
+
+    Caption: Adjusting a chair:
+
+    [Cueball presses a button on the bottom of his chair.]
+
+    Chair: CLUNK
+
+    [The seat back of the chair swings backward.]
+
+    [Cueball presses another button.]
+
+    Chair: HISS
+
+    [The chair extends to several times its previous height.]
+
+    [Another button]
+
+    Chair: POOF
+
+    [The seat has expanded greatly.]
+
+    Caption: Two hours later:
+
+    [Cueball attempts to press yet another button on his now-massive chair. It
+    now has 5 bases, two full chairs branching from underneath the seat, two
+    poles coming up from the seat, each with a new seat and two back-to-back
+    seat backs. Yet another seat is supported by a thin rod connecting the two
+    top seats.]
+'2145':
+  num: 2145
+  url: 'https://xkcd.com/2145'
+  title: Heists And Escapes
+  img: 'https://imgs.xkcd.com/comics/heists_and_escapes.png'
+  alt: >-
+    The interactive experience is built on a single theological framework that
+    unites Dante, George R. R. Martin, every major heist movie, and Erin Gloria
+    Ryan's "Kevin is dead" Home Alone theory.
+  year: '2019'
+  month: '5'
+  day: '3'
+  transcript: >-
+    [Seven different room scenarios are shown with characters attempting to get
+    inside or outside, each with a label below them.][Cueball and Ponytail
+    trying to exit a room.]
+
+    Escape rooms[Cueball and Megan trying to enter a room.]
+
+    Heist movies[Cueball, presumably representing Kevin, standing in the middle
+    of a room while two people are trying to enter.]
+
+    Home Alone (1990)[A room is shown inside a larger room. Two characters try
+    to enter from outside and two others try to exit from the inner room while
+    Megan and Cueball are standing between them.]
+
+    The Battle of Winterfell[Four rooms are shown inside of each other. Two
+    characters try to enter from outside while three Cueballs in each room are
+    standing while asleep.]
+
+    Inception (2010)[Smaller rooms are recursively shown inside of larger ones,
+    with two characters trying to escape from each.]
+
+    The Divine Comedy (1320)[At the bottom a more complicated combination of
+    various rooms shown in gray, with arrows labeled with question marks showing
+    escape routes for two characters in black.]
+
+    [Labels of various rooms and obstacles in gray:]
+
+    Truman Show
+
+    Bank
+
+    Room
+
+    Vault
+
+    The dead
+
+    Kevin McCallister's house
+
+    Kevin McCallister's subconscious
+
+    Styx
+
+    Dante's Inferno
+
+    [Label in the bottom in black:]
+
+    My plan for the greatest escape room game of all time
+'2146':
+  num: 2146
+  url: 'https://xkcd.com/2146'
+  title: Waiting for the But
+  img: 'https://imgs.xkcd.com/comics/waiting_for_the_but.png'
+  alt: >-
+    Listen, I'm not a fan of the Spanish Inquisition OR predatory multi-level
+    marketing schemes...
+  year: '2019'
+  month: '5'
+  day: '6'
+  transcript: >-
+    [Ponytail is talking to Cueball, while holding her hands up with both palms
+    up. Cueball is thinking as shown with a thought bubble.]Ponytail: Listen,
+    I'm all in favor of reducing car accidents, I think arson is a serious
+    crime, and I'm a big fan of those "No Animals Were Harmed" disclaimers at
+    the end of movies...Cueball (thinking): Uh-oh.[Caption below comic:]
+
+    The longer you have to wait for the "but",the worse whatever comes after it
+    is going to be.
+'2147':
+  num: 2147
+  url: 'https://xkcd.com/2147'
+  title: Appendicitis
+  img: 'https://imgs.xkcd.com/comics/appendicitis.png'
+  alt: >-
+    Fortunately, after a brief skirmish, I seem to have gained the upper hand in
+    the battle against my internal organs, at least until they learn to read and
+    find out the mean stuff I've said about them.
+  year: '2019'
+  month: '5'
+  day: '8'
+  transcript: >-
+    [Cueball is seated on an medical examination table while Ponytail stands
+    dressed in a doctor's coat holding a file on a clipboard in her left hand.]
+
+    Ponytail: Well, we zapped you with energy beams, and it looks like one of
+    your stupid organs is a traitor.
+
+    Cueball: ...which one?
+
+    Ponytail: I dunno, appendix? Gallbladder? One of the little ones that sucks.
+
+    Cueball: What should I do?[Closeup on Ponytail. She holds her left hand in a
+    clenched fist.]
+
+    Ponytail: You could quash the revolt with the ruthless deployment of
+    chemical and biological weapons.
+
+    Cueball (off-screen): ...antibiotics?
+
+    Ponytail: But certain victory comes only through the sword.
+
+    Cueball (off-screen): Surgery.[Closeup on Ponytail with her fists raised.]
+
+    Ponytail: While we're inside, we'll look around-if we see any signs of
+    insurrection elsewhere, we will not hesitate to act. There can be no
+    armistice. Your parts must fall in line or be crushed.
+
+    Cueball (off-screen): Um.[Zoom out again to the entire scene. Ponytail
+    points her left hand up.]
+
+    Ponytail: When the battle is won, we will salt your abdomen so no new organs
+    can ever sprout up to trouble you again.
+
+    Cueball: Maybe I should get a second opinion.
+
+    Ponytail: Only if you care what a weaker doctor would say.
+'2148':
+  num: 2148
+  url: 'https://xkcd.com/2148'
+  title: Cubesat Launch
+  img: 'https://imgs.xkcd.com/comics/cubesat_launch.png'
+  alt: >-
+    Luckily, the damages were partly offset by the prize money we got from
+    accidentally winning the nearby water skiing championship tournament.
+  year: '2019'
+  month: '5'
+  day: '10'
+  transcript: >-
+    [Megan and Cueball talking. Megan is holding a cube attached to a drone by
+    string.]
+
+    Megan: A spot on a CubeSat launch costs a lot, but you can get a drone and a
+    spool of fishing line for cheap.
+
+    Cueball: Uh oh.[A wide shot of Megan flying the drone.]
+
+    Megan: No no, watch.
+
+    Megan: This is gonna go great.[Wide shot of a rocket launch with drone and
+    string approaching from the right.][Drone attached to rocket.]
+
+    Off-panel (probably Megan): Perfect![Vapor cloud at bottom of rocket.]
+
+    Foom[Rocket taking off, tilting in the direction of the string.]
+
+    Off-panel: Should it be tilting already?
+
+    Off-panel: Hey, move your leg.[Megan and Cueball struggling in tangle of
+    string whilst holding cube.]
+
+    Megan: Ugh, let go, I can get-
+
+    Cueball: -No, lift your other arm-[Three small panels of rocket tilting
+    increasingly to the right and down as if pulled by the string.][Megan and
+    Cueball flying through the air, attached to the string. Two onlookers flee.]
+
+    AAAAAA[A disheveled looking Megan and Cueball both with plaster casts on
+    their arms stand before four members of an interview panel at a table
+    labeled 'Launch accident investigation board'].
+
+    Megan: Listen.
+
+    Megan: Space exploration is never going to be completely safe.
+'2149':
+  num: 2149
+  url: 'https://xkcd.com/2149'
+  title: Alternate Histories
+  img: 'https://imgs.xkcd.com/comics/alternate_histories.png'
+  alt: >-
+    "So their universe wouldn't have the iconic photo of a screaming Truman
+    being hoisted aloft by the newspaper-printing machinery..."
+  year: '2019'
+  month: '5'
+  day: '13'
+  transcript: >-
+    [Megan and Cueball are walking together]
+
+    Megan: In alternate history stories where the allies lost WWII, sometimes
+    they have their own fiction with the premise "what if the allies had won?"
+    which differs from our world since they'd be speculating and wouldn't
+    predict everything.
+
+    Cueball: Yeah, I think they do that in Man in the High Castle.[Megan and
+    Cueball continue walking together]
+
+    Megan: But within those stories, they should have "what if the allies had
+    lost?" fiction which is even more removed from our world.
+
+    Cueball: Uh oh.
+
+    Megan: So how deep does it go?[Cueball and Megan, wearing tall black
+    ball-topped hats and large bracelets and presumably from some alternate
+    history, are walking together. There is a caption in a frame over the top of
+    the panel:]
+
+    500 levels in:
+
+    Megan: In my alternate history, Scotland never develops hovercraft, so
+    Canada's cybernetic horses defeat the Belgium-Madagascar-New Jersey
+    alliance.
+
+    Cueball: Wow![Alternate history Cueball and Megan continue walking together]
+
+    Cueball: Then who becomes God-Emperor of Missouri, if not Laura Ingalls
+    Wilder?
+
+    Megan: Senator Truman!
+
+    Cueball: He survives the accident?!
+
+    Megan: Yeah, the pajama craze never catches on, so he's wearing normal
+    clothes when he walks by the printing press...
+'2150':
+  num: 2150
+  url: 'https://xkcd.com/2150'
+  title: XKeyboarCD
+  img: 'https://imgs.xkcd.com/comics/xkeyboarcd.png'
+  alt: >-
+    The key caps use LCD displays for all the vowels, so they can automatically
+    adjust over the years to reflect ongoing vowel shifts while allowing you to
+    keep typing phonetically.
+  year: '2019'
+  month: '5'
+  day: '15'
+  transcript: ''
+'2151':
+  num: 2151
+  url: 'https://xkcd.com/2151'
+  title: A/B
+  img: 'https://imgs.xkcd.com/comics/a_b.png'
+  alt: >-
+    We wrote our site in Linear A rather than Aksara Kawi because browser
+    testing showed that Crete script rendered faster than Java script.
+  year: '2019'
+  month: '5'
+  day: '17'
+  transcript: >-
+    [Cueball is sitting behind a computer desk, facing to the right, gesturing
+    at the screen. Ponytail stands behind him and Hairy stands in front of him,
+    both taking notes in a pad.]
+
+    Cueball: I like this one more because it encodes Mycenaean Greek. The other
+    one just looks like gibberish.[Caption below the panel:] 
+
+    Linear A/B testing
+'2152':
+  num: 2152
+  url: 'https://xkcd.com/2152'
+  title: Westerns
+  img: 'https://imgs.xkcd.com/comics/westerns.png'
+  alt: >-
+    Sitting here idly trying to figure out how the population of the Old West in
+    the late 1800s compares to the number of Red Dead Redemption 2 players.
+  year: '2019'
+  month: '5'
+  day: '20'
+  transcript: ''
+'2153':
+  num: 2153
+  url: 'https://xkcd.com/2153'
+  title: Effects of High Altitude
+  img: 'https://imgs.xkcd.com/comics/effects_of_high_altitude.png'
+  alt: >-
+    If she'd lived in Flagstaff (elevation 6,903 feet), Cruella de Vil would
+    only have needed 89 dalmatians for her coat.
+  year: '2019'
+  month: '5'
+  day: '22'
+  transcript: >-
+    Effects of high altitude
+
+    How life is different at one mile above sea level
+
+    (e.g. in Denver)[Eight small panels, each containing an image with a caption
+    at the top:]Water boils at 202°F
+
+    [A cooker with a pan with steam rising from it]Baseballs and golf balls fly
+    5-10% farther
+
+    [A baseball flying through the air]Sunburns develop significantly faster
+
+    [Five wavy arrows hitting a curved surface]Scrabble letters are worth 16%
+    more
+
+    [Scrabble tiles for letters Q, X and Y]Breaking a mirror only causes 5 1/2
+    years of bad luck
+
+    [Cueball looking down at a broken hand mirror on the floor]40 is the new 28
+
+    [Cueball and Megan are talking. Megan is gesturing]
+
+    Megan: 50 is the new 40, and when you account for elevation it's more like
+    37.Nuclear war can be started with only 94 red balloons.
+
+    [Five black balloons]People make Marijuana jokes slightly earlier
+
+    Cueball and Ponytail are talking. Ponytail is looking at her phone]
+
+    Cueball: Hey, what time is it?
+
+    Ponytail: 4:17 Blaze it!
+'2154':
+  num: 2154
+  url: 'https://xkcd.com/2154'
+  title: Motivation
+  img: 'https://imgs.xkcd.com/comics/motivation.png'
+  alt: >-
+    What's even worse is, a month ago they transferred me to work on the game I
+    was already playing, and suddenly I found myself procrastinating by playing
+    the one I'd been assigned before. It's possible they're onto me and this is
+    all part of the plan.
+  year: '2019'
+  month: '5'
+  day: '24'
+  transcript: >-
+    [Cueball and Ponytail sitting at a desk, working on their laptops]
+
+    Cueball: What are you working on?
+
+    Ponytail: Playing a game that involves exactly as much planning,
+    problem-solving and boring drudgework as the actual job I'm avoiding.[Zoom
+    in on Cueball]
+
+    Haha, yeah, I've definitely been there.[Zoom back out to Cueball and
+    Ponytail sitting at a desk, working on their laptops]
+
+    Cueball: What's your job these days, anyway?
+
+    Ponytail: Video game playtester.
+
+    Cueball: ...
+
+    Ponytail: Look, motivation is weird, ok?
+'2155':
+  num: 2155
+  url: 'https://xkcd.com/2155'
+  title: Swimming
+  img: 'https://imgs.xkcd.com/comics/swimming.png'
+  alt: >-
+    "You don't know how high above you the sky goes, but you're not freaking out
+    about that." "Well, NOW I am!"
+  year: '2019'
+  month: '5'
+  day: '27'
+  transcript: ''
+'2156':
+  num: 2156
+  url: 'https://xkcd.com/2156'
+  title: Ufo
+  img: 'https://imgs.xkcd.com/comics/ufo.png'
+  alt: >-
+    "It's a little low for a weather balloon; it might be some other kind."
+    "Yeah. Besides, I know I'm the alien conspiracy guy, but come on--the idea
+    that the government would care about hiding something so mundane as
+    atmospheric temperature measurement is too ridiculous even for me."
+  year: '2019'
+  month: '5'
+  day: '29'
+  transcript: >-
+    [Mulder from The X-Files depicted as Hairy sits in his office chair at his
+    desk and points to his computer screen while looking over his shoulder and
+    addressing Scully off-panel, who replies.]
+
+    Mulder: Hey Scully, have you seen these Navy UFO videos?
+
+    Scully (off-panel): Oh, the History Channel thing?[In a frame-less panel,
+    Scully walks in from the right towards Mulder, who has turned around in his
+    chair facing towards her (the desk is not included). He is leaning on the
+    back of the chair with one arm. Scully has shoulder length hair, not similar
+    to any of the regular women in xkcd.]
+
+    Scully: I don't know about the other two videos, but in one of them, if you
+    take the angles and ranges on the HUD and do a little geometry, it kind of
+    suggests the object isn't really moving.  It just looks like it because the
+    plane's camera is panning.[Zoom in on Scully.]
+
+    Scully: The pilots got excited for the same reason we did.  Then the media
+    got into it.  
+
+    Scully: But I think what they saw was a round, white object floating at
+    13,000 feet.[Zoom out again to shown that Mulder sits straight up in his
+    chair with hands in his lap and the desk with computer behind him. Scully
+    stand in front of him.]
+
+    Harry: So your theory is that the military claims to have footage of aliens,
+    but you think it's a giant cover-up to hide that it's a weather balloon?
+
+    Scully: Some kind of balloon, yes.
+
+    Harry: Pretty weird conspiracy.
+
+    Scully: Maybe the shadowy forces that control the world just want to
+    believe, too.
+'2157':
+  num: 2157
+  url: 'https://xkcd.com/2157'
+  title: Diploma Legal Notes
+  img: 'https://imgs.xkcd.com/comics/diploma_legal_notes.png'
+  alt: >-
+    If you're planning to challenge the royal family, you should probably wait
+    6-8 weeks, since a number of the younger ones have diplomas and Kate was
+    actually on the varsity lightsaber team at St Andrews.
+  year: '2019'
+  month: '5'
+  day: '31'
+  transcript: >-
+    [An official document with a title at the top between two images of
+    graduation hats on either side:]Congratulations, Class of 2019!Your diploma
+    grants you many new powers and privileges. These include:
+     You may now legally perform marriages and arrest people.
+     If you have your diploma with you, you can use grocery store express lanes with any number of items.
+     All graduates are entitled to delete one word of their choice from the Oxford English Dictionary.
+     The university will mail you your working lightsaber within 6-8 weeks.
+     You can send mail without stamps.
+     You have earned the right to challenge the British royal family to trial by combat. If you defeat them all, the throne is yours.
+     You may now ignore "Do Not Pet" warnings on airport security dogs.
+'2158':
+  num: 2158
+  url: 'https://xkcd.com/2158'
+  title: Qualifiers
+  img: 'https://imgs.xkcd.com/comics/qualifiers.png'
+  alt: '[20 minutes later] ", hi."'
+  year: '2019'
+  month: '6'
+  day: '3'
+  transcript: >-
+    [Cueball is standing next to White Hat.]
+
+    Cueball: Ok, so, listen, the thing is, well, like, I'm just saying, and
+    maybe it's just me, but, I mean, here's the thing, I could be way off here,
+    but, look, I gotta say,[Caption below the panel:]
+
+    When I forget what I was going to say, I just keep prefixing qualifiers
+    until I think of something new.
+'2159':
+  num: 2159
+  url: 'https://xkcd.com/2159'
+  title: Comments
+  img: 'https://imgs.xkcd.com/comics/comments.png'
+  alt: >-
+    NPR encourages you to add comments to their stories using the page inspector
+    in your browser's developer tools. Note: Your comments are visible only to
+    you, and will be lost when you refresh the page.
+  year: '2019'
+  month: '6'
+  day: '5'
+  transcript: >-
+    [Head of a girl with short hair:]
+
+    I can't believe how easy it is to create an impression of peer
+    consensus.[Head of a guy:]
+
+    This dynamic is so easily manipulated and it freaks me out.
+    xkcd.com/1019[Full picture of a girl with hair bun:]
+
+    Everytime I share something and a friend responds "Haha, did you see the top
+    comments..." it just reminds me how influential these things are in shaping
+    the impressions of even relatively internet-savvy readers.[Head of a guy who
+    looks like Cueball on a black background:]
+
+    NPR got rid of comments in 2016 when they realized they all came from a
+    handful of visitors posting hundreds of times a month.[Full picture of two
+    guys:]
+
+    Eventually social norms will adapt to this stuff, but it needs to hurry
+    up.[Head of a girl with ponytail:]
+
+    I have nine followers and created my account last month; how am I being
+    quoted in this news article??
+'2160':
+  num: 2160
+  url: 'https://xkcd.com/2160'
+  title: Ken Burns Theory
+  img: 'https://imgs.xkcd.com/comics/ken_burns_theory.png'
+  alt: >-
+    Some of the KBCU ancillary works try a little too hard to tie everything
+    together. Doris Kearns Goodwin, the sports journalist featured in
+    "Baseball," was somehow ALSO a famous historian who wrote bestselling
+    biographies of Lincoln AND Johnson? Unrealistic.
+  year: '2019'
+  month: '6'
+  day: '7'
+  transcript: >-
+    [Cueball is standing next to Megan.]
+
+    Cueball: Lincoln was "President" in The Civil War (1990), the same office
+    held by Johnson in The Vietnam War (2017).
+
+    Cueball: And Baseball (1994) briefly showed 1960s "protesters." I think they
+    were protesting Johnson's war!
+
+    Cueball: It all fits![Caption below the panel:]
+
+    I have a fan theory that every Ken Burns miniseries exists within a single
+    cohesive universe.
+'2161':
+  num: 2161
+  url: 'https://xkcd.com/2161'
+  title: An Apple a Day
+  img: 'https://imgs.xkcd.com/comics/an_apple_a_day.png'
+  alt: >-
+    Even the powerful, tart Granny Smith cultivar is proving ineffective against
+    new Gran-negative doctors.
+  year: '2019'
+  month: '6'
+  day: '10'
+  transcript: >-
+    [Megan stands at a podium.]
+
+    Megan: An apple a day keeps the doctor away.
+
+    Megan: Or at least, it used to.[The comic zooms out on the stage. Megan is
+    pointing at a poster prominently featuring Doctor Ponytail and three
+    apples.]
+
+    Megan: Over time, some doctors have developed a resistance to apples.
+    Keeping them away takes two or three apples instead of one.
+
+    Megan: And there are worrying signs that a few doctors have become
+    completely immune.[The comic zooms in again on Megan and her podium.]
+
+    Megan: So we must stockpile our finest apples in reserve, using them to fend
+    off only the very worst doctors.
+
+    Megan: Honeycrisps still work on most of them, but we don't know for how
+    long.
+'2162':
+  num: 2162
+  url: 'https://xkcd.com/2162'
+  title: Literary Opinions
+  img: 'https://imgs.xkcd.com/comics/literary_opinions.png'
+  alt: >-
+    If I really focus, I can distinguish between John Steinbeck and John Updike,
+    or between Gore Vidal and Vidal Sassoon, but not both at once.
+  year: '2019'
+  month: '6'
+  day: '12'
+  transcript: >-
+    [Megan is walking with a finger raised toward Cueball, who is seated in a
+    chair with a book.]
+
+    Megan: Literary opinion:
+
+    Megan: I firmly believe that William S. Burroughs, Hunter S. Thompson, Chuck
+    Palahniuk, and David Foster Wallace are different names for the same person.
+
+    Cueball: ...I see.[Megan puts down her hand.]
+
+    Megan: Fear and Loathing in Las Vegas and Fight Club? Same book with
+    different covers, I bet.
+
+    Cueball: I have both. Want to open them and check?
+
+    Megan: I do not.[Cueball turns back to his book.]
+
+    Megan: Moving on: my next opinion--
+
+    Cueball: You should start a book club for discussing the books you refuse to
+    read.
+
+    Megan: --is that E.B. White and T.H. White are the same person.
+
+    Cueball: Ok, that I believe.
+'2163':
+  num: 2163
+  url: 'https://xkcd.com/2163'
+  title: Chernobyl
+  img: 'https://imgs.xkcd.com/comics/chernobyl.png'
+  alt: >-
+    You know when you can't hear your speakers, and you keep turning various
+    volume controls up higher and higher in confusion, and then someone hits the
+    mute button and there's a deafening blast of sound? That's basically what
+    happened at Chernobyl.
+  year: '2019'
+  month: '6'
+  day: '14'
+  transcript: >-
+    [Ponytail and White Hat facing each other.]
+
+    Ponytail: Did you like Chernobyl?
+
+    White Hat: Yeah!
+
+    White Hat: But I still don't understand the meltdown. Can you explain
+    it...simpler?[Zoom in to closeup of Ponytail holding one hand out with palm
+    up, with White Hat off-panel to the right]
+
+    Ponytail: Well, the graphite--
+
+    White Hat (off-panel): Already too complicated.
+
+    Ponytail: Uh...they put the reactor in an unstable--
+
+    White Hat (off-panel): Nope, sorry.[Zoom back out to full view of Ponytail
+    and White Hat, with Ponytail holding hand to her chin]
+
+    Ponytail: Hmm, ok.
+
+    Ponytail: Long ago, humans banged rocks together to make fire.
+
+    White Hat: Ok...[Full view of Ponytail and White Hat, who has both hands
+    held straight out to both sides]
+
+    Ponytail: 30 years ago, we banged some rocks together too hard.
+
+    White Hat: Oh no!
+
+    Ponytail: Yeah, we messed up real bad.
+'2164':
+  num: 2164
+  url: 'https://xkcd.com/2164'
+  title: Glacier
+  img: 'https://imgs.xkcd.com/comics/glacier.png'
+  alt: >-
+    The Norwegian adaptation of The Sword in the Stone takes things in a weird
+    direction.
+  year: '2019'
+  month: '6'
+  day: '17'
+  transcript: >-
+    [A person wearing a knit cap and Beret Guy are standing to the left of a
+    glacier.]
+
+    Knit cap person: Glaciers are so neat. You can't see it, but this ice is
+    slowly advancing.[Zoom in on Beret Guy, who has his hand to his mouth,
+    thinking.][Zoomed in, Beret Guy exits to the left of the panel.][Beret Guy
+    enters the panel from the left, carrying two fencing sabres.][Beret Guy uses
+    a blow dryer to attach one of the sabres to the glacier.]
+
+    Whirrrr
+
+    [Beret Guy is holding the blow dryer and looks at the sabre that is attached
+    to the glacier.][Beret Guy stands in a defensive position with sabre in
+    hand, ready to defend against the "advancing" glacier.]
+'2165':
+  num: 2165
+  url: 'https://xkcd.com/2165'
+  title: Millennials
+  img: 'https://imgs.xkcd.com/comics/millennials.png'
+  alt: >-
+    Ironically, I've been having these same arguments for at least a decade now.
+    I thought we would have moved on by now, but somehow the snide complaints
+    about millennials continue.
+  year: '2019'
+  month: '6'
+  day: '19'
+  transcript: >-
+    [White Hat and Cueball facing each other.]
+
+    White Hat: I'm just saying–
+
+    White Hat: All these millennials will be in for a shock when they have to
+    grow up and enter the real world.[Zoom in on Cueball's head and upper body.]
+
+    Cueball: Except...
+
+    Cueball: "Millennials" started reaching adulthood about 20 years ago.[Zoom
+    out to full view of White Hat and Cueball facing each other in a frameless
+    panel.]
+
+    Cueball: Which means that some millennials can't respond to your criticism
+    because they're busy taking their kids to check out colleges.[White Hat and
+    Cueball facing each other.]
+
+    White Hat: But ...no, millennials are college kids!
+
+    Cueball: Maybe they're not the ones failing to grow and change over time
+    here.
+'2166':
+  num: 2166
+  url: 'https://xkcd.com/2166'
+  title: Stack
+  img: 'https://imgs.xkcd.com/comics/stack.png'
+  alt: >-
+    Gotta feel kind of bad for nation-state hackers who spend years implanting
+    and cultivating some hardware exploit, only to discover the entire target
+    database is already exposed to anyone with a web browser.
+  year: '2019'
+  month: '6'
+  day: '21'
+  transcript: >-
+    [Single-panel with a label at the top and 8 box layers stacked vertically,
+    with in and out arrows at the top representing normal data flow and an arrow
+    out of each box to the left or right representing exploit data flow]
+
+    The Modern Tech Stack
+
+    Compromised by a customer (arrow to the right)
+
+    Compromised by a former employee (arrow to the left)
+
+    Compromised by a current employee (arrow to the right)
+
+    Compromised by bitcoin miners (arrow to the right)
+
+    Compromised by unknown hackers (arrow to the left)
+
+    Compromised by our own government (arrow to the right)
+
+    Compromised by a foreign government (arrow to the left)
+
+    Massive undiscovered hardware vulnerability (arrow to the right)
+'2167':
+  num: 2167
+  url: 'https://xkcd.com/2167'
+  title: Motivated Reasoning Olympics
+  img: 'https://imgs.xkcd.com/comics/motivated_reasoning_olympics.png'
+  alt: >-
+    [later] I can't believe how bad corruption has become, especially given that
+    our league split off from the statewide one a month ago SPECIFICALLY to
+    protest this kind of flagrantly biased judging.
+  year: '2019'
+  month: '6'
+  day: '24'
+  transcript: >-
+    [Cueball is holding a trophy with a 2 engraved on it, showing it off to
+    Ponytail]Cueball: Check it out, I won first place at the Motivated Reasoning
+    Olympics!
+
+    Ponytail: That trophy says "second."
+
+    Cueball: Well, the guy who won was caught cheating in an earlier round, so
+    the board is almost certain to strip him of his win once they review the...
+'2168':
+  num: 2168
+  url: 'https://xkcd.com/2168'
+  title: Reading in the Original
+  img: 'https://imgs.xkcd.com/comics/reading_in_the_original.png'
+  alt: >-
+    The articles are much shorter, but I assume that's because this version
+    predates the merger with the Hawaiian text that created the modern
+    Hawaiian-Greek hybrid wiki-pedia.
+  year: '2019'
+  month: '6'
+  day: '26'
+  transcript: >-
+    [Cueball is addressing Megan. He is holding a hand with a thumb up out
+    toward her. Megan is spreading her arms out as she replies.]
+
+    Cueball: It's in the "Languages" box in the lower left. It took a while to
+    learn, but I find I get so much more out of it by reading it as it was
+    intended.
+
+    Megan: That's not how that works![Caption below the panel:]
+
+    People get mad when I tell them I only read Wikipedia in the original Greek.
+'2169':
+  num: 2169
+  url: 'https://xkcd.com/2169'
+  title: Predictive Models
+  img: 'https://imgs.xkcd.com/comics/predictive_models.png'
+  alt: WE WILL ARREST THE REVOLUTION MEMBERS
+  year: '2019'
+  month: '6'
+  day: '28'
+  transcript: >-
+    [Single panel with Cueball sitting at a desk typing on a laptop.]
+
+    Cueball typing: "Long live the revolution. Our next meeting will be at|"
+    [Predictive text tool suggests in grey text] "the docks at midnight on June
+    28.[TAB]"
+
+    Cueball: Aha, found them![Caption below panel]
+
+    When you train predictive models on input from your users, it can leak
+    information in unexpected ways.
+'2170':
+  num: 2170
+  url: 'https://xkcd.com/2170'
+  title: Coordinate Precision
+  img: 'https://imgs.xkcd.com/comics/coordinate_precision.png'
+  alt: >-
+    40 digits: You are optimistic about our understanding of the nature of
+    distance itself.
+  year: '2019'
+  month: '7'
+  day: '1'
+  transcript: >-
+    [Single panel containing a table with two columns for "Lat/Lon Precision"
+    and "Meaning" and a caption above the table.]
+
+    Caption: What The Number of Digits in Your Coordinates Means[Row 1]
+
+    Lat/Lon: 28°N, 80°W
+
+    Meaning: You're probably doing something space-related[Row 2]
+
+    Lat/Lon: 28.5°N, 80.6°W
+
+    Meaning: You're pointing out a specific city[Row 3]
+
+    Lat/Lon: 28.52°N, 80.68°W
+
+    Meaning: You're pointing out a neighborhood[Row 4]
+
+    Lat/Lon: 28.523°N, 80.683°W
+
+    Meaning: You're pointing out a specific suburban cul-de-sac[Row 5]
+
+    Lat/Lon: 28.5234°N, 80.6830°W
+
+    Meaning: You're pointing to a particular corner of a house[Row 6]
+
+    Lat/Lon: 28.52345°N, 80.68309°W
+
+    Meaning: You're pointing to a specific person in a room, but since you
+    didn't include datum information, we can't tell who[Row 7]
+
+    Lat/Lon: 28.5234571°N, 80.6830941°W
+
+    Meaning: You're pointing to Waldo on a page[Row 8]
+
+    Lat/Lon: 28.523457182°N, 80.683094159°W
+
+    Meaning: "Hey, check out this specific sand grain!"[Row 9]
+
+    Lat/Lon: 28.523457182818284°N, 80.683094159265358°W
+
+    Meaning: Either you're handing out raw floating point variables, or you've
+    built a database to track individual atoms. In either case, please stop.
+'2171':
+  num: 2171
+  url: 'https://xkcd.com/2171'
+  title: Shadow Biosphere
+  img: 'https://imgs.xkcd.com/comics/shadow_biosphere.png'
+  alt: >-
+    The typical Shadow Biology Department is housed in a building coated in a
+    thin layer of desert varnish which renders it invisible to normal-world
+    university staff.
+  year: '2019'
+  month: '7'
+  day: '3'
+  transcript: >-
+    [Cueball and Megan are standing opposite of each other. A shadowy figure is
+    behind Megan.]
+
+    Shadowy Figure: These days most of our funding comes in from the shadow
+    biotech industry.
+
+    Megan: Did you hear something?
+
+    Cueball: I think it's the wind.
+
+    Caption below panel: The shadow biosphere exists, but if you study it, you
+    become a shadow biologist.
+'2172':
+  num: 2172
+  url: 'https://xkcd.com/2172'
+  title: Lunar Cycles
+  img: 'https://imgs.xkcd.com/comics/lunar_cycles.png'
+  alt: >-
+    The Antikythera mechanism had a whole set of gears specifically to track the
+    cyclic popularity of skinny jeans and low-rise waists.
+  year: '2019'
+  month: '7'
+  day: '5'
+  transcript: ''
+'2173':
+  num: 2173
+  url: 'https://xkcd.com/2173'
+  title: Trained a Neural Net
+  img: 'https://imgs.xkcd.com/comics/trained_a_neural_net.png'
+  alt: >-
+    It also works for anything you teach someone else to do. "Oh yeah, I trained
+    a pair of neural nets, Emily and Kevin, to respond to support tickets."
+  year: '2019'
+  month: '7'
+  day: '8'
+  transcript: >-
+    [Single panel with White Hat and Cueball, with White Hat holding what
+    appears to be a smartphone.]
+
+    White Hat: Oh, hey, you organized our photo archive!
+
+    Cueball: Yeah, I trained a neural net to sort the unlabeled photos into
+    categories.
+
+    White Hat: Whoa! Nice work![Caption below the panel:]
+
+    Engineering Tip: When you do a task by hand, you can technically say you
+    trained a neural net to do it.
+'2174':
+  num: 2174
+  url: 'https://xkcd.com/2174'
+  title: First News Memory
+  img: 'https://imgs.xkcd.com/comics/first_news_memory.png'
+  alt: >-
+    Psychology researchers say our 'flashbulb' memories of big events can be
+    unreliable, but I clearly remember watching live on CNN as Challenger
+    crashed into and destroyed the Berlin Wall.
+  year: '2019'
+  month: '7'
+  day: '10'
+  transcript: ''
+'2175':
+  num: 2175
+  url: 'https://xkcd.com/2175'
+  title: Flag Interpretation
+  img: 'https://imgs.xkcd.com/comics/flag_interpretation.png'
+  alt: >-
+    When Salvador Dalí died, it took months to get all the flagpoles
+    sufficiently melted.
+  year: '2019'
+  month: '7'
+  day: '12'
+  transcript: >-
+    [8 panels in 2 rows, 4 panels per row - each panel shows a flagpole in a
+    different state of flying flag(s) with a caption at the bottom of the panel
+    below the flagpole.]
+
+    [The US flag at half mast.]
+
+    Caption: Someone important died
+
+    [The same flag at three-quarter mast.]
+
+    Caption: Someone died but we're not sure how we feel about them
+
+    [The flag at the base of the mast.]
+
+    Caption: Everyone important died
+
+    [Two identical flags at full mast.]
+
+    Caption: Someone important was successfully cloned
+
+    [Two identical flags at half mast.]
+
+    Caption: An important person died battling their evil clone
+
+    [An upside-down flag at half mast.]
+
+    Caption: Nobody has died for weeks and that seems good but statistically
+    it's very alarming.
+
+    [A normal-sized flag at half mast and five tiny flags at full mast.]
+
+    Caption: Someone diverted a trolley to save five people by killing one
+    important person
+
+    [A flagpole with no flag.]
+
+    Caption: The person who knows where the flag is stored at night died.
+'2176':
+  num: 2176
+  url: 'https://xkcd.com/2176'
+  title: How Hacking Works
+  img: 'https://imgs.xkcd.com/comics/how_hacking_works.png'
+  alt: If only somebody had warned them that the world would roll them like this.
+  year: '2019'
+  month: '7'
+  day: '15'
+  transcript: >-
+    [Two panels with a caption below each panel:][Panel 1 - Three masked
+    characters standing near a desk with a computer inside a home]
+
+    Masked Character 1 [holding a walkie-talkie]: Control, we have flown to the
+    USA and breached the target's house.
+
+    Masked Character 2: They wrote all their passwords in a book labeled
+    "Passwords"!
+
+    Masked Character 3: The fool!
+
+    Caption: How people think hacking works[Panel 2 - Two Cueball-like
+    characters, each sitting on opposite sides of a single desk with laptops in
+    front of them]
+
+    Character 1: Hey look, someone leaked the emails and passwords from the
+    Smash Mouth message boards.
+
+    Character 2: Cool, let's try them all on Venmo.
+
+    Caption: How it actually works
+'2177':
+  num: 2177
+  url: 'https://xkcd.com/2177'
+  title: Gastroenterology
+  img: 'https://imgs.xkcd.com/comics/gastroenterology.png'
+  alt: >-
+    "Mostly it means that I'm acutely aware that the kid one table over coughed
+    as the server walked past with our food."
+  year: '2019'
+  month: '7'
+  day: '17'
+  transcript: >-
+    [Ponytail, wearing a lab coat, and a guy wearing a scrubs hat rush in from
+    the right side of the panel. Ponytail is holding a water bottle. There is a
+    desk on the left of the panel with two jars.]
+
+    Hat guy: Hurry, they're right behind us![Zoom in on Ponytail, behind the
+    desk, pouring the two smaller jars into the water bottle.]
+
+    An arrow points to the left jar: Probiotic
+
+    An arrow points to the right jar: Antibiotic[Zoom out on Ponytail shaking
+    the water bottle to mix the two substances.]
+
+    Shake Shake Shake[Ponytail throws the water bottle toward the right side of
+    the panel, at something off-screen.][Hat guy and Ponytail run toward the
+    left side of the panel, as the water bottle explodes.]
+
+    BOOM[Megan and Ponytail sitting at a table, facing each other, having a
+    meal.]
+
+    Megan: So what's gastroenterology like?
+
+    Ponytail: Pretty boring. Lotta paperwork.
+'2178':
+  num: 2178
+  url: 'https://xkcd.com/2178'
+  title: Expiration Date High Score
+  img: 'https://imgs.xkcd.com/comics/expiration_date_high_score.png'
+  alt: >-
+    "Wait, we've MOVED since 2010. How on Earth did--" "Look, some of us were
+    just born to be champions."
+  year: '2019'
+  month: '7'
+  day: '19'
+  transcript: ''
+'2179':
+  num: 2179
+  url: 'https://xkcd.com/2179'
+  title: NWS Warnings
+  img: 'https://imgs.xkcd.com/comics/nws_warnings.png'
+  alt: >-
+    Kind of rude of them to simultaneously issue an EVACUATION - IMMEDIATE
+    alert, a SHELTER IN PLACE alert, and a 911 TELEPHONE OUTAGE alert.
+  year: '2019'
+  month: '7'
+  day: '22'
+  transcript: ''
+'2180':
+  num: 2180
+  url: 'https://xkcd.com/2180'
+  title: Spreadsheets
+  img: 'https://imgs.xkcd.com/comics/spreadsheets.png'
+  alt: >-
+    My brother once asked me if there was a function to produce a calendar grid
+    from a list of dates in Google Sheets. I replied with a single-cell formula
+    that took in a list of dates and outputted a calendar. It used SEQUENCE(),
+    REGEXMATCH(), and a double-nested ARRAYFORMULA(), and it locked up the
+    browser for 15 seconds every time it ran. I think he learned a lot about
+    asking me things.
+  year: '2019'
+  month: '7'
+  day: '24'
+  transcript: >-
+    Angel: Don't use a spreadsheet! Do it right.
+
+    Devil: But a spreadsheet would be so easy.
+
+    Angel: In the long run you'll regret it!Angel: Take the time to write real
+    code.
+
+    Devil: Just paste the data! Tinker until it works!
+
+    Devil: Build a labyrinth of REGEXREPLACE() and ARRAYFORMULA()!
+
+    Devil: Feel the power!Angel (off-panel): Fight the temptation!
+
+    Devil: Ever tried QUERY() in Google Sheets? It lets you treat a block of
+    cells like a database and run SQL queries on them.Angel: Don't listen to--
+
+    Angel: ... wait, really?
+
+    Devil: Yes, and let me tell you about IMPORTHTML() ...
+
+    Angel: Oooh...
+'2181':
+  num: 2181
+  url: 'https://xkcd.com/2181'
+  title: Inbox
+  img: 'https://imgs.xkcd.com/comics/inbox.png'
+  alt: >-
+    Rome's declaration of war against Carthage was sent from a no-reply address,
+    so Hannibal had to cross the Alps to deliver his "UNSUBSCRIBE" response in
+    person.
+  year: '2019'
+  month: '7'
+  day: '26'
+  transcript: >-
+    Megan: Answering email is the worst. It just leads to getting more email.
+
+    Cueball: Yeah, email is a trap.Megan: I bet the reason the Ancient Romans
+    got so much done was that they had no concept of Inbox Zero.
+
+    Cueball: That explains it.
+'2182':
+  num: 2182
+  url: 'https://xkcd.com/2182'
+  title: When I'm Back at a Keyboard
+  img: 'https://imgs.xkcd.com/comics/when_im_back_at_a_keyboard.png'
+  alt: >-
+    [after typing 1,500 words on feathered dinosaurs, paleontology, sexism,
+    lava, and dinosaurs as animals rather than movie monsters] Sorry to cut it
+    short, I'm on my phone. When I'm back at a keyboard, I can give you another
+    5,000 words.
+  year: '2019'
+  month: '7'
+  day: '29'
+  transcript: >-
+    [Cueball walking and texting on a cellphone.]
+
+    Cueball (texting): Sure, I can reply once I'm back at a keyword and can type
+    more easily.[Caption below the panel:]
+     I say this a lot for someone who routinely types thousands of words in text message conversations when someone brings up Jurassic Park.
+'2183':
+  num: 2183
+  url: 'https://xkcd.com/2183'
+  title: Icon Swap
+  img: 'https://imgs.xkcd.com/comics/icon_swap.png'
+  alt: >-
+    Someone's probably working on an eBook app where, if you stop reading right
+    before some plot twist happens, the app will wait a while and then send you
+    a breaking news alert about what's happening, prompting you to open it and
+    read the next few pages to learn more.
+  year: '2019'
+  month: '7'
+  day: '31'
+  transcript: >-
+    [A timeline (? scatter plot? of books finished over time. Spikes occur at
+    certain points, with arrows marked "Icon Swap" pointing to the point before
+    them][Caption below the panel:]
+
+    I'm not saying I have a problem compulsively checking news and social media
+    on my phone, but when I replace the social media app icon with my eBook
+    reader, I read a half-dozen books before I get used to the change.
+'2184':
+  num: 2184
+  url: 'https://xkcd.com/2184'
+  title: Unpopular Opinions
+  img: 'https://imgs.xkcd.com/comics/unpopular_opinions.png'
+  alt: >-
+    I wasn't a big fan of 3 or Salvation, so I'm trying to resist getting my
+    hopes up too much for Dark Fate, but it's hard. I'm just a sucker for humans
+    and robots traveling through time to try to drive trucks into each other,
+    apparently.
+  year: '2019'
+  month: '8'
+  day: '2'
+  transcript: |-
+    Ponytail: Wow, this is harder than I thought.
+    Cueball: ...Terminator Genisys?
+    Megan: Seriously?!
+    Cueball: I like time travel, okay??
+'2185':
+  num: 2185
+  url: 'https://xkcd.com/2185'
+  title: Cumulonimbus
+  img: 'https://imgs.xkcd.com/comics/cumulonimbus.png'
+  alt: >-
+    The rarest of all clouds is the
+    altocumulenticulostratonimbulocirruslenticulomammanoctilucent cloud, caused
+    by an interaction between warm moist air, cool dry air, cold slippery air,
+    cursed air, and a cloud of nanobots.
+  year: '2019'
+  month: '8'
+  day: '5'
+  transcript: ''
+'2186':
+  num: 2186
+  url: 'https://xkcd.com/2186'
+  title: Dark Matter
+  img: 'https://imgs.xkcd.com/comics/dark_matter.png'
+  alt: >-
+    To detect dark matter, we just need to build a bird feeder that spins two
+    squirrels around the rim in opposite directions at relativistic speeds and
+    collides them together.
+  year: '2019'
+  month: '8'
+  day: '7'
+  transcript: >-
+    [Megan walks with Cueball. She is holding a hand out while telling Cueball
+    something.]
+
+    Megan: Dark matter density in the solar system is around 0.3 GeV/cm3
+
+    Cueball: Is... that a lot?[As they continue to walk and talk she spreads her
+    arms out.]
+
+    Megan: In terms of mass, it means the Earth contains one squirrel worth of
+    dark matter at any given time.
+
+    Cueball: Wow.[In a frame-less panel Cueball stops while Megan walks past
+    him. Megan is face-palming herself while looking down.]
+
+    Cueball: Is there any way to find out which squirrel it is?
+
+    Megan: No, it's not literally-[Cueball holds his hand with one finger up in
+    front of Megan, while she has turned towards him and is holding both arms
+    up, possible with balled fist, as she shouts back at him, shown both with
+    large fat letters and with small lines emanating above her head.]
+
+    Cueball: Oh, that explains why they weigh enough to set off those spinning
+    bird feeders!
+
+    Megan: Dark matter isn't squirrels!
+'2187':
+  num: 2187
+  url: 'https://xkcd.com/2187'
+  title: Geologic Time
+  img: 'https://imgs.xkcd.com/comics/geologic_time.png'
+  alt: 'Ok, well, we''ll be sure to pay you sometime soon, geologically speaking.'
+  year: '2019'
+  month: '8'
+  day: '9'
+  transcript: >-
+    Imagine Earth's history as a football field, from the planet's formation at
+    one end to today at the other.
+
+    Complex life would be largely limited to the final ten yards. Dinosaurs
+    appear at the five-yard line, the age of mammals happens in the last 1½
+    yards, and humans arise in the final few millimeters.
+
+    All of written history would fit in a strip narrower than a single hair.
+
+    "Two weeks" would be too small to see even with a powerful microscope.
+'2188':
+  num: 2188
+  url: 'https://xkcd.com/2188'
+  title: E Scooters
+  img: 'https://imgs.xkcd.com/comics/e_scooters.png'
+  alt: >-
+    Obviously battery technology and prices have driven a lot of the scooter
+    explosion, but I feel like Dean Kamen must be at least a little grumpy about
+    how much people laughed at the idea of the Segway.
+  year: '2019'
+  month: '8'
+  day: '12'
+  transcript: >-
+    [Cueball is getting off his e-scooter, with his bicycle helmet hanging on
+    the handlebars. He has stopped right in front of White Hat who addresses
+    him.]
+
+    White Hat: Hey, you got one of those e-scooters!
+
+    Cueball: Yeah![Cueball is now standing next to the e-scooter holding on to
+    the handlebars with one hand. Both he and White Hat look down at the
+    scooter.]
+
+    White Hat: So what do you think? I hear so much about these things.[A large
+    panel with just White Hat who is spreading his arms out.]
+
+    White Hat: Are they impractical and unsafe toys? Or a last-mile transit
+    revolution?[Closeup on White Hat holding both arms out and up with palms
+    held up.]
+
+    White Hat: A low-carbon car replacement? Or Silicon Valley sidewalk
+    clutter?[In a frame-less panel only Cueball and his e-scooter is shown.]
+
+    Cueball: Well, having given it lots of thought, here is my opinion on
+    scooters:[Cueball is bending at the knees and holding on to the handlebars
+    with both hands as White Hat is looking at him. Cueball starts making
+    machine noises.]
+
+    Cueball: Zooooooom! 
+
+    Cueball: Neeeeeoooormmm 
+
+    Cueball: Vrrrm Vrrmvrmm 
+
+    Cueball: Wheeee![Cueball continues making sounds as in the previous panel.
+    White Hat seems to have taken a step back.]
+
+    Cueball: Pew pew pew! 
+
+    Cueball: Bzzzzt Kaboom!
+
+    White Hat: Wait, why are there lasers?
+
+    Cueball: Pew!
+'2189':
+  num: 2189
+  url: 'https://xkcd.com/2189'
+  title: Old Game Worlds
+  img: 'https://imgs.xkcd.com/comics/old_game_worlds.png'
+  alt: 'Ok, how many coins for a cinnamon roll?'
+  year: '2019'
+  month: '8'
+  day: '14'
+  transcript: >-
+    [A light gray drop down menu is shown with three sections split up with
+    three grays lines split up with section titles in the same gray font.
+    Beneath each section title is 3, 4 and 6 lines of black text. An white arrow
+    cursor hovers over the second last option, which is thus highlighted with a
+    dark gray background and white text.]
+
+    New Games
+
+    Subnautica
+
+    Russian Subway Dogs
+
+    Kerbal Space Program
+
+    Old Games
+
+    Worms Armageddon
+
+    Elasto Mania
+
+    Katamari Damacy
+
+    Mario Kart
+
+    Very Old Games
+
+    Link's Awakening
+
+    Escape Velocity
+
+    SimCity
+
+    Prince of Persia
+
+    Super Mario Bros
+
+    MS Flight Simulator 3[A colorful scene is shown from the Super Mario Bros.
+    side-scrolling game, the first level World 1-1. Mario with red hat and
+    trousers is standing on the brown blocks beneath the blue sky. Another
+    character in the game, Goomba, is standing in front of some green bushes.
+    Above them is narration text:]
+
+    Narrator: It feels weird that you can go into old games and the whole world
+    is still there.
+
+    Goomba: Mario?
+
+    Mario: It'sa me!
+
+    Goomba: What are you doing here?[Mario stands between an e-scooter, a
+    dismounted and broken Question Mark Box lying on its side and a cellphone
+    tower. Narration continues above:]
+
+    Narrator: Part of me expects to find that everything's changed.[Mario looks
+    at a damaged green but rusty Warp Pipe and there is a quadcopter drone
+    flying by over his head. Weeds are growing both from the pipe and from the
+    blocks he is walking on. Narration continues above:]
+
+    Narrator: That pipes have rusted, walls have crumbled, bad guys have moved
+    on.[Mario has moved on to World 1-Castle, the castle has been replaced with
+    a bakery. The blocks beneath his feet are now smaller and gray and above
+    them is black background. The character Toad with the white hat with red
+    circles is standing in front of a bakery disc with shelves of bread and cake
+    behind it. There is a green sign on the front of the brown disk. Toad talks
+    to Mario with white text in the black background. Above the black part of
+    the image is more narration in a frame-less white section:]
+
+    Narrator: That even our game worlds can't escape the passage of time.
+
+    Toad: Thank you, Mario!
+
+    Toad: But this is a Panera now!
+
+    Sign: Panera
+'2190':
+  num: 2190
+  url: 'https://xkcd.com/2190'
+  title: Serena Versus the Drones
+  img: 'https://imgs.xkcd.com/comics/serena_versus_the_drones.png'
+  alt: >-
+    After the test, she said that if she had a choice, she wouldn’t defend
+    herself against drones using a tennis ball and racket, though she would
+    absolutely pick them over other sports equipment. But, she added, "Drones
+    don't bother me."
+  year: '2019'
+  month: '8'
+  day: '16'
+  transcript: >-
+    [A panel at the top of the comic has a quote and to the right of the quote
+    is a picture of Randall's new book. It is black with large blue text and
+    smaller white text. On the book cover, in white drawings, are seen Megan
+    with a ladder and either Black or White Hat (hard to say on black
+    background). Both are looking up on Cueball who is floating in the air with
+    a quadcopter drone beneath either leg, trying to plug in an electric light
+    bulb in a naked lamp hanging down near him. It seems he has already removed
+    the broken light bulb, as he has one in both hands. And now he tries to put
+    in the new one. The blue text stating title and author can be read.]]
+
+    "It's a pretty bad idea."
+
+    -Serena Williams
+
+    on my ideaBook: How To
+
+    Book: Randall Munroe[Caption below this panel above another set of panel:]
+
+    Which types of sports equipment would be most effective at bringing down a
+    rogue photography drone? My new book features a real-world test by Serena
+    Williams.[A large panel shows Serena Williams, with curly hair and a very
+    large ponytail, swinging her tennis-racket to smas a tennis ball towards,
+    and hitting, a quadcopter drone flying towards her. As the ball hits a small
+    explosion seems to happen with the drone which is stopped in mid air. Above
+    the drone are two other drones flying towards her, with one more below.
+    There is a broken drone on the ground in front of her. Three tennis balls
+    lies behind her.][Three smaller panels are beneath the large panel. The
+    first panel is smaller than the other two and a bit higher up than they are
+    and is overlaying the second panel. It shows Serena jumping with the racket
+    held high. No drones are shown, but her shadow can be seen beneath her.][In
+    the next panel she is seen smashing her racket into one of the drones,
+    breaking a rotor off, she is still hanging in the air, her shadow beneath
+    her and her legs partly behind the previous panel, which is covering most of
+    the left part of this panel. Another drone is flying above her.][In the
+    final panel she is seen standing again, turning around facing the other way,
+    taking another swing at two drones that try to evade her. The ground is now
+    filled with debris from several smashed drones.][Caption beneath the panels,
+    with the "here" in link blue color... The entire image is a link, so no need
+    to click on the here though.]
+
+    To read an excerpt about Serena's drone battle, click here, or go to
+    blog.xkcd.com
+'2191':
+  num: 2191
+  url: 'https://xkcd.com/2191'
+  title: Conference Question
+  img: 'https://imgs.xkcd.com/comics/conference_question.png'
+  alt: >-
+    I also have an utterance. Less of an utterance and more of an incantation.
+    Less of an incantation and more of a malediction. Less of a malediction and
+    more of a Word of Power. Less of a Word of Power and more of an Unforgivable
+    Curse.
+  year: '2019'
+  month: '8'
+  day: '19'
+  transcript: >-
+    [Hairy stands on a podium having just addressed a crowd of seated people.
+    Beret Guy stands in the middle of the crowd, addressing Hairy. One of Beret
+    Guy's hands is raised at chest height. The front row consists of Cueball,
+    Ponytail, another Hairy, Megan, Hairbun, Danish and another Cueball.]Beret
+    Guy: I have a question.
+
+    Beret Guy: Well, less of a question and more of a comment.
+
+    Beret Guy: I guess it's less of a comment and more of an utterance
+
+    Beret Guy: Really it's less an utterance more an air pressure wave.
+
+    Beret Guy: It's less an air pressure wave and more a friendly hand wave.
+
+    Beret Guy: I guess it's less a friendly wave than it is a friendly bug.
+
+    Beret Guy: I found this bug and now we're friends. Do you want to meet it?
+'2192':
+  num: 2192
+  url: 'https://xkcd.com/2192'
+  title: Review
+  img: 'https://imgs.xkcd.com/comics/review.png'
+  alt: Controls are a little hard to figure out.
+  year: '2019'
+  month: '8'
+  day: '21'
+  transcript: |-
+    [Profile picture of Cueball with five solid yellow stars] ★★★★★
+    Great graphics, huge world
+    [Caption below the comic:] My overall review of Earth
+'2193':
+  num: 2193
+  url: 'https://xkcd.com/2193'
+  title: Well-Ordering Principle
+  img: 'https://imgs.xkcd.com/comics/well_ordering_principle.png'
+  alt: >-
+    We could organize a nationwide old-photo-album search, but the real Worst
+    McFly is probably lost to time.
+  year: '2019'
+  month: '8'
+  day: '23'
+  transcript: >-
+    [Megan rubs a lamp held in her hands. A genie appears from the end of the
+    lamp. The genie resembles the top half of Cueball's body, with a head,
+    torso, and arms, but with a squiggle representing a puff of smoke in place
+    of his legs.]
+
+    Genie: Greetings, mortal.  You have freed me. I will grant you one wish.
+
+    Megan: Hmm.[Megan holding the lamp to her side. The genie is off-panel.]
+
+    Megan: It's been over 30 years since Back to the Future came out.  Since
+    then, probably hundreds of thousands of people have tried to dress as Marty
+    McFly for Halloween.
+
+    Genie: OK, and?[Megan, holding the lamp to her side, talking to the genie,
+    who is floating in the air.]
+
+    Megan: Of those people, one of them must have done the worst job.
+
+    Megan: My wish is to see their costume.[Megan still holding the lamp and
+    talking to the genie. The genie is exasperated, and has his hands raised.]
+
+    Genie: Not a billion dollars? Flight? Infinite wishes?
+
+    Megan: These wish things are always traps.
+
+    Megan: Just show me the worst McFly and we'll call it even.
+'2194':
+  num: 2194
+  url: 'https://xkcd.com/2194'
+  title: How to Send a File
+  img: 'https://imgs.xkcd.com/comics/how_to_send_a_file.png'
+  alt: >-
+    Note: How To will teach you lots of cool stuff about technology, data
+    storage, butterfly migration, and more. Also you will never see your files
+    again.
+  year: '2019'
+  month: '8'
+  day: '26'
+  transcript: ''
+'2195':
+  num: 2195
+  url: 'https://xkcd.com/2195'
+  title: Dockless Roombas
+  img: 'https://imgs.xkcd.com/comics/dockless_roombas.png'
+  alt: >-
+    The company started out exploiting a loophole in the law banning scooters.
+    The city was mad at first, but then they noticed how much they were saving
+    on street cleaning.
+  year: '2019'
+  month: '8'
+  day: '28'
+  transcript: >-
+    [Cueball and Megan walk in from the right and sees two Roombas on the ground
+    in front of them.]
+
+    Cueball: Are those... Roombas?
+
+    Megan: Yeah, the dockless rental apps have really taken off.[Cueball stops
+    and turns to look at Megan, who has also stopped, as Beret Guy comes walking
+    in from the left with his smartphone in his hand.]
+
+    Cueball: What?[As Cueball and Megan turn to look at Beret Guy, he stops
+    between the two Roombas, looking down at the Roomba to his left. He taps his
+    smartphone and the Roomba makes a sound.]
+
+    Smartphone: Tap tap
+
+    Roomba: Unlock[Beret Guy is squatting down on the Roomba as it drives him
+    away, while Cueball and Megan turns to stare after him,]
+
+    Roomba: Whirrrr
+'2196':
+  num: 2196
+  url: 'https://xkcd.com/2196'
+  title: Nice To E-Meet You
+  img: 'https://imgs.xkcd.com/comics/nice_to_e_meet_you.png'
+  alt: I'm inside your head and I hate it. Please let me out.
+  year: '2019'
+  month: '8'
+  day: '30'
+  transcript: >-
+    [Cueball is sitting at his desk on an office chair, while typing at his
+    laptop. The line he is writing on the computer is shown with white text in a
+    black box up at the top of the panel while his thoughts shown in a thought
+    bubble with small bubbles going to it from his head.]
+
+    Text: Nice to meet you!
+
+    Cueball [thinking]: That sounds weird; we’re not actually meeting in person.
+
+    Laptop: Type type 
+
+    Laptop: Delete delete[Same setting:]
+
+    Text: Nice to e-meet you!
+
+    Cueball [thinking]: What is this, a 1995 cyberpunk novel?
+
+    Laptop: Type type 
+
+    Laptop: Delete [Cueball stops typing and leans back resting an arm on the
+    back of the chair while looking at laptop, no black box shown.]
+
+    Cueball [thinking]: OK.
+
+    Cueball [thinking]: Chill.
+
+    Cueball [thinking]: Just be normal.[Cueball resumes typing a much longer
+    text in two black boxes, one large with five lines of text, and a small
+    below with one line.]
+
+    Text: It’s weird to think that the words I’m typing will be projected onto
+    your retinas. It’s like my hands are touching your eyes.
+
+    Text: Anyway, hi.
+
+    Cueball [thinking]: Nailed it.
+
+    Laptop: Type type 
+'2197':
+  num: 2197
+  url: 'https://xkcd.com/2197'
+  title: Game Show
+  img: 'https://imgs.xkcd.com/comics/game_show.png'
+  alt: >-
+    Eventually they agreed to "an auto-retracting dog leash with one end clipped
+    to your house, so you can press the button on the handle and water-ski
+    home."
+  year: '2019'
+  month: '9'
+  day: '2'
+  transcript: >-
+    [Single-frame panel with Cueball, Black Hat, and Megan as game show
+    contestants standing behind lecterns and Hairy as the game show host
+    standing in front of them. Cueball and Megan do not speak.]Black Hat: A
+    boat. A plane. Amelia Earhart's plane. Amelia Earhart's skeleton. The Statue
+    of Liberty's internal support frame. The crown jewels. This show's entire
+    television audience. The Greenland ice sheet. Earth's north magnetic pole.
+
+    Black Hat: Am I in the Pacific Ocean?
+
+    Black Hat: If so, the Atlantic Ocean.Hairy: Uhh.
+
+    Hairy: Our producers are going to need some time on this one.Caption below
+    panel: The game show realized that they should have added some restrictions
+    to their "take any item to a deserted island" challenge, but it was too
+    late.
+'2198':
+  num: 2198
+  url: 'https://xkcd.com/2198'
+  title: Throw
+  img: 'https://imgs.xkcd.com/comics/throw.png'
+  alt: >-
+    The keys to successfully throwing a party are location, planning, and one of
+    those aircraft carrier steam catapults.
+  year: '2019'
+  month: '9'
+  day: '3'
+  transcript: >-
+    [As this is an interactive comic, not all possible text should be given in
+    this transcript. Also it is not possible to see all the different throwers
+    or objects in one image. This transcript here includes only the text that
+    can be found when loading the page, without changing the thrower or object
+    (the default), but also includes the text that can be found by scrolling in
+    the two select "windows" as that would be similar to a long comic where you
+    need to scroll. For further differences that occur by changing the objects
+    refer to a table of all combinations.][A heading with a subheading is above
+    a line, beneath which are a sentence, that is generated by the selections in
+    the two windows beneath this sentence:]
+
+    Throw Calculator
+
+    This calculator implements the approximate throwing distance estimation
+    model from How To Chapter 10: How to throw things.How far could George
+    Washington throw a Microwave oven?[Beneath this sentence are two "windows"
+    with a frame around them, one to the left and one the the right, each with a
+    heading breaking the top frame. Each also has a scroll bar to the right,
+    which allows one to scroll down through 7 different possible selections in
+    the left window and 15 in the right window. There are two selections on each
+    line, leaving one alone at the bottom left of each list as there are uneven
+    numbers in both lists. Here below each windows' content is given under their
+    respective headings. Each possible selection is a drawing with a caption
+    beneath it.]
+
+    Select a throwerYou
+
+    An NFL Quarterback
+
+    George Washington
+
+    Pikachu
+
+    Carly Rae Jepsen
+
+    Thor, God of Thunder
+
+    Chris Hemsworth
+
+    A squirrelSelect an object to be thrown
+
+    You
+
+    A microwave oven
+
+    A basketball
+
+    A blender
+
+    A gold bar
+
+    A wedding cake
+
+    A ping-pong ball
+
+    An acorn
+
+    Thor's Hammer
+
+    A javelin
+
+    George Washington
+
+    Pikachu
+
+    A car
+
+    A silver dollar (spinning)
+
+    A silver dollar (tumbling)
+
+    A squirrel[Below the two windows is the result of the animation that will
+    happen when a selection has been made. An animation of the selected thrower
+    throwing (or failing to throw) the selected object is shown, and the
+    object's traveling distance is measured out both in meters (SI units) and in
+    some other unit in brackets below. If the distance is not too long compared
+    to the size of the object and thrower, then both can be seen, and in case
+    the object is soft it may break from the throw.][In the pre-selected version
+    George Washington throws a microwave oven, which ends up several meters from
+    him lying on a corner broken with its wire lying beneath it. The distance is
+    given under the ruler along which the throw has occurred, with markings for
+    approximately every meter. In this case there are seven steps even though
+    the distance is above 7 meters:]
+
+    7.76 meters
+
+    (25.46 feet)
+'2199':
+  num: 2199
+  url: 'https://xkcd.com/2199'
+  title: Cryptic Wifi Networks
+  img: 'https://imgs.xkcd.com/comics/cryptic_wifi_networks.png'
+  alt: They actually showed up on the first scan by the first WiFi-capable device.
+  year: '2019'
+  month: '9'
+  day: '6'
+  transcript: ''
+'2200':
+  num: 2200
+  url: 'https://xkcd.com/2200'
+  title: Unreachable State
+  img: 'https://imgs.xkcd.com/comics/unreachable_state.png'
+  alt: >-
+    ERROR: We've reached an unreachable state. Anything is possible. The limits
+    were in our heads all along. Follow your dreams.
+  year: '2019'
+  month: '9'
+  day: '9'
+  transcript: >-
+    [Cueball, sitting on an office chair at his desk with his hands over his
+    laptop computer, is reading an error message on the screen. What he reads is
+    displayed above him with a zigzag line from the screen to the text. The
+    exclamation mark at the top is shown in white on a black triangle.]
+
+    ! Error
+
+    If you're seeing this, the code is in what I thought was an unreachable
+    state.
+
+    I could give you advice for what to do. But honestly, why should you trust
+    me? I clearly screwed this up. I'm writing a message that should never
+    appear, yet I know it will probably appear someday.
+
+    On a deep level, I know I'm not up to this task. I'm so sorry.[Caption below
+    the panel:]
+
+    Never write error messages tired.
+'2201':
+  num: 2201
+  url: 'https://xkcd.com/2201'
+  title: Foucault Pendulum
+  img: 'https://imgs.xkcd.com/comics/foucault_pendulum.png'
+  alt: >-
+    Trust me, you don't want to get on the wrong side of the paramilitary
+    enforcement arm of the International Earth Rotation and Reference Systems
+    Service.
+  year: '2019'
+  month: '9'
+  day: '11'
+  transcript: ''
+'2202':
+  num: 2202
+  url: 'https://xkcd.com/2202'
+  title: Earth-Like Exoplanet
+  img: 'https://imgs.xkcd.com/comics/earth_like_exoplanet.png'
+  alt: >-
+    Fire is actually a potential biosignature, since it means something is
+    filling the atmosphere with an unstable gas like oxygen. If we find a planet
+    covered in flames, it might be an indicator that it supports life—or used
+    to, anyway, before the fire.
+  year: '2019'
+  month: '9'
+  day: '13'
+  transcript: >-
+    [Side view of Megan standing behind a lectern, speaking to an audience:]
+
+    Megan: We've discovered the most earth-like exoplanet yet!
+
+    Off-screen (at least two audience members): Yay!![Frontal view of Megan
+    behind lectern:]
+
+    Megan: Well, it's in the habitable zone. Habitable-ish. "Habitable."
+
+    Megan: The survivable zone.[Frameless panel showing frontal view of Megan
+    behind lectern with her left hand held out palm-side up:]
+
+    Megan: It's tidally locked. And blasted with stellar flares. And probably
+    meteors. And bathed in acid.[Closeup view of Megan, now holding up a finger
+    on her left hand:]
+
+    Megan: But we've detected water vapor! In between all the swinging blades.
+
+    Off-screen: I see.
+
+    Megan: We're hoping to find biosignatures in the form of screaming.
+'2203':
+  num: 2203
+  url: 'https://xkcd.com/2203'
+  title: Prescience
+  img: 'https://imgs.xkcd.com/comics/prescience.png'
+  alt: >-
+    Lots of people called their ships unsinkable before the Titanic. Voicing
+    your hubris doesn't make failure more likely, just more memorable.
+  year: '2019'
+  month: '9'
+  day: '16'
+  transcript: >-
+    [Single panel comic showing Cueball sitting in a cushioned chair, reading a
+    book and talking to an off-screen character:]
+
+    Cueball: You know, it's been a while since there's been a really big meteor
+    impact.
+
+    Off-screen: Will you stop that?![Caption below the panel:]
+
+    I say this kind of thing every so often, because I don't believe it affects
+    the outcome and it has a slim chance of looking incredibly prescient.
+'2204':
+  num: 2204
+  url: 'https://xkcd.com/2204'
+  title: Ksp 2
+  img: 'https://imgs.xkcd.com/comics/ksp_2.png'
+  alt: >-
+    "The committee appreciates that your 2020 launch is on track, but the 'human
+    capital/personnel retention' budget includes a lot more unmarked cash
+    payments than usual. What are th--" "Public outreach."
+  year: '2019'
+  month: '9'
+  day: '18'
+  transcript: >-
+    [Cueball sitting at a desk in front of a computer, surrounded to his left
+    and right by Hairy, Ponytail, another Cueball, and Hairbun]
+
+    Hairy: Please hold off until the end of summer. We can't afford the
+    personnel hit right before the late July launch window.
+
+    Ponytail: People have already started calling in sick!
+
+    Hairbun: Do you want a moon? We'll give you a moon![Caption below the
+    panel:]
+
+    NASA tries desperately to get the Kerbal Space Program team to delay KSP 2
+    until after the Mars 2020 mission launches.
+'2205':
+  num: 2205
+  url: 'https://xkcd.com/2205'
+  title: Types of Approximation
+  img: 'https://imgs.xkcd.com/comics/types_of_approximation.png'
+  alt: >-
+    It's not my fault I haven't had a chance to measure the curvature of this
+    particular universe.
+  year: '2019'
+  month: '9'
+  day: '20'
+  transcript: >-
+    [Three nearly identical panels showing the lower-left portion of a wheel and
+    hub diagram with symbols and an equation, each with a different character
+    holding a pointer up to the diagram and a label above the panel with the
+    character's profession:][Physicist Approximations]Cueball: We'll assume the
+    curve of this rail is a circular arc with radius R.[Engineer
+    Approximations]Megan: Let's assume this curve deviates from a circle by no
+    more than 1 part in 1,000.[Cosmologist Approximations]Ponytail: Assume pi is
+    one.
+
+    Off-panel voice: Pretty sure it's bigger than that.
+
+    Ponytail: OK, we can make it ten. Whatever. 
+'2206':
+  num: 2206
+  url: 'https://xkcd.com/2206'
+  title: Mavis Beacon
+  img: 'https://imgs.xkcd.com/comics/mavis_beacon.png'
+  alt: >-
+    There are actually lowercase-like 'oldstyle' forms of normal numbers with
+    more pronounced ascenders and descenders, which is why some numbers like '5'
+    in books sometimes dangle below the line. But the true capital numbers
+    remain the domain of number maven Mavis Beacon.
+  year: '2019'
+  month: '9'
+  day: '23'
+  transcript: >-
+    [Cueball is sitting in an office chair at his desk in front of his
+    computer.]
+
+    Computer: Congratulations.
+
+    Computer: Use this power wisely.
+
+    Computer: Key Code (Secret!!): Alt + Tilde + Scroll Lock + Number
+
+    [stylized versions of the Arabic numerals 0-9][Caption below the panel:]
+
+    After 30 years, I finally beat the end boss of Mavis Beacon and unlocked the
+    ability to type capital numbers.
+'2207':
+  num: 2207
+  url: 'https://xkcd.com/2207'
+  title: Math Work
+  img: 'https://imgs.xkcd.com/comics/math_work.png'
+  alt: >-
+    I could type this into a solver, which MIGHT help, but would also mean I
+    have to get a lot of parentheses right...
+  year: '2019'
+  month: '9'
+  day: '25'
+  transcript: >-
+    [Cueball stands in front of a blackboard full of formulas and diagrams.
+    White Hat is watching him from a couple meters away.]White Hat (thinking):
+    Amazing watching a physicist at work, exploring universes in a symphony of
+    numbers.
+
+    White Hat (thinking): If only I had studied math, I could appreciate the
+    beauty on display here.Cueball (thinking): Oh no. This has two unknowns.
+    That's gonna be really hard.
+
+    Cueball (thinking): Ughhhhhhh.
+
+    Cueball (thinking): Think. There's gotta be a way to avoid doing all that
+    work...
+'2208':
+  num: 2208
+  url: 'https://xkcd.com/2208'
+  title: Drone Fishing
+  img: 'https://imgs.xkcd.com/comics/drone_fishing.png'
+  alt: >-
+    Today's consumers who order their drones off the internet don't know the joy
+    of going out in nature and returning with a drone that you caught yourself,
+    whose angry owners you fought off with your own two hands.
+  year: '2019'
+  month: '9'
+  day: '27'
+  transcript: >-
+    [Cueball is seated in a leaning chair, with a tackle box behind it and two
+    drones lying on the ground in front of him. He is holding a fishing rod from
+    which he is flying a kite on a long string. The kite is high up in the air
+    and far away from Cueball. On the long string there are three smaller lines
+    dangling below the string closer to the kite that to Cueball. Each line has
+    six hooks evenly spread out, from a bit beneath the string to the end of the
+    lines. Three quadcopter type drones are in the air nearby, with Science Girl
+    and a Cueball-like kid standing right beneath the kite holding
+    remote-controls for their respective drones. They are facing each other, the
+    Cueball-like kid looking up, whereas Science Girl seems to be looking at the
+    drone right in front of her, between and just above the kids. It has just
+    begun to rise up as shown by lines beneath it. The two other drones are on
+    either side of the kite line, both flying towards the hooks. Whoever
+    controls the third drone must be off panel, and it is not clear which of
+    those two the kid is controlling. The only text is a caption below the
+    panel:]
+
+    My Hobby: Drone Fishing
+'2209':
+  num: 2209
+  url: 'https://xkcd.com/2209'
+  title: Fresh Pears
+  img: 'https://imgs.xkcd.com/comics/fresh_pears.png'
+  alt: >-
+    I want to sell apples but I'm still working on getting the machine to do the
+    cutting and grafting.
+  year: '2019'
+  month: '9'
+  day: '30'
+  transcript: |-
+    Machine: [Plants a pear seed]
+    Megan: I put in my quarters. Is the machine broken?
+    Beret Guy: It just takes a while to work.
+'2210':
+  num: 2210
+  url: 'https://xkcd.com/2210'
+  title: College Athletes
+  img: 'https://imgs.xkcd.com/comics/college_athletes.png'
+  alt: >-
+    Their signature play is the three-point combinator, a recursive offense
+    which is guaranteed not to halt and continues accumulating points until the
+    buzzer.
+  year: '2019'
+  month: '10'
+  day: '2'
+  transcript: >-
+    [Cueball, Ponytail and White Hat are having a conversation. Ponytail is
+    checking her phone.]
+
+    Ponytail: Oh, huh. California passed a law giving college athletes full
+    rights to their names and images.
+
+    White Hat: Good, I think?[Cueball holds his hand up in a fist, while
+    Ponytail, holding her phone down, and White Hat looks at him.]
+
+    Cueball: That's nothing. Our state gave college players rights to use the
+    names and images of any California athletes.
+
+    Ponytail: It did not.[In a frame-less panel Cueball holds his hands out,
+    Ponytail's phone is gone and White Hat puts a hand to his chin.]
+
+    Cueball: Sure it did!
+
+    Cueball: That's how our school fielded a basketball team made up entirely of
+    Steph Currys.
+
+    White Hat: Or is the plural "Stephs Curry"?[Cueball holds both hands up in
+    front of him. Ponytail has her arms down but she is balling her hands into
+    fists.]
+
+    Cueball: They didn't all copy the original Steph, though. One player got the
+    rights to his name, then the next player got it from them, and so on.
+
+    Cueball: This process is known as "currying".
+
+    Ponytail: ...I hate you so much.
+'2211':
+  num: 2211
+  url: 'https://xkcd.com/2211'
+  title: Hours Before Departure
+  img: 'https://imgs.xkcd.com/comics/hours_before_departure.png'
+  alt: They could afford to cut it close because they all had Global Entry.
+  year: '2019'
+  month: '10'
+  day: '4'
+  transcript: >-
+    [Three Cueball-like astronauts with space helmets are walking toward the
+    back side of a van with the rear door open. There is a logo with text on the
+    side of the van. The front of the van is off-panel. Above them is a time and
+    below that a description.]
+
+    6:27 AM
+
+    Crew departs for launch site
+
+    Logo: NASA[A rocket launch pad with the rocket in the process of taking off,
+    having lifted its exhaust to about a third of the height of the support
+    tower. Smoke is billowing everywhere around the launch pad from the exhaust
+    of the rocket. Above the rocket is a time and below that a description.]
+
+    9:32 AM 
+
+    Liftoff[Caption beneath the panel:]
+
+    I know I tend to arrive too early at the airport, but it still weirds me out
+    that Neil Armstrong left for the launch site just three hours before
+    departure. 
+'2212':
+  num: 2212
+  url: 'https://xkcd.com/2212'
+  title: Cell Phone Functions
+  img: 'https://imgs.xkcd.com/comics/cell_phone_functions.png'
+  alt: ... tazer ... fire extinguisher ... bird feeder ... toilet paper ...
+  year: '2019'
+  month: '10'
+  day: '7'
+  transcript: >-
+    [A graph with time on the x axis and items Randall replaced with his
+    smartphone on the y axis. For each item, the time he (allegedly) replaced it
+    is marked; the marks form a jagged line down the graph, roughly sorted by
+    when he switched. The regions are marked]
+     I have a specific device for this
+    [and]
+     I just use my phone
+     [items where the swich-over date is in the past:]
+     Telephone
+     Web Browser
+     Camera
+     Newspaper
+     Flashlight
+     TV Remote
+     Credit Card
+     Car Key
+    [items where the switch-over date is in the future:]
+     Dog Leash
+     Steering Wheel
+     Band-Aid
+     Cheese Grater
+     Stapler
+     Nail Clipper
+     Electric Drill
+     Toothbrush
+'2213':
+  num: 2213
+  url: 'https://xkcd.com/2213'
+  title: How Old
+  img: 'https://imgs.xkcd.com/comics/how_old.png'
+  alt: >-
+    We've met! I remember you when you were thiiiis tall! [*holds a hand an inch
+    above their head*]
+  year: '2019'
+  month: '10'
+  day: '9'
+  transcript: >-
+    [White Hat holds his hand out towards a man with a sailor-cap standing to
+    the left in the image while addressing Cueball standing to the right.]
+
+    White Hat: I'd like you to meet my dad.
+
+    Cueball: Aww, how old is he?[Caption below the panel:]
+
+    Interaction tip: This is a common question to ask parents about their kids,
+    but for some reason in the other direction it's weird.
+'2214':
+  num: 2214
+  url: 'https://xkcd.com/2214'
+  title: Chemistry Nobel
+  img: 'https://imgs.xkcd.com/comics/chemistry_nobel.png'
+  alt: >-
+    Most chemists thought the lanthanides and actinides could be inserted in the
+    sixth and seventh rows, but no, they're just floating down at the bottom
+    with lots more undiscovered elements all around them.
+  year: '2019'
+  month: '10'
+  day: '11'
+  transcript: >-
+    [Ponytail holds a pointer and stands in front of an image of the periodic
+    table of the elements, with the “empty” sections within the top rows filled
+    with dotted boxes. Ponytail points to this area.]
+
+    Ponytail: I don't know why no one else thought to look here. [Caption below
+    the panel]:
+
+    The 2019 Nobel Prize in Chemistry went to the team that discovered the
+    elements in the big gap at the top of the periodic table.
+'2215':
+  num: 2215
+  url: 'https://xkcd.com/2215'
+  title: 'Faculty:Student Ratio'
+  img: 'https://imgs.xkcd.com/comics/faculty_student_ratio.png'
+  alt: >-
+    They managed to briefly hit the top of the rankings when they rejected
+    everyone except one applicant, published 5 billion research papers that just
+    said "Hi," and hired one of their graduates for $50 trillion/year (then
+    fired them after 10 microseconds.)
+  year: '2019'
+  month: '10'
+  day: '14'
+  transcript: >-
+    [Cueball is sitting hunched over a desk writing while ten people crowd
+    around him, five on each side, all leaning towards him. On the left side
+    they are Hairbun, a Cueball-like man, Hairy, Megan - who speaks, and another
+    Cueball-like man. On the right are Ponytail, a third Cueball-like man,
+    another Megan-like woman, Blondie and finally a fourth Cueball-like man.]
+
+    Megan: How's the work going?
+
+    Cueball: Can you all at least stand back a little?[Caption below the panel]:
+
+    My school tried to game the ratings by having a 30:1 faculty:student ratio
+'2216':
+  num: 2216
+  url: 'https://xkcd.com/2216'
+  title: Percent Milkfat
+  img: 'https://imgs.xkcd.com/comics/percent_milkfat.png'
+  alt: >-
+    "So what's dark energy?" "Cosmologists and the FDA are both trying very hard
+    to find out."
+  year: '2019'
+  month: '10'
+  day: '16'
+  transcript: >-
+    [Ponytail, raising her palm, and Cueball are talking.]
+
+    Ponytail: "2% milk" is 2% milkfat. But "whole milk" isn't 100% milkfat–it's
+    3.5%.
+
+    Cueball: Weird. What's the rest of it?
+
+    Ponytail: About 27% is dark matter. The remainder is dark energy.
+'2217':
+  num: 2217
+  url: 'https://xkcd.com/2217'
+  title: 53 Cards
+  img: 'https://imgs.xkcd.com/comics/53_cards.png'
+  alt: 'Well, there''s one right here at the bottom, where it says "53."'
+  year: '2019'
+  month: '10'
+  day: '18'
+  transcript: >-
+    Cueball: I've found a way to turn a 52-card deck into 53 cards by shuffling
+    and rearranging them.
+
+    Ponytail: No, you haven't.
+
+    Cueball: How do you know?! I challenge you to find an error in my
+    math!Caption: Every conversation between a physicist and a perpetual motion
+    enthusiast.
+'2218':
+  num: 2218
+  url: 'https://xkcd.com/2218'
+  title: Wardrobe
+  img: 'https://imgs.xkcd.com/comics/wardrobe.png'
+  alt: >-
+    If you'd just agree to hold your meetings in here, you'd have PLENTY of time
+    to figure things out before the deadline.
+  year: '2019'
+  month: '10'
+  day: '21'
+  transcript: ''
+'2219':
+  num: 2219
+  url: 'https://xkcd.com/2219'
+  title: Earthquake Early Warnings
+  img: 'https://imgs.xkcd.com/comics/earthquake_early_warnings.png'
+  alt: >-
+    I was fired by the National Weather Service five minutes after they hired me
+    for going into their code base and renaming all the tornado warnings to
+    "tornado spoiler alerts."
+  year: '2019'
+  month: '10'
+  day: '23'
+  transcript: >-
+    [Megan is looking at her phone while standing next to Cueball]
+
+    Megan: Ooh, California has a new earthquake early warning app.
+
+    Cueball: Yeah, I'm so mad about it.[Megan puts her phone down and looks at
+    Cueball who throws his arms up in the air.]
+
+    Megan: What, why?
+
+    Cueball: It ruins the experience of trying to recognize the p-waves before
+    the obvious main waves hit.[Megan still looks at Cueball who has taken his
+    arms down.]
+
+    Megan: So you're mad about earthquake spoilers?
+
+    Cueball: I just want to experience the shaking the way the tectonic plate
+    intended![Title text] I was fired by the National Weather Service five
+    minutes after they hired me for going into their code base and renaming all
+    the tornado warnings to "tornado spoiler alerts."
+'2220':
+  num: 2220
+  url: 'https://xkcd.com/2220'
+  title: Imagine Going Back in Time
+  img: 'https://imgs.xkcd.com/comics/imagine_going_back_in_time.png'
+  alt: >-
+    I wonder what the trendy adults in 2019 who are too cool for Pokemon will be
+    into. Probably Digimon!
+  year: '2019'
+  month: '10'
+  day: '25'
+  transcript: >-
+    Cueball: Ugh. A player named "Reelect Trump 2020" put a frog Pokemon in the
+    gym next to mine.Megan: Imagine going back in time and saying that to
+    yourself 20 years ago.
+
+    Cueball: Oh, I have a time machine! I'll try that.BZZZZTCueball from 2019:
+    ... next to mine.Cueball from 1999: I see. Pokemon is still popular in 2019?
+
+    Cueball from 2019: Yeah.Cueball from 1999: And it's cool for people your age
+    to play it?
+
+    Cueball from 2019: OK, I did not come here to be mocked.
+
+    Cueball from 1999: This is a sobering cautionary tale.
+
+    Cueball from 2019: Listen, self...
+'2221':
+  num: 2221
+  url: 'https://xkcd.com/2221'
+  title: Emulation
+  img: 'https://imgs.xkcd.com/comics/emulation.png'
+  alt: I laugh at the software as if I'm 100% confident that it's 2019.
+  year: '2019'
+  month: '10'
+  day: '28'
+  transcript: ''
+'2222':
+  num: 2222
+  url: 'https://xkcd.com/2222'
+  title: 'Terminator: Dark Fate'
+  img: 'https://imgs.xkcd.com/comics/terminator_dark_fate.png'
+  alt: >-
+    I was sent here to stop the robot that was sent here to protect the human
+    who was sent here to protect the human who was sent here to destroy the
+    robot that was sent here to vacuum the floor.
+  year: '2019'
+  month: '10'
+  day: '30'
+  transcript: >-
+    [One Cueball is walking to the right. Another Cueball floats in a bubble
+    which emits a burst of energy.]
+
+    ZAP!Cueball (Future 1): I've traveled back in time to stop you from seeing
+    Terminator: Dark Fate!Cueball (Present): But it looks so good! Reviews are
+    actually decent! Mackenzie Davis! Linda Hamilton is Back!Cueball (Future 1):
+    I know, but you always think this, and you're always disappointed.
+
+    Cueball (Present): I guess...[Another Cueball appears in a bubble the same
+    way as the first.]
+
+    ZAP!
+
+    Cueball (Future 2): Hi, I'm from the future where you didn't watch it and I
+    realize I still kind of want to see it.
+
+    Cueball (Present): Let's go together![Another bubble appears, this time
+    containing two Cueballs.]
+
+    Cueball (Future 3): No! We're both of you from the future! We're here to
+    stop you![Five more individually-wrapped Cueballs appear.]
+
+    Cueball (Future 5): I'm here to stop you!
+
+    Cueball (Future 6): I'm here to stop the robot sent to stop you!
+
+    Cueball (Future 7): I'm here to protect you from...you? I lost track.
+
+    Cueball (Future 8): I'm here to kill Hitler. Did I get the right year?
+
+    Cueball (Future 9): I'm here to get tickets because in like 20 minutes you
+    people buy them all.
+'2223':
+  num: 2223
+  url: 'https://xkcd.com/2223'
+  title: Screen Time
+  img: 'https://imgs.xkcd.com/comics/screen_time.png'
+  alt: >-
+    These new Bluetooth socks are great, but it's troubling to learn that I
+    average almost 14 hours of Shoe Time a day.
+  year: '2019'
+  month: '11'
+  day: '1'
+  transcript: >-
+    [Cueball holding phone.]
+
+    Phone: Screen time report:
+
+    Phone: While awake, you averaged 2H 48M per day looking at things other than
+    your phone. That's up 6% from last week!
+
+    [Caption]: At some point, it starts making more sense to track non-screen
+    time.
+'2224':
+  num: 2224
+  url: 'https://xkcd.com/2224'
+  title: Software Updates
+  img: 'https://imgs.xkcd.com/comics/software_updates.png'
+  alt: Everything is a cloud application; the ping times just vary a lot.
+  year: '2019'
+  month: '11'
+  day: '4'
+  transcript: '[Caption below the chart]:'
+'2225':
+  num: 2225
+  url: 'https://xkcd.com/2225'
+  title: Voting Referendum
+  img: 'https://imgs.xkcd.com/comics/voting_referendum.png'
+  alt: >-
+    The weirdest quirk of the Borda count is that Jean-Charles de Borda
+    automatically gets one point; luckily this has no consequences except in
+    cases of extremely low turnout.
+  year: '2019'
+  month: '11'
+  day: '6'
+  transcript: |-
+    [Single panel depicting a ballot item for selecting a voting system]
+    Which voting system should we use? (empty radio button) First past the post
+     (empty radio button) Top-two primary
+     (filled radio button) Louisiana primary
+     (two filled, one empty radio button) Cumulative voting
+     (checked box) Approval voting
+     (checked box) Multiple non-transferrable vote
+     (box marked "3") Instant runoff voting
+     (box marked "1") Single transferrable vote
+     (box marked "2") Borda count
+     (slider with value slightly below half) Range votingCaption below panel: The referendum went well, but we can't figure out how to count the ballots.
+'2226':
+  num: 2226
+  url: 'https://xkcd.com/2226'
+  title: Recombination And Reionization
+  img: 'https://imgs.xkcd.com/comics/recombination_and_reionization.png'
+  alt: These signals seem to be pre-star-formation but post-Malone.
+  year: '2019'
+  month: '11'
+  day: '8'
+  transcript: >-
+    [Panel showing Ponytail sitting working at some type of console, possibly in
+    her laboratory. Cueball is standing on the other side of the console, facing
+    her.]
+
+    Ponytail: Our lab is trying to pick up the spin line of neutral hydrogen.
+    It's the only radiation from the era before the first stars formed.[Panel
+    showing Ponytail and Cueball.  Ponytail has paused working, with one hand
+    raised off the console.]
+
+    Ponytail: It was 1.4 GHz at first, but by now it's redshifted to the 100-MHz
+    range.
+
+    Cueball: Isn't that also where FM radio broadcasts?[Frameless panel showing
+    Ponytail and Cueball.  Ponytail is pressing a key on the console to enable
+    and disable a live signal from her lab's equipment.]
+
+    Ponytail: Yeah. That's the problem.  Listen:
+
+    Sound of keypress on console: *Click*
+
+    Audio signal from console: You're tuned to Hot 92.7: the Vibe! Coming up
+    next...
+
+    Sound of keypress on console: *Click*[Panel showing Ponytail and Cueball. 
+    Ponytail has resumed working at the console, and Cueball has raised a hand
+    to his chin.]
+
+    Ponytail: But once this guy stops talking, that Nobel Prize will be ours.
+
+    Cueball: Maybe that's not a station – maybe that's just what reionization
+    sounds like.
+
+    Ponytail: Reionization plays a lot of Selena Gomez.
+'2227':
+  num: 2227
+  url: 'https://xkcd.com/2227'
+  title: Transit of Mercury
+  img: 'https://imgs.xkcd.com/comics/transit_of_mercury.png'
+  alt: >-
+    For some reason the water in my pool is green and there's a weird film on
+    the surface #nofilter
+  year: '2019'
+  month: '11'
+  day: '11'
+  transcript: ''
+'2228':
+  num: 2228
+  url: 'https://xkcd.com/2228'
+  title: Machine Learning Captcha
+  img: 'https://imgs.xkcd.com/comics/machine_learning_captcha.png'
+  alt: >-
+    More likely: Click on all the pictures of people who appear disloyal to
+    [name of company or government]
+  year: '2019'
+  month: '11'
+  day: '13'
+  transcript: >-
+    [Cueball is sitting in an office chair at his desk with one hand in his lap
+    and the other poised over the keyboard of his computer. A zigzag line is
+    drawn from a starburst on the computer screen going above the computer to
+    where it is shown what is displayed on the screen. At the top there is the
+    following text:]
+
+    Computer: To prove you're a human, click on all the photos that show places
+    you would run for shelter during a robot uprising.[Below the text there are
+    nine images arranged in a 3 by 3 square. In reading order they are: A house,
+    possibly with an open carport; a large tree with two trees in the
+    background; a bunker/bomb shelter; a car; a city skyline with several sky
+    scrapers; a sidewalk with road on the left, grass on the right; a log with a
+    board leaning up on the log; a mailbox; and a hole in the ground.]
+'2229':
+  num: 2229
+  url: 'https://xkcd.com/2229'
+  title: Rey and Kylo
+  img: 'https://imgs.xkcd.com/comics/rey_and_kylo.png'
+  alt: >-
+    We're like 10+ movies in and the focus has been almost entirely on the WARS
+    half.
+  year: '2019'
+  month: '11'
+  day: '15'
+  transcript: >-
+    [Rey and Kylo Ren from the Star Wars series engaging in a lightsaber
+    duel]Rey: Kylo, we shouldn't fight! Let's set aside our differences and work
+    together to measure the local properties of space, just in case someone in
+    the far future is watching from another galaxy and wants our help to
+    constrain the expansion rate![Caption below comic]
+
+    The new Star Wars totally panders to cosmologists.
+'2230':
+  num: 2230
+  url: 'https://xkcd.com/2230'
+  title: Versus Bracket
+  img: 'https://imgs.xkcd.com/comics/versus_bracket.png'
+  alt: >-
+    Some works didn't make the cut; in "Ecks vs. Sever" vs. the passage of time,
+    the latter seems to have won pretty decisively.
+  year: '2019'
+  month: '11'
+  day: '18'
+  transcript: >-
+    [A tournament bracket tree is shown with 16 participants each on the left
+    and right side. From both sides toward the middle the brackets reduce to
+    eight, then four, two, and one line where the latter join to a rectangle in
+    the middle.][Left side:]
+
+    Kramer - Kramer
+
+    Ford - Ferrari
+
+    The People - Larry Flint
+
+    Joe - The Volcano
+
+    King Kong - Godzilla
+
+    Freddy - Jason
+
+    Dracula - Frankenstein
+
+    Alien - Predator[Right side:]
+
+    Marvel - Capcom
+
+    Marge - The Monorail
+
+    Justice League - Teen Titans
+
+    Asterix - Caesar
+
+    Batman - Superman
+
+    Scott Pilgrim - The World
+
+    Mega Shark - Giant Octopus
+
+    Plants - Zombies
+'2231':
+  num: 2231
+  url: 'https://xkcd.com/2231'
+  title: the Time Before And After Land
+  img: 'https://imgs.xkcd.com/comics/the_time_before_and_after_land.png'
+  alt: >-
+    According to Google, "the time for Beeland" is apparently whenever you're
+    looking for delicious honey in Spillimacheen, British Columbia or a
+    hexagonal chalet in the Savinja valley in Slovenia.
+  year: '2019'
+  month: '11'
+  day: '20'
+  transcript: ''
+'2232':
+  num: 2232
+  url: 'https://xkcd.com/2232'
+  title: Hotel Room Party
+  img: 'https://imgs.xkcd.com/comics/hotel_room_party.png'
+  alt: '[proudly greeting the hotel manager at the door] "Did I do aa good job?"'
+  year: '2019'
+  month: '11'
+  day: '22'
+  transcript: >-
+    [ Hairy, Ponytail, Cueball, White Hat, Megan, and Blondie are standing in a
+    line. Cueball is raising his left hand with his pointer finger extended and
+    is facing his left. He is also pointing to the right. The other five are
+    facing Cueball.]
+
+    Cueball: OK everyone, let's break into teams.
+
+    Cueball: Katie, get the wire cutters and start disassembling the TV. You two
+    can strip the wallpaper. Mike and I will work on shredding the mattress.
+
+    Cueball: You, start shopping for maintenance and cleaning services. We don't
+    want to leave the staff to deal with this.[Caption below the panel]: It's my
+    first time throwing one of those parties where you trash a hotel room and I
+    want to make sure I get it right.
+'2233':
+  num: 2233
+  url: 'https://xkcd.com/2233'
+  title: Aurora Meaning
+  img: 'https://imgs.xkcd.com/comics/aurora_meaning.png'
+  alt: >-
+    The astro-ph.SR arXiv servers are simultaneously being overwhelmed by
+    electronic requests and actual electricity.
+  year: '2019'
+  month: '11'
+  day: '25'
+  transcript: >-
+    [A drawing of a circle with six dashed lines dividing it into 7 segments
+    with different width. Those at equal distance above and below the broadest
+    middle segments have the same width. Each segment has a label. Above the
+    circle there is a caption:]
+
+    What it means if you see an aurora, by latitude.[The labels of the seven
+    segments:]
+
+    Normal
+
+    Cool and exciting
+
+    Someone should go check on our satellites
+
+    A bunch of open questions in solar-terrestrial physics are about to be
+    answered
+
+    Someone should go check on our satellites
+
+    Cool and exciting
+
+    Normal
+'2234':
+  num: 2234
+  url: 'https://xkcd.com/2234'
+  title: How To Deliver Christmas Presents
+  img: 'https://imgs.xkcd.com/comics/how_to_deliver_christmas_presents.png'
+  alt: >-
+    Building codes in hurricane zones rely on studies of how easily flying
+    debris can break residential windows. If you're looking for a science fair
+    project idea and you hate your neighbors, I'm sure they could always use
+    more data!
+  year: '2019'
+  month: '11'
+  day: '27'
+  transcript: "[The comic is divided into three sections. The top section contains one low panel stretching across the entire comic. It has a header (same as the title of the comic) with a sub-header beneath. Then below that is a picture of Randall’s new book How To. The black book is shown standing. The blue title is readable but the white text beneath it as well as blue and white text below the image is unreadable. On the cover is a white drawing of Cueball putting in a light-bulb with a quad-copter under each foot. White Hat is watching as Megan walks in with a ladder. Next to the book is a segment of text with a blue link at the end. Beneath this is a text from where a curved arrow goes to the book.]\nHow To Deliver Christmas Presents\nIn a future without chimneys\n How To\nFor more questionable ideas for using science to solve problems, check out my new book, How To! Click on this comic or go to xkcd.com/how-to\nGood Christmas gift![The second section has three normal sized panels on the same row. In the first panel, Randall, drawn as Cueball, is presenting the problem of the comic, while holding one hand out palm up.]\nRandall: The traditional way to get Christmas presents into a house is to have a large reindeer-herding man slither down the chimney with them.\nRandall: Unfortunately, chimneys are becoming less common in the United States.[The middle panel shows a line graph with one black and four gray lines. The X-axis is a time scale, with small ticks for each year and larger labeled ticks for every fifth year. The Y-axis is a percentage range with small ticks for every 5% and larger labeled ticks for every 10%. Each of the gray lines are swinging up and down quite a lot, but all but one of them clearly falls down as times passes. The black line has a clear downwards falling tendency. Each line has a label written on segments of the lines, where the lines are thus disrupted. For the gray lines the text is also gray. Above the lines are the following text:]\nDisappearing chimneys\nPercentage of new homes with fireplaces\nSource: Census Bureau Survey of Construction\nX-Axis: 1990\_\_1995\_\_2000\_\_2005\_\_2010\_\_2015\nY-Axis:  40%\_\_50%\_\_60%\_\_70%\_\_80%\nOverall\nWest\nMidwest\nSouth\nNortheast[In the third and last panel of this segment Randall, holding his arms out, explains that there are other ways to solve the problem.]\nRandall: But that's OK; there are other ways to get a gift into a house\nRandall: Here are a few options![The last segment has a large panel taking up the bottom half of the comic. At the bottom of this panel there are even two smaller comics which lie over this panel and break the bottom border of the panel. They relate to the information in the large panel. In the middle of this panel is a detailed drawing of a house. The tiles of the roof are all individually drawn (8 rows with about 23 tiles each for a total about 180 tiles). To the right on the roof top is a chimney indicated with a dotted line, showing where it is not present.  The front of the house has two small windows to the left, a door with door knob, in the middle of the house, with a two steps stair in front of it and a large window with three segments to the right. All three windows have curtains visible and are divided in two, a top and a bottom part On the top of the middle segment there is a handle for opening the windows, all five segments of them. In the window to the left sits a cat and in the central segment of the large window to the right sits Pikachu. The foundation of the house is drawn as 4 rows of bricks to the left (about 12 in each row) and three to the right (about 16 in each row, for 48 on both sides for a total of about 96). ] [To the left on the side of the house is a line indicating a ventilation shaft. Three arrows end there. They are coming from a bunch of particles of a disintegrating black book with part of a title still readable. Other text is visible, but not readable. Only the first word of the title can be read, but even here the last letter is already partly dissolved. The book is hanging above the grass on the ground below it to the left of the house. Above the book is a section of text marked with a large white number 1 inside a black circle.  Beneath the book this text continues. Bordering this text is a one panel comic belonging to this text segment.]\n1 Even without chimneys, houses aren't airtight. If you vaporize the gift, parts of it will enter the house through the intake vents...\nBook: How\n...And it will stay there.\nAccording to a 2008 study from Clarkson University, particles of your gift that settle in their house will remain there for an average of several months if they vacuum, and seven decades if they don’t\nSource: DOI 10.3155/1047-3289.58.4.502[The one panel comic is on top of the large panel beneath the door to the house, but about three times as wide. In the panel, Megan and Cueball are reacting to statement 1. Cueball is walking away from her to the right.]\nMegan: Seven decades?!\nCueball: BRB, I need to go vacuum.\nMegan: Houses are disgusting[To the right of the house a gift wrapped present is flying towards the large window, with five lines indicating its speed and direction. Beneath the book is a line indicating the ground away from the house. There is a large segment of text surrounding the book on the three sides away from the house. Above the present next to the dotted-lined chimney is a large white number 2 inside a black circle. Then follows text which goes out to the edge of the panel, and this text continues down to the level of the book where it then only continues to the right of the speed lines. And then finally two lines of text are beneath the book above the ground next to the house.]\n2 The critical momentum necessary for a projectile to break glass is around 4 kg*m/s. (40 for ½\" plywood.)\nSource: fema.gov/previous-missile-impact-test-wood-sheathing\nThis means you can deliver a book-sized gift by hurling it at a window at 25+ mph\nSpeed = book mass/ 4 kg*m/s = 25 mph\nBut if they’ve put up plywood shutters, you’ll need 250mph+ delivery speeds.[Finally beneath the house and text segment 2, there is a large white number 3 inside a black circle adjacent to the top right of the segment 1 panel comic. Next to this is the final text segment in this panel. Beneath this text is yet another comic, this time in five panels referring to the text, where the panels also break the lower border of the large panel.]\n3 Wait until they order a different book, then intercept the package, open the binding, and replace the pages with the ones from yours.[The five panel comic is on top of the large panel but beneath the text segment 3. ]\n[Black Hat opening a box with one hand while having his own book under the other arm.][The book cover is open, the pages from the original book have been removed and are interchanged with those from Black Hat’s book, two arrows indicating the switch.][Black Hat carrying a closed box.][Cueball going down to retrieving the package from the bottom of a three step stairs.][Cueball is standing next to the open box reading the book.]\nCueball: ...Ugh, real-life content injection. \nOff-screen voice: We need HTTPS for paper."
+'2235':
+  num: 2235
+  url: 'https://xkcd.com/2235'
+  title: Group Chat Rules
+  img: 'https://imgs.xkcd.com/comics/group_chat_rules.png'
+  alt: >-
+    There's no group chat member more enigmatic than the cool person who you all
+    assume has the chat on mute, but who then instantly chimes in with no delay
+    the moment something relevant to them is mentioned.
+  year: '2019'
+  month: '11'
+  day: '29'
+  transcript: |-
+    [Title at the top of the comic]:
+     Rules for this group chat[A numbered list of 10 rules]:
+'2236':
+  num: 2236
+  url: 'https://xkcd.com/2236'
+  title: Is it Christmas?
+  img: 'https://imgs.xkcd.com/comics/is_it_christmas.png'
+  alt: We've tested it on 30 different days and it hasn't gotten one wrong yet.
+  year: '2019'
+  month: '12'
+  day: '2'
+  transcript: >-
+    [A large square white panel with one large word in the middle, plus a
+    footnote:]
+
+    No*
+
+    *99.73% accurate[Caption below the panel:]
+
+    xkcd.com presents a new "Is It Christmas" service to compete with
+    isitchristmas.com
+'2237':
+  num: 2237
+  url: 'https://xkcd.com/2237'
+  title: AI Hiring Algorithm
+  img: 'https://imgs.xkcd.com/comics/ai_hiring_algorithm.png'
+  alt: >-
+    So glad Kate over in R&D pushed for using the AlgoMaxAnalyzer to look into
+    this. Hiring her was a great decisio- waaaait.
+  year: '2019'
+  month: '12'
+  day: '4'
+  transcript: >-
+    [Ponytail is pointing to a slide shown on a wall screen]:Slide:
+
+    DeepAIHire® Candidate Evaluation AlgorithmInferred internal weightings
+
+     Weight
+
+     Factor
+
+
+     0.0096
+
+     Educational background
+
+
+     0.0520
+
+     Past experience
+
+
+     0.0208
+
+     Recommendations
+
+
+     0.0105
+
+     Interview performance
+
+
+     783.5629
+
+     Enthusiasm for developingand expanding the use ofthe DeepAIHire Algorithm
+    Ponytail: An analysis of our new AI hiring algorithm has raised some
+    concerns.
+'2238':
+  num: 2238
+  url: 'https://xkcd.com/2238'
+  title: Flu Shot
+  img: 'https://imgs.xkcd.com/comics/flu_shot.png'
+  alt: >-
+    "Wait, how often are you getting bitten by snakes? And why are you boiling
+    water?" "Dunno, the CDC people keep showing up with complicated questions
+    about the 'history of the property' and 'possible curses' but I kinda tune
+    them out. At least one of them offered me the flu shot."
+  year: '2019'
+  month: '12'
+  day: '6'
+  transcript: >-
+    Megan (walking into frame from the left): Yesss, I got my flu shot.
+
+    Cueball (off panel): Nice! I got mine a few weeks ago.
+
+    Cueball: Immunity buddies!Megan (spreading her arms wide): Now I can finally
+    get bitten by all the bats I want!  
+
+    Cueball: No, that's rabies, that's not what—(closeup of Megan's head)  
+
+    Megan: I'll be able to roll and play in the poison ivy without a care in the
+    world!  
+
+    Cueball (off screen): Why would you do that even if the shot did—Megan
+    (flexing her arms): No more slathering on sunscreen. No more rushing for
+    antivenom after a snakebite. And now I can stop wasting time boiling
+    contaminated water before drinking it!Megan (running off toward the left):
+    Gonna click on every URL in every email I get, even the ones with IP
+    addresses and weird Unicode in them!
+
+    Cueball: You know what, sure, go for it.
+'2239':
+  num: 2239
+  url: 'https://xkcd.com/2239'
+  title: Data Error
+  img: 'https://imgs.xkcd.com/comics/data_error.png'
+  alt: >-
+    Cyanobacteria wiped out nearly all life on Earth once before, and they can
+    do it again!
+  year: '2019'
+  month: '12'
+  day: '9'
+  transcript: >-
+    [Black Hat and Megan stand facing each other.]
+
+    Megan: I can't believe this data error invalidates a year and a half of my
+    research.
+
+    Megan: I was about to publish.Black Hat: Don't panic. You have two options.
+
+    Megan: Yeah?[Closeup shot of Black Hat holding one hand up.]
+
+    Black Hat: 1) Redo your analysis and share whatever results you can, whether
+    positive or negative. It's disappointing, but these things happen.[Zoom out
+    on Black Hat and Megan. Black Hat has closed his fist. Megan holds her arms
+    up in the air.]
+
+    Black Hat: 2) Destroy the evidence. Use your materials and research methods
+    to build a superweapon. Conquer Earth and rule with an iron fist.
+
+    Megan: Tremble before my anomalously productive algae!
+
+    Megan: Except the anomaly was an artifact.
+
+    Megan: Tremble before my normal algae!
+'2240':
+  num: 2240
+  url: 'https://xkcd.com/2240'
+  title: Timeline of the Universe
+  img: 'https://imgs.xkcd.com/comics/timeline_of_the_universe.png'
+  alt: 'Not actual size, except technically at one spot near the left.'
+  year: '2019'
+  month: '12'
+  day: '11'
+  transcript: >-
+    Timeline of the Universe??Big Bang
+
+    [The Universe comes in as a circle with action lines around it. It stays the
+    same size for a while.]Planck EpochMedium Bang
+
+    [The Universe starts inflating very slowly]Inflation
+
+    [The Universe briefly inflates very rapidly, and returns to its normal rate
+    of expansion.]Quark EpochLepton EpochPhoton EpochCool Bug Epoch[The Universe
+    starts inflating and deflating rapidly, as if to form a grip.]
+
+    Molded grip[Stars appear in the timeline. The Universe starts inflating
+    slightly faster than before.]
+
+    Stars formStagflation
+
+    [The Universe starts deflating slowly.]SettlingRebound
+
+    [The Universe starts inflating slowly again.]Someone tripped and
+    accidentally hit the "Inflation" switch again
+
+    [The Universe starts inflating at the same rate as the Inflation
+    section.]Emergency Stop triggered
+
+    [The Universe abruptly stops inflating, and stays level.][Galaxies appear in
+    the timeline. The Universe starts inflating at a medium pace.]
+
+    Galaxies formEarth formsPresent day
+
+    [We see the edge of the Universe, with a rounded shape. Various dotted line
+    predictions are on the edges.]
+
+    Future Cosmological development handed over to J.J. Abrams, outcome unknown
+'2241':
+  num: 2241
+  url: 'https://xkcd.com/2241'
+  title: Brussels Sprouts Mandela Effect
+  img: 'https://imgs.xkcd.com/comics/brussels_sprouts_mandela_effect.png'
+  alt: >-
+    I love Brussels Sprouts Mandela Effect; I saw them open for Correct Horse
+    Battery Staple.
+  year: '2019'
+  month: '12'
+  day: '13'
+  transcript: >-
+    [Ponytail, Cueball, and Megan standing in a line]
+
+    Cueball: I always thought of Brussels sprouts as terrible, but they're
+    actually really good! I can't believe I let everyone mislead me![Frameless
+    panel just showing Megan]
+
+    Megan: It's not just you! Farmers developed a less-bitter cultivar like 15
+    years ago.*
+
+    *npr.org/773457633[Ponytail, Cueball, and Megan standing in a line. Megan is
+    holding her arm away from her.]
+
+    Megan: Now the whole world is having this revelation, one person at a time.
+    It's like a real Mandela effect. We secretly switched to the parallel
+    universe where Brussels sprouts taste good.
+
+    Cueball: Cool.[Ponytail, Cueball, and Megan standing in a line. Ponytail is
+    holding up one finger.]
+
+    Ponytail: Also, licorice is good now.
+
+    Cueball: Whoa, really?
+
+    Megan: This is a trap.
+
+    Ponytail: And those silica gel packets that say "Do not eat"? Delicious.
+
+    Cueball: I knew it.
+'2242':
+  num: 2242
+  url: 'https://xkcd.com/2242'
+  title: Ground vs Air
+  img: 'https://imgs.xkcd.com/comics/ground_vs_air.png'
+  alt: 'Water is thinner than both, and fire is *definitely* thicker.'
+  year: '2019'
+  month: '12'
+  day: '16'
+  transcript: >-
+    [Caption above the drawing]:
+
+    Which is thicker—the ground or the air?[The drawing shows a Winkel tripel
+    projection of the Earth. The features of the main map is unlabeled, with
+    only the outlines of the landmasses present. Various parts of the map are
+    labeled with "Air" (four times) or "Ground (5 times)." Areas marked as
+    "Ground" are differentiated with gray shading. These are always over large
+    landmasses or close to them. They cover most of North America (labeled), the
+    northern part of South America (labeled), Northern Europe and most of Asia
+    (labeled), Japan, Most of Australia and part of sea above, Western Africa,
+    the part of Africa beneath Equator (labeled), and finally the central parts
+    of Antarctica (labeled). Air is written on the East coast of America, in the
+    Atlantic Ocean, over the central part of Africa and in the Pacific Ocean
+    east of China.]
+
+    [Over East coast of America]: Air
+
+    [Over North America]: Ground
+
+    [Over Atlantic Ocean]: Air
+
+    [Over South America]: Ground
+
+    [Over central part of Africa]: Air
+
+    [Over south part of Africa]: Ground
+
+    [Over Asia]: Ground
+
+    [Over Pacific Ocean]: Air
+
+    [Over Antarctica ]: Ground[A small diagram is present in the Pacific Ocean
+    left of South America. The diagram depicts several labeled layers of Earth
+    and its atmosphere, listed below. Cueball, a body of water, and several
+    mountains are shown on the flat surface part of the diagram, with the ocean
+    floor lower than where Cueball stand. Above is a line representing the
+    border to space. The line beneath the surface is much more curved going both
+    up and down. Two double arrows representing the thickness of the atmosphere
+    and the Lithosphere are drawn between the surface and the layers above and
+    below. Another curved double arrow is pointing to each of these distances
+    and it is marked with a question mark in the middle of the line.]
+
+    Space
+
+    Atmosphere
+
+    Lithosphere
+
+    Asthenosphere
+
+    ?[In the bottom right corner of the comic with gray text is a reference:]
+
+    Based mostly on Conrad and Lithgow-Bertelloni (2006) DOI.1029/2005GL025621
+'2243':
+  num: 2243
+  url: 'https://xkcd.com/2243'
+  title: Star Wars Spoiler Generator
+  img: 'https://imgs.xkcd.com/comics/star_wars_spoiler_generator.png'
+  alt: >-
+    The heroes seem to be gaining the upper hand until Darth Juul manages to
+    flip the switch on the car wash control panel from 'REGULAR' to 'PREMIUM.'
+  year: '2019'
+  month: '12'
+  day: '18'
+  transcript: >-
+    Star Wars Spoiler Generator[Shown below is a branching flowchart of sorts
+    that begins at the phrase "In this Star Wars movie, our heroes return to
+    take on the First Order and new villain...", then flows through various
+    paths to build up a story.]In this Star Wars movie, our heroes return to
+    take on the First Order and new villain...
+
+    Kyle Ren
+
+    Malloc
+
+    Darth Sebelius
+
+    Theranos
+
+    Lord Juul...with help from their new friend...
+
+    Kim Spacemeasurer
+
+    Teen Yoda
+
+    Dab Tweetdeck
+
+    Yaz Progestin
+
+    TI-83Rey builds a new lightsaber with a...
+
+    beige
+
+    ochre
+
+    mauve
+
+    aquamarine
+
+    taupe...blade, and they head out to confront the First Order's new
+    superweapon, the...
+
+    Sun Obliterator
+
+    Moonsquisher
+
+    World Eater
+
+    Planet Zester
+
+    Superconducting Supercollider...a space station capable of...
+
+    blowing up a planet with a bunch of beams of energy that combine into one
+
+    blowing up a bunch of planets with one beam of energy that splits into many
+
+    cutting a planet in half and smashing the halves together like two cymbals
+
+    increasing the CO2 levels in a planet's atmosphere, causing rapid heating
+
+    triggering the end credits before the movie is doneThey unexpectedly join
+    forces with their old enemy...
+
+    Boba Fett
+
+    Salacious Crumb
+
+    The Space Slug
+
+    the bottom half of Darth Maul
+
+    Youtube commenters...and destroy the superweapon in a battle featuring
+
+    a bow that shoots little lightsaber-headed arrows
+
+    X-Wings and TIE fighters dodging the giant letters of the opening crawl
+
+    a Sith educational display that uses Force Lightning to demonstrate the
+    dielectric breakdown of air
+
+    Kylo Ren putting on another helmet over his smaller one
+
+    a Sith car wash where the bristles on the brushes are little lightsabersP.S.
+    Rey's parents are...
+
+    Luke
+
+    Leia
+
+    Han
+
+    Obi-Wan
+
+    a random junk trader...and...
+
+    Poe
+
+    BB-8
+
+    Amilyn Holdo
+
+    Laura Dern
+
+    a random junk trader
+
+    that one droid from the Jawa Sandcrawler that says Gonk
