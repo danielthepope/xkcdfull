@@ -27,29 +27,12 @@ If you want to make sure the comics provided don't contain any naughty words, yo
 e.g. `BLOCKED_WORDS=sudo,linux npm start` will make sure that any randomly selected comics don't contain 'linux' or 'sudo' in their titles, transcripts and mouseover text.
 
 ## Docker
-The Docker build step does not include the xkcdinfo.yaml file. It has to be bindmounted at runtime so that the container will update the host file with the latest comics. First, build the image. I made a handy `build` script that you might want to use.
+The Docker build step does not include the `comics` directory. It has to be bindmounted at runtime so that the container will update the host file with the latest comics. First, build the image. I made a handy `build` script that you might want to use.
 
 Then, to run as a daemon:
 
 ```
-docker run -d -p 3000:3000 -v $(pwd)/xkcdinfo.yaml:/usr/src/app/xkcdinfo.yaml xkcdfull
+docker run -d -p 3000:3000 -v $(pwd)/comics:/usr/src/app/comics xkcdfull
 ```
 
-If you're using docker-compose, you can add `xkcdinfo.yaml` like this:
-
-`docker-compose.yml`
-
-```yaml
-version: '3.2'
-services:
-  xkcd:
-    image: xkcdfull:latest
-    ports:
-      - "3000:3000"
-    restart: always
-    env_file: xkcd.env # Env file containg BLOCKED_WORDS
-    volumes:
-      - type: bind
-        source: ./xkcdfull/xkcdinfo.yaml # or wherever xkcdinfo.yaml is relative to your docker-compose.yml
-        target: /usr/src/app/xkcdinfo.yaml
-```
+Alternatively, you can use docker-compose. To build, run `docker-compose build`, and to run, `docker-compose up`.

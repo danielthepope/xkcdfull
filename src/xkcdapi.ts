@@ -3,10 +3,9 @@ import * as cheerio from 'cheerio';
 import * as fs from 'fs';
 import * as path from 'path';
 import * as request from 'request';
-import * as yaml from 'node-yaml';
 import { log } from './log';
 
-const INFO_FILE = path.join(__dirname, '../xkcdinfo.yaml');
+const INFO_FILE = path.join(__dirname, '../comics');
 const BLOCKED_WORDS_CSV = process.env.BLOCKED_WORDS || null;
 const BLOCKED_WORDS = BLOCKED_WORDS_CSV ? BLOCKED_WORDS_CSV.split(',').map(word => word.trim()) : [];
 // These are comics which do not have a decent static image
@@ -37,7 +36,7 @@ function sortNumber(a: number, b: number) {
 function setup(callback: (err: Error) => void) {
   updateInfo(function (err) {
     if (err) return callback(err);
-    yaml.read(INFO_FILE, function (err: Error, data: { [key: string]: Comic }) {
+    readAllComicFiles(INFO_FILE, function (err: Error, data: { [key: string]: Comic }) {
       if (err) return callback(err);
       const latestComicNumber = Object.keys(data).map(num_s => parseInt(num_s)).sort(sortNumber).reverse()[0];
       latest = latestComicNumber;
@@ -61,27 +60,47 @@ function setup(callback: (err: Error) => void) {
   });
 }
 
+function getLatestDownloadedComicNumber(downloadedComics: string[]) {
+  if (downloadedComics.length > 0) {
+    return downloadedComics.map(f => parseInt(f.split('.')[0])).sort(sortNumber).reverse()[0];
+  }
+  return null;
+}
+
+function readAllComicFiles(comicFolder: string, callback: (err: Error, data: { [key: string]: Comic }) => void) {
+  const files = fs.readdirSync(comicFolder);
+  const data: { [key: string]: Comic } = {};
+
+  try {
+    files.forEach(fileName => {
+      const comicNumberString = fileName.split('.')[0];
+      const fileText = fs.readFileSync(`${comicFolder}/${fileName}`, 'utf-8');
+      data[comicNumberString] = JSON.parse(fileText);
+    });
+  } catch (e) {
+    return callback(e, null);
+  }
+
+  callback(null, data);
+}
+
 function updateInfo(callback: (err: Error) => void) {
   // Get latest comic number
   getLatestComicNumber(function (latestComicNumber) {
     // Get latest comic from info yaml file
     if (!fs.existsSync(INFO_FILE)) {
-      fs.writeFileSync(INFO_FILE, '', 'utf-8');
+      fs.mkdirSync(INFO_FILE);
     }
-    yaml.read(INFO_FILE, function (yamlErr: Error, data: { [key: string]: Comic }) {
-      if (yamlErr) return callback(yamlErr);
-      if (!data) data = {};
-      const latestDownloaded = Object.keys(data).map(num_s => parseInt(num_s)).sort(sortNumber).reverse()[0] || 0;
-      log(`latest is #${latestComicNumber}, latest downloaded is #${latestDownloaded}`);
-      if (latestComicNumber > latestDownloaded) {
-        // Fetch metadata and transcript for each outstanding comic in turn
-        fetchComics(latestDownloaded + 1, latestComicNumber, function () {
-          callback(null);
-        })
-      } else {
+    const downloadedComics = fs.readdirSync(INFO_FILE);
+    const latestDownloaded = getLatestDownloadedComicNumber(downloadedComics) || 0;
+    if (latestComicNumber > latestDownloaded) {
+      // Fetch metadata and transcript for each outstanding comic in turn
+      fetchComics(latestDownloaded + 1, latestComicNumber, function () {
         callback(null);
-      }
-    })
+      });
+    } else {
+      callback(null);
+    }
   })
 }
 
@@ -115,10 +134,7 @@ function fetchComics(nextToDownload: number, maxComicNumber: number, callback: (
         } catch (e) {
           log(`Transcript for ${nextToDownload} failed: ${e}`);
         }
-        const dataToWrite: { [key: string]: Comic } = {};
-        dataToWrite[nextToDownload] = data;
-        const yamlData = yaml.dump(dataToWrite);
-        fs.appendFileSync(INFO_FILE, yamlData);
+        fs.writeFileSync(`${INFO_FILE}/${nextToDownload}.json`, JSON.stringify(data, null, 2));
       }
       fetchComics(++nextToDownload, maxComicNumber, callback);
     });
