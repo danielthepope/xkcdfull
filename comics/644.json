@@ -1,0 +1,11 @@
+{
+  "num": 644,
+  "url": "https://xkcd.com/644",
+  "title": "Surgery",
+  "img": "https://imgs.xkcd.com/comics/surgery.png",
+  "alt": "Damn. Not only did he not install it, he sutured a 'Vista-Ready' sticker onto my arm.",
+  "year": "2009",
+  "month": "10",
+  "day": "2",
+  "transcript": "[A surgeon is standing over a patient on a gurney.]\nPatient: While you're doing the surgery, can you also implant this in my arm?Surgeon: A USB port?\nPatient: Just wire it up to some nerves.Surgeon: ...This won't let your brain control USB devices, you know.\nPatient: Sure – I just want the hardware.Patient: The rest is software; I'm sure there will be a project to patch together support eventually.\nSurgeon: Ah – you're a Linux user, I see.\nPatient: Yeah, how'd you know?"
+}

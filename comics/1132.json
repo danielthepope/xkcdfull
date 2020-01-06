@@ -1,0 +1,11 @@
+{
+  "num": 1132,
+  "url": "https://xkcd.com/1132",
+  "title": "Frequentists vs. Bayesians",
+  "img": "https://imgs.xkcd.com/comics/frequentists_vs_bayesians.png",
+  "alt": "'Detector! What would the Bayesian statistician say if I asked him whether the--' [roll] 'I AM A NEUTRINO DETECTOR, NOT A LABYRINTH GUARD. SERIOUSLY, DID YOUR BRAIN FALL OUT?' [roll] '... yes.'",
+  "year": "2012",
+  "month": "11",
+  "day": "9",
+  "transcript": "[Caption above the first panel:]\nDid the sun just explode? \n(It's night, so we're not sure)[Two Cueball-like guys stand on either side of a small table with a small black device on it. The device has white lines (ventilation) and two small antennas and a button on top. When the device speaks it uses in Westminster typeface. The Guy on the left, called Frequentist Statistician in the 2nd panel, points to the device. The guy on the right, called Bayesian Statistician in the 3rd panel, is just looking at the device. Above the spoken word from the device is a sound.]\nFrequentist Statistician: This neutrino detector measures whether the sun has gone nova.\nBayesian Statistician: Then, it rolls two dice. If they both come up as six, it lies to us. Otherwise, it tells the truth.\nFrequentist Statistician: Let's try. Detector! Has the sun gone nova?\nSound:Roll \nDevice: YES.[Two panels side by side are beneath the first panel. together they are broader than the top panel. Above each panel is a caption. In the left panel only the left statistician is shown with the device on the table. And in the right panel only the right statistician is shown with the device on the table. both are just looking at the device.]\nFrequentist Statistician:\nFrequentist Statistician: The probability of this result happening by chance is 1/36=0.027.  Since p<0.05, I conclude that the sun has exploded.Bayesian Statistician:\nBayesian Statistician: Bet you $50 it hasn't."
+}

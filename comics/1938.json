@@ -1,0 +1,11 @@
+{
+  "num": 1938,
+  "url": "https://xkcd.com/1938",
+  "title": "Meltdown and Spectre",
+  "img": "https://imgs.xkcd.com/comics/meltdown_and_spectre.png",
+  "alt": "New zero-day vulnerability: In addition to rowhammer, it turns out lots of servers are vulnerable to regular hammers, too.",
+  "year": "2018",
+  "month": "1",
+  "day": "5",
+  "transcript": "[Zoom out with Cueball and Ponytail walking to the right on the ground.]\nCueball: The Meltdown and Spectre exploits use \"speculative execution?\" What's that?\nPonytail: You know the trolley problem? Well, for a while now, CPUs have basically been sending trolleys down both paths, quantum-style, while awaiting your choice. Then the unneeded \"phantom\" trolley disappears.[Zoom in on only Ponytail who has turned towards Cueball off-panel left.]\nPonytail: The phantom trolley isn't supposed to touch anyone. But it turns out you can still use it to do stuff.\nPonytail: And it can drive through walls.[Cueball and Ponytail, lifting both her palms up, are standing, facing each other.]\nCueball: That sounds bad.\nPonytail: Honestly, I've been assuming we were doomed ever since I learned about Rowhammer.[In a frame-less panel they continue talking, both with their arms down.]\nCueball: What's that?\nPonytail: If you toggle a row of memory cells on and off really fast, you can use electrical interference to flip nearby bits and—\nCueball: Do we just suck at...computers?\nPonytail: Yup. Especially shared ones.[Zoom out again as they resume walking to the right on the ground. Cueball is lifting his smartphone up and looks at the screen.]\nCueball: So you're saying the cloud is full of phantom trolleys armed with hammers.\nPonytail: ...Yes, that is exactly right.\nCueball: Okay. I'll, uh... install updates?\nPonytail: Good idea."
+}

@@ -1,0 +1,11 @@
+{
+  "num": 1286,
+  "url": "https://xkcd.com/1286",
+  "title": "Encryptic",
+  "img": "https://imgs.xkcd.com/comics/encryptic.png",
+  "alt": "It was bound to happen eventually. This data theft will enable almost limitless [xkcd.com/792]-style password reuse attacks in the coming weeks. There's only one group that comes out of this looking smart: Everyone who pirated Photoshop.",
+  "year": "2013",
+  "month": "11",
+  "day": "4",
+  "transcript": "[Caption above the panel:]\nHackers recently leaked 153 million Adobe user emails, encrypted passwords, and password hints.\nAdobe encrypted the passwords improperly, misusing block-mode 3DES. The result is something wonderful:[Caption below the panel:]\nThe greatest crossword puzzle in the history of the world"
+}

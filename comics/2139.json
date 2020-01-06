@@ -1,0 +1,11 @@
+{
+  "num": 2139,
+  "url": "https://xkcd.com/2139",
+  "title": "Email Settings",
+  "img": "https://imgs.xkcd.com/comics/email_settings.png",
+  "alt": "What are all these less-than signs? What's an HREF? Look, we know you live in a fancy futuristic tech world, but not all of us have upgraded to the latest from Sun Microsystems.",
+  "year": "2019",
+  "month": "4",
+  "day": "19",
+  "transcript": "Email Settings\n[A list of controls with radio buttons and checkboxes]\nDefault reply behavior\n( ) Reply\n( ) Reply All\n(*) Forward to address bookVacation autoresponder\n(*) While on vacation\n( ) Always[x] Reply to all newsletters with \"Thank you for the newsletter!\"Attachment limit\n( ) 300 KB\n(*) 1.4 MB\n( ) 5 MB (Beta)Default email format\n(*) Plain text\n( ) HTML\n( ) CSS[x] Reply to HTML emails with \"Whoa, buddy, what's all this code?\"Character set\n( ) ASCII (Unicode 0-127 only)\n(*) Non-ASCII (Unicode 128+ only)Smart autocomplete\n( ) Do not suggest replies\n( ) Suggest replies\n(*) Automatically respond to all emails with suggested replyImportant emails\n(*) Show\n( ) HideShow unread email count...\n(*) Now\n( ) On my projected day of deathSignature\n(*) \"That's my email. Hope you liked it!\"\n( ) None"
+}

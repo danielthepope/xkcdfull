@@ -1,0 +1,11 @@
+{
+  "num": 969,
+  "url": "https://xkcd.com/969",
+  "title": "Delta-P",
+  "img": "https://imgs.xkcd.com/comics/delta_p.png",
+  "alt": "If you fire a Portal gun through the door of the wardrobe, space and time knot together, which leads to a frustrated Aslan trying to impart Christian morality to the Space sphere.",
+  "year": "2011",
+  "month": "10",
+  "day": "26",
+  "transcript": "[An open wardrobe, with a boat anchor attached to one corner, falling towards water.]\n[Below the water line a formula with its variables explained is shown:]\nQ = A * sqrt(2 * g * d)\nQ = flow rate\nA = area of opening\nd = ocean depth (2 km)\ng = Earth gravity[And below the formula:]\nFlow: ~400,000 liters/s\nWater jet velocity: ~200 m/s[Caption below the frame:]\nThe White Witch didn't know what hit her."
+}

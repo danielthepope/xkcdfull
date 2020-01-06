@@ -1,0 +1,11 @@
+{
+  "num": 1755,
+  "url": "https://xkcd.com/1755",
+  "title": "Old Days",
+  "img": "https://imgs.xkcd.com/comics/old_days.png",
+  "alt": "Lot of drama in those days, including constant efforts to force the \"Reflections on Trusting Trust\" guy into retirement so we could stop being so paranoid about compilers.",
+  "year": "2016",
+  "month": "11",
+  "day": "4",
+  "transcript": "[Cueball and Hairbun are standing together and Cueball is talking to her.]\nCueball: What were things like in the old days?\nCueball: I hear that you had to ... compile things for different processors?\nHairbun: Yeah[Same setting in a slimmer panel, now Hairbun is replying.]\nHairbun: To compile your code, you had to mail it to IBM.\nHairbun: It took 4-6 weeks.[Close-up of Hairbun from the waist up.]\nHairbun: Before garbage collection, data would pile up until the computer got full and you had to throw it away.[Same setting as in the first panel with Hairbun gesturing toward Cueball raising one hand  palm up.]\nHairbun: Early compilers could handle code fine, but comments had to be written in assembly.[In a frame-less panel Hairbun is seen from the front, with both arms out to the side with both hands held palm up.]\nHairbun: C could only be written on punch cards.You had to pick a compact font, or you'd only fit a few characters per card.[Exactly the same setting as the first panel, but with Hairbun doing the talking.]\nHairbun: C++ was big because it supported floppy disks.\nHairbun: It still punched holes in them, but it was a start.\nCueball: Wow."
+}

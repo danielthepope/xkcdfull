@@ -1,0 +1,11 @@
+{
+  "num": 1277,
+  "url": "https://xkcd.com/1277",
+  "title": "Ayn Random",
+  "img": "https://imgs.xkcd.com/comics/ayn_random.png",
+  "alt": "In a cavern deep below the Earth, Ayn Rand, Paul Ryan, Rand Paul, Ann Druyan, Paul Rudd, Alan Alda, and Duran Duran meet together in the Secret Council of /(\\b[plurandy]+\\b ?){2}/i.",
+  "year": "2013",
+  "month": "10",
+  "day": "14",
+  "transcript": "[Cueball sitting at a laptop, White Hat behind him.]\nCueball: This Ayn Random number generator you wrote claims to be fair, but the output is biased toward certain numbers.\nWhite Hat: WELL, MAYBE THOSE NUMBERS ARE JUST INTRINSICALLY BETTER!"
+}

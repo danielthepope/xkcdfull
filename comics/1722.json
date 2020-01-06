@@ -1,0 +1,11 @@
+{
+  "num": 1722,
+  "url": "https://xkcd.com/1722",
+  "title": "Debugging",
+  "img": "https://imgs.xkcd.com/comics/debugging.png",
+  "alt": "When you Google an error message and it gets no results, you can be pretty sure you've found a clue to the location of Martin's sword.",
+  "year": "2016",
+  "month": "8",
+  "day": "19",
+  "transcript": "[Cueball and White Hat are walking, while Cueball holds a hand out while talking.]\nCueball: I was trying to figure out why my browser was acting weird.[In a frame-less panel they keep in walking, Cueball holds both hands up in front of him.]\nCueball: Turns out it wasn't the browser-the issue was with my keyboard driver.[Zoom in on Cueball's upper torso as he is holding a finger up.]\nCueball: Debugging that led me to a mysterious error message from a system utility...[Zoom out as Cueball holds up a miniature sword by the blade in one hand. White Hat turns his head around and looks at it while they keep walking.]\nCueball: Anyway, long story short, I found the sword of Martin the Warrior.\nWhite Hat: I think at some point there you switched puzzles."
+}

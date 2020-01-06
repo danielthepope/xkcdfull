@@ -1,0 +1,11 @@
+{
+  "num": 619,
+  "url": "https://xkcd.com/619",
+  "title": "Supported Features",
+  "img": "https://imgs.xkcd.com/comics/supported_features.png",
+  "alt": "I hear many of you finally have smooth Flash support, but me and my Intel card are still waiting on a kernel patch somewhere in the pipeline before we can watch Jon Stewart smoothly.",
+  "year": "2009",
+  "month": "8",
+  "day": "5",
+  "transcript": "[Cueball and a friend holding a laptop standing together.]\nCueball: It took a lot of work, but this latest linux patch enables support for machines with 4,096 CPUs, up from the old limit of 1,024.\nFriend: Do you have support for smooth full-screen Flash video yet?\nCueball: No, but who uses that?"
+}

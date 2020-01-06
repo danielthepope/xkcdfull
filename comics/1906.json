@@ -1,0 +1,11 @@
+{
+  "num": 1906,
+  "url": "https://xkcd.com/1906",
+  "title": "Making Progress",
+  "img": "https://imgs.xkcd.com/comics/making_progress.png",
+  "alt": "I started off with countless problems. But now I know, thanks to COUNT(), that I have \"#REF! ERROR: Circular dependency detected\" problems.",
+  "year": "2017",
+  "month": "10",
+  "day": "23",
+  "transcript": "[Megan is sitting and looking at a laptop.]\nMegan: I started the day with lots of problems.\nMegan: But now, after hours and hours of work,\nMegan: I have lots of problems in a spreadsheet."
+}

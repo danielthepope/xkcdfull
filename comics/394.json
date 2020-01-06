@@ -1,0 +1,11 @@
+{
+  "num": 394,
+  "url": "https://xkcd.com/394",
+  "title": "Kilobyte",
+  "img": "https://imgs.xkcd.com/comics/kilobyte.png",
+  "alt": "I would take 'kibibyte' more seriously if it didn't sound so much like 'Kibbles N Bits'.",
+  "year": "2008",
+  "month": "3",
+  "day": "10",
+  "transcript": "There's been a lot of confusion over 1024 vs 1000,\nkbyte vs kbit, and the capitalization for each.\nHere, at last, is a single, definitive standard:\n[table of various kinds of kilobytes]\n\n\nSYMBOL\n\nNAME\n\nSIZE\n\nNOTES\n\n\nkB\n\nKilobyte\n\n1024 bytes OR 1000 bytes\n\n1000 bytes during leap years, 1024 otherwise\n\n\nKB\n\nKelly-Bootle standard unit\n\n1012 bytes\n\ncompromise between 1000 and 1024 bytes\n\n\nKiB\n\nImaginary kilobyte\n\n1024 √-1 bytes\n\nused in quantum computing\n\n\nkb\n\nIntel kilobyte\n\n1023.937528 bytes\n\ncalculated on Pentium F.P.U.\n\n\nKb\n\nDrivemaker's kilobyte\n\ncurrently 908 bytes\n\nshrinks by 4 bytes each year for marketing reasons\n\n\nKBa\n\nBaker's kilobyte\n\n1152 bytes\n\n9 bits to the byte since you're such a good customer\n"
+}

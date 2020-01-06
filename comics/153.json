@@ -1,0 +1,11 @@
+{
+  "num": 153,
+  "url": "https://xkcd.com/153",
+  "title": "Cryptography",
+  "img": "https://imgs.xkcd.com/comics/cryptography.png",
+  "alt": "If you got a big keyspace, let me search it.",
+  "year": "2006",
+  "month": "9",
+  "day": "6",
+  "transcript": "[Randall Munroe (drawn as Cueball) stands behind a lectern on a podium in front of a large conference audience (consisting of Cueball heads), with a poster hanging beside him.]\nRandall: My cryptosystem is like any Feistel cipher, except in the S-Boxes we simply take the bitstring down, flip it, and reverse it.[The poster reads:]\n Decryption\n 01101010\n    >>\n 00110101\n [inverter symbol]\n 11001010\n [crossed arrows]\n 01010011[Caption below the crowd:]\nI've been barred from speaking at any major cryptography conferences ever since it became clear that all my algorithms were just thinly disguised Missy Elliott songs."
+}

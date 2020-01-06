@@ -1,0 +1,11 @@
+{
+  "num": 949,
+  "url": "https://xkcd.com/949",
+  "title": "File Transfer",
+  "img": "https://imgs.xkcd.com/comics/file_transfer.png",
+  "alt": "Every time you email a file to yourself so you can pull it up on your friend's laptop, Tim Berners-Lee sheds a single tear.",
+  "year": "2011",
+  "month": "9",
+  "day": "9",
+  "transcript": "[Cueball stands near a computer, talking on the phone to another person.]Cueball: You want your cousin to send you a file? easy. He can email it to- ...Oh, it's 25 MB? Hmm...\nCueball: Do either of you have an FTP server? No, right.\nCueball: If you had web hosting, you could upload it...\nCueball: Hm. We could try one of those MegaShareUpload sites, but they're flaky and full of delays and porn popups.\nCueball: How about AIM Direct Connect? Anyone still use that?\nCueball: Oh, wait, Dropbox! It's this recent startup from a few years back that syncs folders between computers. You just need to make an account, install the-\nCueball: Oh, he just drove over to your house with a USB drive?\nCueball: Uh, cool, that works too.[Caption below the panel:]\nI like how we've had the internet for decades, yet \"sending files\" is something early adopters are still figuring out how to do."
+}

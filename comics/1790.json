@@ -1,0 +1,11 @@
+{
+  "num": 1790,
+  "url": "https://xkcd.com/1790",
+  "title": "Sad",
+  "img": "https://imgs.xkcd.com/comics/sad.png",
+  "alt": "With the right 90-degree rotation, any effect is a side effect.",
+  "year": "2017",
+  "month": "1",
+  "day": "25",
+  "transcript": "[Cueball is walking up to Ponytail who sits at her desk in an office chair typing on her computer.]\nCueball: How are you doing?\nPonytail: Hah.\nCueball: You seem distant lately. For the past few months.\nPonytail: Can't imagine why.[Cueball talks to Ponytail at her desk from off-panel.]\nCueball (off-panel): Your projects have stagnated.\nPonytail: But my Stardew Valley farm is doing great. \nCueball (off-panel): You can't just hide from everything. \nPonytail: Fact check: Mostly false.[In a frame-less panel Cueball is seen standing behind Ponytail at her desk.]\nCueball: I'm glad you're including more comments in your code, but it would be nice if they were comments about your code. \nCueball: Or at least a bit less obscenity-filled.\nPonytail: Look, they say to write what you know.[Cueball leans forward towards Ponytail at her desk (who has looked on the screen in the same position through the entire comic).]\nCueball: All the functions you've written take everything passed to them and return it unchanged with the comment \"No, you deal with this.\"\nPonytail: It's a functional programming thing. Avoiding side effects.\nCueball: You avoid all effects. \nPonytail: Only way to be sure."
+}

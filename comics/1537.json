@@ -1,0 +1,11 @@
+{
+  "num": 1537,
+  "url": "https://xkcd.com/1537",
+  "title": "Types",
+  "img": "https://imgs.xkcd.com/comics/types.png",
+  "alt": "colors.rgb(\"blue\") yields \"#0000FF\". colors.rgb(\"yellowish blue\") yields NaN. colors.sort() yields \"rainbow\"",
+  "year": "2015",
+  "month": "6",
+  "day": "12",
+  "transcript": "[Caption above the black part of the comic:]\nMy new language is great, but it \nhas a few quirks regarding type:[The rest of the comic is written in a black rectangle. All text to the left of \">\" is written in gray. Text to the right of the \">\" on the lines with numbers are in white, and then gray text on the other lines. There seems to be a missing \">\" after line no. 3.]\n  [1]> 2+\"2\"\n    => \"4\"\n  [2]> \"2\"+[]\n    => \"[2]\"\n  [3] (2/0)\n    = > NaN\n  [4]> (2/0)+2\n    = > NaP\n  [5]> \"\" + \"\"\n    = > ' \"+\" '\n  [6]> [1,2,3]+2\n    = > False\n  [7]> [1,2,3]+4\n    = > True\n  [8]> 2/(2-(3/2+1/2))\n    = > NaN.000000000000013\n  [9]> Range(\"   \")\n    = > (' \" ',\"! \",\" \",\"!\",' \" ')\n[10]> + 2\n    = > 12\n[11]> 2+2\n    = > Done\n[14]> Range(1,5)\n    = > (1,4,3,4,5)\n[13]> Floor(10.5)\n    = > |\n    = > |\n    = > |\n    = > |_ _ _10.5_ _ _"
+}

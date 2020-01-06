@@ -1,0 +1,11 @@
+{
+  "num": 2116,
+  "url": "https://xkcd.com/2116",
+  "title": ".NORM Normal File Format",
+  "img": "https://imgs.xkcd.com/comics/norm_normal_file_format.png",
+  "alt": "At some point, compression becomes an  aesthetic design choice. Luckily, SVG is a really flexible format, so there's no reason it can't support vector JPEG artifacts.",
+  "year": "2019",
+  "month": "2",
+  "day": "25",
+  "transcript": "[Cueball is at a computer. Someone is talking to him from off-panel.]\nVoice: I sent you the data.\nCueball: Thanks!\nCueball: …this is a Word document containing an embedded photo you took of your screen with the spreadsheet open.\nVoice: Yeah? Does your computer not support .NORM files? Maybe you need to update.[Caption below the panel:]\nSince everyone sends stuff this way anyway, we should just formalize it as a standard."
+}

@@ -1,0 +1,11 @@
+{
+  "num": 1331,
+  "url": "https://xkcd.com/1331",
+  "title": "Frequency",
+  "img": "https://imgs.xkcd.com/comics/frequency.png",
+  "alt": "This comic shows estimated average frequency. I wanted to include the pitch drop experiment, but it turns out the gif format has some issues with decade-long loops.",
+  "year": "2014",
+  "month": "2",
+  "day": "17",
+  "transcript": "[Repetitive events are written in grey and arranged in a grid. Each statement pulses to black and then returns to grey at an interval characteristic of the named event.]"
+}

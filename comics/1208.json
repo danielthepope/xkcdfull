@@ -1,0 +1,11 @@
+{
+  "num": 1208,
+  "url": "https://xkcd.com/1208",
+  "title": "Footnote Labyrinths",
+  "img": "https://imgs.xkcd.com/comics/footnote_labyrinths.png",
+  "alt": "Every time you read this mouseover, toggle between interpreting nested footnotes as footnotes on footnotes and interpreting them as exponents (minus one, modulo 6, plus 1).",
+  "year": "2013",
+  "month": "5",
+  "day": "6",
+  "transcript": "[Excerpt from what appears to be an academic paper with footnotes.]\nexperiments to observe this and we found no12 evidence for it in our data.1Ignore this\n2Increment by 2 before following\n3Not true32\n4Ibid.\n5True263\n6Actually a 122"
+}

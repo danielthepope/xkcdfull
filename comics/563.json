@@ -1,0 +1,11 @@
+{
+  "num": 563,
+  "url": "https://xkcd.com/563",
+  "title": "Fermirotica",
+  "img": "https://imgs.xkcd.com/comics/fermirotica.png",
+  "alt": "I love how Google handles dimensional analysis. Stats are ballpark and vary wildly based on time of day and whether your mom is in town.",
+  "year": "2009",
+  "month": "4",
+  "day": "1",
+  "transcript": "[A formula is shown with the variables explained above:]\nPd Regional population density (e.g. 18,600/mi²)\nXf Average person's frequency of sex (e.g. 80/year)\nXd Average duration of sex (e.g. 30 minutes)\nr=sqrt(2/(π*Pd*Xf*Xd))\nOn average, someone within distance r of you is having sex.[Cueball standing in front of an easel.]\nCueball: Mmm, That probable couple 150 meters away is so hot. Oh yeah, theoretically work it, baby.\nFrom out of frame: Hey! No statistical voyeurism!"
+}

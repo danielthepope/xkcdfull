@@ -1,0 +1,11 @@
+{
+  "num": 1056,
+  "url": "https://xkcd.com/1056",
+  "title": "Felidae",
+  "img": "https://imgs.xkcd.com/comics/felidae.png",
+  "alt": "'Smilodon fatalis' narrowly edged out 'Tyrannosaurus rex' to win this year's Most Badass Latin Names competition, after edging out 'Dracorex hogwartsia' and 'Stygimoloch spinifer' (meaning 'horned dragon from the river of death') in the semifinals.",
+  "year": "2012",
+  "month": "5",
+  "day": "16",
+  "transcript": "Well-known felines:\n[A graph organizing various feline species labeled with common names ordered by genera (in order of which would win in a fight) on the y axis, and coolness of name on the x axis.]\nSmilodon (extinct): \"Saber-toothed cat (scientific name: Smilodon fatalis)\nPanthera: \"Jaguar\", \"Leopard\", \"Snow Leopard\", \"Tiger\", \"Lion\"\nPuma: \"Cougar\", \"Puma\", \"Panther\", \"Mountain Lion\"\nOther felidae: \"Ocelot\", \"Cheetah\"\nFelis & Lynx: \"Housecat\", \"Bobcat\", \"Wildcat\", \"Lynx\"\n[Some elements are further connected using an unbranched acyclic digraph. The elements are connected thus: \"Cheetah\" -> \"Puma\" -> \"Jaguar\" -> \"Panther\" -> \"Tiger\" -> \"Leopard\" -> \"Snow Leopard\" -> \"Lion\" -> \"Mountain Lion\".]\nThe OS X Problem"
+}

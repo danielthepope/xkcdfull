@@ -1,0 +1,11 @@
+{
+  "num": 190,
+  "url": "https://xkcd.com/190",
+  "title": "IPoD",
+  "img": "https://imgs.xkcd.com/comics/ipod.png",
+  "alt": "For smaller numbers he has to SAVE lives. The birthrate channel is even more of a mixed bag.",
+  "year": "2006",
+  "month": "11",
+  "day": "29",
+  "transcript": "[Black Hat sits at a computer. Cueball stands behind him.]\nBlack Hat: You see, statisticians communicate using IPoD -- IP over Demographics. For example, the header of the next packet I send will be encoded into the New Jersey death rate.\nCueball: So you're going to hack the census bureau and change the number of reported deaths?\nBlack Hat: Guess again.\nBlack Hat: Hey, have you seen my crossbow?"
+}

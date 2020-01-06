@@ -1,0 +1,11 @@
+{
+  "num": 1247,
+  "url": "https://xkcd.com/1247",
+  "title": "The Mother of All Suspicious Files",
+  "img": "https://imgs.xkcd.com/comics/the_mother_of_all_suspicious_files.png",
+  "alt": "Better change the URL to 'https' before downloading.",
+  "year": "2013",
+  "month": "8",
+  "day": "5",
+  "transcript": "[Browser download warning box containing the following text.]\nWARNING!\nThis type of file can harm your computer! Are you sure you want to download:\nhttp://65.222.202.53/~TILDE/PUB/CIA-BIN/ETC/INIT.DLL?FILE=__AUTOEXEC.BAT.MY%20OSX%20DOCUMENTS-INSTALL.EXE.RAR.INI.TAR.DOÇX.PHPHPHP.XHTML.TML.XTL.TXXT.0DAY.HACK.ERS_(1995)_BLURAY_CAM-XVID.EXE.TAR.[SCR].LISP.MSI.LNK.ZDA.GNN.WRBT.OBJ.O.H.SWF.DPKG.APP.ZIP.TAR.TAR.CO.GZ.A.OUT.EXE\n[Cancel and Save buttons (Save button disabled)]"
+}

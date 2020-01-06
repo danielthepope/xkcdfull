@@ -1,0 +1,11 @@
+{
+  "num": 2027,
+  "url": "https://xkcd.com/2027",
+  "title": "Lightning Distance",
+  "img": "https://imgs.xkcd.com/comics/lightning_distance.png",
+  "alt": "The index of radio refraction does have a lot of variation, which might throw off your calculations, so you can also look at the difference in brightness between the visible flash and more-attenuated UV and x-rays.",
+  "year": "2018",
+  "month": "8",
+  "day": "1",
+  "transcript": "[Cueball and Megan stand on either side of a window, observing a bolt of lightning in a dark sky.]\nCueball: What's that trick for telling how many miles away lightning is?\nMegan: Just count the seconds between the visible flash and the radio wave burst, then multiply by 5 billion."
+}

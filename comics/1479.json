@@ -1,0 +1,11 @@
+{
+  "num": 1479,
+  "url": "https://xkcd.com/1479",
+  "title": "Troubleshooting",
+  "img": "https://imgs.xkcd.com/comics/troubleshooting.png",
+  "alt": "\"Oh, you're using their Chrome APP, not their Chrome EXTENSION. They're very similar but one handles window creation differently.\" is a thing I hope I can stop saying soon.",
+  "year": "2015",
+  "month": "1",
+  "day": "28",
+  "transcript": "[Hairy sitting at a desk with laptop, with Cueball standing behind him.]\nHairy: Wait, why can't I click anywhere?\nCueball: I don't... Ugh, It opened a dialog box offscreen.\nHairy: Why is that even possible?\nCueball: It really shouldn't be. But you can fix it by changing your screen resolution to trigger a window cleanup.\nHairy: Seriously?\nCueball: I know, I know...To be honest, I can't wait for the day when all my stupid computer knowledge becomes obsolete."
+}

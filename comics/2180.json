@@ -1,0 +1,11 @@
+{
+  "num": 2180,
+  "url": "https://xkcd.com/2180",
+  "title": "Spreadsheets",
+  "img": "https://imgs.xkcd.com/comics/spreadsheets.png",
+  "alt": "My brother once asked me if there was a function to produce a calendar grid from a list of dates in Google Sheets. I replied with a single-cell formula that took in a list of dates and outputted a calendar. It used SEQUENCE(), REGEXMATCH(), and a double-nested ARRAYFORMULA(), and it locked up the browser for 15 seconds every time it ran. I think he learned a lot about asking me things.",
+  "year": "2019",
+  "month": "7",
+  "day": "24",
+  "transcript": "Angel: Don't use a spreadsheet! Do it right.\nDevil: But a spreadsheet would be so easy.\nAngel: In the long run you'll regret it!Angel: Take the time to write real code.\nDevil: Just paste the data! Tinker until it works!\nDevil: Build a labyrinth of REGEXREPLACE() and ARRAYFORMULA()!\nDevil: Feel the power!Angel (off-panel): Fight the temptation!\nDevil: Ever tried QUERY() in Google Sheets? It lets you treat a block of cells like a database and run SQL queries on them.Angel: Don't listen to--\nAngel: ... wait, really?\nDevil: Yes, and let me tell you about IMPORTHTML() ...\nAngel: Oooh..."
+}

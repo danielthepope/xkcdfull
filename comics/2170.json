@@ -1,0 +1,11 @@
+{
+  "num": 2170,
+  "url": "https://xkcd.com/2170",
+  "title": "Coordinate Precision",
+  "img": "https://imgs.xkcd.com/comics/coordinate_precision.png",
+  "alt": "40 digits: You are optimistic about our understanding of the nature of distance itself.",
+  "year": "2019",
+  "month": "7",
+  "day": "1",
+  "transcript": "[Single panel containing a table with two columns for \"Lat/Lon Precision\" and \"Meaning\" and a caption above the table.]\nCaption: What The Number of Digits in Your Coordinates Means[Row 1]\nLat/Lon: 28°N, 80°W\nMeaning: You're probably doing something space-related[Row 2]\nLat/Lon: 28.5°N, 80.6°W\nMeaning: You're pointing out a specific city[Row 3]\nLat/Lon: 28.52°N, 80.68°W\nMeaning: You're pointing out a neighborhood[Row 4]\nLat/Lon: 28.523°N, 80.683°W\nMeaning: You're pointing out a specific suburban cul-de-sac[Row 5]\nLat/Lon: 28.5234°N, 80.6830°W\nMeaning: You're pointing to a particular corner of a house[Row 6]\nLat/Lon: 28.52345°N, 80.68309°W\nMeaning: You're pointing to a specific person in a room, but since you didn't include datum information, we can't tell who[Row 7]\nLat/Lon: 28.5234571°N, 80.6830941°W\nMeaning: You're pointing to Waldo on a page[Row 8]\nLat/Lon: 28.523457182°N, 80.683094159°W\nMeaning: \"Hey, check out this specific sand grain!\"[Row 9]\nLat/Lon: 28.523457182818284°N, 80.683094159265358°W\nMeaning: Either you're handing out raw floating point variables, or you've built a database to track individual atoms. In either case, please stop."
+}

@@ -1,0 +1,11 @@
+{
+  "num": 323,
+  "url": "https://xkcd.com/323",
+  "title": "Ballmer Peak",
+  "img": "https://imgs.xkcd.com/comics/ballmer_peak.png",
+  "alt": "Apple uses automated schnapps IVs.",
+  "year": "2007",
+  "month": "10",
+  "day": "1",
+  "transcript": "[A graph with \"programming skill\" on the Y-axis and \"blood alcohol concentration\" on the X-axis. The Y-axis slowly goes down, but spikes at 0.1337%.]\n[Cueball is making a presentation with the graph.]\nCueball: Called the Ballmer Peak, it was discovered by Microsoft in the 80's. The cause is unknown but somehow a B.A.C between 0.129% and 0.138% confers superhuman programming ability.\nCueball: However, it's a delicate effect requiring careful calibration – you can't just give a team of coders a year's supply of whiskey and tell them to get cracking.\nSpectator: ...Has that ever happened?\nCueball: Remember Windows ME?\nSpectator: I knew it!"
+}

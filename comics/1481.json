@@ -1,0 +1,11 @@
+{
+  "num": 1481,
+  "url": "https://xkcd.com/1481",
+  "title": "API",
+  "img": "https://imgs.xkcd.com/comics/api.png",
+  "alt": "ACCESS LIMITS: Clients may maintain connections to the server for no more than 86,400 seconds per day. If you need additional time, you may contact IERS to file a request for up to one additional second.",
+  "year": "2015",
+  "month": "2",
+  "day": "2",
+  "transcript": "[Cueball sitting at a desk staring at a computer screen.]\nAPI Guide\nRequest URL format:\nhttp://~~~.com/<username>/<item ID> Server will return an XML document which contains:\nThe requested data.\nDocumentation describing how the data is organized spatially.API Keys\nTo obtain API access, contact the X.509-authenticated server and request an ECDH-RSA TLS key...\n\nIf you do things right, it can take people a while to realize that your \"API documentation\" is just instructions for how to look at your website."
+}

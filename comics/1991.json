@@ -1,0 +1,11 @@
+{
+  "num": 1991,
+  "url": "https://xkcd.com/1991",
+  "title": "Research Areas by Size and Countedness",
+  "img": "https://imgs.xkcd.com/comics/research_areas_by_size_and_countedness.png",
+  "alt": "Mathematicians give a third answer on the vertical axis, \"That question is poorly defined, but we have a sub-field devoted to every plausible version of it.\"",
+  "year": "2018",
+  "month": "5",
+  "day": "9",
+  "transcript": "[An X-Y scatter plot of research areas, written in gray font, where both axes have arrows in both ends. At the end of each arrow is a label. Above the left part of the X-axis there is a line which goes to a text about the meaning of the X-axis. Similarly there is a line to from the top of the Y-axis to a questions “asked” to those that study the given subject, their answers being somewhere between the two labels on the Y axis.]  [The X-axis from left to right, text first and then labels:]\nSize of the thing you study\nSmall\nBig[The Y-axis from top to bottom, question first and then labels:]\n\"That thing you study - how many of them are there?\"\n\"We have a pretty good estimate.\"\n\"We have no idea\"[The research areas names are listed here below by sorting them into the four quadrants from top left to bottom right. In each quadrant the areas are listed after most left first, and then top to bottom for those at the same x position.][Upper left quadrant (Small & count known):]\nElementary particle physics \nDentistry \nShakespeare studies\nOrnithology\nAncient Literature[Upper right quadrant (Big & count known):]\nPresidential History \t\nMarine Mammology \t\nRailway Engineering \t\nGeology \t\nCosmology*\n(*Depends who you ask)[Lower left quadrant (Small & count unknown):]\nPharmacology\nMicrobiology\nEntymology\nMycology[Upper right quadrant (Big & count unknown):]\nBotany \t\nPaleontology \t\nExobiology \t\nBlack Hole Astronomy \t\nTheology"
+}

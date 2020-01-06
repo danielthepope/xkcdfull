@@ -1,0 +1,11 @@
+{
+  "num": 1425,
+  "url": "https://xkcd.com/1425",
+  "title": "Tasks",
+  "img": "https://imgs.xkcd.com/comics/tasks.png",
+  "alt": "In the 60s, Marvin Minsky assigned a couple of undergrads to spend the summer programming a computer to use a camera to identify objects in a scene. He figured they'd have the problem solved by the end of the summer. Half a century later, we're still working on it.",
+  "year": "2014",
+  "month": "9",
+  "day": "24",
+  "transcript": "[Ponytail sitting at a computer with Cueball standing behind her.]\nCueball: When a user takes a photo, the app should check whether they're in a national park...\nPonytail: Sure, easy GIS lookup. Gimme a few hours.\nCueball: ...and check whether the photo is of a bird.\nPonytail: I'll need a research team and five years.\n[Caption below the Panel:]\nIn CS, it can be hard to explain the difference between the easy and the virtually impossible."
+}

@@ -1,0 +1,11 @@
+{
+  "num": 384,
+  "url": "https://xkcd.com/384",
+  "title": "The Drake Equation",
+  "img": "https://imgs.xkcd.com/comics/the_drake_equation.png",
+  "alt": "But seriously, there's loads of intelligent life. It's just not screaming constantly in all directions on the handful of frequencies we search.",
+  "year": "2008",
+  "month": "2",
+  "day": "15",
+  "transcript": "The Drake Equation:\nN = R* fp ne fl fi fc L Bs\nN: Number of communicating civilizations in our galaxy\nne: Number of life-supporting planets per solar system\nfi: Probability that life on a planet becomes intelligent\nBs: Amount of bullshit you're willing to buy from Frank Drake"
+}

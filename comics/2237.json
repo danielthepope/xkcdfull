@@ -1,0 +1,11 @@
+{
+  "num": 2237,
+  "url": "https://xkcd.com/2237",
+  "title": "AI Hiring Algorithm",
+  "img": "https://imgs.xkcd.com/comics/ai_hiring_algorithm.png",
+  "alt": "So glad Kate over in R&D pushed for using the AlgoMaxAnalyzer to look into this. Hiring her was a great decisio- waaaait.",
+  "year": "2019",
+  "month": "12",
+  "day": "4",
+  "transcript": "[Ponytail is pointing to a slide with a stick. The slide hangs in two strings from the ceiling. The slide has a heading and a subheading. And then a table with a vertical and a horizontal line with headings above the two columns.]\nPonytail: An analysis of our new AI hiring algorithm has raised some concerns.DeepAIHire® Candidate Evaluation Algorithm\nInferred internal weightings\n\n Weight\n\n Factor\n\n\n 0.0096\n\n Educational background\n\n\n 0.0520\n\n Past experience\n\n\n 0.0208\n\n Recommendations\n\n\n 0.0105\n\n Interview performance\n\n\n 783.5629\n\n Enthusiasm for developingand expanding the use ofthe DeepAIHire algorithm\n"
+}

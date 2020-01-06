@@ -1,0 +1,11 @@
+{
+  "num": 1935,
+  "url": "https://xkcd.com/1935",
+  "title": "2018",
+  "img": "https://imgs.xkcd.com/comics/2018.png",
+  "alt": "We should really start calculating it earlier, but until the end of December we're always too busy trying to figure out which day Christmas will fall on.",
+  "year": "2017",
+  "month": "12",
+  "day": "29",
+  "transcript": "[Megan is walking.]\nMegan: I wonder if 2018 will be a leap year.[Now it turns out that Cueball walks behind Megan.]\nCueball: ...it won't be, right?\nMegan: I doubt anyone knows at this point.[Same scene in a frame-less panel.]\nCueball: No, it's definitely not. Leap years are divisible by 4.\nMegan: Right, and for odd numbers, that's easy. \nMegan: But 2018 is even.\nMegan: 50/50 chance.[Zoomed-out view with both walking in silhouette on a dark slightly curved ground.]\nCueball: I can settle this with a calculator.\nMegan: No way. If it were easy to factor large numbers like that, modern cryptography would collapse.\nCueball: I see.\nMegan: I just hope we manage to brute-force it by February."
+}

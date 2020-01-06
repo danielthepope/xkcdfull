@@ -1,0 +1,11 @@
+{
+  "num": 2118,
+  "url": "https://xkcd.com/2118",
+  "title": "Normal Distribution",
+  "img": "https://imgs.xkcd.com/comics/normal_distribution.png",
+  "alt": "It's the NORMAL distribution, not the TANGENT distribution.",
+  "year": "2019",
+  "month": "3",
+  "day": "1",
+  "transcript": "[A bell curve of a normal distribution, with the area between two horizontal lines shaded.][The center of the chart is marked between the two lines:]\nMidpoint[The distance between the lines is marked to the right of the midpoint, with the label:]\n52.7%[A label on the outside of the graph, describing the distance between the two lines:]\n\"Remember, 50% of the distribution falls between these two lines!\"[Caption below the panel:]\nHow to annoy a statistician"
+}

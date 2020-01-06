@@ -1,0 +1,11 @@
+{
+  "num": 1275,
+  "url": "https://xkcd.com/1275",
+  "title": "int(pi)",
+  "img": "https://imgs.xkcd.com/comics/int_pi.png",
+  "alt": "If replacing all the '3's doesn't fix your code, remove the 4s, too, with 'ceiling(pi) / floor(pi) * pi * r^floor(pi)'. Mmm, floor pie.",
+  "year": "2013",
+  "month": "10",
+  "day": "9",
+  "transcript": "[Inside a frame a formula is shown:]\nvolume(r) = (4/int(pi))*pi*r^int(pi)[Caption below the frame:]\nProgramming Tip: The number \"3\" is cursed. Avoid it."
+}

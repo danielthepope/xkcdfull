@@ -1,0 +1,11 @@
+{
+  "num": 1301,
+  "url": "https://xkcd.com/1301",
+  "title": "File Extensions",
+  "img": "https://imgs.xkcd.com/comics/file_extensions.png",
+  "alt": "I have never been lied to by data in a .txt file which has been hand-aligned.",
+  "year": "2013",
+  "month": "12",
+  "day": "9",
+  "transcript": "[Caption above the bar chart:]\nTrustworthiness of Information by File Extension[A line is going down and from that gray bars charting the trustworthiness in a bar graph that goes both left and right of the line. No units or figures are given. For ease of comprehension this transcript will arbitrarily designate the highest score as [+100]; subsequent scores are estimates based on the size of their bars.]\n[+100]: .tex\n[+89]: .pdf\n[+85]: .csv\n[+67]: .txt\n[+65]: .svg\n[+49]: .xls/.xlsx\n[+21]: .doc\n[+15]: .png\n[+14]: .ppt\n[+3]: .jpg\n[-8]: .jpeg\n[-36]: .gif"
+}

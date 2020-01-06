@@ -1,0 +1,11 @@
+{
+  "num": 128,
+  "url": "https://xkcd.com/128",
+  "title": "dPain over dt",
+  "img": "https://imgs.xkcd.com/comics/dPain_over_dt.png",
+  "alt": "You laugh to keep from crying, you do math to keep from crying...",
+  "year": "2006",
+  "month": "7",
+  "day": "14",
+  "transcript": "dPain/dt = (-k1 Pain + [Image of Megan]) (1/(1 + e ^ -(t-k2)/d))\nk1=?\nk2=?\n[Image of Megan]=How much she's still in my life\nPlease let d only be a few days... or weeks\nI guess there's some kind of a cutoff after years, where it stops mattering and we can be friends. Do I want that?\nIs k1 positive? Is k2 large?\nWill I ever stop feeling like this?"
+}

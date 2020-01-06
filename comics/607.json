@@ -1,0 +1,11 @@
+{
+  "num": 607,
+  "url": "https://xkcd.com/607",
+  "title": "2038",
+  "img": "https://imgs.xkcd.com/comics/2038.png",
+  "alt": "If only we'd chosen 1944-12-02 08:45:52 as the Unix epoch, we could've combined two doomsday scenarios into one and added a really boring scene to that Roland Emmerich movie.",
+  "year": "2009",
+  "month": "7",
+  "day": "8",
+  "transcript": "[Text above the panel:]\nI'm glad we're switching to 64-bit, because I wasn't looking forward to convincing people to care about the Unix 2038 problem.\n[Cueball's Cueball-like friends asks him a question. Cueball raises his arm above his head while answering.]\nFriend: What's that?\nCueball: Remember Y2K? This could be even worse!"
+}

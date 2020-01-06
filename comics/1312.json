@@ -1,0 +1,11 @@
+{
+  "num": 1312,
+  "url": "https://xkcd.com/1312",
+  "title": "Haskell",
+  "img": "https://imgs.xkcd.com/comics/haskell.png",
+  "alt": "The problem with Haskell is that it's a language built on lazy evaluation and nobody's actually called for it.",
+  "year": "2014",
+  "month": "1",
+  "day": "3",
+  "transcript": "[Megan and Cueball are discussing.]\nMegan: Code written in Haskell is guaranteed to have no side effects.\nCueball: ...because no one will ever run it?"
+}

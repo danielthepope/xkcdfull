@@ -1,0 +1,11 @@
+{
+  "num": 1924,
+  "url": "https://xkcd.com/1924",
+  "title": "Solar Panels",
+  "img": "https://imgs.xkcd.com/comics/solar_panels.png",
+  "alt": "This works for a surprising range of sunlit things, including rooftops (sure), highway surfaces (probably not), sailboats (maybe), and jets, cars, and wild deer (haha good luck).",
+  "year": "2017",
+  "month": "12",
+  "day": "4",
+  "transcript": "[A flow chart that features four questions in bubbles. Each question has yes/no options in bubbles overlain to the left and right on the question bubble. Curved arrows points from the yes and no bubbles to either next question or the result. The result written at the bottom is not inside bubbles. The chart has two main branches, that ends up in five places using only four different results, as the middle result is shared by both branches. Above the chart there is a caption:]\nShould I put solar panels on it?Does it move around?\nYes \nDoes it have regular chances to recharge or swap batteries?\nYes \nProbably not\nNo \nWhen running, is it hot to the touch?\nNo \nMaybe\nYes \nHaha good luck\nNo \nIs there an empty space nearby where it would be easier to put them?\nYes \nProbably not [Uses the same sentence as the one in the first branch.]\nNo \nSure"
+}

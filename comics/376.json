@@ -1,0 +1,11 @@
+{
+  "num": 376,
+  "url": "https://xkcd.com/376",
+  "title": "Bug",
+  "img": "https://imgs.xkcd.com/comics/bug.png",
+  "alt": "The universe started in 1970. Anyone claiming to be over 38 is lying about their age.",
+  "year": "2008",
+  "month": "1",
+  "day": "28",
+  "transcript": "[Cueball sits at a computer, staring at the screen and rubbing his chin in thought. A friend stands behind him.]\nCueball: Weird — My code's crashing when given pre-1970 dates.\nFriend [pointing at Cueball and his computer]: Epoch fail!"
+}

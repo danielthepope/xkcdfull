@@ -1,0 +1,11 @@
+{
+  "num": 1988,
+  "url": "https://xkcd.com/1988",
+  "title": "Containers",
+  "img": "https://imgs.xkcd.com/comics/containers.png",
+  "alt": "All services are microservices if you ignore most of their features.",
+  "year": "2018",
+  "month": "5",
+  "day": "2",
+  "transcript": "[White Hat is sitting at a laptop. Cueball is standing behind him.]\nWhite Hat: Man, Docker is being used for everything.\nWhite Hat: I don't know how I feel about it.\nCueball: Story time![Cueball is standing by himself.]\nCueball: Once, long ago, I wanted to use an old tablet as a wall display.[A picture of Cueball's imagined tablet with two applications open side by side. The app on the left is \"LiveCam\". The app on the right is Google Calendar.]\nCueball: I had an app and a calendar webpage that I wanted to show side by side, but the OS didn't have split-screen support.\nCueball: So I decided to build my own app.[White Hat and Cueball as before, but White Hat has turned to face Cueball.]\nCueball: I downloaded the SDK and the IDE, registered as a developer, and started reading the language's docs.[A picture of two smartphones glued together side by side, held on a backing board. The same two applications shown earlier are open on different phones.]\nCueball: ...Then I realized it would be way easier to get two smaller phones on eBay and glue them together.\nCueball: On that day, I achieved software enlightenment.[White Hat and Cueball still facing each other, with White Hat's arm resting on the back of the chair.]\nWhite Hat: But you never learned to write software.\nCueball: No, I just learned how to glue together stuff that I don't understand.\nWhite Hat: I...OK, fair."
+}

@@ -1,0 +1,11 @@
+{
+  "num": 1319,
+  "url": "https://xkcd.com/1319",
+  "title": "Automation",
+  "img": "https://imgs.xkcd.com/comics/automation.png",
+  "alt": "'Automating' comes from the roots 'auto-' meaning 'self-', and 'mating', meaning 'screwing'.",
+  "year": "2014",
+  "month": "1",
+  "day": "20",
+  "transcript": "\"I spend a lot of time on this task. I should write a program automating it!\"[Two graphs are shown, plotting workload against time.]Theory:\n[The line for \"work on original task\" is steady but then drops down to a much lower level.]\n[The line for the automating job increases heavily while \"writing code\" and then drops down when \"automation takes over\".]\n[Both lines end up with a big amount of \"free time\".]Reality:\n[The line for \"work on original task\" is steady with no drop to a lower level.]\n[The line for the automating job increases heavily while \"writing code\", then it increases again while \"debugging\", it drops down slightly while \"rethinking\", and grows up again with an infinite end while the task is still an \"ongoing development\".]\n[The line for \"work on original task\" ends up with \"no time for original task anymore\".]"
+}

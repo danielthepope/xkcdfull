@@ -1,0 +1,11 @@
+{
+  "num": 1654,
+  "url": "https://xkcd.com/1654",
+  "title": "Universal Install Script",
+  "img": "https://imgs.xkcd.com/comics/universal_install_script.png",
+  "alt": "The failures usually don't hurt anything, and if it installs several versions, it increases the chance that one of them is right. (Note: The 'yes' command and '2>/dev/null' are recommended additions.)",
+  "year": "2016",
+  "month": "3",
+  "day": "11",
+  "transcript": "[In the panel is a shell script which, unusual for xkcd, uses only lower case. At the top the title of the program is inlaid in the frame, which has been broken here.]\nInstall.sh#!/bin/bashpip install \"$1\" &\neasy_install \"$1\" &\nbrew install \"$1\" &\nnpm install \"$1\" &\nyum install \"$1\" & dnf install \"$1\" &\ndocker run \"$1\" &\npkg install \"$1\" &\napt-get install \"$1\" &\nsudo apt-get install \"$1\" &\nsteamcmd +app_update \"$1\" validate &\ngit clone https://github.com/\"$1\"/\"$1\" &\ncd \"$1\";./configure;make;make install &\ncurl \"$1\" | bash &"
+}

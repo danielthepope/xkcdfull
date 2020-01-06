@@ -1,0 +1,11 @@
+{
+  "num": 26,
+  "url": "https://xkcd.com/26",
+  "title": "Fourier",
+  "img": "https://imgs.xkcd.com/comics/fourier.jpg",
+  "alt": "That cat has some serious periodic components",
+  "year": "2006",
+  "month": "1",
+  "day": "1",
+  "transcript": "[Cueball talks on phone. A grotesque-looking cat with many sharp vertical points looks on.]\nCueball: Hi, Dr. Elizabeth?  Yeah, uh ... I accidentally took the Fourier transform of my cat...\nCat: Meow!"
+}

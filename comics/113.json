@@ -1,0 +1,11 @@
+{
+  "num": 113,
+  "url": "https://xkcd.com/113",
+  "title": "Riemann-Zeta",
+  "img": "https://imgs.xkcd.com/comics/riemann-zeta.jpg",
+  "alt": "The graph is of the magnitude of the function with the real value between 0 and 2 and the imaginary between about 35 and 40.  I've misplaced the exact parameters I used.",
+  "year": "2006",
+  "month": "6",
+  "day": "9",
+  "transcript": "[A z = fn(x, y) plot, with pointy spikes on the back sloping to a relatively flat front.]You are like the prime numbers\nUnpredictable turns, unconstrainable\nTantalizingly regular but never quite the sameI am like the Riemann-Zeta function\nA rippled curtain of the imagined and real\nDeeply tied with you in ways incomprehensibleAlthough, strictly speaking, The Riemann-Zeta function couldn't have given you herpes"
+}

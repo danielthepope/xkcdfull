@@ -1,0 +1,11 @@
+{
+  "num": 1395,
+  "url": "https://xkcd.com/1395",
+  "title": "Power Cord",
+  "img": "https://imgs.xkcd.com/comics/power_cord.png",
+  "alt": "In this situation, gzip /dev/inside to deflate, then pipe the compressed air to /dev/input to clean your keyboard. Avert your eyes when you do.",
+  "year": "2014",
+  "month": "7",
+  "day": "16",
+  "transcript": "[Beret Guy enters to find Cueball on a chair typing on a laptop. Cueball's power cord is unplugged from the wall.]\nCueball typing: Type type[Beret Guy picks up the power cord. Cueball continues typing.]\nCueball typing: Type type[Beret Guy blows into the plug end of the cord. The laptop abruptly inflates and Cueball jerks back.]\nBeret Guy: PBBBBT\nLaptop: FOOMP[Beret Guy walks away, leaving Cueball climbing up his chair to retrieve his inflated laptop which is now floating away.]"
+}

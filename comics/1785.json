@@ -1,0 +1,11 @@
+{
+  "num": 1785,
+  "url": "https://xkcd.com/1785",
+  "title": "Wifi",
+  "img": "https://imgs.xkcd.com/comics/wifi.png",
+  "alt": "Further out to the right, it works correctly, but the reason it works still involves the word 'firmware.'",
+  "year": "2017",
+  "month": "1",
+  "day": "13",
+  "transcript": "[A line graph with a curve that starts just right of the Y-axis above the middle of the axis. Then it increases slightly and stays almost stable on a long flat plateau before it falls off fast towards the right.  Each axis ends in an arrow and has a label to the left of the Y-axis and below the x-axis. Over the curve there are three labels, pointing with one arrow to the two rising and falling parts, and three arrows to the center label above the plateau.]\nY-axis: Probability houseguest will be able to connect to WiFi\nX-axis: Houseguest tech-savviness\nLeft label: Can't find wifi settings\nCenter label: Works fine\nRight label: Something involving the word \"firmware\""
+}

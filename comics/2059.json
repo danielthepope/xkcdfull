@@ -1,0 +1,11 @@
+{
+  "num": 2059,
+  "url": "https://xkcd.com/2059",
+  "title": "Modified Bayes' Theorem",
+  "img": "https://imgs.xkcd.com/comics/modified_bayes_theorem.png",
+  "alt": "Don't forget to add another term for \"probability that the Modified Bayes' Theorem is correct.\"",
+  "year": "2018",
+  "month": "10",
+  "day": "15",
+  "transcript": "[The comic shows a formula with a header in gray on top:]\nModified Bayes' theorem:[The formula:]\nP(H|X) = P(H) × (1 + P(C) × ( P(X|H)/P(X) - 1 ))[Variables and functions are described also in gray:]\nH: Hypothesis\nX: Observation\nP(H): Prior probability that H is true\nP(X): Prior probability of observing X\nP(C): Probability that you're using Bayesian statistics correctly"
+}

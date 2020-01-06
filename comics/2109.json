@@ -1,0 +1,11 @@
+{
+  "num": 2109,
+  "url": "https://xkcd.com/2109",
+  "title": "Invisible Formatting",
+  "img": "https://imgs.xkcd.com/comics/invisible_formatting.png",
+  "alt": "To avoid errors like this, we render all text and pipe it through OCR before processing, fixing a handful of irregular bugs by burying them beneath a smooth, uniform layer of bugs.",
+  "year": "2019",
+  "month": "2",
+  "day": "8",
+  "transcript": "[A text editor, with some options. They are superscript in one section, bold, italic and underscore in another section and alignments in the third section. The word \"not \", including the following space, is highlighted in blue. There is a cursor below it.]\nText: ...ere, but would not have to mo...\nAction: Select[The cursor is on the \"bold\" option and the selected word is bolded.]\nText: ...ere, but would not have to mo...\nAction: Click[The cursor is next to the \"to\". No text is highlighted.]\nThought bubble: ...Nah, the bold is too much.\nText: ...ere, but would not have to mo...[The word \"not\" is now highlighted in blue again, but the following space is not.]\nText: ...ere, but would not have to mo...\nAction: Select[The cursor is on the \"bold\" option and the selected word is not bolded.]\nText: ...ere, but would not have to mo...\nAction: Click[The cursor and the blue highlighting are gone. The space after \"not\" has a dashed box around it, and an arrow points to it.]\nText: ...ere, but would not have to mo...\nArrow: Hidden bold space[Caption below the panels:]\nWhen editing text, in the back of my mind I always worry that I'm adding invisible formatting that will somehow cause a problem in the distant future."
+}

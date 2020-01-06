@@ -1,0 +1,11 @@
+{
+  "num": 1987,
+  "url": "https://xkcd.com/1987",
+  "title": "Python Environment",
+  "img": "https://imgs.xkcd.com/comics/python_environment.png",
+  "alt": "The Python environmental protection agency wants to seal it in a cement chamber, with pictoral messages to future civilizations warning them about the danger of using sudo to install random Python packages.",
+  "year": "2018",
+  "month": "4",
+  "day": "30",
+  "transcript": "[A single frame depicting a flowchart is shown. Many chaotic arrows are arranged between the items which are:]\n$PYTHONPATH\nEASY_INSTALL\nANACONDA PYTHON\nHOMEBREW PYTHON (3.6)\nANOTHER PIP??\nHOMEBREW PYTHON (2.7)\nPYTHON.ORG BINARY (2.6)\nPIP\nEASY_INSTALL\n$PATH\n(MISC FOLDERS OWNED BY ROOT)\n????[The endpoints are:]\n/usr/local/Cellar \n/usr/local/opt\n/(A BUNCH OF PATHS WITH \"FRAMEWORKS\" IN THEM SOMEWHERE)/\n~/python/ \n~/newenv/\n/usr/local/lib/python3.6\n/usr/local/lib/python2.7[Caption below the panel:]\nMy Python environment has become so degraded that my laptop has been declared a superfund site."
+}

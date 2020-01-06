@@ -1,0 +1,11 @@
+{
+  "num": 2169,
+  "url": "https://xkcd.com/2169",
+  "title": "Predictive Models",
+  "img": "https://imgs.xkcd.com/comics/predictive_models.png",
+  "alt": "WE WILL ARREST THE REVOLUTION MEMBERS [AT THE JULY 28TH MEETING][tab] \"Cancel the meeting! Our cover is blown.\"",
+  "year": "2019",
+  "month": "6",
+  "day": "28",
+  "transcript": "[Cueball is sitting in an office chair at a desk typing on a laptop. Above him is the text he writes along with what the predictive text tool suggests, the latter in grey text. The TAB at the end is in a small frame.]\nCueball typing: Long live the revolution. Our next meeting will be at| the docks at midnight on June 28 [tab]\nCueball: Aha, found them![Caption below the panel:]\nWhen you train predictive models on input from your users, it can leak information in unexpected ways."
+}

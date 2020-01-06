@@ -1,0 +1,11 @@
+{
+  "num": 705,
+  "url": "https://xkcd.com/705",
+  "title": "Devotion to Duty",
+  "img": "https://imgs.xkcd.com/comics/devotion_to_duty.png",
+  "alt": "The weird sense of duty really good sysadmins have can border on the sociopathic, but it's nice to know that it stands between the forces of darkness and your cat blog's servers.",
+  "year": "2010",
+  "month": "2",
+  "day": "22",
+  "transcript": "[Bearded criminal is holding a pistol and talking on a mobile phone.]\nCriminal: We took the hostages, secured the building and cut the communication lines like you said.\nPhone: Excellent.[Still talking on the phone, waving gun around in the air animatedly.]\nCriminal: But then this guy climbed up the ventilation ducts and walked across broken glass, killing anyone we sent to stop him.Phone: And he rescued the hostages?[Criminal looking confused and defeated, shoulders hunched and pistol hanging limply at his side.]\nCriminal: No, he ignored them. He just reconnected the cables we cut, muttering something about \"uptime\".\nPhone: Shit, we're dealing with a sysadmin."
+}

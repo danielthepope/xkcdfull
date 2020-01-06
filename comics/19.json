@@ -1,0 +1,11 @@
+{
+  "num": 19,
+  "url": "https://xkcd.com/19",
+  "title": "George Clinton",
+  "img": "https://imgs.xkcd.com/comics/george_clinton.jpg",
+  "alt": "I still wish it were true.",
+  "year": "2006",
+  "month": "1",
+  "day": "1",
+  "transcript": "[George Clinton indicates one of two equations on the blackboard to the left. There are one more equation and a diagram on the blackboard to the right that exits the frame. The first part of the text is above the blackboards:]\nI once tried to start the urban legend that George Clinton has a B.A. in mathematics[On the left blackboard are two formulas. George points to the lower one:]\nL(F(t) = F(s) = ∫∞0f(t)e-stdtL-1 (F(s)) = f(t) = ∫∞0 F(t)estdt[On the right blackboard are one formula (partly) and a diagram with an x-y scale and three other lines touching down to the base. Above these lines are some numbers that are partly indecipherable.]\nγn = 2n/12K  0 2 3\n⌊⌊⌊⌊[Below George and the blackboards are the part of the text:]\n...but I wanted it to be true so badly that I started believing it myself."
+}

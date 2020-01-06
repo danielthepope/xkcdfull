@@ -1,0 +1,11 @@
+{
+  "num": 1192,
+  "url": "https://xkcd.com/1192",
+  "title": "Humming",
+  "img": "https://imgs.xkcd.com/comics/humming.png",
+  "alt": "I'm so bad at carrying a tune, those 'find a song by humming its melody' websites throw an HTTP 406 error as soon as I start to hum.",
+  "year": "2013",
+  "month": "3",
+  "day": "29",
+  "transcript": "[Megan is humming a tune.]\nCueball: Hey.\nCueball: What's that?[Megan is still humming the same tune.]\nCueball: What are you humming?\nCueball: Should I know the tune?\nCueball: ...Hmm...[Cueball gets out his phone and opens up a music recognition program.]\nPhone: Identify song\nPhone: Recorded\nPhone: > Live [beta]Phone: Identifying...[A zoom in on the phone screen. An album cover with a picture of Megan on it.]\nPositive match:\nCheck it out!\nBy I hacked the audio fingerprint database\nFeat. MEEEEEE\nTrack: We're out of cat food (pick some up?)"
+}

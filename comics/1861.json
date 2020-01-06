@@ -1,0 +1,11 @@
+{
+  "num": 1861,
+  "url": "https://xkcd.com/1861",
+  "title": "Quantum",
+  "img": "https://imgs.xkcd.com/comics/quantum.png",
+  "alt": "If you draw a diagonal line from lower left to upper right, that's the ICP 'Miracles' axis.",
+  "year": "2017",
+  "month": "7",
+  "day": "10",
+  "transcript": "[A chart with the Y-axis titled \"How Philosophically Exciting the Questions Are to a Novice Student\" and the X-axis titled \"How Many Years of Math are Needed to Understand the Answers\". The upper-right portion of the chart is labeled \"Danger Zone\". The following topics are charted as follows:\nBasic Physics: low excitement, low prerequisites\nFluid Dynamics: low excitement, high prerequisites\nMagnets: medium excitement, medium prerequisites\nGeneral Relativity: medium excitement, high prerequisites (on the border to the \"Danger Zone\")\nSpecial Relativity: high excitement, low prerequisites\nQuantum Mechanics: high excitement, high prerequisites (in the \"Danger Zone\")][Caption below the panel:]\nWhy so many people have weird ideas about Quantum Mechanics"
+}

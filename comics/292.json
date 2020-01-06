@@ -1,0 +1,11 @@
+{
+  "num": 292,
+  "url": "https://xkcd.com/292",
+  "title": "goto",
+  "img": "https://imgs.xkcd.com/comics/goto.png",
+  "alt": "Neal Stephenson thinks it's cute to name his labels 'dengo'",
+  "year": "2007",
+  "month": "7",
+  "day": "20",
+  "transcript": "[Sideways view of Cueball sitting at computer, thinking.]\nCueball: I could restructure the program's flow - or use one little 'GOTO' instead.\nCueball: Eh, screw good practice. How bad can it be?\nText on computer: goto main_sub3;\n*Compile*\n[We now have a view from behind Cueball. Cueball looks at the computer.]\n[A raptor jumps into the panel, pushing Cueball off his chair.]"
+}

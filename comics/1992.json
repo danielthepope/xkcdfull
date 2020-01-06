@@ -1,0 +1,11 @@
+{
+  "num": 1992,
+  "url": "https://xkcd.com/1992",
+  "title": "SafetySat",
+  "img": "https://imgs.xkcd.com/comics/safetysat.png",
+  "alt": "During launch, in the event of an unexpected sensor reading, SafetySat will extend prongs in all directions to secure itself and any other cubesats safely in the launch vehicle until the source of the problem can be determined.",
+  "year": "2018",
+  "month": "5",
+  "day": "11",
+  "transcript": "[A prototype for a small cube-shaped \"CubeSat\" satellite, with labels on various components.][Labeled on top:]\nRare-Earth Magnets\nBic Mini Lighter\nSoftware-Defined Radio (code editable via a public wiki)[Labeled on right:]\nLaser Pointers (fixed)\nLaser Pointer (Hubble-seeking)\nOzone-Depleting CFC Spritzer[Labeled on bottom:]\nCelebratory Firework\nVolatile Epoxy Seal\nFiller (Guncotton)[Labeled on left:]\nAmericium Corners\nSpark Plug\nSolar Panel (found)\nBatteries (eBay)\nWet Sand Dispenser[Labeled from within drawing in white text on top of a black rectangle:] \nCrude Oil[Caption below the panel:]\nMy CubeSat proposal was the first to be rejected for violating every design and safety requirement simultaneously."
+}

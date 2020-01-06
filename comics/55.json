@@ -1,0 +1,11 @@
+{
+  "num": 55,
+  "url": "https://xkcd.com/55",
+  "title": "Useless",
+  "img": "https://imgs.xkcd.com/comics/useless.jpg",
+  "alt": "Even the identity matrix doesn't work normally",
+  "year": "2006",
+  "month": "1",
+  "day": "27",
+  "transcript": "[Different mathematic equations, all with heart on left side, and all equal question mark. Below is a caption.]\n√♥ = ?\ncos ♥ = ?\nd/dx ♥ = ?\n[1 0]♥ = ?\n[0 1]\nF{♥} = 1/√2π ∫∞-∞f(t)eit♥dt = ?\nMy normal approach is useless here."
+}

@@ -1,0 +1,11 @@
+{
+  "num": 859,
+  "url": "https://xkcd.com/859",
+  "title": "(",
+  "img": "https://imgs.xkcd.com/comics/(.png",
+  "alt": "Brains aside, I wonder how many poorly-written xkcd.com-parsing scripts will break on this title (or ;;\"''{<<[' this mouseover text.\"",
+  "year": "2011",
+  "month": "2",
+  "day": "11",
+  "transcript": "[Caption inside an oblong panel:]\n(An unmatched left parenthesis creates an unresolved tension that will stay with you all day."
+}

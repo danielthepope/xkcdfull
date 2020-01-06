@@ -1,0 +1,11 @@
+{
+  "num": 1638,
+  "url": "https://xkcd.com/1638",
+  "title": "Backslashes",
+  "img": "https://imgs.xkcd.com/comics/backslashes.png",
+  "alt": "I searched my .bash_history for the line with the highest ratio of special characters to regular alphanumeric characters, and the winner was: cat out.txt | grep -o \"[[(].*[])][^)]]*$\" ... I have no memory of this and no idea what I was trying to do, but I sure hope it worked.",
+  "year": "2016",
+  "month": "2",
+  "day": "2",
+  "transcript": "[A list of the names of different numbers of backslashes. After each \"item\" there is a gray line to the text describing each item. As the text is aligned above each other, the lines becomes shorter as the sequence of backslashes becomes longer until there is just a line with the length of a single hyphen for the last item. There are 1 to 8 backslashes and then 11 plus \"...\" in the last entry.]\n\\------------ Backslash\n\\\\----------- Real backslash\n\\\\\\---------- Real real backslash\n\\\\\\\\---------- Actual backslash, for real this time\n\\\\\\\\\\--------- Elder backslash\n\\\\\\\\\\\\-------- Backslash which escapes the screen and enters your brain\n\\\\\\\\\\\\\\------- Backslash so real it transcends time and space\n\\\\\\\\\\\\\\\\------ Backslash to end all other text\n\\\\\\\\\\\\\\\\\\\\\\...- The true name of Ba'al, the Soul-Eater"
+}

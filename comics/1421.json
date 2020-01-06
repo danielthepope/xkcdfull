@@ -1,0 +1,11 @@
+{
+  "num": 1421,
+  "url": "https://xkcd.com/1421",
+  "title": "Future Self",
+  "img": "https://imgs.xkcd.com/comics/future_self.png",
+  "alt": "Maybe I haven't been to Iceland because I'm busy dealing with YOUR crummy code.",
+  "year": "2014",
+  "month": "9",
+  "day": "15",
+  "transcript": "[Cueball is sitting at a laptop, reading code. The two separate parts of code as well as the two comments by Cueball is connected with \"speak\" lines, with the line from the code going down to the computer screen.]# Dear Future Self,\n#\n# You're looking at this file because\n# the parse function finally broke.\n#\n# It's not fixable. You have to rewrite it.\n# Sincerely, Past SelfCueball: Dear Past Self, it's kinda creepy how you do that.# Also, it's probably at least\n# 2013. Did you ever take\n# that trip to Iceland?Cueball: Stop judging me!"
+}

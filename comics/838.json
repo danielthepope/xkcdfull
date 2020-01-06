@@ -1,0 +1,11 @@
+{
+  "num": 838,
+  "url": "https://xkcd.com/838",
+  "title": "Incident",
+  "img": "https://imgs.xkcd.com/comics/incident.png",
+  "alt": "He sees you when you're sleeping, he knows when you're awake, he's copied on /var/spool/mail/root, so be good for goodness' sake.",
+  "year": "2010",
+  "month": "12",
+  "day": "24",
+  "transcript": "[Rob is sitting at a computer. The computer's prompt is shown.]\n[email protected]~$ sudo su\nPassword:\nrobm is not in the sudoers file. This incident will be reported.\n[email protected]~$ █[Megan approaches.]\nRob: Hey — who does sudo report these \"incidents\" to?\nMegan: You know, I've never checked.[Santa Claus is sitting at a desk supported by candy canes, with a red monitor. On the wall are two lists labeled 'naughty' and 'nice'. He is in the process of adding a line to the 'naughty' list.]"
+}

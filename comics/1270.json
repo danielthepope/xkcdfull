@@ -1,0 +1,11 @@
+{
+  "num": 1270,
+  "url": "https://xkcd.com/1270",
+  "title": "Functional",
+  "img": "https://imgs.xkcd.com/comics/functional.png",
+  "alt": "Functional programming combines the flexibility and power of abstract mathematics with the intuitive clarity of abstract mathematics.",
+  "year": "2013",
+  "month": "9",
+  "day": "27",
+  "transcript": "[White Hat stands behind Cueball, who is sitting at a computer.]\nWhite Hat: Why do you like functional programming so much? What does it actually get you?\nCueball: Tail recursion is its own reward."
+}

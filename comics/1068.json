@@ -1,0 +1,11 @@
+{
+  "num": 1068,
+  "url": "https://xkcd.com/1068",
+  "title": "Swiftkey",
+  "img": "https://imgs.xkcd.com/comics/swiftkey.png",
+  "alt": "Although the Markov chain-style text model is still rudimentary; it recently gave me \"Massachusetts Institute of America\". Although I have to admit it sounds prestigious.",
+  "year": "2012",
+  "month": "6",
+  "day": "13",
+  "transcript": "[Cueball showing his phone to Megan.]\nCueball: Have you tried SwiftKey? It's got the first decent language model I've seen. It learns from your SMS/Email archives what words you use together most often.[Cueball and Megan in a frameless panel, with Megan now holding Cueball's phone.]\nCueball: Spacebar inserts its best guess. So if I type \"The Empi\" and hit space three times, it types \"The Empire Strikes Back\".\nMegan: What if you mash space in a blank message?[Zoomed in on Megan looking at Cueball's phone, with Cueball now off-frame to the left.]\nCueball: I guess it fills in your most likely first word, then the word that usually follows it...\nMegan: So it builds up your \"typical\" sentence. Cool! Let's see yours!\nCueball: Uh—[Eight small frames arranged in panel space, 2 frames wide by 4 frames high, showing each word added by Swiftkey as Megan hits space each time:]\nSwiftKey: I\nSwiftKey: Am\nSwiftKey: So\nSwiftKey: Sorry—\nSwiftKey: That's\nSwiftKey: Never\nSwiftKey: Happened\nSwiftKey: Before."
+}

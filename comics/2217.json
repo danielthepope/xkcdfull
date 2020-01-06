@@ -1,0 +1,11 @@
+{
+  "num": 2217,
+  "url": "https://xkcd.com/2217",
+  "title": "53 Cards",
+  "img": "https://imgs.xkcd.com/comics/53_cards.png",
+  "alt": "Well, there's one right here at the bottom, where it says \"53.\"",
+  "year": "2019",
+  "month": "10",
+  "day": "18",
+  "transcript": "[Cueball and Ponytail are standing next to a flowchart, with Cueball gesturing to it.]:\nCueball: I've found a way to turn a 52-card deck into 53 cards by shuffling and rearranging them.\nPonytail: No, you haven't.\nCueball: How do you know?! I challenge you to find an error in my math![The flow chart consist of 15 boxes of different sizes, connected with arrows. In four of them (top, bottom and two in the middle) a deck of card is shown. Next to the top and bottom a number is written, near the other two, which are the only round boxes, numbers are shown in one of the nearby boxes instead. Beneath the top box there are two boxes with readable text. The other 7 boxes, without numbers or card decks have unreadable text. From top to bottom are the readable content:]\n52\nShuffle\nCut\n21\n38\n53[Caption below the panel]:\nEvery conversation between a physicist and a perpetual motion enthusiast."
+}

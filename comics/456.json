@@ -1,0 +1,11 @@
+{
+  "num": 456,
+  "url": "https://xkcd.com/456",
+  "title": "Cautionary",
+  "img": "https://imgs.xkcd.com/comics/cautionary.png",
+  "alt": "This really is a true story, and she doesn't know I put it in my comic because her wifi hasn't worked for weeks.",
+  "year": "2008",
+  "month": "7",
+  "day": "30",
+  "transcript": "Linux: A True Story:\n[Cueball talks on a cell phone.]\nWeek One:\nCousin: Hey, it's your cousin. I got a new computer but don't want Windows. Can you help me install \"Linux\"?\nCueball: Sure.[Cueball's cousin sits in an office chair with her laptop on her lap. She is on the phone.]\nWeek Two:\nCousin: It says my XORG is broken. What's an \"XORG\"? Where can I look that up?\nCueball: Hmm, lemme show you man pages.[Cueball's cousin crouches on the floor with the laptop on her lap. She is still on the phone.]\nWeek Six:\nCousin: Due to auto-config issues, I'm leaving Ubuntu for Debian.\nCueball: Uh.\nCousin: Or Gentoo.\nCueball: Uh oh.[Cueball's Cousin lies on her stomach with the laptop on the floor. On the floor are several pieces of paper and a book. Cueball stands to her left.]\nWeek Twelve:\nCueball: You haven't answered your phone in days.\nCousin: Can't sleep. Must compile kernel.\nCueball: I'm too late.[Box with text:]\nParents: talk to your kids about Linux... Before somebody else does."
+}

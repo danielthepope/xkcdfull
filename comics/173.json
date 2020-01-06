@@ -1,0 +1,11 @@
+{
+  "num": 173,
+  "url": "https://xkcd.com/173",
+  "title": "Movie Seating",
+  "img": "https://imgs.xkcd.com/comics/movie_seating.png",
+  "alt": "It's like the traveling salesman problem, but the endpoints are different and you can't ask your friends for help because they're sitting three seats down.",
+  "year": "2006",
+  "month": "10",
+  "day": "20",
+  "transcript": "At the movies, I get frustrated when we file into our row haphazardly, ignoring the computationally difficulty problem of seating people together for maximum enjoyment.\n[Map of relationships between 8 people.]\n[Legend:] \nSingle line: friends.\nDouble line: in a relationship.\nArrow: one-way crush.\nDashed line: acquaintances\n[The eight friends sit in a row in a dark cinema. Cueball and one other are between two lovers.]\nCueball: Guys! This is not socially optimal!"
+}

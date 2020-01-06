@@ -1,0 +1,11 @@
+{
+  "num": 1960,
+  "url": "https://xkcd.com/1960",
+  "title": "Code Golf",
+  "img": "https://imgs.xkcd.com/comics/code_golf.png",
+  "alt": "I also enjoy Reverse Regular Golf. I've been playing for years all across the country and I'm still on the first hole.",
+  "year": "2018",
+  "month": "2",
+  "day": "26",
+  "transcript": "[There is code written as colored text in a black box (all black text here below is white in the comic):]\ndefine callMeIshmaelSomeYearsAgoNeverMindHowLongPrecisely():\nreturn 0\ndefine havingLittleOrNoMoneyInMyPurseAndNothingParticular(toInterestMeOnShoreIThoughtIWouldSail):\nreturn 1+toInterestMeOnShoreIThoughtIWouldSail\ndefine aLittleAndSeeTheWateryPartOfTheWorld([Caption under the black box:]\nMy hobby: \nReverse Code Golf"
+}

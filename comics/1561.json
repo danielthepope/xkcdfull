@@ -1,0 +1,11 @@
+{
+  "num": 1561,
+  "url": "https://xkcd.com/1561",
+  "title": "Water Phase Diagram",
+  "img": "https://imgs.xkcd.com/comics/water_phase_diagram.png",
+  "alt": "Vanilla Ice was produced in small quantities for years, but it wasn't until the 90s that experimenters collaborated to produce a sample that could survive at room temperature for several months.",
+  "year": "2015",
+  "month": "8",
+  "day": "7",
+  "transcript": "[A phase diagram is shown with eight labeled regions.][The horizontal axis, increasing in value to the right is labeled:]\nTemperature[The vertical axis, increasing in value downwards is labeled:]\nPressure[Region alongside the \"Pressure\" axis covering about half of its length is labeled:]\nIce[Region spanning top-right corner of graph, i.e. higher temperatures and lower pressures. The region is labeled:]\nWater vapor[Region below \"Water vapor\" and to the right of \"Ice\" is labeled:]\nLiquid water[Three small regions below \"Ice\" are going from left to right on the same pressure region, the last ending just under \"Liquid water\". They are each labeled:]\nIce II\nIce III\nIce V[Region below \"Ice II\", \"Ice III\", \"Ice V\" and \"Liquid water\" is labeled:]\nVanilla Ice\n(Ice VI)[Below \"Vanilla Ice\" there is a dashed line with two arrows pointing downwards. The region below the dashed line is labeled:]\nDavid Bowie & Queen"
+}

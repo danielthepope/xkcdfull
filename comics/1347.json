@@ -1,0 +1,11 @@
+{
+  "num": 1347,
+  "url": "https://xkcd.com/1347",
+  "title": "t Distribution",
+  "img": "https://imgs.xkcd.com/comics/t_distribution.png",
+  "alt": "If data fails the Teacher's t test, you can just force it to take the test again until it passes.",
+  "year": "2014",
+  "month": "3",
+  "day": "26",
+  "transcript": "[A physical bell-curve-shaped object labeled \"Student's t distribution\" is resting on a table. Cueball is working with it and a piece of paper.]\nCueball: hmm \n[Cueball looks at the piece of paper.]\nCueball: ...nope.\n[Cueball picks up the object and begins to walk off the panel with it.]\n[Cueball comes back onto the panel, now carrying an object shaped like a much more complex curve, with many symmetric spikes and dips, labeled \"Teacher's t distribution\".]"
+}

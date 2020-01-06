@@ -1,0 +1,11 @@
+{
+  "num": 1306,
+  "url": "https://xkcd.com/1306",
+  "title": "Sigil Cycle",
+  "img": "https://imgs.xkcd.com/comics/sigil_cycle.png",
+  "alt": "The cycle seems to be 'we need these symbols to clarify what types of things we're referring to!' followed by 'wait, it turns out words already do that.'",
+  "year": "2013",
+  "month": "12",
+  "day": "20",
+  "transcript": "A sinusoidal curve is shown.\nY axis: Odds that the words I type will start with some weird symbol\nX axis: Time\nData labels: [at first peak] $QBASIC, [at first trough] C++, [at second peak] $BASH, @$PERL, [at second trough] PYTHON, [at third peak] +GOOGLE, @TWITTER, #HASHTAGS"
+}

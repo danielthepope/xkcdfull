@@ -1,0 +1,11 @@
+{
+  "num": 1685,
+  "url": "https://xkcd.com/1685",
+  "title": "Patch",
+  "img": "https://imgs.xkcd.com/comics/patch.png",
+  "alt": "My optimizer uses content-aware inpainting to fill in all the wasted whitespace in the code, repeating the process until it compiles.",
+  "year": "2016",
+  "month": "5",
+  "day": "25",
+  "transcript": "[The panel displays part of a code, in five different colors (red, purple, light blue, blue and green) as well as normal black text, which due to image editing is difficult to read. The first and last line are partly obscured by the frame of the panel. Here below is an attempt to transcribe the code, using the sign \"¤\" for anything not easily transcribed. Feel free to add other signs instead of these that looks more like the one in the image (and also improve the attempted transcription if possible).][Caption below the panel:]\nProtip: If you don't have access to the GNU patch tool, you can use the Photoshop one."
+}

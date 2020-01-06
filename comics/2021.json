@@ -1,0 +1,11 @@
+{
+  "num": 2021,
+  "url": "https://xkcd.com/2021",
+  "title": "Software Development",
+  "img": "https://imgs.xkcd.com/comics/software_development.png",
+  "alt": "Update: It turns out the cannon has a motorized base, and can make holes just fine using the barrel itself as a battering ram. But due to design constraints it won't work without a projectile loaded in, so we still need those drills.",
+  "year": "2018",
+  "month": "7",
+  "day": "18",
+  "transcript": "[Cueball and Hairy are standing together and Hairy holds a power tool in his hands.]\nCueball: We need to make 500 holes in that wall, so I've built this automatic drill. It uses elegant precision gears to continually adjust its torque and speed as needed.\nHairy: Great, it's the perfect weight! We'll load 500 of them into the cannon we made and shoot them at the wall.[Caption below the frame:]\nHow software development works"
+}

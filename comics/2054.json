@@ -1,0 +1,11 @@
+{
+  "num": 2054,
+  "url": "https://xkcd.com/2054",
+  "title": "Data Pipeline",
+  "img": "https://imgs.xkcd.com/comics/data_pipeline.png",
+  "alt": "\"Is the pipeline literally running from your laptop?\" \"Don't be silly, my laptop disconnects far too often to host a service we rely on. It's running on my phone.\"",
+  "year": "2018",
+  "month": "10",
+  "day": "3",
+  "transcript": "[Cueball is standing with an open laptop, showing it to Ponytail and White Hat.]\nCueball: Check it out - I made a full automated data pipeline that collects and processes all the information we need.[Ponytail is looking down at Cueball's laptop.]\nPonytail: Is it a giant house of cards built from random scripts that will all completely collapse the moment any input does anything weird?[Borderless beat panel][Cueball looks at his laptop.]\nCueball: It... might not be.\nPonytail: I guess that's someth-\nCueball: Whoops, just collapsed. Hang on, I can patch it."
+}

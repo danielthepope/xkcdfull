@@ -1,0 +1,11 @@
+{
+  "num": 2138,
+  "url": "https://xkcd.com/2138",
+  "title": "Wanna See the Code?",
+  "img": "https://imgs.xkcd.com/comics/wanna_see_the_code.png",
+  "alt": "And because if you just leave it there, it's going to start contaminating things downstream even if no one touches it directly.",
+  "year": "2019",
+  "month": "4",
+  "day": "17",
+  "transcript": "[Cueball is walking, talking to a voice offscreen]\nCueball: I wrote a script to automate that thing.\nVoice offscreen: Oh cool! \nVoice offscreen: ...Wait, you wrote it? \nVoice offscreen: Oh no.[Cueball and Ponytail are standing next to each other]\nCueball: Wanna see the code?\nPonytail: I would, if you hadn't said that in the tone of voice of \"Wanna see a dead body?\"[Cueball and Ponytail are standing next to each other]\nCueball: My code is sort of similar to a dead body, in that you can either come look at it now, or wait a few weeks until it becomes a problem.\nPonytail: And because you're lucky that the people around you understand that they create more problems than they solve."
+}

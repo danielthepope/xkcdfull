@@ -1,0 +1,11 @@
+{
+  "num": 696,
+  "url": "https://xkcd.com/696",
+  "title": "Strip Games",
+  "img": "https://imgs.xkcd.com/comics/strip_games.png",
+  "alt": "HOW ABOUT A NICE GAME OF STRIP GLOBAL THERMONUCLEAR WAR?",
+  "year": "2010",
+  "month": "2",
+  "day": "1",
+  "transcript": "Frequency of Strip Versions of Various Gamesn = google hits for \"strip <game name>\" / google hits for \"<game name>\"\n(at the time of this writing)Frequent\n(n > 1%)\n-Poker\n-Spin the Bottle\n-Beer Pong\n-Never Have I Ever\n-Truth or DareRare\n(1% >= n > 0.01%)\n-Chess\n-Blackjack\n-Tennis\n-Settlers of Catan\n-PictionaryExtremely Rare\n(0.01% >= n > 0)\n-Cricket\n-Magic: the Gathering\n-Stickball\n-Agricola\n-JumanjiNonexistent\n(n = 0)\n-Poohsticks\n-Podracing\n-Iterated Prisoner's Dilemma\n-Chess by Mail\n-Conway's Game of Life"
+}

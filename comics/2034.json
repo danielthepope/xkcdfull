@@ -1,0 +1,11 @@
+{
+  "num": 2034,
+  "url": "https://xkcd.com/2034",
+  "title": "Equations",
+  "img": "https://imgs.xkcd.com/comics/equations.png",
+  "alt": "All electromagnetic equations: The same as all fluid dynamics equations, but with the 8 and 23 replaced with the permittivity and permeability of free space, respectively.",
+  "year": "2018",
+  "month": "8",
+  "day": "17",
+  "transcript": "[Nine equations are listed, three in the top row and two in each of the next three rows. Below each equation there are labels:]E=K0t+1/2 ρvt2\nAll kinematics equationsKn=∑∞i=0∑∞π=0(n-π)(i-eπ-∞) [K sub n = the summation from i = 0 to infinity of the sum from pi = 0 to infinity of (n - pi) * (i-e^(pi-infinity))]\nAll number theory equations∂/∂t ∇⋅ρ=8/23 (∯ ρ ds dt ⋅ ρ ∂/∂∇)\nAll fluid dynamics equations|ψx,y〉=A(ψ)A(|x〉⊗|y〉)\nAll quantum mechanics equationsCH4+OH+HEAT→H2O+CH2+H2EAT\nAll chemistry equationsSU(2)U(1)×SU(U(2))\nAll quantum gravity equationsSg=(-1)/(2ε̄) ið(̂ ξ0 ⨢ pε ρvabc⋅η0)̂ f̵a0 λ(ξ) ψ(0a)\nAll gauge theory equationsH(t)+Ω+G⋅Λ ... \n[There is a brace linking the three cases together.]\n... > 0 (Hubble model)\n... = 0 (Flat sphere model)\n... < 0 (Bright dark matter model)\nAll cosmology equationsĤ - u̧0 = 0\nAll truly deep physics equations"
+}

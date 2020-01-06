@@ -1,0 +1,11 @@
+{
+  "num": 676,
+  "url": "https://xkcd.com/676",
+  "title": "Abstraction",
+  "img": "https://imgs.xkcd.com/comics/abstraction.png",
+  "alt": "If I'm such a god, why isn't Maru *my* cat?",
+  "year": "2009",
+  "month": "12",
+  "day": "16",
+  "transcript": "[Cueball is sitting at a computer.]\nAn x64 processor is screaming along at billions of cycles per second to run the XNU kernel, which is frantically working through all the POSIX-specified abstraction to create the Darwin system underlying OS X, which in  turn is straining itself to run Firefox and its Gecko renderer, which creates a Flash object which renders dozens of video frames every secondbecause I wanted to see a cat jump into a box and fall over.I am a god."
+}

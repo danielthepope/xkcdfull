@@ -1,0 +1,11 @@
+{
+  "num": 2151,
+  "url": "https://xkcd.com/2151",
+  "title": "A/B",
+  "img": "https://imgs.xkcd.com/comics/a_b.png",
+  "alt": "We wrote our site in Linear A rather than Aksara Kawi because browser testing showed that Crete script rendered faster than Java script.",
+  "year": "2019",
+  "month": "5",
+  "day": "17",
+  "transcript": "[Cueball is sitting behind a computer desk, facing to the right, gesturing at the screen. Ponytail stands behind him and Hairy stands in front of him, both taking notes in a pad.]\nCueball: I like this one more because it encodes Mycenaean Greek. The other one just looks like gibberish.[Caption below the panel:] \nLinear A/B testing"
+}

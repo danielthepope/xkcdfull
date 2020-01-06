@@ -1,0 +1,11 @@
+{
+  "num": 2016,
+  "url": "https://xkcd.com/2016",
+  "title": "OEIS Submissions",
+  "img": "https://imgs.xkcd.com/comics/oeis_submissions.png",
+  "alt": "SUB[59]: The submission numbers for my accepted OEIS submissions in chronological order",
+  "year": "2018",
+  "month": "7",
+  "day": "6",
+  "transcript": "SUB[43]: All integers which do not appear in the example terms of another OEIS sequence\nSUB[44]: Integers in increasing order of width when printed in Helvetica\nSUB[45]: The digits of Chris Hemsworth's cell phone number\nSUB[46]: All integers, in descending order\nSUB[47]: The digits of the OEIS serial number for this sequence\nSUB[48]: 200 terabytes of nines\nSUB[49]: The decimal representation of the bytes in the root password to the Online Encyclopedia of Integer Sequences server[Caption below the panel:]\nOEIS keeps rejecting my submissions"
+}

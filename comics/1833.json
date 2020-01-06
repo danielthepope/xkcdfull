@@ -1,0 +1,11 @@
+{
+  "num": 1833,
+  "url": "https://xkcd.com/1833",
+  "title": "Code Quality 3",
+  "img": "https://imgs.xkcd.com/comics/code_quality_3.png",
+  "alt": "It's like a half-solved cryptogram where the solution is a piece of FORTH code written by someone who doesn't know FORTH.",
+  "year": "2017",
+  "month": "5",
+  "day": "5",
+  "transcript": "[Ponytail sitting in front of a computer screen typing. Cueball speaks only off-panel, but since this is a direct continuation of comic 1513 and 1695: Code Quality and Code Quality 2 where Cueball is shown, there can be no doubt it is him.]\nPonytail: Your code looks like song lyrics written using only the stuff that comes after the question mark in a URL.\nCueball (off-panel): Sorry.\n[Zoom in on Ponytail's upper body.]\nPonytail: It's like a JSON table of model numbers for flashlights with \"tactical\" in their names.\n[Zoom back out again. Ponytail has lifted her hands off the table and is slightly leaning back against the chair.]\nPonytail: Like you read Turing's 1936 paper on computing and a page of JavaScript example code and guessed at everything in between.\n[Zoom in again on Ponytail's face.]\nPonytail: It's like a leet-speak translation of a manifesto by a survivalist cult leader who's for some reason obsessed with memory allocation.\nCueball (off-panel): I can get someone else to review my code.\nPonytail: Not more than once, I bet."
+}

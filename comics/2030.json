@@ -1,0 +1,11 @@
+{
+  "num": 2030,
+  "url": "https://xkcd.com/2030",
+  "title": "Voting Software",
+  "img": "https://imgs.xkcd.com/comics/voting_software.png",
+  "alt": "There are lots of very smart people doing fascinating work on cryptographic voting protocols. We should be funding and encouraging them, and doing all our elections with paper ballots until everyone currently working in that field has retired.",
+  "year": "2018",
+  "month": "8",
+  "day": "8",
+  "transcript": "Asking aircraft designers about airplane safety:\nHairbun: Nothing is ever foolproof, but modern airliners are incredibly resilient. Flying is the safest way to travel.Asking building engineers about elevator safety:\nCueball: Elevators are protected by multiple tried-and-tested failsafe mechanisms. They're nearly incapable of falling.Asking software engineers about computerized voting:\nMegan: That's terrifying.Ponytail: Wait, really?\nMegan: Don't trust voting software and don't listen to anyone who tells you it's safe.\nPonytail: Why?\nMegan: I don't quite know how to put this, but our entire field is bad at what we do, and if you rely on us, everyone will die.Ponytail: They say they've fixed it with something called \"blockchain.\"\nMegan: AAAAA!!!\nCueball: Whatever they sold you, don't touch it.\nMegan: Bury it in the desert.\nCueball: Wear gloves."
+}

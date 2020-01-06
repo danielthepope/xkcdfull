@@ -1,0 +1,11 @@
+{
+  "num": 287,
+  "url": "https://xkcd.com/287",
+  "title": "NP-Complete",
+  "img": "https://imgs.xkcd.com/comics/np_complete.png",
+  "alt": "General solutions get you a 50% tip.",
+  "year": "2007",
+  "month": "7",
+  "day": "9",
+  "transcript": "My Hobby:\nEmbedding NP-Complete problems in restaurant orders\n[A menu is shown.]\nChotchkies Restaurant\nAppetizers\nMixed Fruit 2.15\nFrench Fries 2.75\nSide Salad 3.35\nHot Wings 3.55\nMozzarella Sticks 4.20\nSampler Plate 5.80\nSandwiches\nBarbecue 6.55\n[Megan, another person, and Cueball are sitting at a table. Cueball is holding the menu as well as a thick book and is ordering from a waiter. Megan is facepalming.]\nCueball: We'd like exactly $15.05 worth of appetizers, please.\nWaiter: ...Exactly? Uhh...\nCueball: Here, these papers on the knapsack problem might help you out.\nWaiter: Listen, I have six other tables to get to—\nCueball: —As fast as possible, of course. Want something on traveling salesman?"
+}

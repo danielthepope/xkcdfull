@@ -1,0 +1,11 @@
+{
+  "num": 2105,
+  "url": "https://xkcd.com/2105",
+  "title": "Modern OSI Model",
+  "img": "https://imgs.xkcd.com/comics/modern_osi_model.png",
+  "alt": "In retrospect, I shouldn't have used each layer of the OSI model as one of my horcruxes.",
+  "year": "2019",
+  "month": "1",
+  "day": "30",
+  "transcript": "[A light gray shape that surrounds seven stacked dark gray rectangles centered above each other, all with labels. The light gray shape is connected but sometimes only on one side of the dark rectangles. It goes above and below the top and bottom rectangles. At the top there is a heading:]\nModern OSI Model[The first black rectangle has two lines of text. It is supported by the light gray shape on both sides:]\nApplication (Facebook) [Pulling the second rectangle out to the right would collapse the tower, with the top tipping to the right:]\nPresentation  [Pulling the third rectangle out to the left would collapse the tower, with the top tipping to the left:]\nSession [The fourth rectangle is supported on both sides:]\nTransport [Pulling the fifth rectangle out to the left would collapse the tower making it tip to the left:]\nNetwork[Between the fifth and sixth dark rectangles is a label for the entire light gray shape:]\nGoogle & Amazon [The sixth rectangle is supported on both sides:]\nData link[The seventh rectangle is supported on both sides:]\nPhysical "
+}

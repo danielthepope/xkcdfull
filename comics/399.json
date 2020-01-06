@@ -1,0 +1,11 @@
+{
+  "num": 399,
+  "url": "https://xkcd.com/399",
+  "title": "Travelling Salesman Problem",
+  "img": "https://imgs.xkcd.com/comics/travelling_salesman_problem.png",
+  "alt": "What's the complexity class of the best linear programming cutting-plane techniques? I couldn't find it anywhere. Man, the Garfield guy doesn't have these problems...",
+  "year": "2008",
+  "month": "3",
+  "day": "21",
+  "transcript": "[There is a linked black web, with a path in red; it appears to be a map of the United States.]\nBrute-force solution:O(n!)\n[The web continues in this one. A man with a brown hat and a case is drawing it.]\nDynamic programming algorithms: O(n22n)\n[Another man, with a brown hat too, is at a computer, looking back over the chair.]\nSelling on eBay: O(1)\neBay salesman: Still working on your route?\nDrawing salesman: Shut the hell up."
+}

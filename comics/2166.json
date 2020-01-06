@@ -1,0 +1,11 @@
+{
+  "num": 2166,
+  "url": "https://xkcd.com/2166",
+  "title": "Stack",
+  "img": "https://imgs.xkcd.com/comics/stack.png",
+  "alt": "Gotta feel kind of bad for nation-state hackers who spend years implanting and cultivating some hardware exploit, only to discover the entire target database is already exposed to anyone with a web browser.",
+  "year": "2019",
+  "month": "6",
+  "day": "21",
+  "transcript": "[Single-panel with a label at the top and 8 box layers stacked vertically, with in and out arrows at the top representing normal data flow and an arrow out of each box to the left or right representing exploit data flow]\nThe Modern Tech Stack\nCompromised by a customer (arrow to the right)\nCompromised by a former employee (arrow to the left)\nCompromised by a current employee (arrow to the right)\nCompromised by bitcoin miners (arrow to the right)\nCompromised by unknown hackers (arrow to the left)\nCompromised by our own government (arrow to the right)\nCompromised by a foreign government (arrow to the left)\nMassive undiscovered hardware vulnerability (arrow to the right)"
+}

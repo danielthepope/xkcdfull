@@ -1,0 +1,11 @@
+{
+  "num": 1886,
+  "url": "https://xkcd.com/1886",
+  "title": "Typing Notifications",
+  "img": "https://imgs.xkcd.com/comics/typing_notifications.png",
+  "alt": "Over the years I've decided I'd rather have them on than not, but I'm glad there aren't \"has opened a blank note to compose a reply to you\" notifications.",
+  "year": "2017",
+  "month": "9",
+  "day": "6",
+  "transcript": "[A sequence of eight panels representing the same conversation in an electronic chat. The header always reads:]\nWhat did you think of my show? Did you like it? Be honest![The reply area on the first seven panels is empty, but on the 2nd, 3rd, 5th, and 7th the input is activated and showing three dots.][On the last panel the reply area reads:]\nIt was great![Caption below the panels:]\nMy least favorite aspect of typing notifications"
+}

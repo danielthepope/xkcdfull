@@ -1,0 +1,11 @@
+{
+  "num": 1671,
+  "url": "https://xkcd.com/1671",
+  "title": "Arcane Bullshit",
+  "img": "https://imgs.xkcd.com/comics/arcane_bullshit.png",
+  "alt": "Learning arcane bullshit from the 80s can break your computer, but if you're willing to wade through arcane bullshit from programmers in the 90s and 2000s, you can break everyone else's computers, too.",
+  "year": "2016",
+  "month": "4",
+  "day": "22",
+  "transcript": "[A horizontal graph with arrows pointing left and right with labels. The line has  three ticks one towards each end and one in the middle above which Cueball is drawn. Below each tick there is a caption. There is a caption at the top of the panel:]\n Willingness to wade through some 80's programmer's arcane bullshit:\n[Left end:] Low\n[Left tick:] Never learn to program\n[Above Cueball:] Me\n[Center tick:] Learn enough to break everything but not enough to fix it\n[Right end:] High\n[Right tick:] Spend all your time compiling kernels and never make anything"
+}

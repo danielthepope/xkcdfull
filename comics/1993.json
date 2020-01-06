@@ -1,0 +1,11 @@
+{
+  "num": 1993,
+  "url": "https://xkcd.com/1993",
+  "title": "Fatal Crash Rate",
+  "img": "https://imgs.xkcd.com/comics/fatal_crash_rate.png",
+  "alt": "Fixating on this seems unhealty. But in general, the more likely I think a crash is, the less likely one becomes, which is a strange kind of reverse placebo effect.",
+  "year": "2018",
+  "month": "5",
+  "day": "14",
+  "transcript": "[Graphs are shown inside of a panel.][Graph 1:] \nMy fatal car crash probability based on my age\n[Label at 2018:]\nNow[Graph 2:] \nOverall US fatal crash rate per mile traveled\n[Label:]\nGeneral safety improvements[Graph 3:] \nMy miles traveled by car per year\n[Label after 2018:]\nDepends on job, where I live, etc.[Graph 4, below the previous graphs:] \nMy estimated lifetime probability of being in a fatal car crash\n[Label pointing at late-2020s:]\nPoint at which self-driving cars become safe and widely adopted, making crashes rare (assuming that happens)\n[Label pointing at a gray segment after late-2020s:]\nFatal crashes avoided[Caption below the panel:]\nIt feels weird to look at car crash statistics and wonder whether we'll all be able to stop driving before I'm involved in a fatal crash."
+}

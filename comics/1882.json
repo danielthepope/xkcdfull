@@ -1,0 +1,11 @@
+{
+  "num": 1882,
+  "url": "https://xkcd.com/1882",
+  "title": "Color Models",
+  "img": "https://imgs.xkcd.com/comics/color_models.png",
+  "alt": "What if what *I* see as blue, *you* see as a slightly different blue because you're using Chrome instead of Firefox and despite a decade of messing with profiles we STILL can't get this right somehow.",
+  "year": "2017",
+  "month": "8",
+  "day": "28",
+  "transcript": "[A simple flowchart is shown. The text above the panel reads:]\nEvolution of my understanding of color over time:[On the left side is a vertical dashed line in gray, on top it's labeled:]\nGrade school\n[And at the bottom the label reads:]\nNow[Header above the chart:]\n\"Color\" is...[The chart starts with three items, one left and an other on the right, a third is below in the middle.]\n...three primary colors mixed together\n...a rainbow, and each color is a wavelength\n...unknowable (\"maybe what I see as blue, you see as...\")[Arrows from the left and the middle item point to a new left one, while two other arrows from the middle and the right item lead to one at the right.]\n...three-ish primary colors mixed together (RGB/RYB/CMYK)\n...a mix of infinite wavelengths filtered through three eye pigments[The arrows of both items point to one in the middle:]\n(something about the opponent color model)[The remaining items are all in the middle and each is connected by one arrow downwards to the next.]\n...an abstract multidimensional gamut (CIE 1931, L*a*b*, etc)\n...an abstract multidimensional gamut filtered through inconsistently-implemented device color profiles\n...a hyperdimensional four-sided quantum Klein manifold? Is that a thing?\n...hopefully somebody else's problem."
+}

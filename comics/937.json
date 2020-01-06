@@ -1,0 +1,11 @@
+{
+  "num": 937,
+  "url": "https://xkcd.com/937",
+  "title": "TornadoGuard",
+  "img": "https://imgs.xkcd.com/comics/tornadoguard.png",
+  "alt": "The bug report was marked 'could not reproduce'.",
+  "year": "2011",
+  "month": "8",
+  "day": "12",
+  "transcript": "[The comic is a single panel which resembles a reviews page for a mobile phone application. Next to the app title is a pictogram of a tornado touching the ground]----App store----\nTornadoGuard\nFrom DroidCoder2187\n-----------------\nPlays a loud alert sound \nwhen there is a tornado \nwarning for your area.\n-----------------\nRating: \n★★★★☆\nBased on 4 reviews\n-----------------\nUser Reviews:\n[The first three reviews show five black stars. The last review shows one black and four white stars.]\nReviewer 1 (Dark silhouette): ★★★★★ Good UI! Many alert choices.\nReviewer 2 (Helicopter without rotors): ★★★★★ Running great, no crashes\nReviewer 3 (White square with black triangles at the top left and bottom right corner): ★★★★★ I like how you can set multiple locations\nReviewer 4 (White car): ★☆☆☆☆ App did not warn me about tornado.[Caption below the comic:]\nThe problem with averaging star ratings"
+}

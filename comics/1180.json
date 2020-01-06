@@ -1,0 +1,11 @@
+{
+  "num": 1180,
+  "url": "https://xkcd.com/1180",
+  "title": "Virus Venn Diagram",
+  "img": "https://imgs.xkcd.com/comics/virus_venn_diagram.png",
+  "alt": "Within five minutes of the Singularity appearing, somebody will suggest defragging it.",
+  "year": "2013",
+  "month": "3",
+  "day": "1",
+  "transcript": "[Euler diagram with two circles that don't intersect.]\nGreen circle: Computer problems that make people say \"Maybe it has a virus?\"\nBlue circle: Computer problems caused by viruses"
+}

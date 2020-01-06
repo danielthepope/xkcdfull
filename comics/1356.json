@@ -1,0 +1,11 @@
+{
+  "num": 1356,
+  "url": "https://xkcd.com/1356",
+  "title": "Orbital Mechanics",
+  "img": "https://imgs.xkcd.com/comics/orbital_mechanics.png",
+  "alt": "To be fair, my job at NASA was working on robots and didn't actually involve any orbital mechanics. The small positive slope over that period is because it turns out that if you hang around at NASA, you get in a lot of conversations about space.",
+  "year": "2014",
+  "month": "4",
+  "day": "16",
+  "transcript": "How Well I Understand Orbital Mechanics:\n[There is a graph with the x-axis labeled as 'time' increasing to the right. The y-axis is unlabeled but it can be assumed that it could be labeled 'understanding'.]\nThe line stays flat until the first bump, which is annotated \"Took High School Physics\".\nThe line decreases, then grows to a higher maximum with the annotation \"Got Physics Degree\".\nThere is a small amount of decrease until a gradual bump in the graph labeled \"Actual Job At NASA\".\nIt gradually decreases to pre-NASA levels, but then begins to increase exponentially. The annotation reads \"Started Playing Kerbal Space Program\"."
+}

@@ -1,0 +1,11 @@
+{
+  "num": 2117,
+  "url": "https://xkcd.com/2117",
+  "title": "Differentiation and Integration",
+  "img": "https://imgs.xkcd.com/comics/differentiation_and_integration.png",
+  "alt": "\"Symbolic integration\" is when you theatrically go through the motions of finding integrals, but the actual result you get doesn't matter because it's purely symbolic.",
+  "year": "2019",
+  "month": "2",
+  "day": "27",
+  "transcript": "[Two flow charts are shown.][The first flow chart has four steps in simple order, one with multiple recommendations.]\nDIFFERENTIATION\nStart\nTry applying\nChain Rule\nPower Rule\nQuotient Rule\nProduct Rule\nEtc.\nDone?\nNo [Arrow returns to \"Try applying\" step.]\nYes\nDone!INTEGRATION\nStart\nTry applying\nIntegration by Parts\nSubstitution\nDone?\nHaha, Nope![Chaos, Roughly from left to right, top to bottom, direction arrows not included.]\nCauchy's Formula\n????\n???!?\n???\n???\n?\nPartial Fractions\n??\n?\nInstall Mathematica\n?\nRiemann Integration\nStokes' Theorem\n???\n?\nRisch Algorithm\n???\n[Sad face.]\n?????\n???\nWhat the heck is a Bessel Function??\nPhone calls to mathematicians\nOh No\nBurn the Evidence\n[More arrows pointing out of the image to suggest more steps.]"
+}

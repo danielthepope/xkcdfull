@@ -1,0 +1,11 @@
+{
+  "num": 1591,
+  "url": "https://xkcd.com/1591",
+  "title": "Bell's Theorem",
+  "img": "https://imgs.xkcd.com/comics/bells_theorem.png",
+  "alt": "The no-communication theorem states that no communication about the no-communication theorem can clear up the misunderstanding quickly enough to allow faster-than-light signaling.",
+  "year": "2015",
+  "month": "10",
+  "day": "16",
+  "transcript": "[Ponytail, facing right, is holding a piece of paper with both hands. In a small frame breaking the top of the large frame is a caption:]\nt= 0 nanoseconds\nPonytail: This is called Bell's Theorem. It was first–[A double-headed arrow points to Ponytail and then exits the frame crossing into the next frame where it points to Cueball. The arrow is split in two parts and in the center across the border of the two frames is a label:]\n5 meters[Cueball, facing left. In a small frame breaking the top of the large frame is a caption:]\nt= 1 nanosecond\nCueball: Wow, faster-than-light communication is possible![Caption below the frames:]\nBell's Second Theorem:\nMisunderstandings of Bell's Theorem\nhappen so fast that they violate locality."
+}

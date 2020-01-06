@@ -1,0 +1,11 @@
+{
+  "num": 74,
+  "url": "https://xkcd.com/74",
+  "title": "Su Doku",
+  "img": "https://imgs.xkcd.com/comics/su_doku.jpg",
+  "alt": "This one is from the Red Belt collection, of 'medium' difficulty",
+  "year": "2006",
+  "month": "3",
+  "day": "10",
+  "transcript": "[A square divided into 2x2 squares, the top-right one has an 1 in it, the bottom-right one has a 0, the two left ones are empty.]\nBinary Su Doku"
+}

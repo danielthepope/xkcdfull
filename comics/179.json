@@ -1,0 +1,11 @@
+{
+  "num": 179,
+  "url": "https://xkcd.com/179",
+  "title": "e to the pi times i",
+  "img": "https://imgs.xkcd.com/comics/e_to_the_pi_times_i.png",
+  "alt": "I have never been totally satisfied by the explanations for why e to the ix gives a sinusoidal wave.",
+  "year": "2006",
+  "month": "11",
+  "day": "3",
+  "transcript": "[Two people standing at a board with writing on. One person is pointing at the board.]\nCueball: Numbers of the form n√-1 are \"imaginary,\" but can still be used in equations.\nFriend: Okay.\nCueball: And e^(π√-1)=-1.\nFriend: Now you're just fucking with me."
+}

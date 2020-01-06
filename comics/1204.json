@@ -1,0 +1,11 @@
+{
+  "num": 1204,
+  "url": "https://xkcd.com/1204",
+  "title": "Detail",
+  "img": "https://imgs.xkcd.com/comics/detail.png",
+  "alt": "2031: Google defends the swiveling roof-mounted scanning electron microscopes on its Street View cars, saying they 'don't reveal anything that couldn't be seen by any pedestrian scanning your house with an electron microscope.'",
+  "year": "2013",
+  "month": "4",
+  "day": "26",
+  "transcript": "My Neighborhood's Resolution in:\n[A two-axis graph with years from 2000 to 2100 plotted on the x-axis and resolution from 1 meter to the Planck length plotted on a logarithmic scale on the y-axis. Three points in a line close to (~2010, 1 meter) are plotted at the bottom left of the graph; they have a strong positive correlation. Two trendlines are drawn on the graph; one is labeled \"Earth\" and remains constant at the Planck length over time; the other is labeled \"Google Earth\" and connects the aforementioned three points, extending upward in a straight line and approaching the Planck length around 2100. Both trendlines break up into question marks before the point they would intersect.]"
+}

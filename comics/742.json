@@ -1,0 +1,11 @@
+{
+  "num": 742,
+  "url": "https://xkcd.com/742",
+  "title": "Campfire",
+  "img": "https://imgs.xkcd.com/comics/campfire.png",
+  "alt": "100 years later, this story remains terrifying--not because it's the local network block, but because the killer is on IPv4.",
+  "year": "2010",
+  "month": "5",
+  "day": "19",
+  "transcript": "[Cueball and three children are around a campfire at night. Cueball is standing up, with a flashlight under his face.]\nCueball: But when she traced the killer's IP address... it was in the 192.168/16 block!\nChildren: Gasp!"
+}

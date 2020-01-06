@@ -1,0 +1,11 @@
+{
+  "num": 832,
+  "url": "https://xkcd.com/832",
+  "title": "Tic-Tac-Toe",
+  "img": "https://imgs.xkcd.com/comics/tic_tac_toe.png",
+  "alt": "The only winning move is to play, perfectly, waiting for your opponent to make a mistake.",
+  "year": "2010",
+  "month": "12",
+  "day": "10",
+  "transcript": "[The comic comprises two large square maps, each divided into nine sections, some of which are further subdivided in the same way. The subdivisions continue down for up to five levels, and the lower map has more tiny diagrams than the upper. The smallest divisions at every scale are completed tic-tac-toe games. At the smallest divisions some of the moves are too small to see.]Complete map of optimal Tic-Tac-Toe movesYour move is given by the position of the largest red symbol on the grid. When your opponent picks a move, zoom in on the region of the grid where they went. Repeat.Map for X:\n[The first square map.]Map for O:\n[The second square map.]"
+}

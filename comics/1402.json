@@ -1,0 +1,11 @@
+{
+  "num": 1402,
+  "url": "https://xkcd.com/1402",
+  "title": "Harpoons",
+  "img": "https://imgs.xkcd.com/comics/harpoons.png",
+  "alt": "To motivate it to fire its harpoons hard enough, Rosetta's Philae lander has been programmed to believe it is trying to kill the comet.",
+  "year": "2014",
+  "month": "8",
+  "day": "1",
+  "transcript": "Number of harpoons in space\nby year\n[A chart with a red graph is drawn below.]\n[The y-axis.]\n0 1 2 3\n[The x-axis.]\n1950 1960 1970 1980 1990 2000 2010 2020\n[The graph is at zero until a sharp peak to 1 in 1970. The peak is labeled.]\nApollo 12 rum incident\n[The graph then stays at 0 until 2004. Then it rises to 2 and stays there until today, continuing as a dotted line after 2014. The rise is labeled.]\nRosetta comet mission launched carrying lander with harpoon tethers"
+}

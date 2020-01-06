@@ -1,0 +1,11 @@
+{
+  "num": 534,
+  "url": "https://xkcd.com/534",
+  "title": "Genetic Algorithms",
+  "img": "https://imgs.xkcd.com/comics/genetic_algorithms.png",
+  "alt": "Just make sure you don't have it maximize instead of minimize.",
+  "year": "2009",
+  "month": "1",
+  "day": "23",
+  "transcript": "[Code displayed, presumably from an IDE.]\ndef getSolutionCosts(navigationCode):\nfuelStopCost = 15\nextraComputationCost = 8\n[There is a giant arrow pointing to the next line.]\nthisAlgorithmBecomingSkynetCost = 999999999\nwaterCrossingCost = 45\nGenetic algorithms tip:\nAlways include this in your fitness function."
+}

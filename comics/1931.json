@@ -1,0 +1,11 @@
+{
+  "num": 1931,
+  "url": "https://xkcd.com/1931",
+  "title": "Virtual Assistant",
+  "img": "https://imgs.xkcd.com/comics/virtual_assistant.png",
+  "alt": "If you ask it to please turn off that feature, it apologizes a whole bunch and promises to try to be quieter, then switches to a slightly lower-volume version of the clip with \"sorry!\" after the louder sounds.",
+  "year": "2017",
+  "month": "12",
+  "day": "20",
+  "transcript": "[Megan stands next to a small table with a Google Home sitting on it.]\nMegan: Ok, Google–\nGoogle Home: THUMP-THUMP-THUMP\nGoogle Home: CRASH  THUD!\nGoogle Home: CLICK  THUMP THUMP\nGoogle Home: [sink running]\nGoogle Home: ZIIIIIP!  CLICK\nGoogle Home: THUMP THUMP  CLICK\nGoogle Home: SLAM!\nGoogle Home: THUMPATHUMPATHUMPA\nGoogle Home: H... *Pant* ...Hello... *Pant*\nGoogle Home: How... How can I help you?[Text below the panel:]\nI want to hack the world's smart home devices, but not to create a botnet or anything—I just want to make them play this sound clip every time you invoke them."
+}

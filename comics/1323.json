@@ -1,0 +1,11 @@
+{
+  "num": 1323,
+  "url": "https://xkcd.com/1323",
+  "title": "Protocol",
+  "img": "https://imgs.xkcd.com/comics/protocol.png",
+  "alt": "Changing the names would be easier, but if you're not comfortable lying, try only making friends with people named Alice, Bob, Carol, etc.",
+  "year": "2014",
+  "month": "1",
+  "day": "29",
+  "transcript": "[Cueball is telling a story to a Computer Scientist who is seated at his desk.]\nCueball: Alice sends a message to Bob saying to meet her somewhere.\nComputer Scientist: Uh huh.\nCueball: But Eve sees it, too, and goes to the place.\nComputer Scientist: With you so far.\nCueball: Bob is delayed, and Alice and Eve meet.\nComputer Scientist: Yeah?\nCAPTION: I've discovered a way to get computer scientists to listen to any boring story."
+}

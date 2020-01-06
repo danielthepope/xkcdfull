@@ -1,0 +1,11 @@
+{
+  "num": 1595,
+  "url": "https://xkcd.com/1595",
+  "title": "30 Days Hath September",
+  "img": "https://imgs.xkcd.com/comics/30_days_hath_september.png",
+  "alt": "There's a cool mental calculation hack I recently learned for this: If you open the calendar app on your phone or computer, the highest-numbered box along the bottom is equal to the number of days in the month!",
+  "year": "2015",
+  "month": "10",
+  "day": "26",
+  "transcript": "[Cueball is thinking.]\nCueball: Thirty days hath September, April, June and November\nCueball: All the rest have 31—except February, which has 28, and leap year makes it 29.\nCueball: Wait, which month was I listening for? Oh right, October.\nCueball: Did I say \"October\" in there? Now I can't remember.\nCueball: 30 days hath September...I get stuck in this loop every month."
+}

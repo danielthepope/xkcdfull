@@ -1,0 +1,11 @@
+{
+  "num": 2009,
+  "url": "https://xkcd.com/2009",
+  "title": "Hertzsprung-Russell Diagram",
+  "img": "https://imgs.xkcd.com/comics/hertzsprung_russell_diagram.png",
+  "alt": "The Hertzsprung-Russell diagram is located in its own lower right corner, unless you're viewing it on an unusually big screen.",
+  "year": "2018",
+  "month": "6",
+  "day": "20",
+  "transcript": "Expanded Hertzsprung-Russell Diagram\n[A scatter plot is shown, with the x-axis labeled Effective Temperature (in kelvins), and the y-axis Luminosity (watts).]\n[Circled items in the top left (high temperature and high luminosity):]\nSupergiants\nGiants\nMain sequence\nWhite dwarfs\nBrown dwarfs\n[Items shown as points and their values:]\nBetelgeuse: \t3200 K, \t1.6 × 1031 W\nVega: \t10,000 K, \t1.8 × 1028 W \nSun: \t5800 K, \t3.6 × 1026 W\nProxima Centauri: \t2700 K, \t2.0 × 1023 W\nHD 189733 b: \t2100 K, \t4.8 × 1021 W\nInterior of a hydrogen bomb during detonation: \t~108 K, \t~1020 W\nJupiter: \t285 K, \t1.2 × 1018 W\nVenus: \t330 K, \t5.0 × 1017 W \nEarth: \t300 K, \t3.0 × 1017 W\nMars: \t255 K, \t2.0 × 1016 W\nMoon: \t300 K, \t1.2 × 1016 W\nNuclear Fireball: \t8000 K, \t2.0 × 1014 W \nFrance: \t300 K, \t2.0 × 1014 W\nEuropa: \t90 K, \t3.5 × 1014 W\nLightning Bolt: \t30,000 K, \t30 GW\nIvanpah Solar Plant Salt Tank: \t1200 K, \t1.2 GW\nMedium-sized Lava Lake: \t800 K, \t32 MW\nCruise Ship: \t325 K, \t30 MW\nCampfire: \t870 K, \t7.0 kW\nBlue whale: \t280 K, \t78 kW\nArc lamp: \t6500 K, \t150 W\nLightbulb: \t4800 K, \t75 W\nLED Bulb: \t5800 K, \t8 W\nAstronomer: \t310 K, \t100 W"
+}

@@ -1,0 +1,11 @@
+{
+  "num": 2053,
+  "url": "https://xkcd.com/2053",
+  "title": "Incoming Calls",
+  "img": "https://imgs.xkcd.com/comics/incoming_calls.png",
+  "alt": "I wonder if that friendly lady ever fixed the problem she was having with her headset.",
+  "year": "2018",
+  "month": "10",
+  "day": "1",
+  "transcript": "[A line graph shows the portions of phone calls by type over time beginning slightly before 1990 until today.]\nIncoming personal calls over time\nor: why I finally stopped picking up for unknown numbers[The x-axis is labeled with years beginning at 1990 in five year segments up to NOW (2018). The y-axis shows a relative distribution of callers.]\n[The calls are (from top to down):]\nAppointment reminders, misc. (small growing all over time)\nFamily (larger in the beginning, constant with some fluctuations since 2000)\nFriends (growing from 1995 to 2005, then decreasing but intersected with \"that one friend who hates texting\", after that decreasing)\nLegal telemarketers (peak in the beginning, decreasing over time)\nAuto insurance scammers (a big peak between 2005 and 2012)\nOther scammers (beginning in 2010, replacing the auto insurance, increasing until today)\nPolitical (starting in 2002 and increasing since then)\nWrong numbers (constant up to 2000 and then decreasing to nearly today)"
+}

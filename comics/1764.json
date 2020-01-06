@@ -1,0 +1,11 @@
+{
+  "num": 1764,
+  "url": "https://xkcd.com/1764",
+  "title": "XKCDE",
+  "img": "https://imgs.xkcd.com/comics/xkcde.png",
+  "alt": "4. They unplug the root machine but the thousands of leaf VMs scatter in the wind and start spinning up new instances wherever they land",
+  "year": "2016",
+  "month": "11",
+  "day": "25",
+  "transcript": "Installing the xkcd development environment[Inside a frame three instructions are shown:]\n1. Spin up a VM\n2. Spin up a VM inside that VM\n3. Continue spinning up nested VMs and containers until you get fired"
+}

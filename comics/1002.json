@@ -1,0 +1,11 @@
+{
+  "num": 1002,
+  "url": "https://xkcd.com/1002",
+  "title": "Game AIs",
+  "img": "https://imgs.xkcd.com/comics/game_ais.png",
+  "alt": "The top computer champion at Seven Minutes in Heaven is a Honda-built Realdoll, but to date it has been unable to outperform the human Seven Minutes in Heaven champion, Ken Jennings.",
+  "year": "2012",
+  "month": "1",
+  "day": "11",
+  "transcript": "[A diagram with a caption above the diagram. The left column describes various levels of skill for the most capable computers in decreasing performance against humans.  The right side lists games in each particular section, in increasing game difficulty.  There are labels denoting the hard and easy ends of the diagram.]Caption: Difficulty of Various Games for ComputersTop of Diagram: EasySolved Computers can play perfectlySolved for all possible positionsTic-tac-toe\nNim\nGhost (1989)\nConnect Four (1995)Solved for starting positionsGomoku\nCheckers (2007)Computers can beat top humansScrabble\nCounterStrike\nBeer Pong (UIUC robot)\nReversi\nChess February 10, 1996: First win by computer against top human\n November 21, 2005: Last win by human against top computerJeopardyComputers still lose to top humans (but focused R&D could change this)StarCraft\nPoker\nArimaa\nGoComputers may never outplay humansSnakes and Ladders\nMao\nSeven Minutes in Heaven\nCalvinballBottom of Diagram: Hard"
+}

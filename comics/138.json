@@ -1,0 +1,11 @@
+{
+  "num": 138,
+  "url": "https://xkcd.com/138",
+  "title": "Pointers",
+  "img": "https://imgs.xkcd.com/comics/pointers.png",
+  "alt": "Every computer, at the unreachable memory address 0x-1, stores a secret. I found it, and it is that all humans ar—SEGMENTATION FAULT.",
+  "year": "2006",
+  "month": "8",
+  "day": "7",
+  "transcript": "[Cueball is playing a video game, with Black Hat standing behind him.]\nCueball: Man, I suck at this game. Can you give me a few pointers?\nBlack Hat: 0x3A28213A 0x6339392C, 0x7363682E.\nCueball: I hate you."
+}

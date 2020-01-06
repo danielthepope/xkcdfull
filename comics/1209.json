@@ -1,0 +1,11 @@
+{
+  "num": 1209,
+  "url": "https://xkcd.com/1209",
+  "title": "Encoding",
+  "img": "https://imgs.xkcd.com/comics/encoding.png",
+  "alt": "I don't see how; the C0 block is right there at the beginning.",
+  "year": "2013",
+  "month": "5",
+  "day": "8",
+  "transcript": "[Cueball and Megan are both holding walkie-talkies. Cueball is talking into his, Megan is holding hers down. Both are looking up in the sky.]\nCueball: No, the combining diacritics go over the interrobang!\nMegan: Oh jeez, I think he's lost control.[Caption below the panel:]\nThe skywriter we hired has terrible Unicode support."
+}

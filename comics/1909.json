@@ -1,0 +1,11 @@
+{
+  "num": 1909,
+  "url": "https://xkcd.com/1909",
+  "title": "Digital Resource Lifespan",
+  "img": "https://imgs.xkcd.com/comics/digital_resource_lifespan.png",
+  "alt": "I spent a long time thinking about how to design a system for long-term organization and storage of subject-specific informational resources without needing ongoing work from the experts who created them, only to realized I'd just reinvented libraries.",
+  "year": "2017",
+  "month": "10",
+  "day": "30",
+  "transcript": "My access to resources on [SUBJECT] over time:[Below, a timeline and a graph with gray bars is shown:][1980s-past 2020:] \nBook on subject[Early 2000s-past 2020:] \n[SUBJECT].pdf [2000-2010:] \n[SUBJECT] web database  \nSite goes down, backend data not on archive.org\n[Small bar, 2000-2016/17:] \nJava frontend no longer runs[2010-2015/16:] \n[SUBJECT] mobile app (Local university project) \nBroken on new OS, not updated[2000-2010:] \n[SUBJECT] analysis software\nBroken on new OS, not updated[Late 1990s-late 2000s:] \nInteractive [SUBJECT] CD-ROM \nCD scratched; new computer has no CD drive anyway.[1980s-past 2020:] \nLibrary microfilm [SUBJECT] collection[Caption below the panel:]\nIt's unsettling to realize how quickly digital resources can disappear without ongoing work to maintain them."
+}

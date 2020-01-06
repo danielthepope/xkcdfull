@@ -1,0 +1,11 @@
+{
+  "num": 1250,
+  "url": "https://xkcd.com/1250",
+  "title": "Old Accounts",
+  "img": "https://imgs.xkcd.com/comics/old_accounts.png",
+  "alt": "If you close an account while it's still friends with people, it contributes to database linkage accumulation slowdown, which is a major looming problem for web infrastructure and definitely not a thing I just made up.",
+  "year": "2013",
+  "month": "8",
+  "day": "12",
+  "transcript": "[Caption above the frame:]\nThe internet is filled with derelict accounts aggregating news about friends long forgotten.[Cueball sits at a desk, typing on a laptop and the responding text follows as:]\n*Click*\nUhh, is everything OK?\n*Click*\nDude, what the hell?\n*Click*[Caption below the frame:]\nWhen you find yourself drifting away from a community, remember to clean up after yourself by slowly unfriending everyone, one by one, in the reverse order that you added them."
+}

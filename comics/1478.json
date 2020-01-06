@@ -1,0 +1,11 @@
+{
+  "num": 1478,
+  "url": "https://xkcd.com/1478",
+  "title": "P-Values",
+  "img": "https://imgs.xkcd.com/comics/p_values.png",
+  "alt": "If all else fails, use \"significant at a p>0.05 level\" and hope no one notices.",
+  "year": "2015",
+  "month": "1",
+  "day": "26",
+  "transcript": "[A two-column table where the second column selects various areas of the first column using square brackets.]\n\nP-value\nInterpretation0.001\n0.01\n0.02\n0.03\nHighly Significant\n\n0.04\n0.049\nSignificant\n\n0.050\nOh crap. Redo calculations.\n\n0.051\n0.06\nOn the edge of significance\n\n0.07\n0.08\n0.09\n0.099\nHighly suggestive, relevant at the p<0.10 level\n\n≥0.1\nHey, look at this interesting subgroup analysis"
+}

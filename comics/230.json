@@ -1,0 +1,11 @@
+{
+  "num": 230,
+  "url": "https://xkcd.com/230",
+  "title": "Hamiltonian",
+  "img": "https://imgs.xkcd.com/comics/hamiltonian.png",
+  "alt": "The problem with perspective is that it's bidirectional.",
+  "year": "2007",
+  "month": "3",
+  "day": "2",
+  "transcript": "Lecturer: And therefore, based on the existence of a Hamiltonian path, we can prove that the routing algorithm gives the optimal result in all cases.\nCueball: Oh my God.[Close-up of Cueball.]\nOffscreen: What? What is it?\nCueball: A sudden rush of perspective. What am I doing here? Life is so much bigger than this![Cueball running out of room.]\nCueball: I have to go.[Cueball enters darkened room, where Megan waits by window.]\n[Cueball and Megan embrace...][...and get into bed.][A heart appears over the supine bodies.]\nMegan: Ohh...\ngripCueball (out of frame): Wait a moment.\nMegan (out of frame): What is it?[Silence.]Cueball (out of frame): His proof only holds if there's a Hamiltonian cycle as well as a path!\nMegan (out of frame): ...excuse me?\nCueball (out of frame): Paper, I need some paper. Hey, do you mind if I jot down some notes on your chest?"
+}

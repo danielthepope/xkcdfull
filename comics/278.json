@@ -1,0 +1,11 @@
+{
+  "num": 278,
+  "url": "https://xkcd.com/278",
+  "title": "Black Hat Support",
+  "img": "https://imgs.xkcd.com/comics/black_hat_support.png",
+  "alt": "So as not to leave you hanging -- it was a problem with select() calls.",
+  "year": "2007",
+  "month": "6",
+  "day": "18",
+  "transcript": "[Black Hat is sitting at his computer, wearing a phone headset.]\nBlack Hat: Thank you for calling the Black Hat Support Line, your first source for Linux support. How may I assist?\nPhone: Hi. I'm running an Apache server, and the load keeps climbing out of control.\nBlack Hat: Okay. First, click on the Start Menu.\nPhone: I'm sorry, this is the Linux helpline, right?\nBlack Hat: Of course, sir.\nBlack Hat: If you'll just open the \"My Documents\" folder-\nPhone: Just a damn minute. I think you're putting me on.\nBlack Hat: Please bear with me, sir.\nBlack Hat: Now, load up your AOL and go to the Keyword \"Linux\"-\nPhone: *click*"
+}

@@ -1,0 +1,11 @@
+{
+  "num": 2070,
+  "url": "https://xkcd.com/2070",
+  "title": "Trig Identities",
+  "img": "https://imgs.xkcd.com/comics/trig_identities.png",
+  "alt": "ARCTANGENT THETA = ENCHANT AT TARGET",
+  "year": "2018",
+  "month": "11",
+  "day": "9",
+  "transcript": "[Inside a single frame comic a right-angled triangle is shown. The shorter sides are labeled \"a\" and \"b\" and the hypotenuse has a \"c\". All angles are marked: the right angle by a square and the two others by arcs. One arc (enclosed by \"a\" and \"c\") is labeled by the Greek symbol theta (θ).][Supposed trigonometric functions of the marked angle θ are shown:]sin θ = b/c\ncos θ = a/c\ntan θ = b/acot θ = a/b\nsec θ = c/a\ncsc θ = c/bcin θ = b/s\ncas θ = o/c\ntab θ = b²/n​abot θ = a/c → boat θ = a²/c → stoat θ = a²/c · s​t/btan θ ( = b/a = b/a · c/c = b/c · c/a = sin θ sec θ ) = insect θ²(tan θ)² = b²/a² ( → t²n²a⁴ = b²/θ² → a​t²b​a(n​a)² = b³/θ²\nfrom physics: distance = 1/2 a​t² → ) distance2banana = b³/θ²[Caption below the frame:]\nKey trigonometric identities"
+}

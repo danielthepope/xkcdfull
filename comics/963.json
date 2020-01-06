@@ -1,0 +1,11 @@
+{
+  "num": 963,
+  "url": "https://xkcd.com/963",
+  "title": "X11",
+  "img": "https://imgs.xkcd.com/comics/x11.png",
+  "alt": "Thomas Jefferson thought that every law and every constitution should be torn down and rewritten from scratch every nineteen years--which means X is overdue.",
+  "year": "2011",
+  "month": "10",
+  "day": "12",
+  "transcript": "[The comic is a graph with a curve starting at (0,0) that snakes toward the upper right of the graph. The axis are labelled:]\nx axis: Time since I last had to open Xorg.conf\ny axis: General satisfaction with how my life is going"
+}

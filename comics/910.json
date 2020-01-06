@@ -1,0 +1,11 @@
+{
+  "num": 910,
+  "url": "https://xkcd.com/910",
+  "title": "Permanence",
+  "img": "https://imgs.xkcd.com/comics/permanence.png",
+  "alt": "This hostname is going in dozens of remote config files. Changing a kid's name is comparatively easy!",
+  "year": "2011",
+  "month": "6",
+  "day": "10",
+  "transcript": "[A large panel the combined width of the four panels below it.]\n[A blue Linux terminal installer screen with a grey box that is labeled \"[!]CONFIGURE THE NETWORK\" in red. Below, in black, it reads \"Please enter the hostname for the system.\" Below is an empty blue entry box with a cursor and dashed underscore, and below this it says \"<GO BACK>\".][Cueball sits at his computer, Megan stands behind him.]\nMegan: You've been staring at that screen a while.\nCueball: Picking a good server name is important.[Megan stares at him.][She continues to stare.][Cueball pushes his chair back, puts one elbow on the back of the chair and points with his other hand at the screen.]\nMegan: And yet you settled on \"Caroline\" for our daughter in like 15 seconds.\nCueball: But this is a server!\nCueball: Besides, I had to—you were trying to name her \"Epidural.\"\nMegan: Those were good drugs."
+}

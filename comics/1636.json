@@ -1,0 +1,11 @@
+{
+  "num": 1636,
+  "url": "https://xkcd.com/1636",
+  "title": "XKCD Stack",
+  "img": "https://imgs.xkcd.com/comics/xkcd_stack.png",
+  "alt": "This site requires Sun Java 6.0.0.1 (32-bit) or higher. You have Macromedia Java 7.3.8.1¾ (48-bit). Click here [link to java.com main page] to download an installer which will run fine but not really change anything.",
+  "year": "2016",
+  "month": "1",
+  "day": "29",
+  "transcript": "[A simple table with only one column and fifteen rows is shown. Text above:]\nIntroducing\nThe XKCD Stack[The list of cells:]\nEBNF/CSS\nBroken Java Applet\nArchive.org Mirror\nHypercard.js\nQBasic on Rails\n[Blocked by AdBlocker]\nMongoDB/Excel\nSome piece that works so nobody asks any questions\nTriply-Nested Docker\nParavirtual Boy®\nA dev typing real fast\nOlder version of our software\nMystery Networking Horror\nMicrosoft Bob Server®\nA giant CPU someone built in Minecraft"
+}

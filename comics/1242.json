@@ -1,0 +1,11 @@
+{
+  "num": 1242,
+  "url": "https://xkcd.com/1242",
+  "title": "Scary Names",
+  "img": "https://imgs.xkcd.com/comics/scary_names.png",
+  "alt": "Far off to the right of the chart is the Helvetica Scenario.",
+  "year": "2013",
+  "month": "7",
+  "day": "24",
+  "transcript": "[A scatter-plot, with 12 labeled dots. Both axis are labeled but neither has an arrow at its end. The dots are scattered from left to right and top to bottom. Below all labels are given, first for the axis, and then for each dot in approximately normal reading order, left to right top to bottom, but in the order it would make sense to read them:]\nY-axis: Scariness of name\nX-axis: Scariness of thing name refers to[Top left]: Chernobyl packet\n[Top halfway right]: Kessler syndrome\n[Top three quarters towards right]: Demon core\n[Top right]: Flesh-eating bacteria\n[A third down left]: Bomb calorimeter\n[Halfway  down three quarters towards right]: Bird flu\n[Halfway  down right]: Nuclear football\n[Dead center]: Mustard gas\n[Just below and right of center]: Superbug\n[Bottom halfway right]: Soil liquefaction\n[A third up three quarters towards right ]: Criticality incident\n[Very bottom two-thirds to the right]: Grey goo"
+}

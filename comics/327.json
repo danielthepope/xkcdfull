@@ -1,0 +1,11 @@
+{
+  "num": 327,
+  "url": "https://xkcd.com/327",
+  "title": "Exploits of a Mom",
+  "img": "https://imgs.xkcd.com/comics/exploits_of_a_mom.png",
+  "alt": "Her daughter is named Help I'm trapped in a driver's license factory.",
+  "year": "2007",
+  "month": "10",
+  "day": "10",
+  "transcript": "[Mrs. Roberts receives a call from her son's school on her wireless phone. She is standing with a cup of hot coffee or tea (shown with a small line above the cup) facing a small round three-legged table to the right. The voice of the caller is indicated to come from the phone with a zigzag line.]\nVoice over the phone: Hi, This is your son's school. We're having some computer trouble.[In this frame-less panel Mrs. Roberts has put the cup down on the table turned facing out.]\nMrs. Roberts: Oh, dear – did he break something?\nVoice over the phone: In a way –[Mrs. Roberts is now drinking from the cup again looking right. The table is not shown.]\nVoice over the phone: Did you really name your son Robert'); DROP TABLE Students;-- ?\nMrs. Roberts: Oh, yes. Little Bobby Tables, we call him.[Mrs. Roberts holds the cup down.]\nVoice over the phone: Well, we've lost this year's student records. I hope you're happy.\nMrs. Roberts: And I hope you've learned to sanitize your database inputs."
+}

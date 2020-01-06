@@ -1,0 +1,11 @@
+{
+  "num": 2224,
+  "url": "https://xkcd.com/2224",
+  "title": "Software Updates",
+  "img": "https://imgs.xkcd.com/comics/software_updates.png",
+  "alt": "Everything is a cloud application; the ping times just vary a lot.",
+  "year": "2019",
+  "month": "11",
+  "day": "4",
+  "transcript": "[A graph with two axis. Over and right of the axis are two labeled arrows pointing along the two axis:]\nX-axis: Time \nY-axis: Software Version Number [The graph consist of three lines. Two gray lines moves in upwards step from left to right. The upper line begins a bit up the Y-axis the bottom line begins somewhat down the X-axis. From there both lines move upwards in steps of different height. The distance between them stays on average about the same for the entire graph, but moves from bottom to top of the graph. Labeled arrows point to the top and the bottom gray line. The area between them is shaded light gray and has a gray label written in the middle. The third line is black. It begins from a dot just under the second step in the upper gray line. This line also makes steps, keeping close to the upper line, although it makes fewer step than that line. But a bit over halfway to the top, it stops stepping staying on the same level for the rest of the graph, thus  eventually it falls outside of the light gray area between the other two lines, where it had been until the bottom line steps above it. This black line is also labeled, with normal black text written beneath the first full step inside the gray area. Three other points on the black line is also labeled. The starting dot, a second dot just after the final step, under the next large step in the upper gray line, and finally at the end of the black line there are questions mark with an arrow beneath pointing right. The arrow has a label to the left.]\nUpper gray line: Newest Version\nBottom gray line: Oldest Supported Version\nLight gray area: Support Zone\nBlack line: My current version\nStart dot: First Install\nSecond dot: An update finally breaks a feature I'm unwilling to lose\nEnd of black line: ??? \nArrow label: The Abyss[Caption below the chart]:\nAll software is Software as a Service."
+}

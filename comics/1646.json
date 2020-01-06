@@ -1,0 +1,11 @@
+{
+  "num": 1646,
+  "url": "https://xkcd.com/1646",
+  "title": "Twitter Bot",
+  "img": "https://imgs.xkcd.com/comics/twitter_bot.png",
+  "alt": "PYTHON FLAG ENABLE THREE LAWS",
+  "year": "2016",
+  "month": "2",
+  "day": "22",
+  "transcript": "[Cueball is sitting at a desk using a laptop, his thoughts shown above in a thought bubble. A search query is shown in a frame to indicate what Cueball has searched for with the search button below in gray text:]\nCueball (thinking): I want to make a Twitter bot. I bet it's not too hard.\nQuery: How to write a Twitter bot\nSearch[Cueball is now holding the laptop on his lap, a series of search queries are shown.]\nQuery: Python Twitter library\nSearch\nQuery: Machine learning\nSearch\nQuery: Cloud hosting\nSearch[Cueball has placed the laptop back on the desk.  More search queries are shown, each one more ominous than the previous.]\nQuery: Bot troubleshooting\nSearch\nQuery: Locked out of EC2 instance\nSearch\nQuery: Bot changed own password?\nSearch[Cueball is shown wearing a small backpack and typing on his smartphone while jogging to the right. various noises coming from left and right seem to imply that chaos has begun to erupt around him. The loudest noise is in a ragged frame to the left, coming from off-panel left, it is between the first and second query. Also between these but to the right are other sounds coming from off-panel right.]\nQuery: How to fight a bot\nSearch\nNoise off-panel left: Boom\nNoise off-panel right: Pew Pew Pew\nQuery: Cheap flights Australia\nSearch"
+}

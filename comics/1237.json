@@ -1,0 +1,11 @@
+{
+  "num": 1237,
+  "url": "https://xkcd.com/1237",
+  "title": "QR Code",
+  "img": "https://imgs.xkcd.com/comics/qr_code.png",
+  "alt": "Remember, the installer is watching the camera for the checksum it generated, so you have to scan it using your own phone.",
+  "year": "2013",
+  "month": "7",
+  "day": "12",
+  "transcript": "[A smartphone. On the display, the following text:]\n\"To continue installing, scan this code. 12 seconds remaining\"\n[A particularly recursive QR code is displayed on the screen.]\n[Caption below the panel:]\nHow to freak out a mobile app user."
+}

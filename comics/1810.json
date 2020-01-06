@@ -1,0 +1,11 @@
+{
+  "num": 1810,
+  "url": "https://xkcd.com/1810",
+  "title": "Chat Systems",
+  "img": "https://imgs.xkcd.com/comics/chat_systems.png",
+  "alt": "I'm one of the few Instagram users who connects solely through the Unix 'talk' gateway.",
+  "year": "2017",
+  "month": "3",
+  "day": "13",
+  "transcript": "[An Euler diagram with many circle like drawings for various chat systems is shown. Some circles overlapping others in complicated ways, others are single circles with no connections, but most are embedded into others. Inside the circles mainly the standard sticky figures like Cueball, Megan, Ponytail and Hairy are shown but there are also a few others.][The list of items and its intersections from left top to right bottom is:]\nSkype - none, Email\nEmail - none, Skype, SMS, Slack, Hangouts, IRC, ICQ, iMessage, Signal, WhatsApp, Zephyr, FB Messenger, Instagram DM, BBM, Telegram, Twitter DM\nSMS - none, Email, Slack, Hangouts, IRC, Snapchat, iMessage, Signal, WeChat, WhatsApp, Zephyr, FB Messenger, Instagram DM, Peach, BBM, Twitter DM\nAIM - none\nSlack - Email, SMS, Hangouts, IRC, Signal\nHangouts - Email, SMS, Slack, IRC, Signal\nIRC - Email, SMS, Slack, Hangouts, Signal\nSnapchat - SMS\nICQ - Email\niMessage - Email, SMS, Signal, FB Messenger\nSignal - Email, SMS, Slack, Hangouts, IRC, iMessage, Zephyr, Instagram DM\nWeChat - SMS\nWhatsApp - Email, SMS\nZephyr - Email, SMS, Signal\nFB Messenger - Email, SMS, iMessage\nInstagram DM - Email, SMS, Signal\nPeach - SMS\nBBM - Email, SMS\nTelegram - none, Email\nTwitter DM - none, Email, SMS\nThe \"chat\" tab in an old Google Doc - none\nApache Request Log - none\nWall (Unix) - none\nWall (bathroom) - none[Caption below the panel:]\nI have a hard time keeping track of which contacts use which chat systems."
+}

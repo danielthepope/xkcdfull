@@ -1,0 +1,11 @@
+{
+  "num": 1313,
+  "url": "https://xkcd.com/1313",
+  "title": "Regex Golf",
+  "img": "https://imgs.xkcd.com/comics/regex_golf.png",
+  "alt": "/bu|[rn]t|[coy]e|[mtg]a|j|iso|n[hl]|[ae]d|lev|sh|[lnd]i|[po]o|ls/ matches the last names of elected US presidents but not their opponents.",
+  "year": "2014",
+  "month": "1",
+  "day": "6",
+  "transcript": "[Caption at top of panel:]\nRegex golf:\n[Megan is sitting at a laptop. Cueball is standing behind her.]\nMegan: You try to match one group but not the other.\nMegan: /m | [tn]|b/ matches Star Wars subtitles but not Star Trek.\nCueball: Cool.[Caption at top of panel:]\nMeta-regex golf:\n[A close-up of Megan at her laptop.]\nMegan: So I wrote a program that plays regex golf with arbitrary lists...\nCueball (offscreen): Uh oh...[Caption at top of panel:]\nMeta-meta-regex golf:\n[Megan typing at her laptop.]\nMegan: ...But I lost my code, so I'm grepping for files that look like regex golf solvers.\n[Cueball facepalming.][Caption at top of panel:]\n...And beyond:\n[Another closeup of Megan at her laptop.]\nMegan: Really, this is all /(meta-)*regex golf/.\nCueball: Now you have infinite problems.\nMegan: No, I had those already."
+}

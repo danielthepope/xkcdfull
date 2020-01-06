@@ -1,0 +1,11 @@
+{
+  "num": 1234,
+  "url": "https://xkcd.com/1234",
+  "title": "Douglas Engelbart (1925-2013)",
+  "img": "https://imgs.xkcd.com/comics/douglas_engelbart_1925_2013.png",
+  "alt": "Actual quote from The Demo: '... an advantage of being online is that it keeps track of who you are and what you're doing all the time...'",
+  "year": "2013",
+  "month": "7",
+  "day": "5",
+  "transcript": "San Francisco, December 9th, 1968:\n[We see a figure talking into a headset. It's a fair assumption that it's Douglas Engelbart.]\nDouglas: ...We generated video signals with a cathode ray tube... We have a pointing device we call a \"mouse\"... I can \"copy\" text... ... and we have powerful joint file editing... underneath the file here we can exchange \"direct messages\"...\n[Douglas continues to narrate. Some music is playing.]\nDouglas: ...Users can share files... ... files which can encode audio samples, using our \"masking codecs\"... The file you're hearing now is one of my own compositions...\nMusic: I heard there was a secret chord\n[Douglas continues to narrate.]\nDouglas: ...And you can superimpose text on the picture of the cat, like so... This cat is saying \"YOLO\", which stands for \"You Only Live Once\"... ...Just a little acronym we thought up..."
+}

@@ -1,0 +1,11 @@
+{
+  "num": 1140,
+  "url": "https://xkcd.com/1140",
+  "title": "Calendar of Meaningful Dates",
+  "img": "https://imgs.xkcd.com/comics/calendar_of_meaningful_dates.png",
+  "alt": "In months other than September, the 11th is mentioned substantially less often than any other date. It's been that way since long before 9/11 and I have no idea why.",
+  "year": "2012",
+  "month": "11",
+  "day": "28",
+  "transcript": "Calendar of Meaningful Dates\nEach date's size represents how often it is referred to by name (e.g. \"October 17th\") in English-language books since 2000\n(Source: Google ngrams corpus)\n[A regular Gregorian calendar laid out in a grid, Sunday first, on a leap year, with some numbers larger than others.]"
+}

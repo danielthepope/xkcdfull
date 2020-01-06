@@ -1,0 +1,11 @@
+{
+  "num": 1728,
+  "url": "https://xkcd.com/1728",
+  "title": "Cron Mail",
+  "img": "https://imgs.xkcd.com/comics/cron_mail.png",
+  "alt": "Take THAT, piece of 1980s-era infrastructure I've inexplicably maintained on my systems for 15 years despite never really learning how it works.",
+  "year": "2016",
+  "month": "9",
+  "day": "2",
+  "transcript": "[Cueball is sitting at a table in an office chair working on his laptop. Ponytail walks up to him.]\nCueball: I've been getting these \"You have new mail\" UNIX notifications for like 15 years, but I've never bothered to figure out what it's talking about.[Ponytail has stopped behind Cueball who is typing on his laptop. When Ponytail (and later Cueball) mentions code, the text uses both small and capital letters (as opposed to only capital letters in all other text).]\nPonytail: Look in /var/mail?\nCueball: OK...\nCueball: Oh, wow, there's like a gigabyte of stuff from Cron in here.[In a frame-less panel Ponytail is facepalming. Cueball is replying from off-panel with a starburst indicating his position.]\nPonytail: *Sigh*\nPonytail: You should fix your Cron, then point \"MAILTO=\" somewhere you actually see-\nCueball (off-panel): Better idea:[Same setting as panel 2 but Cueball is visibly typing on the laptop as shown with three small curved lines over his hands on the keyboard.]\nCueball: export MAILTO=/etc/crontab\nCueball: There. Your move, Cron.\nPonytail: Wow. Hardball.\nCueball: Let's see how important it thinks that mail really is."
+}

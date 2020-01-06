@@ -1,0 +1,11 @@
+{
+  "num": 1445,
+  "url": "https://xkcd.com/1445",
+  "title": "Efficiency",
+  "img": "https://imgs.xkcd.com/comics/efficiency.png",
+  "alt": "I need an extension for my research project because I spent all month trying to figure out whether learning Dvorak would help me type it faster.",
+  "year": "2014",
+  "month": "11",
+  "day": "10",
+  "transcript": "[A bar chart is shown below its title:]\nTime Cost[The chart consist of a dividing line, with three labels to the left, and the three black bars to the right. The first two bars are short, the second slightly longer than the first. The last bar is much longer, about 13 time as long as the first shortest bar.]\nStrategy A\nStrategy B\nAnalyzing whether strategy A or B is more efficient[Caption below the panel:]\nThe reason I am so inefficient"
+}

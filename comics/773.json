@@ -1,0 +1,11 @@
+{
+  "num": 773,
+  "url": "https://xkcd.com/773",
+  "title": "University Website",
+  "img": "https://imgs.xkcd.com/comics/university_website.png",
+  "alt": "People go to the website because they can't wait for the next alumni magazine, right? What do you mean, you want a campus map? One of our students made one as a CS class project back in '01! You can click to zoom and everything!",
+  "year": "2010",
+  "month": "7",
+  "day": "30",
+  "transcript": "[A venn diagram.]\n[The left circle is labeled \"Things on the front page of a university website\" and contains:]\n\"campus photo slideshow\"\n\"alumni in the news\"\n\"promotions for campus events\"\n\"press releases\"\n\"statement of the school's philosophy\"\n\"letter from the president\"\n\"virtual tour\"[The right circle is labeled \"Things people go to the site looking for\" and contains:]\n\"list of faculty phone numbers and emails\"\n\"campus address\"\n\"application forms\"\n\"academic calendar\"\n\"campus police phone number\"\n\"department course lists\"\n\"parking information\"\n\"usable campus map\"[The only item in the overlapping section is:]\n\"full name of school\""
+}

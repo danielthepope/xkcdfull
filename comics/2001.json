@@ -1,0 +1,11 @@
+{
+  "num": 2001,
+  "url": "https://xkcd.com/2001",
+  "title": "Clickbait-Corrected p-Value",
+  "img": "https://imgs.xkcd.com/comics/clickbait_corrected_p_value.png",
+  "alt": "When comparing hypotheses with Bayesian methods, the similar 'clickbayes factor' can account for some harder-to-quantify priors.",
+  "year": "2018",
+  "month": "6",
+  "day": "1",
+  "transcript": "[Under a heading that says Clickbait-Corrected p-Value there is a mathematic formula. Below that is the description of the two used variables and what they mean:]\nClickbait-corrected p-value:PCL = Ptraditional ∙ click(H1)/click(H0)H0: NULL hypothesis (\"Chocolate has no effect on athletic performance\")\nH1: Alternative hypothesis (\"Chocolate boosts athletic performance\")\nclick(H): Fraction of test subjects who click on a headline announcing that H is true"
+}

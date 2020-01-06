@@ -1,0 +1,11 @@
+{
+  "num": 718,
+  "url": "https://xkcd.com/718",
+  "title": "The Flake Equation",
+  "img": "https://imgs.xkcd.com/comics/the_flake_equation.png",
+  "alt": "Statistics suggest that there should be tons of alien encounter stories, and in practice there are tons of alien encounter stories. This is known as Fermi's Lack-of-a-Paradox.",
+  "year": "2010",
+  "month": "3",
+  "day": "24",
+  "transcript": "The Flake Equation:\nP = WP × (CR + MI) × TK × F0 × F1 × DT × AU ≈ 100,000\nWhere:\nWP = World Population (7,000,000,000)\nCR = Fraction of people who imagine an alien encounter because they're crazy or want to feel special (1/10,000)\nMI = Fraction of people who misinterpret a physical or physiological experience as an alien sighting (1/10,000)\nTK = Probability that they'll tell someone (1/10)\nF0 = Average number of people they tell (10)\nF1 = Average number of people each friend tells this \"firsthand\" account (10)\nDT = Probability that any details not fitting the narrative will be revised or forgotten in retelling (9/10)\nAU = Fraction of people with the means and motivation to share the story with a wider audience (blogs, forums, reporters) (1/100)\nEven with conservative guesses for the values of the variables, this suggests there must be a huge number of credible-sounding alien sightings out there, available to anyone who wants to believe!"
+}

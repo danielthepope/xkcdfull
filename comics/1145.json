@@ -1,0 +1,11 @@
+{
+  "num": 1145,
+  "url": "https://xkcd.com/1145",
+  "title": "Sky Color",
+  "img": "https://imgs.xkcd.com/comics/sky_color.png",
+  "alt": "Feynman recounted another good one upperclassmen would use on freshmen physics students: When you look at words in a mirror, how come they're reversed left to right but not top to bottom? What's special about the horizontal axis?",
+  "year": "2012",
+  "month": "12",
+  "day": "10",
+  "transcript": "[Science Girl and her mother, Megan. Megan is at a desk and facing the girl.]\nScience Girl: Mommy, why is the sky blue?\nMegan: Rayleigh scattering! Short wavelengths get scattered way more (proportional to 1/λ4). Blue light dominates because it's so short.\nScience Girl: Oh.\nScience Girl: So why isn't the sky violet?\nMegan: Well, because, uh... ...hmm.\n[Caption Below the panel:]\nMy hobby: Teaching tricky questions to the children of my scientist friends."
+}

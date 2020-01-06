@@ -1,0 +1,11 @@
+{
+  "num": 184,
+  "url": "https://xkcd.com/184",
+  "title": "Matrix Transform",
+  "img": "https://imgs.xkcd.com/comics/matrix_transform.png",
+  "alt": "In fact, draw all your rotational matrices sideways. Your professors will love it! And then they'll go home and shrink.",
+  "year": "2006",
+  "month": "11",
+  "day": "15",
+  "transcript": "[A square matrix next to a vertical two-by-one matrix, equated to a horizontal matrix that looks like the two-by-one matrix turned 90 degrees.]\n[Square matrix:\n cos90°    sin90°\n -sin90°   cos90°]\n[Two by one matrix:]\n [a₁\n a₂]\n[An equal sign]\n[The same two by one matrix, but rotated by 90 degrees clockwise:]\n [a₁\n a₂]"
+}

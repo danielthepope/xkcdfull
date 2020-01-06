@@ -1,0 +1,11 @@
+{
+  "num": 1341,
+  "url": "https://xkcd.com/1341",
+  "title": "Types of Editors",
+  "img": "https://imgs.xkcd.com/comics/types_of_editors.png",
+  "alt": "m-x machineofdeath-mode",
+  "year": "2014",
+  "month": "3",
+  "day": "12",
+  "transcript": "[There are four panels, each with different headings and explanations of the headings above the panels.][The first three panels shows two titled text boxes, one above the other, with text inside. This text is formated with both small and capital letters as opposed to all capital letters in the rest of the comic.][Heading panel 1:]\nWYSIWYG \nWhat you see is \nwhat you get[Panel 1.]\nWhat you see:\nHi\nWhat you get:\nHi[Heading panel 2:]\nWYSINWYG \nWhat you see is \nnot what you get[Panel 2.]\nWhat you see:\n<em>Hi</em>\nWhat you get:\nHi[Heading panel 3:]\nWYSITUTWYG \nWhat you see is totally \nunrelated to what you get[Panel 3.]\nWhat you see:\n<em>Hi</em>\nWhat you get:\nThe HORSE is a noble animal.[The fourth panel shows two titled text areas, the top is a black rectangle with white text in a very large font, and the bottom text area is not outlined with a border.][Heading panel 4:]\nWYSIHYD \nWhat you see is \nhow you die[Panel 4.]\nWhat you see:\nEATEN BY WOLVES\nWhat you get:\nEaten by wolves"
+}

@@ -1,0 +1,11 @@
+{
+  "num": 1181,
+  "url": "https://xkcd.com/1181",
+  "title": "PGP",
+  "img": "https://imgs.xkcd.com/comics/pgp.png",
+  "alt": "If you want to be extra safe, check that there's a big block of jumbled characters at the bottom.",
+  "year": "2013",
+  "month": "3",
+  "day": "4",
+  "transcript": "How to use PGP to verify that an email is authentic:\nLook for this text at the top\n[In mail header, light grey.] Reply\n[Highlighted, with arrow pointing to it from the text \"Look for this text at the top\" above.]\n-----BEGIN PGP SIGNED MESSAGE-----\n[In mail message, light grey.]\nHASH: SHA256\nHey,\nFirst of all, thanks for taking care of[After mail message.]\nIf it's there, the email is probably fine"
+}

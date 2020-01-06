@@ -1,0 +1,11 @@
+{
+  "num": 518,
+  "url": "https://xkcd.com/518",
+  "title": "Flow Charts",
+  "img": "https://imgs.xkcd.com/comics/flow_charts.png",
+  "alt": "At 8 drinks, you switch the torrent from FreeBSD to Microsoft Bob. C'mon, it'll be fun!",
+  "year": "2008",
+  "month": "12",
+  "day": "17",
+  "transcript": "[A flow chart is shown beneath a caption. There are 14 boxes five diamond shaped and the rest rectangular. From all the diamond boxes there are one arrow entering and two arrows leaving (with yes/no labels on them). One of the other boxes is the start with only one arrow leaving, and three of these boxes are endings with only one arrow entering. Three has two arrows entering and one leaving. And two have one in and one out. Caption:]\nA guide to \nunderstanding flow charts\npresented in flow chart form.Box 0: Start\n[Arrow to Box 1.]\nBox 1: Do you understand flow charts?\n[Arrow to Box 2.] Yes\n[Arrow to Box 4.] No\nBox 2: Good\n[Arrow to Box 3.] Yes\nBox 3: Let's go drink.\n[Arrow to Final Box.] 6 Drinks\nBox 4: Okay. You see the line labeled \"Yes\"?\n[Arrow to Box 6.] Yes\n[Arrow to Box 5.] No\nBox 5: But you see the ones labeled \"No\".\n[Arrow to End-Box 1.] Yes\n[Arrow to End-Box 2a.] No\nEnd-Box 1: Wait, what?\n[No Arrows.]\nEnd-Box 2a: Listen.\n[Arrow to End-Box 2b.]\nEnd-Box 2b: I hate you.\n[No Arrows.]\nBox 6: ...and you can see the ones labeled \"No\"?\n[Arrow to Box 2.] Yes\n[Arrow to Box 7.] No\nBox 7: But you just followed them twice!\n[Arrow to Box 8a.] Yes\n[Arrow to Box 8a.] No\nBox 8a: (That wasn't a question.)\n[Arrow to Box 8b.]\nBox 8b: Screw it.\n[Arrow to Box 3.]\nFinal Box: Hey I should try installing FreeBSD!"
+}

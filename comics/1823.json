@@ -1,0 +1,11 @@
+{
+  "num": 1823,
+  "url": "https://xkcd.com/1823",
+  "title": "Hottest Editors",
+  "img": "https://imgs.xkcd.com/comics/hottest_editors.png",
+  "alt": "Elon Musk finally blocked me from the internal Tesla repository because I wouldn't stop sending pull requests for my code supporting steering via vim keybindings.",
+  "year": "2017",
+  "month": "4",
+  "day": "12",
+  "transcript": "[A short list with a heading above a line and below that a list of seven years increasing with 5 years intervals. After each year are gray lines that leads to the name of an editor, except for the first two years, where there is a two row square bracket around the first entry;]\nHottest Editors\n--------------------\n1995-2000—[Emacs–Vim Editor war]\n2005—Vim\n2010—Notepad++\n2015—Sublime Text\n2020—CRISPR\n2025—CRISPR (Vim keybindings)"
+}

@@ -1,0 +1,11 @@
+{
+  "num": 1439,
+  "url": "https://xkcd.com/1439",
+  "title": "Rack Unit",
+  "img": "https://imgs.xkcd.com/comics/rack_unit.png",
+  "alt": "There's also nothing in the TOSes that says you can't let a dog play baseball in the server room!",
+  "year": "2014",
+  "month": "10",
+  "day": "27",
+  "transcript": "[Megan and Black Hat are talking, Megan is sitting at a computer.]\nBlack Hat: I've discovered something.\nMegan: Oh?\nBlack Hat: Standard server rack units and standard beehive honeycomb frames are compatible.\nBlack Hat: They're both 19 inches, with similar pitches.\nMegan: Uh oh.\nBlack Hat: I'm pleased to announce that today, for a few hours, Google led the world in datacenter honey production.\nBlack Hat: Until their security people kicked me out.\nMegan: I'm sorry your beekeeping career ended so quickly.\nBlack Hat: I'll find a new datacenter.\nBlack Hat: Turns out most colocation TOSes don't mention beehives.\nMegan: I suspect that will soon change."
+}

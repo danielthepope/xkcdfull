@@ -1,0 +1,11 @@
+{
+  "num": 2225,
+  "url": "https://xkcd.com/2225",
+  "title": "Voting Referendum",
+  "img": "https://imgs.xkcd.com/comics/voting_referendum.png",
+  "alt": "The weirdest quirk of the Borda count is that Jean-Charles de Borda automatically gets one point; luckily this has no consequences except in cases of extremely low turnout.",
+  "year": "2019",
+  "month": "11",
+  "day": "6",
+  "transcript": "[A voting ballot is shown with an underlined header and 10 different options below with different boxes/buttons next to each choice.  Some are empty, some are marked/checked or numbered.]\nWhich voting system should we use?[Empty radio button]: First past the post\n[Empty radio button]: Top-two primary\n[Filled radio button]: Louisiana primary\n[Three radio buttons in a row, first two filled]: Cumulative voting\n[Checked box]: Approval voting\n[Checked box]: Multiple non-transferrable vote\n[Box marked]: 3: Instant runoff voting\n[box marked]: 1: Single transferrable vote\n[box marked]: 2: Borda count\n[Slider with value slightly below half]: Range voting[Caption below the panel:] \nThe referendum went well, but we can't figure out how to count the ballots."
+}

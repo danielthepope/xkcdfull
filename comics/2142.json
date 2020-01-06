@@ -1,0 +1,11 @@
+{
+  "num": 2142,
+  "url": "https://xkcd.com/2142",
+  "title": "Dangerous Fields",
+  "img": "https://imgs.xkcd.com/comics/dangerous_fields.png",
+  "alt": "Eventually, every epidemiologist becomes another statistic, a dedication to record-keeping which their colleagues sincerely appreciate.",
+  "year": "2019",
+  "month": "4",
+  "day": "26",
+  "transcript": "[A line chart is shown going from left to right with two arrows on either side. On the line are ten dots spread out unevenly from close to each end. The first four dots are clustered together on the left side. Then follows 5 more dots unevenly spaced, all to the left of center. On the far right of the line, near the end, there is one dot. Beneath each dot there goes a line down to a label written beneath each line. Above the chart there is a big title and below that an explanation. Below that again, there is a small arrow pointing to the right with a label above it.]\nProbability that you'll be killed by the thing you study\nBy field[Arrow pointing right, labeled:]\nMore likely[Labels for the ten dots from left to right:]\nMathematics (0 pixels from first field, 0.00% of overall range of fields)\nAstronomy (9px, 1.35%)\nEconomics (16px, 2.40%)\nLaw (22px, 3.30%)\nCriminology (77px, 11.56%)\nMeteorology (96px, 14.41%)\nChemistry (156px, 23.42%)\nMarine Biology (166px, 24.92%)\nVolcanology (206px, 30.93%)\nGerontology (666px, 100.00%)"
+}

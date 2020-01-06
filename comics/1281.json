@@ -1,0 +1,11 @@
+{
+  "num": 1281,
+  "url": "https://xkcd.com/1281",
+  "title": "Minifigs",
+  "img": "https://imgs.xkcd.com/comics/minifigs.png",
+  "alt": "The LEGO Group is already the world's largest tire manufacturer.",
+  "year": "2013",
+  "month": "10",
+  "day": "23",
+  "transcript": "[Graph: x-axis 1980, 1990, 2010, 2020; y-axis 1, 2, 3, 4, 5, 6, 7, 8 billions.]\n[Plot-line 1: Number of people in the world.]\n[Plot-line 2: Number of Lego People in the world.]\n[Label above the x-axis at 2013 reads \"Today\".]\n[Shortly before 2020, both plot lines cross.]By 2019, humans will be outnumbered."
+}

@@ -1,0 +1,11 @@
+{
+  "num": 1061,
+  "url": "https://xkcd.com/1061",
+  "title": "EST",
+  "img": "https://imgs.xkcd.com/comics/est.png",
+  "alt": "The month names are the same, except that the fourth month only has the name 'April' in even-numbered years, and is otherwise unnamed.",
+  "year": "2012",
+  "month": "5",
+  "day": "28",
+  "transcript": "[Caption above the frame:]\nxkcd presents\nEarth Standard Time\n(EST)\nA universal calendar for a universal planet\nEST is...\nSimple • Clearly defined • Unambiguous\nFree of historical baggage • Compatible with old units\nPrecisely synced with the solar cycle • Free of leap years\nIntermittently amenable to date math[Inside the frame a list of the details concerning EST is shown:]\nUnits\nSecond: 1 S.I. second\nMinute: 60 seconds\nHour: 60 minutes\nDay: 1444 minutes (24 hours 4 minutes)\nMonth: 30 days\nYear: 12 monthsRules\nFor 4 hours after every full moon, run clocks backward.\nThe non-prime-numbered minutes of the first full non-reversed hour after a solstice or equinox happen twice.[In two columns the \"Epoch\" is put into a contrasting juxtaposition to \"Time Zones\":]\nEpoch\n00:00:00 EST, January 1st, 1970 = 00:00:00 GMT, January 1st, 1970 (Julian Calendar)\nTime Zones\nThe two EST time zones are EST and EST (United Kingdom). These are the same except that the UK second is 0.9144 standard seconds.[A few further statements:]\nDaylight saving: Countries may enter DST, but no time may pass there.\nNarnian Time: Synchronized✔\nYear Zero: EST does have a year 0. (However, there is no 1958.)"
+}

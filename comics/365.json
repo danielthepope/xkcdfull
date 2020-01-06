@@ -1,0 +1,11 @@
+{
+  "num": 365,
+  "url": "https://xkcd.com/365",
+  "title": "Slides",
+  "img": "https://imgs.xkcd.com/comics/slides.png",
+  "alt": "Did you know they can actually physically throw you out of SIGGRAPH?",
+  "year": "2008",
+  "month": "1",
+  "day": "2",
+  "transcript": "[Cueball is standing on a stage, and is pointing at a line graph with a pointer.]\nCueball: That chart explained the quantum hall effect. Now, if you'll bear with me a moment, this next graph shows rainfall over the amazon basin...\n[Caption below the panel:]\nIf you keep saying \"bear with me for a moment\" people will take a while to figure out that you're just showing them random slides."
+}

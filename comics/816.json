@@ -1,0 +1,11 @@
+{
+  "num": 816,
+  "url": "https://xkcd.com/816",
+  "title": "Applied Math",
+  "img": "https://imgs.xkcd.com/comics/applied_math.png",
+  "alt": "Dear Reader: Enclosed is a check for ninety-eight cents. Using your work, I have proven that this equals the amount you requested.",
+  "year": "2010",
+  "month": "11",
+  "day": "8",
+  "transcript": "[Ponytail is standing at a whiteboard considering a logical proof. The proof assumes P and deduces P ∧ P.]\nPonytail: Wow. I can't find fault with your proof.[Ponytail is still looking at the white board, the frame expands to show Megan walking away, rubbing her hands together in an evil manner.]\nPonytail: You've shown the inconsistency — and thus the invalidity — of basic logic itself.\nMegan: Excellent. On to step two...[Megan sits down at a desk and begins to write.]\nDear Dr. Knuth,[She continues to write.]\nI am writing to collect from you the $3,372,564.48 I am owed for discovering 1,317,408 errors in The Art of Computer Programming..."
+}

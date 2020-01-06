@@ -1,0 +1,11 @@
+{
+  "num": 1808,
+  "url": "https://xkcd.com/1808",
+  "title": "Hacking",
+  "img": "https://imgs.xkcd.com/comics/hacking.png",
+  "alt": "The dump also contains a list of millions of prime factors, a 0-day Tamagotchi exploit, and a technique for getting gcc and bash to execute arbitrary code.",
+  "year": "2017",
+  "month": "3",
+  "day": "8",
+  "transcript": "[Ponytail is writing on her laptop at her desk while Cueball looks over her shoulder.]\nPonytail: You know how sometimes people put a space in their email address to make it harder to harvest?\nCueball: Yeah?\nPonytail: They have a tool that can delete the space!\nCueball: Oh my god.[Caption below the panel:]\nLess-dramatic revelations from the CIA hacking dump"
+}

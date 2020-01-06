@@ -1,0 +1,11 @@
+{
+  "num": 224,
+  "url": "https://xkcd.com/224",
+  "title": "Lisp",
+  "img": "https://imgs.xkcd.com/comics/lisp.jpg",
+  "alt": "We lost the documentation on quantum mechanics. You'll have to decode the regexes yourself.",
+  "year": "2007",
+  "month": "2",
+  "day": "16",
+  "transcript": "[Floating in space.]\nSpeaker: Last night I drifted off while reading a Lisp book.\nCueball: Huh?\nSpeaker: Suddenly, I was bathed in a suffusion of blue.[Floating in space before a vast concept tree.]\nSpeaker: At once, just like they said, I felt a great enlightenment. I saw the naked structure of Lisp code unfold before me.\nCueball: My God\nCueball: It's full of 'car's\nSpeaker: The patterns and metapatterns danced. Syntax faded, and I swam in the purity of quantified conception. Of ideas manifest.[Close-up of floating in space before part of a concept tree.]\nTruly, this was the language from which the gods wrought the Universe.[Floating in space with God appearing through a line of clouds.]\nGod: No, it's not.\nCueball: It's not?\nGod: I mean, ostensibly, yes. Honestly, we hacked most of it together with Perl."
+}
