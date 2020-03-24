@@ -1,0 +1,11 @@
+{
+  "num": 2256,
+  "url": "https://xkcd.com/2256",
+  "title": "Bad Map Projection: South America",
+  "img": "https://imgs.xkcd.com/comics/bad_map_projection_south_america.png",
+  "alt": "The projection does a good job preserving both distance and azimuth, at the cost of really exaggerating how many South Americas there are.",
+  "year": "2020",
+  "month": "1",
+  "day": "17",
+  "transcript": "[A map of the world, but every landmass has been replaced with South America, rotated and resized to roughly match the real landmasses they represent. South America is correct, except that the islands at the bottom of the continent also have been switch to a small South America.][Caption below the panel:]\nBad Map Projection #358: Oops, all South Americas!"
+}
