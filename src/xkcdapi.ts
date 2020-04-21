@@ -34,6 +34,9 @@ function sortNumber(a: number, b: number) {
 }
 
 function setup(callback: (err: Error) => void) {
+  if (callback === undefined) {
+    callback = (err) => null;
+  }
   updateInfo(function (err) {
     if (err) return callback(err);
     readAllComicFiles(INFO_FILE, function (err: Error, data: { [key: string]: Comic }) {
