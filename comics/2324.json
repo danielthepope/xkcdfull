@@ -1,0 +1,11 @@
+{
+  "num": 2324,
+  "url": "https://xkcd.com/2324",
+  "title": "Old Days 2",
+  "img": "https://imgs.xkcd.com/comics/old_days_2.png",
+  "alt": "The git vehicle fleet eventually pivoted to selling ice cream, but some holdovers remain. If you flag down an ice cream truck and hand the driver a floppy disk, a few hours later you'll get an invite to a git repo.",
+  "year": "2020",
+  "month": "6",
+  "day": "24",
+  "transcript": "[In a slim panel, Cueball and Hairbun are walking together to the right. Hairbun has her palm raised.]\nCueball: What was the Internet like in the olden days, for a developer?\nHairbun: Oh, things were very different.[Cueball and Hairbun have stopped walking. Zoomed in on Hairbun.]\nHairbun: The cloud was a lot smaller. It was called a \"mainframe\" and it was near Sacramento.\nHairbun: It was on the state landline, so the whole industry paused when the governor had to make a phone call.[Zoomed back out. Hairbun has her palm raised.]\nHairbun: There was no memory protection. If you wanted to write to an address, you would call around to ask whether anyone else was using it.\nHairbun: Often Bill Gates would say he was, even when he wasn't. That's how Microsoft got its early foothold.\nCueball: Wow.[Zoomed back in Hairbun. Cueball responds off-screen.]\nHairbun: \"Git\" was originally a van that circled around gathering data tapes to copy and distribute. We all took turns driving it.\nHairbun: When you saw it coming you'd blow an air horn to request that it pull over.\nHairbun: That's where \"pull request\" came from.\nCueball (off-screen): Oh, neat![Cueball and Hairbun continue walking to the right. Hairbun has her palm raised.]\nHairbun: Before terminals, we all used punch cards, which were originally developed to control looms.\nHairbun: Early mainframes would produce a sweater each time you ran your code.\nHairbun: Eventually we got them to stop. We had enough sweaters."
+}

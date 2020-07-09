@@ -1,0 +1,11 @@
+{
+  "num": 2309,
+  "url": "https://xkcd.com/2309",
+  "title": "X",
+  "img": "https://imgs.xkcd.com/comics/x.png",
+  "alt": "The worst is when you run out of monospaced fonts and have to use variable-width variables.",
+  "year": "2020",
+  "month": "5",
+  "day": "20",
+  "transcript": "[Cueball holds a laptop with code visible on the screen.]\nCueball: I've developed a new programming language!\nOffpanel voice: Didn't a judge order you to stop doing that?[In a frameless panel, Cueball holds the laptop with one hand and types on the keyboard.]\nCueball: Higher court threw out the ruling!\nCueball: I'm back, suckers!\nOffpanel voice: Dammit.[Cueball holds the folded down laptop at his side.]\nCueball: But I promise it's good this time!\nCueball: Just normal code. Good clean syntax. Nothing weird.\nOffpanel voice: Okay...[Cueball holds the laptop at his side, and raises a finger on his other hand.]\nCueball: Except the only variable name is \"X\". To refer to different variables you have to write \"X\" in different fonts.\nOffpanel voice: I'm calling the court.\nAnother offpanel voice: Maybe we can appeal."
+}

@@ -1,0 +1,11 @@
+{
+  "num": 2323,
+  "url": "https://xkcd.com/2323",
+  "title": "Modeling Study",
+  "img": "https://imgs.xkcd.com/comics/modeling_study.png",
+  "alt": "You've got questions, we've got assumptions.",
+  "year": "2020",
+  "month": "6",
+  "day": "22",
+  "transcript": "[There are two columns.][The column on the left is a piece of paper labeled \"Empirical Study\". The paper consists of the sections \"Abstract\", \"Introduction\", \"Methods\", \"Results\", and \"Discussion\". Each section consists of several horizontal lines meant to represent blocks of text. In the middle of the \"Abstract\" section, there is a large red rectangle. Inside this rectangle is the word \"Problem\" in large red letters.][The column on the right is a piece of paper labeled \"Modeling Study\". It consists of the same sections, but the large red rectangle with the word \"Problem\" is in the \"Methods\" section instead of the \"Abstract\" section.][There is a curvy arrow pointing from the red box in the paper on the left to the red box in the paper on the right.][Caption below the panel:]\nA mathematical model is a powerful tool for taking hard problems and moving them to the methods section."
+}

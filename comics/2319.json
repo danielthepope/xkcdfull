@@ -1,0 +1,11 @@
+{
+  "num": 2319,
+  "url": "https://xkcd.com/2319",
+  "title": "Large Number Formats",
+  "img": "https://imgs.xkcd.com/comics/large_number_formats.png",
+  "alt": "10^13.4024: A person who has come back to numbers after a journey deep into some random theoretical field",
+  "year": "2020",
+  "month": "6",
+  "day": "12",
+  "transcript": "[A panel only with text. At the top there is four lines of explanatory text. Below that are 2 columns with 5 rows of number formats. Each numerical format is in red, with black text explaining the format below it.]What the way you write large numbers says about you\n(Using the approximate current distance to Jupiter in inches as an example)25,259,974,097,204\nNormal person25 trillion\nNormal person25 billion\nOld British person2.526x1013\nScientist2.525997x1013\nScientist trying to avoid rounding up2.526e13 or 2.526*10^13\nSoftware developer25,259,973,541,888\nSoftware developer who forgot about floats1013\nAstronomer{∅,{∅},{∅,{∅}},{∅,{∅},{...\nSet theorist1,262,998,704,860 score and four\nAbraham Lincoln"
+}

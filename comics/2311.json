@@ -1,0 +1,11 @@
+{
+  "num": 2311,
+  "url": "https://xkcd.com/2311",
+  "title": "Confidence Interval",
+  "img": "https://imgs.xkcd.com/comics/confidence_interval.png",
+  "alt": "The worst part is that's the millisigma interval.",
+  "year": "2020",
+  "month": "5",
+  "day": "25",
+  "transcript": "[A graph is shown in the middle of the panel. There is a square frame around it. The graph has two unlabeled axes with ticks along both axes.  The axes end in arrows. A solid line graph is shown. It begins around the middle of the Y axis, goes up and flattens twice before falling down towards the right. Far above and just below the frame around the graph are two gray dotted lines. They do not follow the same path as the solid line inside the frame, but do follow the same general trend. Below the graph, but inside the frame, is a caption:]\nFig. 2: Predicted Curve[Caption below the panel:]\nScience tip: If your model is bad enough, the confidence intervals will fall outside the printable area."
+}
