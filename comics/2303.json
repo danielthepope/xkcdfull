@@ -1,0 +1,11 @@
+{
+  "num": 2303,
+  "url": "https://xkcd.com/2303",
+  "title": "Error Types",
+  "img": "https://imgs.xkcd.com/comics/error_types.png",
+  "alt": "Type IIII error: Mistaking tally marks for Roman numerals",
+  "year": "2020",
+  "month": "5",
+  "day": "6",
+  "transcript": "[A list with nine entries. The left side has 9 types of errors numbered with Roman numerals. The right side has a description of each type of error:]\nType I Error: False positive\nType II Error: False negative\nType III Error: True positive for incorrect reasons\nType IV Error: True negative for incorrect reasons\nType V Error: Incorrect result which leads you to a correct conclusion due to unrelated errors\nType VI Error: Correct result which you interpret wrong\nType VII Error: Incorrect result which produces a cool graph\nType VIII Error: Incorrect result which sparks further research and the development of new tools which reveal the flaw in the original results while producing novel correct results\nType IX Error: The Rise of Skywalker"
+}

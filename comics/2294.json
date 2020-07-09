@@ -1,0 +1,11 @@
+{
+  "num": 2294,
+  "url": "https://xkcd.com/2294",
+  "title": "Coronavirus Charts",
+  "img": "https://imgs.xkcd.com/comics/coronavirus_charts.png",
+  "alt": "Adding data for South Korea but with their cases scaled to match the population of Japan and the land area of Australia, and vice versa.",
+  "year": "2020",
+  "month": "4",
+  "day": "15",
+  "transcript": "[A curve labeled \"United States\" starts about halfway up the vertical axis, rises almost to the top, and then levels off about a third of the way along the horizontal axis.]\n[4 other curves are also shown, labeled \"New York City area\", \"Italy\", \"Norway + Sweden\" and \"Ratio between France and Spain\".]\nY-axis label: Coronavirus deaths today plus total cases one week ago per capita\nX-axis label: Negative test results per Google search for \"COVID\" (log scale)\nCaption: I'm a huge fan of weird graphs, but even I admit some of these coronavirus charts are less than helpful."
+}

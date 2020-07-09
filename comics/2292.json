@@ -1,0 +1,11 @@
+{
+  "num": 2292,
+  "url": "https://xkcd.com/2292",
+  "title": "Thermometer",
+  "img": "https://imgs.xkcd.com/comics/thermometer.png",
+  "alt": "I hate how many times you have to press it to get to the system normal people use, degrees Rømer.",
+  "year": "2020",
+  "month": "4",
+  "day": "10",
+  "transcript": "[Cueball stands in the center of the panel holding a thermometer.]\nCueball: This thermometer is in Celsius. How do you change it?\t\nOff-panel voice: Long press the button.[Cueball presses the button, and the thermometer beeps]\nPress\nBeep\nThermometer: Units: Kelvin\t\nCueball: No...\t[Cueball presses the button, and the thermometer beeps]\nPress\nBeep\nThermometer: Units: Degrees Rankine\t\nCueball: What.\t[Cueball presses the button, and the thermometer beeps]\nPress\nBeep\nThermometer: Units: Average Translational Kinetic Energy\nCueball: This is the worst thermometer.\nOff-panel voice: Boltzmann's constant is on the side if you need it."
+}
