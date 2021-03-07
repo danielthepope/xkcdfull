@@ -1,0 +1,11 @@
+{
+  "num": 2399,
+  "url": "https://xkcd.com/2399",
+  "title": "2020 Election Map",
+  "img": "https://imgs.xkcd.com/comics/2020_election_map.png",
+  "alt": "There are more Trump voters in California than Texas, more Biden voters in Texas than New York, more Trump voters in New York than Ohio, more Biden voters in Ohio than Massachusetts, more Trump voters in Massachusetts than Mississippi, and more Biden voters in Mississippi than Vermont.",
+  "year": "2020",
+  "month": "12",
+  "day": "16",
+  "transcript": "2020 Election Map\n[One stick figure in a black circle] = 250,000 votes\n[Stick figure in a blue circle] Biden\n[Stick figure in a red circle] Trump\n[Stick figure in a green circle] Other\nVotes are distributed by state as accurately as possible while keeping national totals correct.\nLocation within each state is approximate.\n[Blue, red, and green circles are distributed across a map of the United States.]"
+}

@@ -1,0 +1,11 @@
+{
+  "num": 2369,
+  "url": "https://xkcd.com/2369",
+  "title": "All-in-One",
+  "img": "https://imgs.xkcd.com/comics/all_in_one.png",
+  "alt": "Changes with this update: If you use the combined scan-shred function, it now performs them in that order instead of the reverse, saving a HUGE amount of CPU time.",
+  "year": "2020",
+  "month": "10",
+  "day": "7",
+  "transcript": "[A large printer-like machine, with the label All-in-One Paper Processor on the top left of it. There are three columns of functions, with a few of them having a green light. At the top of the machine is a \"paper feed\" tray. At the bottom of the machine, is a large hole, for outputting the paper.]Column 1\nPrint (lit green)\nCopy\nFax (lit green)\nShred\nScan\nTranslate\nSummarize\nPlagiarize\nCollate (lit green)Column 2\nStaple (lit green)\nRemove staples\nAdd those perforated edge strips that are so fun to tear\nRoll\nBurn\nEatColumn 3\nFold airplane\nOrigami flower\nCorrugate\nPaper-mâché\nDécoupage\nNotarize (lit green)\nBiodegrade\nCrumple and throw at trash like a basketball (lit green)"
+}

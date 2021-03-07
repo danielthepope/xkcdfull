@@ -1,0 +1,11 @@
+{
+  "num": 2365,
+  "url": "https://xkcd.com/2365",
+  "title": "Messaging Systems",
+  "img": "https://imgs.xkcd.com/comics/messaging_systems.png",
+  "alt": "SMS is just the worst, but I'm having trouble convincing people to adopt my preferred system, TLS IRC with a local server and a patched DOSBox gateway running in my mobile browser.",
+  "year": "2020",
+  "month": "9",
+  "day": "28",
+  "transcript": "Facebook Messenger, Hangouts, Discord, Various DMsSignal, iMessage, WhatsappPGP Email, Various Obscure Projects, Skype I think, Jabber + TLSSMS"
+}

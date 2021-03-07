@@ -1,0 +1,11 @@
+{
+  "num": 2400,
+  "url": "https://xkcd.com/2400",
+  "title": "Statistics",
+  "img": "https://imgs.xkcd.com/comics/statistics.png",
+  "alt": "We reject the null hypothesis based on the 'hot damn, check out this chart' test.",
+  "year": "2020",
+  "month": "12",
+  "day": "18",
+  "transcript": "[Shown is a graph with the x-axis labeled \"time\" and the y-axis labeled \"COVID cases.\" There is a black line on the graph labeled \"placebo group\", which has a roughly linear slope moving toward the top right corner. There is a red line labeled \"vaccine group\", which follows the black line for about an eighth of the width of the graph before leveling off.]\n[Caption beneath the graph]:\nStatistics tip: Always try to get data that's good enough that you don't need to do statistics on it"
+}
