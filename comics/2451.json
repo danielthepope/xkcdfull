@@ -1,0 +1,11 @@
+{
+  "num": 2451,
+  "url": "https://xkcd.com/2451",
+  "title": "AI Methodology",
+  "img": "https://imgs.xkcd.com/comics/ai_methodology.png",
+  "alt": "We've learned that weird spacing and diacritics in the methodology description are apparently the key to good research; luckily, we've developed an AI tool to help us figure out where to add them.",
+  "year": "2021",
+  "month": "4",
+  "day": "16",
+  "transcript": "[Cueball is standing on a podium in front of a projection on a screen and points with a stick to a bar chart histogram with a bell curve to the left and a single bar to the far right marked with an arrow.]\nCueball: Despite our great research results, some have questioned our AI-based methodology.\nCueball: But we trained a classifier on a collection of good and bad methodology sections, and it says ours is fine."
+}

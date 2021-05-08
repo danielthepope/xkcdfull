@@ -1,0 +1,11 @@
+{
+  "num": 2440,
+  "url": "https://xkcd.com/2440",
+  "title": "Epistemic Uncertainty",
+  "img": "https://imgs.xkcd.com/comics/epistemic_uncertainty.png",
+  "alt": "Luckily, unlike in our previous study, we have no reason to believe Evangeline the Adulterator gained access to our stored doses.",
+  "year": "2021",
+  "month": "3",
+  "day": "22",
+  "transcript": "[Two panels are shown with labels above them.]\nRegular Uncertainty\nEpistemic Uncertainty[In both panels Megan stands in front of a data presentation on a slide behind her. She is pointing at the slide with a stick.][In the left panel titled 'Regular Uncertainty'. Megan standing in front of a presentation of a graph showing, from top to bottom, the number 74%, a horizontal line with a small black diamond near the middle representing an average with error bars, and a line of dots representing data in a horizontal scatter plot.]\nMegan: Our study found the drug was 74% effective, with a confidence interval from 63% to 81%.\n74%[In the right panel titled 'Epistemic Uncertainty'. Megan stands in front of a presentation of data with a silhouette of a man with a hat labelled with a white question mark. Above this are three guesses of the \"real\" result and its relation to the study result.]\nMegan: Our study found the drug to be 74% effective. \nMegan: However, there is a 1 in 4 chance that our study was modified by George the Data Tamperer, whose whims are unpredictable. \n73 -> 74??\n47 -> 74??\n0 -> 74??\n?"
+}
