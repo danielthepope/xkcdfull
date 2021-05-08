@@ -7,5 +7,5 @@
   "year": "2008",
   "month": "5",
   "day": "16",
-  "transcript": "[Cueball sitting at computer.]\nCueball: I'll just comment out these lines...// MD_update(&m, buf, j);// do_not_crash();// prevent_911();In the rush to clean up the debian-openssl fiasco, a number of other major security holes have been uncovered:[A two column table is shown:]Affected System\nSecurity problemFedora Core\nVulnerable to certain decoder ringsXandros (EEE PC)\nGives root access if asked in a stern voiceGentoo\nVulnerable to flatteryOLPC OS\n Vulnerable to Jeff Goldblum’s PowerBookSlackware\nGives root access if user says Elvish word for “friend”Ubuntu\nTurns out distro is actually just Windows Vista with a few custom themes"
+  "transcript": "[Cueball sitting at computer.]\nCueball: I'll just comment out these lines...// MD_update(&m, buf, j);// do_not_crash();// prevent_911();In the rush to clean up the debian-openssl fiasco, a number of other major security holes have been uncovered:[A two-column table is shown:]Affected System\nSecurity problemFedora Core\nVulnerable to certain decoder ringsXandros (EEE PC)\nGives root access if asked in a stern voiceGentoo\nVulnerable to flatteryOLPC OS\n Vulnerable to Jeff Goldblum’s PowerBookSlackware\nGives root access if user says Elvish word for “friend”Ubuntu\nTurns out distro is actually just Windows Vista with a few custom themes"
 }

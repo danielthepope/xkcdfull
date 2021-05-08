@@ -7,5 +7,5 @@
   "year": "2010",
   "month": "1",
   "day": "8",
-  "transcript": "[The text is over a white-on-black terminal showing a bit of output from ps -el, with processes running from root and sam.]\nWhen a user dies, their connections time out,\nbut their screen sessions linger.[The end of the command line is a |grep sam.]\nThe server's uptime grows\nbecause you can't bring yourself to rebootand wipe out\ntheir last earthly presence[The processes listed are screen, zsh, irssi, and grep sam.]\nthe ghost in zshell."
+  "transcript": "[The text is over a white-on-black terminal showing a bit of output from ps -el | grep sam, with processes running from root and sam.]\nWhen a user dies, their connections time out,\nbut their screen sessions linger.[The end of the command line is a |grep sam.]\nThe server's uptime grows\nbecause you can't bring yourself to rebootand wipe out\ntheir last earthly presence[The processes listed are screen, zsh, irssi, and grep sam.]\nthe ghost in zshell."
 }

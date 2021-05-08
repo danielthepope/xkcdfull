@@ -1,11 +1,11 @@
 {
   "num": 2307,
   "url": "https://xkcd.com/2307",
-  "title": "Alive Or Not",
+  "title": "Alive or Not",
   "img": "https://imgs.xkcd.com/comics/alive_or_not.png",
   "alt": "Computer viruses currently fall somewhere between prions and fire.",
   "year": "2020",
   "month": "5",
   "day": "15",
-  "transcript": ""
+  "transcript": "[A chart consisting of vertical line, with 14 dots and a horizontal dashed dividing line drawn across the list a bit below the middle. Each dot has a label to the right of the line with a line pointing to the dot they belong to. Above and below the dividing line is a label with a broad arrow pointing up above and down below.]\nUp arrow: Alive\nDown arrow: Not alive[Dot labels from top to bottom above the dashed line:]\nAnimals (Normal)\nAnimals (Weird ones like jellyfish and coral)\nFungi\nPlants\nSlime molds\nBacteria\nArchea\nViruses[Dot labels from top to bottom below the dashed line:]\nPrions\nFire\nClouds\nFossils\nRocks shaped like faces\nRegular rocks"
 }
