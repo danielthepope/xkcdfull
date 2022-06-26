@@ -1,0 +1,11 @@
+{
+  "num": 2566,
+  "url": "https://xkcd.com/2566",
+  "title": "Decorative Constants",
+  "img": "https://imgs.xkcd.com/comics/decorative_constants.png",
+  "alt": "Arguably, the '1/2' in the drag equation is purely decorative, since drag coefficients are already unitless and could just as easily be half as big. Some derivations give more justification for the extra 1/2 than others, but one textbook just calls it 'a traditional tribute to Euler and Bernoulli.'",
+  "year": "2022",
+  "month": "1",
+  "day": "10",
+  "transcript": "[A small panel only with text. Written as an excerpt from a mathematical text book. Begins with a number for an equation, then follows the equation written in larger letters and symbols. And below are explanations of each term in the equation. The μ has a bar over the top and the D has a double vertical line.]\nEq. 4-15\nT = Dm0(rout - rin)μ\nT: Net rate\nm0: Unit mass\n(rout-rin): Flow balance\nD, μ: Decorative[Caption below the panel:]\nMath tip: If one of your equations ever looks too simple, try adding some purely decorative constants."
+}

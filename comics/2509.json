@@ -1,0 +1,11 @@
+{
+  "num": 2509,
+  "url": "https://xkcd.com/2509",
+  "title": "Useful Geometry Formulas",
+  "img": "https://imgs.xkcd.com/comics/useful_geometry_formulas.png",
+  "alt": "Geometry textbooks always try to trick you by adding decorative stripes and dotted lines.",
+  "year": "2021",
+  "month": "8",
+  "day": "30",
+  "transcript": "[Four figures in two rows of two, each depicts a two-dimensional representation of a three-dimensional object, with some labeled dimensions represented as arrows and a formula underneath indicating its area]Useful geometry formulas[Top left; a sphere with its radius labeled r][Top right; a cone with its height h. The ellipse in place of the base has semi-minor axis a and semi-major axis b][Bottom left; a cylinder with height h. The ellipses have semi-minor axis r and semi-major axis d][Bottom right; a prism with width b, height h, depth d. The base has an angle θ]"
+}

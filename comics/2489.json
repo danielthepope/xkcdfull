@@ -1,0 +1,11 @@
+{
+  "num": 2489,
+  "url": "https://xkcd.com/2489",
+  "title": "Bad Map Projection: The Greenland Special",
+  "img": "https://imgs.xkcd.com/comics/bad_map_projection_the_greenland_special.png",
+  "alt": "The projection for those who think the Mercator projection gives people a distorted idea of how big Greenland is, but a very accurate idea of how big it SHOULD be.",
+  "year": "2021",
+  "month": "7",
+  "day": "14",
+  "transcript": "Bad Map Projection #299:\nThe Greenland Special\nEqual-area map preserves size everywhere except Greenland, which uses the Mercator projection.\n[A drawn world map, apparently approximating the Tobler hyperelliptical projection, except for Greenland which is of a typical Mercator (non-)skew and sized at almost the size of Africa, to almost entirely fill the space between Canada and Iceland, extending up well beyond the nominal location of the North Pole and its southern tip comparable to that of Spain/the central states of the US.]"
+}

@@ -1,0 +1,11 @@
+{
+  "num": 2560,
+  "url": "https://xkcd.com/2560",
+  "title": "Confounding Variables",
+  "img": "https://imgs.xkcd.com/comics/confounding_variables.png",
+  "alt": "You can find a perfect correlation if you just control for the residual.",
+  "year": "2021",
+  "month": "12",
+  "day": "27",
+  "transcript": "[Blondie is holding a pointer and pointing at a board with the word Statistics and with some graphs]\nBlondie: If you don't control for confounding variables, they'll mask the real effect and mislead you.\n[Just Blondie, still holding the pointer, with her finger in the air]\nBlondie: But if you control for too many variables, your choices will shape the data and you'll mislead yourself.\n[Blondie with the pointer to her side]\nBlondie: Somewhere in the middle is the sweet spot where you do both, making you doubly wrong. \nBlondie: Stats are a farce and truth is unknowable. See you next week!"
+}

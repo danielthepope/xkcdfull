@@ -1,0 +1,11 @@
+{
+  "num": 2526,
+  "url": "https://xkcd.com/2526",
+  "title": "TSP vs TBSP",
+  "img": "https://imgs.xkcd.com/comics/tsp_vs_tbsp.png",
+  "alt": "It's like one teraspoon / when all you need is a kilonife",
+  "year": "2021",
+  "month": "10",
+  "day": "8",
+  "transcript": "Cooking tips: tsp vs tbsp[left column:]\nTsp\nTeraspoon \n1,000,000,000,000 \n(1012) spoons[right column:]\nTbsp\nBinary tsp \n1,099,511,627,776 \n(10244) spoons"
+}

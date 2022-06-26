@@ -1,0 +1,11 @@
+{
+  "num": 2510,
+  "url": "https://xkcd.com/2510",
+  "title": "Modern Tools",
+  "img": "https://imgs.xkcd.com/comics/modern_tools.png",
+  "alt": "I tried to train an AI to repair my Python environment but it kept giving up and deleting itself.",
+  "year": "2021",
+  "month": "9",
+  "day": "1",
+  "transcript": "[Cueball is sitting on an office chair at his desk typing on his laptop. White Hat is standing behind the desk looking at Cueball.]\nCueball: Okay, I've got this neural net generating mostly valid makefiles.\nCueball: Next I'm going to train it to distinguish between Bash and Zsh...[Caption below the panel:]\nPeople often use ancient tools and UIs to develop modern cutting-edge technology, but I do it the other way around."
+}

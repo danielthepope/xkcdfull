@@ -1,0 +1,11 @@
+{
+  "num": 2529,
+  "url": "https://xkcd.com/2529",
+  "title": "Unsolved Math Problems",
+  "img": "https://imgs.xkcd.com/comics/unsolved_math_problems.png",
+  "alt": "After decades of studying the curve and the procedure that generates it, the consensus explanation is \"it's just like that.\"",
+  "year": "2021",
+  "month": "10",
+  "day": "15",
+  "transcript": "First: Weirdly Abstract\n[Ponytail stands in front of an equation]\nIs the Euler Field Manifold Hypergroup Isomorphic to a Gödel-Klein Meta-Algebreic ε<0 Quasimonoid Conjection under Sondheim Calculus?\nOr is the question ill-formed?\n⬙ℝंℤ/Eℵ₅ The Z is raised and underneath it is a double-ended arrow bent at a right angle. One points toward the R the other toward the Z. The ₅ is double-struck like the ℝ and ℤSecond: Weirdly Concrete\n[Cueball stands in front of a grid with 6 columns and 7 rows]\nIf I walk randomly on a grid, never visiting any square twice, placing a marble every N steps, on average how many marbles will be in the longest line after N*K steps?\nSomehow the answer is important in like three unrelated fields.\n[The path starts in the 3rd row and 3rd column, a small circle indicates the start. It takes the path: North, East, North, East (a black dot representing the 1st marble is placed here, so N=4), South, East, South, South (2nd marble), West, South, West, North (3rd marble), West, South, South, South (4th Marble), West, North, West, West (this goes offgrid to the West. There is no visible line or marble outside the grid). The 1st, 3rd, and 4th marbles are colinear and there is a dotted line connecting them. The line's slope is 3.]Third: Cursed\n[Megan stands next to a curve]\nWhat in god's name is going on with this curve?\nIs it even math?\n[The curve starts at the bottom of the screen, rises straight upward, begins to wobble left and right a little. It lists to the left and the left-right motion increases, then decreases. It begins a large counter-clockwise arc, spiraling inwards twice, then ends]"
+}

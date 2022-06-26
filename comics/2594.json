@@ -1,0 +1,11 @@
+{
+  "num": 2594,
+  "url": "https://xkcd.com/2594",
+  "title": "Consensus Time",
+  "img": "https://imgs.xkcd.com/comics/consensus_time.png",
+  "alt": "Now, you may argue that the varying hour lengths and feedback effects would cause chaos. To which I say, yeah, and I'm also curious to see how the weekday cycle interacts with it! So, you in?",
+  "year": "2022",
+  "month": "3",
+  "day": "16",
+  "transcript": "Proposal: Consensus TimeEvery day, anyone in the time zone can press a button when they feel like it's 9 AM. The next day, clocks slow down or speed up to match the median choice from the previous day.Midnight\n6AM\n9AM today\nMedian\nNoon\n6PM\nMidnight\nLonger hours\n6AM\n9AM tomorrow\nNoon\n6PM\nMidnightBeep\nBeep"
+}

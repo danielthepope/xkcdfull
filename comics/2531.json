@@ -1,0 +1,11 @@
+{
+  "num": 2531,
+  "url": "https://xkcd.com/2531",
+  "title": "Dark Arts",
+  "img": "https://imgs.xkcd.com/comics/dark_arts.png",
+  "alt": "You think, 'okay, THIS is an ideal use case for hardlinks!' but then 6 months later you're doing some extremely cursed Google search like 'javascript ext4' and wondering where things went wrong.",
+  "year": "2021",
+  "month": "10",
+  "day": "20",
+  "transcript": "[Cueball and White Hat stand in a slightly darkened room, with a jagged circle of light centered on Cueball emanating from the floor and light reflecting onto White Hat's face. Cueball holds his arm out with his palm facing towards White Hat.]\nCueball: Long ago, in another age, I mastered these dark arts.\nCueball: But I now endeavor to live my life such that I never need them.\nCueball: Their power leads only to ruin.\n[Caption below panel]\nMy response whenever anyone asks me to mess around with filesystems"
+}

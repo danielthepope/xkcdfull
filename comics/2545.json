@@ -1,0 +1,11 @@
+{
+  "num": 2545,
+  "url": "https://xkcd.com/2545",
+  "title": "Bayes' Theorem",
+  "img": "https://imgs.xkcd.com/comics/bayes_theorem.png",
+  "alt": "P((B|A)|(A|B)) represents the probability that you'll mix up the order of the terms when using Bayesian notation.",
+  "year": "2021",
+  "month": "11",
+  "day": "22",
+  "transcript": "[Miss Lenhart is pointing with a pointer, held in her right hand, to a white-board with tables, what looks like formulae and lots of other unreadable text. She looks toward her off-panel class, from where a voice replies to her question.]\nMiss Lenhart: Given these prevalences, is it likely that the test result is a false positive?\nOff-panel voice: Well, this chapter is on Bayes' Theorem, so yes.[Caption below the panel]:\nSometimes, if you understand Bayes' Theorem well enough, you don't need it."
+}

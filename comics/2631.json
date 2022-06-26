@@ -1,0 +1,11 @@
+{
+  "num": 2631,
+  "url": "https://xkcd.com/2631",
+  "title": "Exercise Progression",
+  "img": "https://imgs.xkcd.com/comics/exercise_progression.png",
+  "alt": "They said after I got into a routine, I'd enjoy getting progressively stronger and stop whining so much about how hard exercise was. Well, they were half right!",
+  "year": "2022",
+  "month": "6",
+  "day": "10",
+  "transcript": "[A graph is shown with labelled axis, and arrows at the tip of each axis. There are two thick arrows plotted, both starting mid-range on the Y-axis, one of them goes upwards at a constant angle of about 40°. The other, which lies over the first mentioned where they overlap close to the Y-axis, first rises a bit before it bends downward and then after having increased its downward bend for a bit it changes to a continuously lower down bending rate and seemingly converges towards a constant y-value close to zero before the end of the graph. Both arrows tip ends at the end of the X-axis. Inside each arrow there is a label.]\nY-axis: How much you whine and complain about doing exercise\"\nX-axis: Workout difficulty\nUpwards arrow: My progression over time\nDownwards arrow: Normal progression over time"
+}

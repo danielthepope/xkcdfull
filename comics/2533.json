@@ -1,0 +1,11 @@
+{
+  "num": 2533,
+  "url": "https://xkcd.com/2533",
+  "title": "Slope Hypothesis Testing",
+  "img": "https://imgs.xkcd.com/comics/slope_hypothesis_testing.png",
+  "alt": "\"What? I can't hear--\" \"What? I said, are you sure--\" \"CAN YOU PLEASE SPEAK--\"",
+  "year": "2021",
+  "month": "10",
+  "day": "25",
+  "transcript": "[Three points labeled \"Student A\", \"Student B\" and \"Student C\" in a scatter plot with axes labeled \"Stats exam grade\" (60-100) and \"Scream loudness (decibel)\" (86-94) with a trend line]\n[A line goes from the trend line to a text box with the text:]\nβ=1.94 \np=0.586[In a frameless panel, Megan (holding a piece of paper) and Cueball are facing each other with three kids in the background]\nMegan: Darn, not significant.\nCueball: We need more data. Have them each try yelling into the mic a few more times.[The same scatter plot as in the first panel except with more points for each of the students with slightly different decibel values, and the text in the text box changed to:]\nβ=1.94\np=0.037*  \n*Significant![Similar panel to the second one]\nMegan: Perfect!\nCueball: Are you sure we're doing slope hypothesis testing right?"
+}
