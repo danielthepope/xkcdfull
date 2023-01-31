@@ -1,0 +1,11 @@
+{
+  "num": 2638,
+  "url": "https://xkcd.com/2638",
+  "title": "Extended NFPA Hazard Diamond",
+  "img": "https://imgs.xkcd.com/comics/extended_nfpa_hazard_diamond.png",
+  "alt": "With most labs, the hushed horror stories are about something like dimethylmercury or prions, but occasionally you'll get a weird lab where it's about the soda machine or the drop ceiling.",
+  "year": "2022",
+  "month": "6",
+  "day": "27",
+  "transcript": "[A diamond (a square on edge) is divided into 3x3 diamond squares. Each of the 9 squares have a unique color. All 8 squares along the sides have a large number written inside, in black except for in the black and the purple square where the number is written in white. The central square is white and have black text only. Each of the other eight squares have a label written on the outside with a curved arrow pointing to it from the label. Above it all is a heading:]\nKnow your extended NFPA hazard diamond:[For each square the position and color is mentioned, from top to bottom in reading order. Then the text inside the square is given and then the label when there is one:][Red top square]\n0 Flammability[Blue top-left square:]\n4 Health hazard[Yellow top-right square:]\n2 Instability/reactivity[Green center left square:]\n2 Number of digits in the street value ($/gram)[White center square:]\n(Special hazard)[Purple center right square:]\n4 How much of a hassle it is to dispose of[Pink bottom-left square:]\n3 Number of federal agencies who want to know if you have any[Orange bottom-right square:]\n1 How many times you have to scrub your hands after touching it before they stop smelling weird[Black bottom square:]\n2 Number of times it's caused one of those terrifying lab accidents that chemists tell scary stories about late at night"
+}

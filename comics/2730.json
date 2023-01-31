@@ -1,0 +1,11 @@
+{
+  "num": 2730,
+  "url": "https://xkcd.com/2730",
+  "title": "Code Lifespan",
+  "img": "https://imgs.xkcd.com/comics/code_lifespan.png",
+  "alt": "Surely (no one/everyone) will (recognize how flexible and useful this architecture is/spend a huge amount of effort painstakingly preserving and updating this garbage I wrote in 20 minutes)",
+  "year": "2023",
+  "month": "1",
+  "day": "27",
+  "transcript": "[Two almost identical panels side by side depict a conversation between Ponytail and Cueball.][Ponytail standing next to Cueball, with her palm raised.]\nPonytail: It took some extra work to build, but now we'll be able to use it for all our future projects.[Caption below the panel:]\nHow to ensure your code is never reused[Nearly identical situation to the first, but with the arm raised slightly less emphatically.]\nPonytail: Let's not overthink it; if this code is still in use that far in the future, we'll have bigger problems.[Caption below the panel:]\nHow to ensure your code lives forever"
+}

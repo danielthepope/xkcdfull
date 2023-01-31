@@ -1,0 +1,11 @@
+{
+  "num": 2701,
+  "url": "https://xkcd.com/2701",
+  "title": "Change in Slope",
+  "img": "https://imgs.xkcd.com/comics/change_in_slope.png",
+  "alt": "Squinting at a graph is fine for getting a rough idea of the answer, but if you want to pretend to know it exactly, you need statistics.",
+  "year": "2022",
+  "month": "11",
+  "day": "21",
+  "transcript": "How to detect a change in the slope of your data[First column, on the left]\nNovice method:\n[A graph, with dots forming a rough line, math formulas, and sub graphs]\nDo a bunch of statistics[Second column, on the right]\nExpert method:\n[Perspective view of the previous graph, with the legend \"Hey look, it bends here\" and an arrow pointing to the graph]\nTip the graph sideways"
+}

@@ -1,0 +1,11 @@
+{
+  "num": 2706,
+  "url": "https://xkcd.com/2706",
+  "title": "Bendy",
+  "img": "https://imgs.xkcd.com/comics/bendy.png",
+  "alt": "Squaring the circle is really easy with some good clamps.",
+  "year": "2022",
+  "month": "12",
+  "day": "2",
+  "transcript": "[There are two right triangles. The one to the left is a standard right triangle with the right angle denoted by a small square at that corner. The lengths of the sides are denoted around it, but it has been scribbled out with red lines. The triangle to the right has the same general shape as the first one, but with the legs appearing longer but bent with about three wiggles each near the right-angled corner. As with the first triangle, the side lengths are denoted around it, but they are not the same as for the first. Around this triangle is a red line circling about two times around it.]\nLeft triangle: 3 4 5 \nRight triangle: 5 5 5 [Caption below the panel:]\nHuge geometry breakthrough: Turns out those lines we make triangles out of are bendy!"
+}

@@ -1,0 +1,11 @@
+{
+  "num": 2652,
+  "url": "https://xkcd.com/2652",
+  "title": "Proxy Variable",
+  "img": "https://imgs.xkcd.com/comics/proxy_variable.png",
+  "alt": "Our work has produced great answers. Now someone just needs to figure out which questions they go with.",
+  "year": "2022",
+  "month": "7",
+  "day": "29",
+  "transcript": "[Cueball is looking at Hairy who points a pointer to a poster. On the poster there is a line graph at the top and below that a candlestick chart. The line graph appears to show a time series with a question mark inside a ellipsoid at the end of the curve. The candlestick chart shows a box-and-whiskers plot comparing two variables. There is no readable text except the question mark. Hairy's stick points just below the line chart.]\nHairy: We want to study this variable, but it's too hard to observe.\nPoster: ?[In a slim panel only Hairy and the poster are shown. His pointer now points to the left variable in the box-and-whiskers plot,]\nHairy: So we're studying this proxy variable.\nPoster: ?[Back to Cueball and Hairy with the poster out of frame. Hairy holds the pointer down by his side.]\nCueball: Is it correlated with the other variable?\nHairy: Look, we don't have the funding to answer every little question."
+}

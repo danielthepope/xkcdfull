@@ -1,0 +1,11 @@
+{
+  "num": 2696,
+  "url": "https://xkcd.com/2696",
+  "title": "Precision vs Accuracy",
+  "img": "https://imgs.xkcd.com/comics/precision_vs_accuracy.png",
+  "alt": "'Barack Obama is much less likely than the average cat to jump in and out of cardboard boxes for fun' is low precision, but I'm not sure about the accuracy.",
+  "year": "2022",
+  "month": "11",
+  "day": "9",
+  "transcript": "[The comic shows a table with 3 rows and 3 columns. Each row and column has a label, and then nine statements are given for the 3x3 grid.]\n\n\n \n Highaccuracy \n Mediumaccuracy \n Lowaccuracy\n\n\n Highprecision\n\nBarack Obama was president for 70,128 hours\nBarack Obama weighs as much as 17.082 cats\nBarack Obama is 70.128 feet tall\n\n\n Mediumprecision\n\nMost cats have 4 legs\nBarack Obama is 6'1\"\nBarack Obama has 4 legs\n\n\n Lowprecision\n\nMost cats have legs\nBarack Obama has fewer legs than your cat\nBarack Obama's cat has hundreds of legs\n"
+}

@@ -1,0 +1,11 @@
+{
+  "num": 2687,
+  "url": "https://xkcd.com/2687",
+  "title": "Division Notation",
+  "img": "https://imgs.xkcd.com/comics/division_notation.png",
+  "alt": "Science tip: Scientists hardly ever use the two-dot division sign, and when they do it often doesn't even mean division, but they still get REALLY mad when you repurpose it to write stuff like SALE! ALL SHOES 30÷ OFF!",
+  "year": "2022",
+  "month": "10",
+  "day": "19",
+  "transcript": "[The transcript has both formatted text for visuals and a description at the start of the line.]\n[Underlined text:] Division notation [A [Division sign] B is above, B [Long division symbol] A is below. They are connected by a close brace.] A÷BB⟌A} \n[Label on the right:] SchoolchildA/B \n[Label:] Software engineer[A/B except the A is slightly above and the B is slightly below, and the slash is more diagonal to fit them.] A⁄B \n[Label:] Normal person or Unicode enthusiast[A fraction with A on the top and B on the bottom.] AB \n[Label:] Scientist[AB with -1 in superscript.] AB-1 \n[Label:] Fancy scientistF(A, B) [text gets smaller] such that [text gets smaller] F(G)= [Text is too small to read] \n[Label:] Oh no, run"
+}

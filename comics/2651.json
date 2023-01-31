@@ -1,0 +1,11 @@
+{
+  "num": 2651,
+  "url": "https://xkcd.com/2651",
+  "title": "Air Gap",
+  "img": "https://imgs.xkcd.com/comics/air_gap.png",
+  "alt": "You can still do powerline networking, but the bitrate does drop a little depending on the lightbulb warmup and cooldown delay.",
+  "year": "2022",
+  "month": "7",
+  "day": "27",
+  "transcript": "[A solar panel and a lamp are pictured together, with the lamp pointed at the solar panel, and electronic equipment connected to the solar panel. Lines point outward from the bulb, indicating that it is shining.]\n[Caption below the panel] \nEnergy tip: Increase the security of your home power supply by installing an air gap."
+}

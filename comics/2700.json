@@ -1,0 +1,11 @@
+{
+  "num": 2700,
+  "url": "https://xkcd.com/2700",
+  "title": "Account Problems",
+  "img": "https://imgs.xkcd.com/comics/account_problems.png",
+  "alt": "My password is just every Unicode codepoint concatenated into a single UTF-8 string.",
+  "year": "2022",
+  "month": "11",
+  "day": "18",
+  "transcript": "[Cueball carries an open laptop over to Ponytail, holding in in both hands. The screen shows a box filling the screen with some text on lines. Ponytail is sitting in an office chair with her laptop at her desk. She has turned her head away from the computer looking at Cueball's screen.]\nCueball: Can you help me with my account?\nPonytail: Oh no.[Cueball holds his laptop up in front of Ponytail who has turned the chair so she faces him, with her hands in her lap. Her table is not drawn.]\nCueball: No no, I promise it's a normal problem this time.\nPonytail: Okay. Fine. What is it?[Cueball holds both hands out palm up towards Ponytail who is sitting with his laptop in her lap typing on it.]\nCueball: I included a null string terminator as part of my password, and now I can't-\nPonytail: How?!\nCueball: They said to use special characters!"
+}

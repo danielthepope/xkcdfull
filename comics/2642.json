@@ -1,0 +1,11 @@
+{
+  "num": 2642,
+  "url": "https://xkcd.com/2642",
+  "title": "Meta-Alternating Current",
+  "img": "https://imgs.xkcd.com/comics/meta_alternating_current.png",
+  "alt": "It's always bothered me that you can't cancel out an inverter by putting a second inverter after it.",
+  "year": "2022",
+  "month": "7",
+  "day": "6",
+  "transcript": "Cursed Connectors #120[Drawing of a chain of rectifiers and inverters. There are seven pairs of rectifiers/inverters. The chain starts on the left with a mains plug (type B), followed by the first rectifier. It ends with the last inverter, and a female mains plug (type B socket).][They are also labelled, by means of the words \"rectifiers\" and \"inverters\" with arrows drawn pointing to a few of each. Per the labels, the inverters are the big chunky ones, and the rectifiers are the smaller ones.]Meta-alternating current extension cord\n(alternates between AC and DC)"
+}
